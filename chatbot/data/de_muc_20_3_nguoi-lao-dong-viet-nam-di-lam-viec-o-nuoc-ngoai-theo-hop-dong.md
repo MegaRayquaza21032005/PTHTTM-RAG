@@ -4,9 +4,7 @@
 
 (Điều 1 Luật số 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ngày 13/11/2020 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2022)
 Luật này quy định về quyền, nghĩa vụ và trách nhiệm của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, doanh nghiệp, đơn vị sự nghiệp và cơ quan, tổ chức, cá nhân có liên quan đến lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng cho người lao động; Quỹ Hỗ trợ việc làm ngoài nước; chính sách đối với người lao động; quản lý nhà nước trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.1.19. Khai báo, Điều tra, báo cáo tai nạn lao động đối với người lao động Việt Nam đi làm việc ở nước ngoài của Nghị định 39/2016/NĐ-CP Quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động ban hành ngày 15/05/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.1.19. Khai báo, Điều tra, báo cáo tai nạn lao động đối với người lao động Việt Nam đi làm việc ở nước ngoài của Nghị định 39/2016/NĐ-CP Quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động ban hành ngày 15/05/2016)
 
 ### Điều 20.3.LQ.2. Đối tượng áp dụng
 
@@ -35,29 +33,7 @@ Nghị định này quy định chi tiết một số điều và biện pháp t
 5. Điều kiện, thủ tục đăng ký trực tuyến hợp đồng lao động giao kết sau khi xuất cảnh theo khoản 2 Điều 54.
 
 6. Các biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.8. Hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.12. Hồ sơ, thủ tục và lệ phí cấp Giấy phép
-;
-Điều 20.3.LQ.16. Nộp lại Giấy phép, thu hồi Giấy phép
-;
-Điều 20.3.LQ.17. Chi nhánh được giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.24. Tiền ký quỹ của doanh nghiệp dịch vụ
-;
-Điều 20.3.LQ.25. Tiền ký quỹ của người lao động
-;
-Điều 20.3.LQ.36. Điều kiện của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
-;
-Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh
-;
-Điều 20.3.LQ.74. Quy định chuyển tiếp của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.8. Hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.12. Hồ sơ, thủ tục và lệ phí cấp Giấy phép; Điều 20.3.LQ.16. Nộp lại Giấy phép, thu hồi Giấy phép; Điều 20.3.LQ.17. Chi nhánh được giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.24. Tiền ký quỹ của doanh nghiệp dịch vụ; Điều 20.3.LQ.25. Tiền ký quỹ của người lao động; Điều 20.3.LQ.36. Điều kiện của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài; Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh; Điều 20.3.LQ.74. Quy định chuyển tiếp của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020)
 
 ### Điều 20.3.NĐ.1.2. Đối tượng áp dụng
 
@@ -78,9 +54,7 @@ Nghị định này quy định chi tiết một số điều và biện pháp t
 
 (Điều 1 Quyết định số 40/2021/QĐ-TTg Quyết định về Quỹ Hỗ trợ việc làm ngoài nước ngày 31/12/2021 của Thủ tướng Chính phủ, có hiệu lực thi hành kể từ ngày 21/02/2022)
 Quyết định này quy định về việc thành lập, tổ chức hoạt động, quản lý và sử dụng Quỹ Hỗ trợ việc làm ngoài nước (sau đây được viết tắt là Quỹ); mức đóng góp vào Quỹ của doanh nghiệp và người lao động; nội dung chi và mức chi đối với các nhiệm vụ của Quỹ quy định tại Điều 67 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.67. Nhiệm vụ của Quỹ Hỗ trợ việc làm ngoài nước
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.67. Nhiệm vụ của Quỹ Hỗ trợ việc làm ngoài nước)
 
 ### Điều 20.3.QĐ.1.2. Đối tượng áp dụng
 
@@ -133,35 +107,7 @@ Thông tư này quy định chi tiết một số điều, khoản sau đây c�
 10. Mẫu Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài ký giữa người lao động và doanh nghiệp dịch vụ theo quy định tại khoản 3 Điều 21; nội dung và mẫu Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài ký giữa người lao động và tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài theo quy định tại khoản 4 Điều 35; giữa người lao động và đơn vị sự nghiệp theo quy định tại điểm b khoản 1 Điều 43.
 
 11. Chế độ báo cáo định kỳ hàng năm của doanh nghiệp dịch vụ theo quy định tại điểm m khoản 2 Điều 26, của tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài theo quy định tại khoản 8 Điều 35, của đơn vị sự nghiệp theo quy định tại điểm g khoản 2 Điều 43; báo cáo tình hình thực hiện đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài theo quy định tại điểm l khoản 2 Điều 41.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.18. Chuẩn bị nguồn lao động
-;
-Điều 20.3.LQ.19. Hợp đồng cung ứng lao động
-;
-Điều 20.3.LQ.20. Đăng ký hợp đồng cung ứng lao động
-;
-Điều 20.3.LQ.21. Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.LQ.22. Hợp đồng môi giới và thù lao theo hợp đồng môi giới
-;
-Điều 20.3.LQ.23. Tiền dịch vụ
-;
-Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
-;
-Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.LQ.40. Hồ sơ đăng ký hợp đồng nhận lao động thực tập
-;
-Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
-;
-Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.53. Đăng ký hợp đồng lao động
-;
-Điều 20.3.LQ.58. Hợp đồng bảo lãnh
-;
-Điều 20.3.LQ.65. Giáo dục định hướng của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.18. Chuẩn bị nguồn lao động; Điều 20.3.LQ.19. Hợp đồng cung ứng lao động; Điều 20.3.LQ.20. Đăng ký hợp đồng cung ứng lao động; Điều 20.3.LQ.21. Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.LQ.22. Hợp đồng môi giới và thù lao theo hợp đồng môi giới; Điều 20.3.LQ.23. Tiền dịch vụ; Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ; Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.LQ.40. Hồ sơ đăng ký hợp đồng nhận lao động thực tập; Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài; Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.53. Đăng ký hợp đồng lao động; Điều 20.3.LQ.58. Hợp đồng bảo lãnh; Điều 20.3.LQ.65. Giáo dục định hướng của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020)
 
 ### Điều 20.3.TT.2.2. Đối tượng áp dụng
 
@@ -199,17 +145,13 @@ Ban hành kèm theo Thông tư này định mức kinh tế - kỹ thuật về 
 
 8. Định mức kinh tế - kỹ thuật về đào tạo tiếng Trung trong công việc (quy định tại Phụ lục số 08 ban hành kèm theo Thông tư này).
 Phu luc ban hanh kem theo TT so 09_2023_TT-BLDTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.3.3. Mục tiêu, nguyên tắc xây dựng và áp dụng định mức kinh tế kỹ thuật
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.3.3. Mục tiêu, nguyên tắc xây dựng và áp dụng định mức kinh tế kỹ thuật)
 
 ### Điều 20.3.TT.3.2. Đối tượng áp dụng
 
 (Điều 2 Thông tư số 09/2023/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 12/10/2023)
 Các cơ quan, tổ chức, doanh nghiệp và cá nhân có liên quan trong việc giao nhiệm vụ, đặt hàng cung cấp dịch vụ sự nghiệp công trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.3.3. Mục tiêu, nguyên tắc xây dựng và áp dụng định mức kinh tế kỹ thuật
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.3.3. Mục tiêu, nguyên tắc xây dựng và áp dụng định mức kinh tế kỹ thuật)
 
 ### Điều 20.3.LQ.3. Giải thích từ ngữ
 
@@ -233,16 +175,13 @@ Việc phân biệt, loại trừ hoặc ưu tiên xuất phát từ yêu cầu 
 ### Điều 20.3.TT.1.3. Giải thích từ ngữ
 
 (Điều 3 Thông tư số 20/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022)
-1.
-Nghiệp vụ trên Hệ thống cơ sở dữ
+1. Nghiệp vụ trên Hệ thống cơ sở dữ
 là các thao tác được thực hiện trực tuyến trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
-2.
-Thông tin về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+2. Thông tin về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 (sau đây viết tắt là thông tin về người lao động) là thông tin cơ bản (họ, tên, ngày sinh, giới tính, mã số định danh cá nhân/chứng minh nhân dân/hộ chiếu, trình độ chuyên môn, kỹ năng nghề, nơi ở hiện tại, số điện thoại) và thông tin về quá trình làm việc ở nước ngoài (thông tin xuất/nhập cảnh, bên tiếp nhận lao động, địa chỉ làm việc, ngành nghề, mức lương, thời hạn hợp đồng, tình trạng làm việc ở nước ngoài).
 
-3.
-Mã số của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là mã số lao động)
+3. Mã số của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là mã số lao động)
 là mã số định danh cá nhân hoặc số chứng minh nhân dân của người lao động.
 
 ### Điều 20.3.LQ.4. Chính sách của Nhà nước về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
@@ -319,15 +258,7 @@ g) Về nước đúng thời hạn sau khi chấm dứt hợp đồng lao độ
 h) Nộp thuế, tham gia bảo hiểm xã hội, hình thức bảo hiểm khác theo quy định của pháp luật Việt Nam và pháp luật của nước tiếp nhận lao động;
 
 i) Đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018
-;
-Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-;
-Điều 39.3.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018; Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014; Điều 39.3.LQ.1. Phạm vi điều chỉnh; Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.LQ.7. Các hành vi bị nghiêm cấm trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -387,11 +318,7 @@ d) Khu vực đang có dịch bệnh đặc biệt nguy hiểm.
 16. Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng cho doanh nghiệp không đủ điều kiện theo quy định của Luật này.
 
 17. Sử dụng Quỹ Hỗ trợ việc làm ngoài nước không đúng quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.10. Thu hồi Giấy phép của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 16.1.NQ.6.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.10. Thu hồi Giấy phép của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 16.1.NQ.6.1. Phạm vi điều chỉnh)
 
 # Chương II: Doanh nghiệp, đơn vị sự nghiệp, tổ chức, cá nhân việt nam đưa người lao động việt nam đi làm việc ở nước ngoài
 
@@ -403,9 +330,7 @@ d) Khu vực đang có dịch bệnh đặc biệt nguy hiểm.
 1. Hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng là ngành, nghề đầu tư kinh doanh có điều kiện và chỉ được thực hiện bởi doanh nghiệp Việt Nam có Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội cấp.
 
 2. Doanh nghiệp Việt Nam hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây gọi là doanh nghiệp dịch vụ) phải duy trì các điều kiện quy định tại Điều 10 của Luật này và đáp ứng các điều kiện của từng thị trường, ngành, nghề, công việc cụ thể theo quy định của Chính phủ trong suốt quá trình hoạt động.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.12. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc)
 
@@ -421,11 +346,7 @@ b) Có ít nhất 01 nhân viên nghiệp vụ thực hiện hoạt động qu�
 c) Có ít nhất 01 nhân viên nghiệp vụ thực hiện hoạt động giáo dục định hướng có ít nhất 01 năm kinh nghiệm về đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc).
 
 2. Không bị xử phạt vi phạm pháp luật trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng trong thời hạn 02 năm tính đến ngày đề nghị Bộ Lao động - Thương binh và Xã hội giới thiệu với cơ quan có thẩm quyền của Đài Loan (Trung Quốc).
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.13. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc) của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.13. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc) của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.NĐ.1.13. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc)
 
@@ -442,9 +363,7 @@ a) Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua d�
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Bộ Lao động - Thương binh và Xã hội có văn bản giới thiệu doanh nghiệp dịch vụ với cơ quan có thẩm quyền của Đài Loan (Trung Quốc). Trường hợp không giới thiệu, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.12. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc)
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.12. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc))
 
 ### Điều 20.3.NĐ.1.14. Xác nhận danh sách người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc)
 
@@ -469,11 +388,7 @@ b) Có ít nhất 01 nhân viên nghiệp vụ thực hiện hoạt động qu�
 c) Có ít nhất 01 nhân viên nghiệp vụ thực hiện hoạt động giáo dục định hướng có ít nhất 01 năm kinh nghiệm về đưa người lao động Việt Nam đi làm việc tại Nhật Bản.
 
 2. Đáp ứng các tiêu chuẩn đối với doanh nghiệp dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản theo thỏa thuận giữa Bộ Lao động - Thương binh và Xã hội với cơ quan có thẩm quyền của Nhật Bản.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.16. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.16. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.NĐ.1.16. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản
 
@@ -490,9 +405,7 @@ a) Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua d�
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Bộ Lao động - Thương binh và Xã hội chấp thuận và có văn bản gửi cơ quan có thẩm quyền của Nhật Bản. Trường hợp không chấp thuận, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.15. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.15. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản)
 
 ### Điều 20.3.NĐ.1.17. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản
 
@@ -508,11 +421,7 @@ a) Có trang thiết bị nghe nhìn cơ bản để đào tạo tiếng Nhật;
 b) Có ít nhất 01 giáo viên để bồi dưỡng kỹ năng nghề hộ lý cho người lao động theo chương trình của Nhật Bản;
 
 c) Có ít nhất 01 giáo viên tiếng Nhật trình độ tối thiểu N2 (chuẩn JLPT) hoặc tương đương để bồi dưỡng tiếng Nhật cho người lao động theo chương trình của Nhật Bản.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.18. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.18. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.NĐ.1.18. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản
 
@@ -531,9 +440,7 @@ a) Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua d�
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Bộ Lao động - Thương binh và Xã hội có văn bản chấp thuận để doanh nghiệp tham gia đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản. Trường hợp không chấp thuận, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.17. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.17. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản)
 
 ### Điều 20.3.NĐ.1.19. Xác nhận danh sách người lao động Việt Nam đi làm việc tại Nhật Bản
 
@@ -560,11 +467,7 @@ b) Có ít nhất 01 nhân viên nghiệp vụ thường trực ở nước ngo�
 c) Có ít nhất 01 nhân viên nghiệp vụ thực hiện hoạt động giáo dục định hướng có ít nhất 01 năm kinh nghiệm về đưa người lao động Việt Nam đi làm việc tại nước tiếp nhận.
 
 3. Phải bảo đảm người lao động đã có kinh nghiệm làm giúp việc gia đình ở nước ngoài hoặc có kiến thức làm giúp việc gia đình và trình độ ngoại ngữ đáp ứng yêu cầu của bên nước ngoài tiếp nhận lao động theo hướng dẫn của Bộ trưởng Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.21. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.21. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.NĐ.1.21. Hồ sơ, thủ tục đăng ký hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình
 
@@ -581,9 +484,7 @@ a) Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua d�
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Bộ Lao động - Thương binh và Xã hội có văn bản chấp thuận để doanh nghiệp tham gia hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài. Trường hợp không chấp thuận, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.20. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.20. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài)
 
 ### Điều 20.3.NĐ.1.22. Xác nhận danh sách người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài
 
@@ -612,9 +513,7 @@ Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
 7. Thanh lý hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài.
 
 8. Hỗ trợ giới thiệu việc làm cho người lao động sau khi về nước.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.4. Điều kiện về nhân viên nghiệp vụ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.4. Điều kiện về nhân viên nghiệp vụ)
 
 ### Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -634,25 +533,7 @@ d) Có đủ số lượng nhân viên nghiệp vụ thực hiện các nội du
 e) Có trang thông tin điện tử.
 
 2. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 34.6.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-;
-Điều 20.3.NĐ.1.3. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.7. Mẫu văn bản đề nghị cấp Giấy phép và giấy tờ chứng minh đáp ứng các điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.NĐ.1.10. Thu hồi Giấy phép
-;
-Điều 20.3.NĐ.1.12. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc)
-;
-Điều 20.3.NĐ.1.15. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản
-;
-Điều 20.3.NĐ.1.17. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản
-;
-Điều 20.3.NĐ.1.20. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 34.6.LQ.1. Phạm vi điều chỉnh; Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh; Điều 20.3.NĐ.1.3. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.7. Mẫu văn bản đề nghị cấp Giấy phép và giấy tờ chứng minh đáp ứng các điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.NĐ.1.10. Thu hồi Giấy phép; Điều 20.3.NĐ.1.12. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Đài Loan (Trung Quốc); Điều 20.3.NĐ.1.15. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc tại Nhật Bản; Điều 20.3.NĐ.1.17. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc nghề hộ lý tại Nhật Bản; Điều 20.3.NĐ.1.20. Điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm giúp việc gia đình ở nước ngoài của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.NĐ.1.4. Điều kiện về nhân viên nghiệp vụ
 
@@ -666,9 +547,7 @@ b) Tốt nghiệp trình độ cao đẳng trở lên không thuộc nhóm ngàn
 2. Nhân viên nghiệp vụ phải có giao kết hợp đồng lao động và tham gia bảo hiểm xã hội bắt buộc tại doanh nghiệp, trừ trường hợp không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc theo quy định của pháp luật về bảo hiểm xã hội.
 
 3. Chi nhánh được doanh nghiệp dịch vụ giao nhiệm vụ thực hiện một số nội dung hoạt động quy định tại Điều 9 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng phải có ít nhất 01 nhân viên nghiệp vụ chịu trách nhiệm đối với mỗi nội dung hoạt động và đáp ứng tiêu chuẩn quy định tại điểm a hoặc điểm b khoản 1 và khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.9. Nội dung hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.9. Nội dung hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.NĐ.1.5. Điều kiện về cơ sở vật chất để tổ chức giáo dục định hướng cho người lao động
 
@@ -693,9 +572,7 @@ c) Phòng nội trú có diện tích tối thiểu 3,5 m2/học viên, có tran
 1. Trang thông tin điện tử của doanh nghiệp phải có tên miền quốc gia Việt Nam “.vn”, đăng tải thông tin cơ bản của doanh nghiệp, đăng hình ảnh Giấy phép sau khi được cấp và nội dung thông tin về hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
 2. Trang thông tin điện tử của doanh nghiệp phải bảo đảm hoạt động thường xuyên, liên tục theo quy định của pháp luật về quản lý, cung cấp và sử dụng thông tin trên mạng. Trong thời hạn 07 ngày kể từ ngày có thay đổi về thông tin quy định tại điểm b khoản 2 Điều 26 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, doanh nghiệp dịch vụ phải cập nhật lên trang thông tin điện tử của doanh nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ)
 
 ### Điều 20.3.LQ.11. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -715,9 +592,7 @@ d) Địa chỉ trụ sở chính;
 e) Địa chỉ trang thông tin điện tử.
 
 2. Giấy phép được điều chỉnh thông tin, cấp lại theo quy định tại Điều 13 và Điều 14 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.3. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.3. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.LQ.12. Hồ sơ, thủ tục và lệ phí cấp Giấy phép
 
@@ -735,13 +610,7 @@ c) Giấy tờ chứng minh đáp ứng các điều kiện quy định tại Đ
 3. Lệ phí cấp phép thực hiện theo quy định của pháp luật về phí và lệ phí.
 
 4. Chính phủ quy định về mẫu Giấy phép; mẫu văn bản, giấy tờ quy định tại điểm a và điểm c khoản 1 Điều này; sự phối hợp liên thông giữa các cơ quan trong cấp Giấy phép qua mạng thông tin điện tử.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 33.3.TT.84.1. Phạm vi điều chỉnh, đối tượng áp dụng
-;
-Điều 20.3.TT.1.7. Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 33.3.TT.84.1. Phạm vi điều chỉnh, đối tượng áp dụng; Điều 20.3.TT.1.7. Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.NĐ.1.3. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -750,11 +619,7 @@ c) Giấy tờ chứng minh đáp ứng các điều kiện quy định tại Đ
 
 2. Giấy phép có hoa văn màu vàng nhạt, nền trống đồng, hình Quốc huy và tên viết tắt của Bộ Lao động - Thương binh và Xã hội bằng tiếng Anh (MOLISA) được in chìm, trên giấy bìa cứng kích thước khổ A4 (21 cm x 29,7 cm), khung viền màu xanh theo Mẫu số 01 Phụ lục I ban hành kèm theo Nghị định này.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.11. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.11. Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020)
 
 ### Điều 20.3.NĐ.1.7. Mẫu văn bản đề nghị cấp Giấy phép và giấy tờ chứng minh đáp ứng các điều kiện hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -777,11 +642,7 @@ d) 01 bản chính Danh sách nhân viên nghiệp vụ thực hiện hoạt đ�
 
 4. Trường hợp có sự thay đổi về cơ sở vật chất để tổ chức giáo dục định hướng, trong thời hạn 07 ngày kể từ ngày có sự thay đổi, doanh nghiệp dịch vụ gửi Bộ Lao động - Thương binh và Xã hội giấy tờ chứng minh quy định tại điểm đ khoản 2 Điều này.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 12.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 12.1.LQ.1. Phạm vi điều chỉnh; Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.NĐ.1.8. Liên thông trong việc cấp Giấy phép qua mạng thông tin điện tử
 
@@ -805,9 +666,7 @@ b) Đăng tải các tài liệu theo quy định lên Hệ thống cơ sở d�
 c) Ký số và gửi hồ sơ trực tuyến.
 
 2. Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội cấp Giấy phép cho doanh nghiệp, bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính; trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.12. Hồ sơ, thủ tục và lệ phí cấp Giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.12. Hồ sơ, thủ tục và lệ phí cấp Giấy phép)
 
 ### Điều 20.3.LQ.13. Điều chỉnh thông tin Giấy phép
 
@@ -817,9 +676,7 @@ c) Ký số và gửi hồ sơ trực tuyến.
 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của doanh nghiệp dịch vụ, Bộ trưởng Bộ Lao động - Thương binh và Xã hội điều chỉnh thông tin trên Giấy phép.
 
 3. Doanh nghiệp dịch vụ được miễn phí khi điều chỉnh thông tin trên Giấy phép.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.8. Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.8. Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.TT.1.8. Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -834,9 +691,7 @@ b) Đăng tải các tài liệu liên quan đến thông tin thay đổi so v�
 c) Ký số và gửi hồ sơ trực tuyến.
 
 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội điều chỉnh thông tin Giấy phép cho doanh nghiệp. Bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.13. Điều chỉnh thông tin Giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.13. Điều chỉnh thông tin Giấy phép)
 
 ### Điều 20.3.LQ.14. Cấp lại Giấy phép
 
@@ -878,9 +733,7 @@ d) Vi phạm quy định tại khoản 1, 2, 5, 6, 7, 8, 11, 12 hoặc 13 Điề
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quyết định thu hồi Giấy phép; công bố việc thu hồi Giấy phép trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định thu hồi; công bố việc nộp lại Giấy phép trên Cổng thông tin điện tử của Bộ Lao động - Thương binh và Xã hội, thông báo đến Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp dịch vụ đặt trụ sở chính.
 
 4. Chính phủ quy định chi tiết khoản 1 và khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.9. Nộp lại Giấy phép
 
@@ -894,9 +747,7 @@ Trong thời hạn 15 ngày kể từ ngày tình trạng pháp lý của doanh 
 Trong thời hạn 15 ngày kể từ ngày tình trạng pháp lý của doanh nghiệp trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp được chuyển sang đang làm thủ tục giải thể, đã phá sản hoặc 05 ngày làm việc kể từ ngày Hội đồng thành viên, chủ sở hữu công ty hoặc Đại hội đồng cổ đông thông qua nghị quyết, quyết định về việc chấm dứt hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, doanh nghiệp nộp lại Giấy phép cho Bộ Lao động - Thương binh và Xã hội và thực hiện báo cáo theo quy định tại khoản 3 Điều này.
 
 3. Doanh nghiệp báo cáo Bộ Lao động - Thương binh và Xã hội bằng văn bản về các hợp đồng cung ứng lao động còn hiệu lực; danh sách người lao động đang làm việc ở nước ngoài; danh sách người lao động đã tuyển chọn, đang tham gia bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng; tiền ký quỹ và các khoản đã thu từ người lao động và việc đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước.
-(Điều này có nội dung liên quan đến
-Điều 12.1.LQ.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 12.1.LQ.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.10. Thu hồi Giấy phép
 
@@ -908,13 +759,7 @@ Trong thời hạn 15 ngày kể từ ngày tình trạng pháp lý của doanh 
 3. Trường hợp doanh nghiệp dịch vụ không đưa người lao động Việt Nam đi làm việc ở nước ngoài trong thời gian 24 tháng liên tục mà không phải do thiên tai, dịch bệnh, chiến tranh, bất ổn chính trị, suy thoái kinh tế hoặc vì lý do bất khả kháng khác dẫn đến bên nước ngoài không thể tiếp nhận người lao động, trong thời hạn 10 ngày kể từ ngày cuối cùng của tháng thứ 24, Bộ trưởng Bộ Lao động - Thương binh và Xã hội ra quyết định thu hồi Giấy phép.
 
 4. Trong thời hạn 15 ngày kể từ ngày Bộ trưởng Bộ Lao động - Thương binh và Xã hội ra quyết định thu hồi Giấy phép, doanh nghiệp báo cáo Bộ Lao động - Thương binh và Xã hội bằng văn bản về các hợp đồng cung ứng lao động còn hiệu lực; danh sách người lao động đang làm việc ở nước ngoài; danh sách người lao động đã tuyển chọn, đang tham gia bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng; tiền ký quỹ, các khoản đã thu từ người lao động và việc đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.7. Các hành vi bị nghiêm cấm trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.7. Các hành vi bị nghiêm cấm trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.10. Điều kiện cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ)
 
 ### Điều 20.3.LQ.17. Chi nhánh được giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -942,11 +787,7 @@ b) Thu tiền dịch vụ, tiền ký quỹ của người lao động.
 5. Chi nhánh được giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng phải niêm yết công khai quyết định của doanh nghiệp dịch vụ giao nhiệm vụ cho chi nhánh và bản sao Giấy phép của doanh nghiệp dịch vụ tại trụ sở của chi nhánh.
 
 6. Chính phủ quy định chi tiết điểm c và điểm d khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 12.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 12.1.LQ.1. Phạm vi điều chỉnh; Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.TT.1.10. Cập nhật thông tin về chi nhánh doanh nghiệp
 
@@ -978,23 +819,11 @@ a) Tổ chức sơ tuyển người lao động;
 b) Trực tiếp hoặc hợp tác, liên kết với cơ sở giáo dục nghề nghiệp, tổ chức dịch vụ việc làm để bồi dưỡng kỹ năng nghề, ngoại ngữ cho người lao động trong trường hợp cần thiết và chỉ được thu phí đào tạo theo quy định của pháp luật.
 
 5. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.3. Hồ sơ chuẩn bị nguồn lao động
 
-(
-
-### Điều 3
-
-Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
+(Điều 3 Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi bởi Điều 1 Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
 Hồ sơ chuẩn bị nguồn lao động bao gồm:
 
 1. Văn bản chuẩn bị nguồn lao động theo Mẫu số 01 Phụ lục I ban hành kèm theo Thông tư này.
@@ -1084,21 +913,11 @@ r) Cơ chế, thủ tục và pháp luật áp dụng để giải quyết tranh
 s) Thỏa thuận khác không trái pháp luật và đạo đức xã hội.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết khoản 2 Điều này phù hợp với từng thị trường, ngành, nghề, công việc cụ thể.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.4. Nội dung chi tiết của hợp đồng cung ứng lao động
 
-(
-
-### Điều 4
-
-Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
+(Điều 4 Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
 1. Nội dung chi tiết của hợp đồng cung ứng lao động theo thị trường, ngành, nghề, công việc được quy định như sau:
 
 a) Đối với các ngành, nghề, công việc tại thị trường Nhật Bản quy định tại Phụ lục II ban hành kèm theo Thông tư này.
@@ -1136,11 +955,7 @@ c) Tài liệu chứng minh việc đưa người lao động Việt Nam đi là
 3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản cho doanh nghiệp dịch vụ, trường hợp không chấp thuận phải nêu rõ lý do; trường hợp cần phải thẩm định ở nước ngoài thì phải thông báo cho doanh nghiệp dịch vụ trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả thẩm định.
 
 4. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định mẫu văn bản, tài liệu quy định tại điểm a và điểm c khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.1.9. Các nghiệp vụ khác
 
@@ -1155,33 +970,11 @@ b) Đăng tải các tài liệu theo quy định lên Hệ thống cơ sở d�
 c) Ký số và gửi hồ sơ trực tuyến.
 
 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản về việc chấp thuận; trường hợp không chấp thuận phải nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.18. Chuẩn bị nguồn lao động
-;
-Điều 20.3.LQ.20. Đăng ký hợp đồng cung ứng lao động
-;
-Điều 20.3.LQ.31. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài
-;
-Điều 20.3.LQ.34. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài
-;
-Điều 20.3.LQ.39. Đăng ký hợp đồng nhận lao động thực tập
-;
-Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-;
-Điều 20.3.TT.1.18. Hiệu lực thi hành của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.18. Chuẩn bị nguồn lao động; Điều 20.3.LQ.20. Đăng ký hợp đồng cung ứng lao động; Điều 20.3.LQ.31. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài; Điều 20.3.LQ.34. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài; Điều 20.3.LQ.39. Đăng ký hợp đồng nhận lao động thực tập; Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020; Điều 20.3.TT.1.18. Hiệu lực thi hành của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.TT.2.5. Tài liệu chứng minh việc đưa người lao động Việt Nam đi làm việc ở nước ngoài phù hợp với pháp luật của nước tiếp nhận lao động
 
-(
-
-### Điều 5
-
-Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
+(Điều 5 Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
 1. Đối với thị trường Ma-lai-xi-a và thị trường Đài Loan (Trung Quốc), tài liệu chứng minh là 01 bản sao Phiếu thẩm định hồ sơ tuyển dụng lao động Việt Nam của cơ quan đại diện Việt Nam tại Ma-lai-xi-a và Đài Loan (Trung Quốc).
 
 2. Đối với thị trường các nước châu Âu, châu Mỹ, châu Đại Dương và lao động có trình độ chuyên môn kỹ thuật thị trường Hàn Quốc, trường hợp bên nước ngoài tiếp nhận lao động là người sử dụng lao động, tài liệu chứng minh bao gồm:
@@ -1211,11 +1004,7 @@ c) Tài liệu chứng minh đối với người sử dụng lao động quy đ
 
 3. Văn bản đăng ký hợp đồng lao động trực tiếp giao kết quy định tại Mẫu số 05 Phụ lục I ban hành kèm theo Thông tư này.
 Phu luc_ban hanh kem theo TT so 21.2021.TT-BLĐTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.40. Hồ sơ đăng ký hợp đồng nhận lao động thực tập
-;
-Điều 20.3.LQ.53. Đăng ký hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.40. Hồ sơ đăng ký hợp đồng nhận lao động thực tập; Điều 20.3.LQ.53. Đăng ký hợp đồng lao động)
 
 ### Điều 20.3.LQ.21. Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
 
@@ -1225,9 +1014,7 @@ Phu luc_ban hanh kem theo TT so 21.2021.TT-BLĐTBXH.doc
 2. Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài phải thỏa thuận rõ quyền, nghĩa vụ của mỗi bên và phù hợp với nội dung của hợp đồng cung ứng lao động; ghi rõ thỏa thuận về tiền dịch vụ và chi phí khác của người lao động (nếu có).
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
 
@@ -1242,13 +1029,7 @@ Thời hạn làm việc; ngành, nghề công việc phải làm; nước, vùn
 
 Thời hạn làm việc; ngành, nghề công việc phải làm; nước đến làm việc, địa điểm làm việc; giáo dục định hướng trước khi đi làm việc; bồi dưỡng kỹ năng nghề, ngoại ngữ (nếu có); chi phí người lao động phải trả trước khi đi; điều kiện, môi trường làm việc; thời giờ làm việc, thời giờ nghỉ ngơi; an toàn, vệ sinh lao động; tiền lương và tiền thưởng (nếu có), tiền làm thêm giờ, các khoản khấu trừ từ lương (nếu có); điều kiện ăn, ở, sinh hoạt, đi lại từ nơi ở tới nơi làm việc; trách nhiệm trả chi phí đi lại từ Việt Nam đến nơi làm việc và ngược lại; chế độ khám bệnh, chữa bệnh và quyền lợi, chế độ khác (nếu có); chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; việc bồi thường thiệt hại do vi phạm hợp đồng; ký quỹ, bảo lãnh để thực nghĩa vụ của hợp đồng (nếu có); việc thanh lý hợp đồng; cơ chế, thủ tục và pháp luật áp dụng để giải quyết tranh chấp; thỏa thuận khác không trái pháp luật và đạo đức xã hội.
 Phu luc_ban hanh kem theo TT so 21.2021.TT-BLĐTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.LQ.42. Điều kiện của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.LQ.42. Điều kiện của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.LQ.22. Hợp đồng môi giới và thù lao theo hợp đồng môi giới
 
@@ -1258,21 +1039,11 @@ Phu luc_ban hanh kem theo TT so 21.2021.TT-BLĐTBXH.doc
 2. Thù lao theo hợp đồng môi giới do hai bên thỏa thuận và được ghi rõ trong hợp đồng nhưng không vượt quá mức trần theo quy định tại khoản 3 Điều này.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết mức trần thù lao theo hợp đồng môi giới phù hợp với từng thị trường, ngành, nghề, công việc cụ thể theo từng thời kỳ có người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.7. Mức trần giá dịch vụ theo hợp đồng môi giới
 
-(
-
-### Điều 7
-
-Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
+(Điều 7 Thông tư số 21/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 02/2024/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/05/2024)
 1. Mức trần giá dịch vụ theo hợp đồng môi giới theo thỏa thuận giữa doanh nghiệp dịch vụ với tổ chức, cá nhân trung gian nhưng không được vượt quá 0,5 tháng tiền lương theo hợp đồng của người lao động cho mỗi 12 tháng làm việc. Trường hợp hợp đồng lao động có thời hạn làm việc từ 36 tháng trở lên thì mức trần giá dịch vụ theo hợp đồng môi giới không quá 1,5 tháng tiền lương theo hợp đồng của người lao động.
 
 2. Mức trần giá dịch vụ theo hợp đồng môi giới đối với một số thị trường, ngành, nghề, công việc cụ thể được quy định tại Phụ lục X ban hành kèm theo Thông tư này.
@@ -1304,9 +1075,7 @@ a) Không quá 01 tháng tiền lương của người lao động theo hợp đ
 b) Trường hợp có thỏa thuận về việc thu tiền dịch vụ cho thời gian gia hạn hợp đồng lao động trong hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài thì mức tiền dịch vụ tối đa cho mỗi 12 tháng gia hạn làm việc không quá 0,5 tháng tiền lương của người lao động theo hợp đồng;
 
 c) Đối với một số thị trường, ngành, nghề, công việc cụ thể, Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết mức trần tiền dịch vụ thấp hơn quy định tại điểm a và điểm b khoản này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.8. Mức trần tiền dịch vụ thu từ người lao động đối với một số thị trường, ngành, nghề, công việc
 
@@ -1324,9 +1093,7 @@ Trong thời hạn 30 ngày kể từ ngày tiền ký quỹ được sử dụn
 2. Trong trường hợp quy định tại điểm b khoản 3 Điều 29 của Luật này, tiền ký quỹ của doanh nghiệp dịch vụ được Bộ Lao động - Thương binh và Xã hội sử dụng để thanh toán các nghĩa vụ phát sinh đối với người lao động chưa thanh lý hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài tại thời điểm chuyển giao; sau khi trừ phí dịch vụ ngân hàng, nếu tiền ký quỹ còn thừa thì doanh nghiệp dịch vụ được sử dụng để thanh toán các khoản nợ khác theo quy định của pháp luật về phá sản.
 
 3. Chính phủ quy định chi tiết mức ký quỹ, việc quản lý, sử dụng tiền ký quỹ và trường hợp doanh nghiệp dịch vụ giải thể, bị thu hồi hoặc nộp lại Giấy phép.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.23. Mức ký quỹ
 
@@ -1375,13 +1142,7 @@ Doanh nghiệp gửi Bộ Lao động - Thương binh và Xã hội báo cáo k�
 d) Doanh nghiệp dịch vụ chấm dứt giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài cho chi nhánh hoặc chi nhánh chấm dứt hoạt động:
 
 Doanh nghiệp dịch vụ gửi Bộ Lao động - Thương binh và Xã hội báo cáo về việc chấm dứt giao nhiệm vụ cho chi nhánh hoặc chi nhánh chấm dứt hoạt động. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo, Bộ Lao động - Thương binh và Xã hội có văn bản đề nghị ngân hàng nhận ký quỹ trả lại phần ký quỹ của doanh nghiệp đã thực hiện đối với chi nhánh.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
-;
-Điều 20.3.LQ.27. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp nộp lại Giấy phép hoặc bị thu hồi Giấy phép
-;
-Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ; Điều 20.3.LQ.27. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp nộp lại Giấy phép hoặc bị thu hồi Giấy phép; Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài)
 
 ### Điều 20.3.LQ.25. Tiền ký quỹ của người lao động
 
@@ -1397,9 +1158,7 @@ Trường hợp người lao động vi phạm nghĩa vụ theo hợp đồng đ
 4. Trường hợp có tranh chấp phát sinh về việc doanh nghiệp dịch vụ không trả tiền ký quỹ, người lao động có quyền kiến nghị đến Bộ Lao động - Thương binh và Xã hội hoặc khởi kiện theo quy định của pháp luật.
 
 5. Chính phủ quy định mức trần tiền ký quỹ của người lao động phù hợp với từng thị trường, ngành, nghề, công việc cụ thể, việc quản lý, sử dụng và hoàn trả tiền ký quỹ.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.29. Mức trần tiền ký quỹ của người lao động
 
@@ -1420,9 +1179,7 @@ Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
 1. Tiền ký quỹ của người lao động được sử dụng để bù đắp thiệt hại phát sinh do lỗi của người lao động gây ra đối với doanh nghiệp dịch vụ theo Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài.
 
 2. Doanh nghiệp dịch vụ và người lao động hoặc người được người lao động ủy quyền thỏa thuận thống nhất về mức bù đắp thiệt hại của người lao động và ghi trong văn bản thanh lý hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ)
 
 ### Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ
 
@@ -1448,15 +1205,7 @@ b) Trường hợp nêu tại điểm d khoản 1 Điều này, ngân hàng nh�
 4. Trong trường hợp doanh nghiệp chuyển giao quyền, nghĩa vụ cho doanh nghiệp có Giấy phép khác theo quy định tại khoản 3 Điều 28 hoặc điểm a khoản 3 Điều 29 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, trách nhiệm thanh lý Hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài để người lao động được hoàn trả tiền ký quỹ thuộc về doanh nghiệp tiếp nhận.
 
 5. Trong trường hợp doanh nghiệp phá sản bàn giao hồ sơ cho Bộ Lao động - Thương binh và Xã hội theo quy định tại điểm b khoản 3 Điều 29 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, Bộ Lao động - Thương binh và Xã hội có văn bản gửi ngân hàng nhận ký quỹ về việc hoàn trả tiền ký quỹ cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.6. Quyền, nghĩa vụ của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.3.LQ.28. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp giải thể
-;
-Điều 20.3.LQ.29. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp phá sản của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-;
-Điều 20.3.NĐ.1.31. Quản lý và sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.6. Quyền, nghĩa vụ của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Điều 20.3.LQ.28. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp giải thể; Điều 20.3.LQ.29. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp phá sản của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020; Điều 20.3.NĐ.1.31. Quản lý và sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021)
 
 ### Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
 
@@ -1498,19 +1247,7 @@ l) Đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước theo quy định
 m) Định kỳ hằng năm hoặc đột xuất báo cáo về tình hình hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng theo quy định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội;
 
 n) Trong thời hạn 05 ngày kể từ ngày người lao động xuất cảnh và hằng tháng phải cập nhật thông tin về người lao động do doanh nghiệp đưa đi trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng theo quy định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội cho đến khi thanh lý hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-;
-Điều 20.3.NĐ.1.6. Điều kiện về trang thông tin điện tử
-;
-Điều 20.3.NĐ.1.10. Thu hồi Giấy phép
-;
-Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014; Điều 20.3.NĐ.1.6. Điều kiện về trang thông tin điện tử; Điều 20.3.NĐ.1.10. Thu hồi Giấy phép; Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ### Điều 20.3.TT.2.9. Nhân viên nghiệp vụ quản lý và hỗ trợ người lao động ở nước ngoài
 
@@ -1533,13 +1270,7 @@ Chế độ báo cáo định kỳ của doanh nghiệp dịch vụ, tổ chức
 
 3. Thời gian chốt số liệu báo cáo trong báo cáo định kỳ hằng năm được tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
 Phu luc_ban hanh kem theo TT so 21.2021.TT-BLĐTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
-;
-Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài; Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.LQ.27. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp nộp lại Giấy phép hoặc bị thu hồi Giấy phép
 
@@ -1553,9 +1284,7 @@ b) Giải quyết các vấn đề liên quan đến người lao động do doa
 2. Việc quản lý và sử dụng tiền ký quỹ của doanh nghiệp dịch vụ trong trường hợp nộp lại Giấy phép hoặc bị thu hồi Giấy phép được thực hiện theo quy định tại Điều 24 của Luật này.
 
 3. Việc quản lý và sử dụng tiền ký quỹ của người lao động trong trường hợp nộp lại Giấy phép hoặc bị thu hồi Giấy phép được thực hiện theo quy định tại Điều 25 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ)
 
 ### Điều 20.3.LQ.28. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp giải thể
 
@@ -1571,9 +1300,7 @@ b) Đã hoàn thành việc chuyển giao quyền, nghĩa vụ có liên quan đ
 3. Việc chuyển giao quyền, nghĩa vụ của doanh nghiệp dịch vụ cho doanh nghiệp dịch vụ khác không làm thay đổi quyền, nghĩa vụ trong hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài.
 
 Khi chuyển giao quyền, nghĩa vụ cho doanh nghiệp dịch vụ khác, tiền dịch vụ, tiền ký quỹ của người lao động, tài sản dùng để bảo đảm thực hiện nghĩa vụ bảo lãnh được chuyển giao cho doanh nghiệp dịch vụ tiếp nhận. Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc chuyển giao quyền, nghĩa vụ, doanh nghiệp dịch vụ phải thông báo cho Bộ Lao động - Thương binh và Xã hội, người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ)
 
 ### Điều 20.3.LQ.29. Trách nhiệm của doanh nghiệp dịch vụ trong trường hợp phá sản
 
@@ -1591,9 +1318,7 @@ Khi chuyển giao quyền, nghĩa vụ cho doanh nghiệp dịch vụ khác, ti�
 b) Trường hợp doanh nghiệp dịch vụ không thỏa thuận được việc chuyển giao quyền, nghĩa vụ cho doanh nghiệp dịch vụ khác thì bàn giao toàn bộ hồ sơ của người lao động đang làm việc ở nước ngoài, tiền ký quỹ của người lao động, tài sản dùng để bảo đảm thực hiện nghĩa vụ bảo lãnh, tiền dịch vụ thu trước của người lao động cho Bộ Lao động - Thương binh và Xã hội để giải quyết quyền lợi, nghĩa vụ của người lao động do doanh nghiệp đưa đi theo quy định của Luật này.
 
 Trong thời hạn 05 ngày làm việc kể từ ngày nhận bàn giao, Bộ Lao động - Thương binh và Xã hội thông báo cho bên nước ngoài tiếp nhận lao động và người lao động theo hồ sơ đã tiếp nhận.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.32. Hoàn trả tiền ký quỹ)
 
 ## Mục 2: Doanh nghiệp việt nam trúng thầu, nhận thầu công trình, dự án ở nước ngoàiđưa người lao động việt nam đi làm việc ở nước ngoài
 
@@ -1620,11 +1345,7 @@ b) Việc đưa người lao động về nước trong trường hợp thiên t
 3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản cho doanh nghiệp; trường hợp không chấp thuận phải nêu rõ lý do.
 
 4. Trong thời hạn 05 ngày làm việc kể từ ngày người lao động xuất cảnh, doanh nghiệp trúng thầu, nhận thầu phải cập nhật thông tin về người lao động trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác
-;
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác; Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.LQ.32. Quyền, nghĩa vụ của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài
 
@@ -1672,11 +1393,7 @@ b) Việc đưa người lao động về nước trong trường hợp thiên t
 3. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản cho tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài; trường hợp không chấp thuận phải nêu rõ lý do.
 
 4. Trong thời hạn 05 ngày làm việc kể từ ngày người lao động xuất cảnh, tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài phải cập nhật thông tin về người lao động trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác
-;
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác; Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.LQ.35. Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài
 
@@ -1700,13 +1417,7 @@ Trường hợp tuyển dụng lao động mới thì phải ký kết hợp đ�
 8. Định kỳ hằng năm hoặc đột xuất báo cáo về tình hình thực hiện đưa người lao động Việt Nam đi làm việc ở nước ngoài theo quy định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội.
 
 9. Thực hiện yêu cầu của cơ quan có thẩm quyền và phối hợp với cơ quan, tổ chức có liên quan của nước mà người lao động đến làm việc để giải quyết tranh chấp liên quan đến người lao động làm việc ở nước ngoài; giải quyết vấn đề phát sinh trong trường hợp người lao động chết, bị tai nạn hoặc bị xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản hoặc trong trường hợp thiên tai, dịch bệnh, chiến tranh, bất ổn chính trị, suy thoái kinh tế, tình trạng khẩn cấp hoặc vì lý do bất khả kháng khác.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ## Mục 4: Doanh nghiệp việt nam đưa người lao động việt namđi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
 
@@ -1720,9 +1431,7 @@ Trường hợp tuyển dụng lao động mới thì phải ký kết hợp đ�
 3. Chỉ được đưa người lao động có hợp đồng lao động và hợp đồng đào tạo nghề ở nước ngoài đi đào tạo, nâng cao trình độ, kỹ năng nghề tại cơ sở tiếp nhận thực tập ở nước ngoài theo hợp đồng nhận lao động thực tập.
 
 4. Ngành, nghề, công việc cụ thể người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài phải phù hợp với lĩnh vực hoạt động của doanh nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.NĐ.1.26. Mức tiền ký quỹ
 
@@ -1806,9 +1515,7 @@ a) Doanh nghiệp đưa người lao động Việt Nam đi đào tạo, nâng c
 b) Doanh nghiệp đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài có thời gian từ 90 ngày trở lên phải đăng ký tại Bộ Lao động - Thương binh và Xã hội.
 
 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định tại Điều 40 của Luật này, cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều này phải trả lời bằng văn bản cho doanh nghiệp; trường hợp không chấp thuận phải nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác)
 
 ### Điều 20.3.LQ.40. Hồ sơ đăng ký hợp đồng nhận lao động thực tập
 
@@ -1824,11 +1531,7 @@ c) Tài liệu chứng minh việc đưa người lao động Việt Nam đi đ�
 d) Bản sao Giấy chứng nhận đăng ký doanh nghiệp và giấy tờ chứng minh việc ký quỹ của doanh nghiệp theo quy định tại khoản 2 Điều 36 của Luật này.
 
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định mẫu văn bản, tài liệu quy định tại điểm a và điểm c khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.13. Các mẫu văn bản đăng ký hợp đồng của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.13. Các mẫu văn bản đăng ký hợp đồng của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ### Điều 20.3.TT.2.6. Tài liệu chứng minh việc đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài phù hợp với pháp luật của nước tiếp nhận lao động
 
@@ -1874,17 +1577,7 @@ k) Giải quyết quyền lợi cho người lao động trong trường hợp d
 l) Báo cáo về tình hình thực hiện đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài với cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều 39 của Luật này theo quy định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội;
 
 m) Thực hiện yêu cầu của cơ quan có thẩm quyền và phối hợp với cơ quan, tổ chức có liên quan của nước mà người lao động đến đào tạo, nâng cao trình độ, kỹ năng nghề giải quyết tranh chấp liên quan đến người lao động; giải quyết vấn đề phát sinh trong trường hợp người lao động chết, bị tai nạn hoặc bị xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản hoặc trong trường hợp thiên tai, dịch bệnh, chiến tranh, bất ổn chính trị, suy thoái kinh tế, tình trạng khẩn cấp hoặc vì lý do bất khả kháng khác.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018
-;
-Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018; Điều 20.3.NĐ.1.25. Sử dụng tiền ký quỹ của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ## Mục 5: Đơn vị sự nghiệp đưa người lao động việt nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -1898,9 +1591,7 @@ Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan th
 2. Người đứng đầu đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng phải có trình độ từ đại học trở lên và có ít nhất 03 năm kinh nghiệm trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, hợp tác quốc tế hoặc dịch vụ việc làm.
 
 3. Đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng hoạt động phi lợi nhuận và không được thu tiền dịch vụ của người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài)
 
 ### Điều 20.3.LQ.43. Quyền, nghĩa vụ của đơn vị sự nghiệp đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -1938,17 +1629,7 @@ g) Định kỳ hằng năm hoặc đột xuất báo cáo về tình hình ho�
 h) Thực hiện yêu cầu của cơ quan có thẩm quyền và phối hợp với cơ quan, tổ chức có liên quan của nước tiếp nhận lao động giải quyết tranh chấp liên quan đến người lao động; giải quyết vấn đề phát sinh trong trường hợp người lao động chết, bị tai nạn lao động, bệnh nghề nghiệp hoặc bị xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản hoặc trong trường hợp thiên tai, dịch bệnh, chiến tranh, bất ổn chính trị, suy thoái kinh tế, tình trạng khẩn cấp hoặc vì lý do bất khả kháng khác;
 
 i) Bồi thường cho người lao động theo hợp đồng và quy định của pháp luật về những thiệt hại do đơn vị sự nghiệp gây ra.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018
-;
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018; Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.14. Nội dung, mẫu hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.3.TT.2.15. Chế độ báo cáo định kỳ của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ### Điều 20.3.NĐ.1.33. Biện pháp ký quỹ
 
@@ -2011,11 +1692,7 @@ b) Trường hợp nêu tại điểm d khoản 1 Điều này, ngân hàng nh�
 5. Có giấy chứng nhận hoàn thành khóa học giáo dục định hướng.
 
 6. Không thuộc trường hợp bị cấm xuất cảnh, không được xuất cảnh, bị tạm hoãn xuất cảnh theo quy định của pháp luật Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 9.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 1.10.LQ.36. Các trường hợp bị tạm hoãn xuất cảnh
-)
+(Điều này có nội dung liên quan đến: Điều 9.1.LQ.1. Phạm vi điều chỉnh; Điều 1.10.LQ.36. Các trường hợp bị tạm hoãn xuất cảnh)
 
 ### Điều 20.3.LQ.45. Hồ sơ của người lao động đi làm việc ở nước ngoài
 
@@ -2130,9 +1807,7 @@ d) Nộp thuế thu nhập theo quy định của pháp luật Việt Nam và ph
 đ) Đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước theo quy định của Luật này;
 
 e) Đăng ký công dân tại cơ quan đại diện Việt Nam tại nước mà người lao động đến làm việc.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.3.LQ.52. Hợp đồng lao động trực tiếp giao kết
 
@@ -2175,13 +1850,7 @@ c) Bản sao Giấy chứng minh nhân dân, thẻ Căn cước công dân hoặ
 d) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi người lao động thường trú hoặc cơ quan, tổ chức, đơn vị quản lý người lao động.
 
 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh xác nhận bằng văn bản việc đăng ký hợp đồng lao động cho người lao động; trường hợp không xác nhận phải nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-;
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.13. Các mẫu văn bản đăng ký hợp đồng của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021; Điều 20.3.TT.2.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.13. Các mẫu văn bản đăng ký hợp đồng của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ### Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh
 
@@ -2189,13 +1858,7 @@ d) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi
 1. Công dân Việt Nam giao kết hợp đồng lao động hợp pháp sau khi xuất cảnh được hưởng quyền quy định tại các điểm a, b, d, e, h và i khoản 1 Điều 6 của Luật này nếu đăng ký trực tuyến hợp đồng lao động với cơ quan nhà nước có thẩm quyền của Việt Nam và thực hiện nghĩa vụ quy định tại các điểm a, b và i khoản 2 Điều 6 của Luật này.
 
 2. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021
-;
-Điều 20.3.TT.1.9. Các nghiệp vụ khác
-;
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh của Nghị định 112/2021/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 10/12/2021; Điều 20.3.TT.1.9. Các nghiệp vụ khác; Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.NĐ.1.38. Thủ tục đăng ký trực tuyến hợp đồng lao động và đóng góp vào Quỹ Hỗ trợ việc làm ngoài nước
 
@@ -2215,11 +1878,7 @@ Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
 1. Cá nhân có năng lực hành vi dân sự, tổ chức có năng lực pháp luật dân sự.
 
 2. Có khả năng về kinh tế để bảo đảm thực hiện việc bảo lãnh theo quy định của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 9.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.2.10. Nội dung hợp đồng bảo lãnh của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 9.1.LQ.1. Phạm vi điều chỉnh; Điều 20.3.TT.2.10. Nội dung hợp đồng bảo lãnh của Thông tư 21/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (sau đây gọi tắt là Luật 69/2020/QH14) ban hành ngày 15/12/2021)
 
 ### Điều 20.3.LQ.56. Trường hợp, phạm vi bảo lãnh
 
@@ -2229,9 +1888,7 @@ Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
 2. Bên bảo lãnh thỏa thuận với doanh nghiệp dịch vụ, đơn vị sự nghiệp về trách nhiệm bảo lãnh một phần hoặc toàn bộ nghĩa vụ của người lao động.
 
 3. Việc bảo lãnh được thực hiện theo quy định của Bộ luật Dân sự. Trường hợp bên bảo lãnh không thực hiện đúng nghĩa vụ bảo lãnh thì doanh nghiệp dịch vụ, đơn vị sự nghiệp có quyền yêu cầu bên bảo lãnh thanh toán giá trị nghĩa vụ vi phạm và bồi thường thiệt hại.
-(Điều này có nội dung liên quan đến
-Điều 9.1.LQ.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 9.1.LQ.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.LQ.57. Thời hạn thực hiện nghĩa vụ bảo lãnh
 
@@ -2252,9 +1909,7 @@ b) Quyền, nghĩa vụ của các bên;
 c) Chấm dứt bảo lãnh.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết nội dung hợp đồng bảo lãnh và việc thanh lý hợp đồng bảo lãnh cho người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.10. Nội dung hợp đồng bảo lãnh
 
@@ -2349,9 +2004,7 @@ d9) Thông báo cho bên được bảo lãnh việc bên bảo lãnh đã thự
 Bảo lãnh chấm dứt trong các trường hợp theo quy định của pháp luật dân sự về bảo lãnh.
 
 5. Các thỏa thuận khác không trái với quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.55. Điều kiện của bên bảo lãnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.55. Điều kiện của bên bảo lãnh)
 
 ### Điều 20.3.TT.2.11. Thanh lý hợp đồng bảo lãnh
 
@@ -2369,9 +2022,7 @@ Bảo lãnh chấm dứt trong các trường hợp theo quy định của pháp
 2. Việc sử dụng biện pháp bảo đảm bằng tài sản được lập thành văn bản riêng hoặc ghi trong hợp đồng bảo lãnh.
 
 3. Việc xác lập, thực hiện biện pháp bảo đảm bằng tài sản để thực hiện nghĩa vụ bảo lãnh được thực hiện theo quy định của pháp luật về dân sự.
-(Điều này có nội dung liên quan đến
-Điều 9.1.LQ.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 9.1.LQ.1. Phạm vi điều chỉnh)
 
 ## Mục 4: Hỗ trợ người lao động sau khi về nước
 
@@ -2385,15 +2036,7 @@ Bảo lãnh chấm dứt trong các trường hợp theo quy định của pháp
 3. Trung tâm dịch vụ việc làm cung cấp đầy đủ thông tin về thị trường lao động, nhu cầu tuyển dụng của người sử dụng lao động để người lao động lựa chọn việc làm phù hợp với kiến thức, kỹ năng, kinh nghiệm, trình độ nghề nghiệp được tích lũy sau quá trình làm việc ở nước ngoài.
 
 4. Doanh nghiệp dịch vụ hỗ trợ giới thiệu việc làm cho người lao động sau khi về nước.
-(Điều này có nội dung liên quan đến
-Chương II CHÍNH SÁCH HỖ TRỢ TẠO VIỆC LÀM của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 1. Phạm vi điều chỉnh của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố
-;
-Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố
-)
+(Điều này có nội dung liên quan đến: Chương II CHÍNH SÁCH HỖ TRỢ TẠO VIỆC LÀM của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 1. Phạm vi điều chỉnh của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; Điều 37.7.TL.3.11. Thời hạn giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố)
 
 ### Điều 20.3.LQ.61. Hỗ trợ hòa nhập xã hội
 
@@ -2420,11 +2063,7 @@ Khi sơ tuyển, tuyển chọn, nếu người lao động chưa đáp ứng đ
 2. Định mức kinh tế kỹ thuật ban hành tại Điều 1 Thông tư này được sử dụng làm cơ sở để xây dựng và ban hành giá của dịch vụ đào tạo ngoại ngữ cho người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng sử dụng kinh phí từ ngân sách nhà nước.
 
 3. Cơ quan, tổ chức, doanh nghiệp và cá nhân quy định tại Điều 2 Thông tư này căn cứ vào yêu cầu, điều kiện thực tế để áp dụng toàn bộ hoặc từng phần định mức ban hành kèm theo Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.3.1. Phạm vi điều chỉnh
-;
-Điều 20.3.TT.3.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.3.1. Phạm vi điều chỉnh; Điều 20.3.TT.3.2. Đối tượng áp dụng)
 
 ### Điều 20.3.LQ.64. Hỗ trợ đối với cơ sở giáo dục nghề nghiệp
 
@@ -2463,9 +2102,7 @@ m) Thông tin về các địa chỉ và đường dây nóng hỗ trợ ngườ
 2. Doanh nghiệp, đơn vị sự nghiệp, tổ chức, cá nhân Việt Nam đưa người lao động đi làm việc ở nước ngoài có trách nhiệm tổ chức giáo dục định hướng để người lao động được cấp giấy chứng nhận hoàn thành khóa học giáo dục định hướng trước khi đi làm việc ở nước ngoài.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định về chương trình, nội dung, thời lượng giáo dục định hướng, mẫu và thời hạn của giấy chứng nhận hoàn thành khóa học giáo dục định hướng.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.TT.2.12. Giáo dục định hướng
 
@@ -2592,13 +2229,7 @@ b) Kế toán trưởng chịu trách nhiệm tổ chức thực hiện công t�
 c) Phòng nghiệp vụ và Văn phòng Quỹ thực hiện chức năng, nhiệm vụ theo quyết định của Giám đốc Quỹ.
 
 8. Quỹ thực hiện chế độ tự chủ về nhân sự, được quyết định vị trí việc làm và số lượng người làm việc phù hợp với chức năng, nhiệm vụ của Quỹ và tình hình thực tế trong quá trình triển khai hoạt động. Chế độ, chính sách đối với người làm việc của Cơ quan điều hành Quỹ được áp dụng theo quy định của Bộ luật Lao động, pháp luật về cán bộ, công chức, viên chức và các quy định có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài
-;
-Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác
-;
-Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài; Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác; Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài)
 
 ### Điều 20.3.QĐ.1.6. Nguyên tắc hoạt động, quản lý tài chính, tài sản, chế độ kế toán, kiểm toán và công khai tài chính
 
@@ -2652,9 +2283,7 @@ d) Hợp đồng hoặc văn bản thỏa thuận đưa người lao động đi
 Trường hợp người lao động đóng góp Quỹ thông qua doanh nghiệp, tổ chức, cá nhân đưa đi, tổ chức, cá nhân thực hiện thu và chuyển toàn bộ số tiền đóng góp của người lao động trong tháng vào tài khoản của Quỹ, chậm nhất là ngày 10 của tháng tiếp theo.
 
 3. Trường hợp người lao động đóng góp Quỹ bằng tiền mặt, cơ quan, doanh nghiệp, tổ chức, cá nhân thu cấp phiếu thu cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.24. Trách nhiệm của các cơ quan, tổ chức
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.24. Trách nhiệm của các cơ quan, tổ chức)
 
 ### Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động
 
@@ -2668,15 +2297,7 @@ Trường hợp người lao động đóng góp Quỹ thông qua doanh nghiệp
 4. Trường hợp người lao động đã hưởng chính sách hỗ trợ đào tạo nghề từ các chương trình, dự án, chính sách thuộc ngân sách nhà nước thì không hưởng hỗ trợ theo quy định tại Điều 15 Quyết định này và ngược lại.
 
 5. Các nội dung hỗ trợ từ Quỹ không làm giảm, thay đổi hoặc loại bỏ quyền, nghĩa vụ của người lao động, nghĩa vụ của người sử dụng lao động, doanh nghiệp, tổ chức đưa đi đối với người lao động theo quy định của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng và các quy định pháp luật khác.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài
-;
-Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác
-;
-Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài
-;
-Điều 20.3.QĐ.1.13. Hỗ trợ giải quyết tranh chấp phát sinh liên quan đến người lao động trong hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng của Quyết định 40/2021/QĐ-TTg Quyết định về Quỹ Hỗ trợ việc làm ngoài nước ban hành ngày 31/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài; Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác; Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài; Điều 20.3.QĐ.1.13. Hỗ trợ giải quyết tranh chấp phát sinh liên quan đến người lao động trong hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng của Quyết định 40/2021/QĐ-TTg Quyết định về Quỹ Hỗ trợ việc làm ngoài nước ban hành ngày 31/12/2021)
 
 ### Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài
 
@@ -2697,13 +2318,7 @@ Trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và thực hiện hỗ trợ theo đề nghị của người lao động. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ
-;
-Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động
-;
-Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ; Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động; Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động)
 
 ### Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác
 
@@ -2722,13 +2337,7 @@ Trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và thực hiện hỗ trợ theo quy định. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ
-;
-Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động
-;
-Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ; Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động; Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động)
 
 ### Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài
 
@@ -2747,13 +2356,7 @@ Trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và thực hiện hỗ trợ theo quy định. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ
-;
-Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động
-;
-Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.5. Cơ cấu tổ chức của Quỹ; Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động; Điều 20.3.QĐ.1.15. Hỗ trợ đào tạo chuyển đổi nghề cho người lao động)
 
 ### Điều 20.3.QĐ.1.13. Hỗ trợ giải quyết tranh chấp phát sinh liên quan đến người lao động trong hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng
 
@@ -2782,9 +2385,7 @@ a) Mức hỗ trợ bằng 100% chi phí thực tế theo hóa đơn, chứng t�
 
 b) Căn cứ dự toán được Bộ Lao động - Thương binh và Xã hội phê duyệt, hợp đồng ký giữa đơn vị được giao nhiệm vụ với tổ chức, cá nhân cung cấp chỗ ở cho người lao động và hóa đơn, chứng từ hợp lệ, Cơ quan điều hành trình Hội đồng quản lý Quỹ ra quyết định hỗ trợ theo quy định của pháp luật.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.9. Nguyên tắc hỗ trợ người lao động)
 
 ### Điều 20.3.QĐ.1.14. Hỗ trợ thân nhân của người lao động bị chết, mất tích trong thời gian làm việc ở nước ngoài
 
@@ -2823,13 +2424,7 @@ Trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và làm thủ tục hỗ trợ. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài
-;
-Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác
-;
-Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.10. Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài; Điều 20.3.QĐ.1.11. Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác; Điều 20.3.QĐ.1.12. Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài)
 
 ### Điều 20.3.QĐ.1.16. Nguyên tắc hỗ trợ doanh nghiệp
 
@@ -2841,11 +2436,7 @@ Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
 3. Nội dung quy định tại Điều 18 Quyết định này không áp dụng trong trường hợp doanh nghiệp đưa người lao động đi làm việc ở nước ngoài không đúng với hợp đồng đưa người lao động Việt Nam đi làm việc ở nước ngoài đã ký với người lao động, hợp đồng cung ứng lao động được Bộ Lao động - Thương binh và Xã hội chấp thuận.
 
 4. Các nội dung hỗ trợ từ Quỹ không làm giảm, thay đổi hoặc loại bỏ quyền, nghĩa vụ của doanh nghiệp trong việc thực hiện các quy định của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng và các quy định pháp luật khác.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.17. Hỗ trợ khai thác, phát triển và ổn định thị trường lao động ngoài nước
-;
-Điều 20.3.QĐ.1.18. Hỗ trợ giải quyết rủi ro liên quan đến người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.17. Hỗ trợ khai thác, phát triển và ổn định thị trường lao động ngoài nước; Điều 20.3.QĐ.1.18. Hỗ trợ giải quyết rủi ro liên quan đến người lao động)
 
 ### Điều 20.3.QĐ.1.17. Hỗ trợ khai thác, phát triển và ổn định thị trường lao động ngoài nước
 
@@ -2860,9 +2451,7 @@ b) Bản sao hóa đơn tài chính hoặc biên lai mua vé máy bay.
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và làm thủ tục hỗ trợ, trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.16. Nguyên tắc hỗ trợ doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.16. Nguyên tắc hỗ trợ doanh nghiệp)
 
 ### Điều 20.3.QĐ.1.18. Hỗ trợ giải quyết rủi ro liên quan đến người lao động
 
@@ -2879,9 +2468,7 @@ c) Văn bản yêu cầu cử cán bộ doanh nghiệp của cơ quan đại di�
 
 3. Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan điều hành Quỹ kiểm tra, đối chiếu hồ sơ và làm thủ tục hỗ trợ. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo QĐ so 40.2021.QĐ-TTg.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.16. Nguyên tắc hỗ trợ doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.16. Nguyên tắc hỗ trợ doanh nghiệp)
 
 ### Điều 20.3.QĐ.1.19. Hỗ trợ doanh nghiệp chi phí đưa thi hài, di hài của người lao động bị chết về nước
 
@@ -2967,9 +2554,7 @@ b) Giải quyết những rủi ro liên quan đến người lao động do mì
 3. Hỗ trợ cho hoạt động liên quan trực tiếp đến người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
 4. Chi phí quản lý Quỹ Hỗ trợ việc làm ngoài nước.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.3.LQ.68. Nguồn hình thành Quỹ Hỗ trợ việc làm ngoài nước
 
@@ -2998,11 +2583,7 @@ b) Giải quyết những rủi ro liên quan đến người lao động do mì
 6. Hợp tác quốc tế trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
 
 7. Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018
-;
-Chương IV HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT, MỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI HÀNH VI VI PHẠM TRONG LĨNH VỰC NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG của Nghị định 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 17/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh của Nghị định 24/2018/NĐ-CP Quy định về giải quyết khiếu nại, tố cái trong lĩnh vực lao động, giáo dục nghề nghiệp, hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, việc làm, an toàn, vệ sinh lao động ban hành ngày 27/02/2018; Chương IV HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT, MỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI HÀNH VI VI PHẠM TRONG LĨNH VỰC NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG của Nghị định 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 17/01/2022)
 
 ### Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động
 
@@ -3018,21 +2599,7 @@ Doanh nghiệp, đơn vị sự nghiệp, cơ quan chuyên môn về lao động
 
 4. Công dân Việt Nam giao kết hợp đồng lao động sau khi xuất cảnh đã thực hiện đăng ký trực tuyến hợp đồng lao động theo quy định tại Điều 54 Luật số 69/2020/QH14 cập nhật thông tin khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài cho đến khi chấm dứt hợp đồng.
 
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ
-;
-Điều 20.3.LQ.31. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài
-;
-Điều 20.3.LQ.34. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài
-;
-Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài
-;
-Điều 20.3.LQ.53. Đăng ký hợp đồng lao động
-;
-Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-;
-Điều 20.3.TT.1.16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.26. Quyền, nghĩa vụ của doanh nghiệp dịch vụ; Điều 20.3.LQ.31. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài; Điều 20.3.LQ.34. Báo cáo đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài; Điều 20.3.LQ.41. Quyền, nghĩa vụ của doanh nghiệp Việt Nam đưa người lao động Việt Nam đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài; Điều 20.3.LQ.53. Đăng ký hợp đồng lao động; Điều 20.3.LQ.54. Giao kết hợp đồng lao động sau khi xuất cảnh của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020; Điều 20.3.TT.1.16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh của Thông tư 20/2021/TT-BLĐTBXH Quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 15/12/2021)
 
 ### Điều 20.3.TT.1.14. Trách nhiệm của tổ chức, cá nhân
 
@@ -3043,9 +2610,7 @@ Doanh nghiệp, đơn vị sự nghiệp, cơ quan chuyên môn về lao động
 2. Chịu trách nhiệm về tính chính xác, toàn vẹn đối với những thông tin, dữ liệu được đăng tải, cập nhật trên Hệ thống cơ sở dữ liệu.
 
 3. Chia sẻ dữ liệu, thông tin đúng thẩm quyền. Không tạo ra hoặc phát tán các chương trình, phần mềm với mục đích phá hoại Hệ thống cơ sở dữ liệu.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh)
 
 ### Điều 20.3.TT.1.15. Trách nhiệm của các đơn vị thuộc Bộ Lao động - Thương binh và Xã hội
 
@@ -3079,11 +2644,7 @@ c) Hằng năm lập dự toán kinh phí phục vụ cho việc duy trì, vận
 
 2. Khai thác, sử dụng Hệ thống cơ sở dữ liệu theo quy định tại Điều 14 Thông tư này.
 
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động
-;
-Điều 20.3.TT.1.14. Trách nhiệm của tổ chức, cá nhân
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.11. Cập nhật thông tin về người lao động bằng mã số lao động; Điều 20.3.TT.1.14. Trách nhiệm của tổ chức, cá nhân)
 
 ### Điều 20.3.LQ.70. Trách nhiệm quản lý nhà nước về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -3272,9 +2833,7 @@ Các thông tin, dữ liệu được tự động cập nhật, chia sẻ từ 
 4. Hỗ trợ, hướng dẫn và phối hợp với cơ quan, doanh nghiệp, đơn vị sự nghiệp, tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài và cơ quan, tổ chức của nước sở tại trong việc quản lý, giải quyết các vấn đề phát sinh đối với người lao động, đưa người lao động về nước.
 
 5. Hỗ trợ người lao động tiếp cận, đóng góp, thực hiện các thủ tục và nhận hỗ trợ từ Quỹ Hỗ trợ việc làm ngoài nước trong thời gian làm việc ở nước ngoài.
-(Điều này có nội dung liên quan đến
-Điều 39.13.NĐ.104.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 39.13.NĐ.104.1. Phạm vi điều chỉnh)
 
 # Chương VII: Giải quyết tranh chấp
 
@@ -3301,9 +2860,7 @@ Các thông tin, dữ liệu được tự động cập nhật, chia sẻ từ 
 (Điều 45 Nghị định số 112/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/01/2022)
 1. Nghị định này có hiệu lực từ ngày 01 tháng 01 năm 2022.
 
-2. Nghị định số 38/2020/NĐ-CP ngày 03 tháng 4 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Thông tư liên tịch số
-17/2007/TTLT-BLĐTBXH-NHNNVN
-ngày 04 tháng 9 năm 2007 của Bộ Lao động - Thương binh và Xã hội - Ngân hàng Nhà nước Việt Nam quy định việc quản lý và sử dụng tiền ký quỹ của doanh nghiệp và tiền ký quỹ của người lao động đi làm việc ở nước ngoài theo hợp đồng hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực.
+2. Nghị định số 38/2020/NĐ-CP ngày 03 tháng 4 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Thông tư liên tịch số 17/2007/TTLT-BLĐTBXH-NHNNVN ngày 04 tháng 9 năm 2007 của Bộ Lao động - Thương binh và Xã hội - Ngân hàng Nhà nước Việt Nam quy định việc quản lý và sử dụng tiền ký quỹ của doanh nghiệp và tiền ký quỹ của người lao động đi làm việc ở nước ngoài theo hợp đồng hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực.
 
 ### Điều 20.3.NĐ.1.47. Trách nhiệm thi hành
 
@@ -3342,9 +2899,7 @@ b) Xác minh hồ sơ, giấy tờ theo đề nghị của người lao động 
 a) Thu, nộp tiền đóng góp Quỹ của người lao động theo quy định tại khoản 2 Điều 8 Quyết định này;
 
 b) Thông tin, hướng dẫn và hỗ trợ người lao động hoàn thành nghĩa vụ đóng góp và thực hiện thủ tục hỗ trợ từ Quỹ theo quy định tại Quyết định này.
-(Điều này có nội dung liên quan đến
-Điều 20.3.QĐ.1.8. Đóng góp của người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.QĐ.1.8. Đóng góp của người lao động)
 
 ### Điều 20.3.QĐ.1.26. Hiệu lực thi hành
 
@@ -3369,9 +2924,7 @@ a) Trực tuyến trên Hệ thống cơ sở dữ liệu theo quy định của
 b) Lựa chọn hình thức trực tiếp hoặc qua dịch vụ bưu chính cho cơ quan có thẩm quyền theo quy định của pháp luật hoặc trực tuyến trên Hệ thống cơ sở dữ liệu theo quy định của Thông tư này đối với các nghiệp vụ: đề nghị cấp giấy phép, đề nghị điều chỉnh thông tin giấy phép và các nghiệp vụ khác nêu tại Điều 9 của Thông tư này, trừ nghiệp vụ đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh.
 
 Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ Lao động -Thương binh và Xã hội để hướng dẫn, bổ sung kịp thời.
-(Điều này có nội dung liên quan đến
-Điều 20.3.TT.1.9. Các nghiệp vụ khác
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.TT.1.9. Các nghiệp vụ khác)
 
 ### Điều 20.3.TT.2.16. Hiệu lực thi hành
 
@@ -3428,11 +2981,7 @@ d) Hợp đồng cung ứng lao động, hợp đồng nhận lao động thực
 2. Chính phủ quy định về hồ sơ, thủ tục đổi Giấy phép quy định tại điểm b khoản 1 Điều này.
 
 Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020.
-(Điều này có nội dung liên quan đến
-Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh
-;
-Điều 20.3.NĐ.1.11. Hồ sơ, thủ tục đổi Giấy phép theo quy định tại điểm b khoản 1 Điều 74 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.NĐ.1.1. Phạm vi điều chỉnh; Điều 20.3.NĐ.1.11. Hồ sơ, thủ tục đổi Giấy phép theo quy định tại điểm b khoản 1 Điều 74 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng)
 
 ### Điều 20.3.NĐ.1.11. Hồ sơ, thủ tục đổi Giấy phép theo quy định tại điểm b khoản 1 Điều 74 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
 
@@ -3451,9 +3000,7 @@ a) Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua d�
 
 b) Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ theo quy định, Bộ trưởng Bộ Lao động - Thương binh và Xã hội xem xét, cấp đổi Giấy phép cho doanh nghiệp dịch vụ. Trường hợp không cấp đổi Giấy phép, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản và nêu rõ lý do.
 Phu luc_ban hanh kem theo NĐ 112_2021_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.3.LQ.74. Quy định chuyển tiếp
-)
+(Điều này có nội dung liên quan đến: Điều 20.3.LQ.74. Quy định chuyển tiếp)
 
 ### Điều 20.3.NĐ.1.46. Quy định chuyển tiếp
 

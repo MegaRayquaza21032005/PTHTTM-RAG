@@ -8,11 +8,14 @@ from typing import Literal
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI
 
+from app.core.config import get_settings
 from app.core.logging import get_logger
 
 
 logger = get_logger(__name__)
+settings = get_settings()
 StrategyName = Literal["rewrite", "decomposition", "expansion"]
 
 
@@ -93,13 +96,18 @@ Mỗi dòng chỉ chứa một truy vấn, không đánh số, không giải th�
 
 
 class PreRetriever:
-    """Chọn và thực thi chiến lược xử lý trước retrieval."""
+    """Xử lý truy vấn trước retrieval bằng OpenAI."""
 
-    def __init__(self, llm: BaseChatModel) -> None:
+    def __init__(self, llm: BaseChatModel | None = None) -> None:
+        self.llm = ChatOpenAI(
+            model=settings.pre_retrieval_model,
+            api_key=settings.openai_api_key or None,
+            temperature=0,
+        )
         self.strategies: dict[StrategyName, QueryStrategy] = {
-            "rewrite": QueryRewriting(llm),
-            "decomposition": QueryDecomposition(llm),
-            "expansion": QueryExpansion(llm),
+            "rewrite": QueryRewriting(self.llm),
+            "decomposition": QueryDecomposition(self.llm),
+            "expansion": QueryExpansion(self.llm),
         }
 
     async def process(
@@ -135,9 +143,32 @@ def get_pre_retriever(llm: BaseChatModel | None = None) -> PreRetriever:
     if _pre_retriever is None:
         with _pre_retriever_lock:
             if _pre_retriever is None:
-                if llm is None:
-                    raise ValueError("Cần truyền LLM khi khởi tạo PreRetriever lần đầu")
                 _pre_retriever = PreRetriever(llm)
-                logger.info("Đã khởi tạo PreRetriever")
+                logger.info(
+                    "Đã khởi tạo PreRetriever | provider=openai | model=%s",
+                    settings.pre_retrieval_model,
+                )
 
     return _pre_retriever
+
+
+if __name__ == "__main__":
+    import pprint
+    import asyncio
+    
+    async def main():
+        pre_retriever = PreRetriever()
+        rewrite_query = await pre_retriever.process(query="Luật lao động là gì?", strategy = "rewrite")
+        query_expansion = await pre_retriever.process(query="Luật lao động là gì?", strategy = "expansion")
+        query_decomposition = await pre_retriever.process(query="Luật lao động là gì?", strategy = "decomposition")
+        print("========Viết lại truy vấn========\n")
+        print(rewrite_query)
+        
+        print("========Mở rộng truy vấn========\n")
+        print(query_expansion)
+        
+        print("========Phân rã truy vấn========\n")
+        print(query_decomposition)
+        
+    asyncio.run(main())
+        

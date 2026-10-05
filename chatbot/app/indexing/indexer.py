@@ -187,3 +187,13 @@ def get_indexer() -> DocumentIndexer:
                     raise
 
     return _indexer
+
+
+if __name__ == "__main__":
+    import asyncio
+    
+    async def main():
+        document_indexer = DocumentIndexer()
+        await document_indexer.index_directory(directory = "/home/nguyen-thanh-dat/Documents/PTHTTM_PTIT/HTTM_Representation/chatbot/data")
+        
+    asyncio.run(main())

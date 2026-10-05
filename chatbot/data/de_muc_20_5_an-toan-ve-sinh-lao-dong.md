@@ -1,20 +1,12 @@
 # Chương I: Quy định chung
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015)
 
 ### Điều 20.5.LQ.1. Phạm vi điều chỉnh
 
 (Điều 1 Luật số 84/2015/QH13 An toàn, vệ sinh lao động ngày 25/06/2015 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/07/2016 )
 Luật này quy định việc bảo đảm an toàn, vệ sinh lao động; chính sách, chế độ đối với người bị tai nạn lao động, bệnh nghề nghiệp; trách nhiệm và quyền hạn của các tổ chức, cá nhân liên quan đến công tác an toàn, vệ sinh lao động và quản lý nhà nước về an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 3.3.NĐ.11.4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về Bảo hiểm
-;
-Điều 45.12.NĐ.63. Nguyên tắc quản lý, sử dụng trang thiết bị y tế
-)
+(Điều này có nội dung liên quan đến: Điều 3.3.NĐ.11.4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về Bảo hiểm; Điều 45.12.NĐ.63. Nguyên tắc quản lý, sử dụng trang thiết bị y tế)
 
 ### Điều 20.5.LQ.2. Đối tượng áp dụng
 
@@ -32,21 +24,7 @@ Luật này quy định việc bảo đảm an toàn, vệ sinh lao động; ch�
 6. Cơ quan, tổ chức và cá nhân khác có liên quan đến công tác an toàn, vệ sinh lao động.
 
 Những người quy định tại các khoản 1, 2, 3 và 4 Điều này sau đây gọi chung là người lao động.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Thông tư 29/2021/TT-BLĐTBXH Quy định tiêu chuẩn phân loại lao động theo điều kiện lao động ban hành ngày 28/12/2021
-;
-Điều 2. Đối tượng áp dụng của Thông tư 24/2022/TT-BLĐTBXH Quy định việc bồi dưỡng bằng hiện vật đối với người lao động làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại ban hành ngày 30/11/2022
-;
-Điều 20.5.NĐ.2.2. Đối tượng áp dụng
-;
-Điều 20.5.TT.74.2. Đối tượng áp dụng
-;
-Điều 20.5.TT.74.9. Trách nhiệm của Sở Lao động - Thương binh và Xã hội
-;
-Điều 20.5.TT.83.1. Danh mục công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-;
-Điều 20.5.TT.98.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Thông tư 29/2021/TT-BLĐTBXH Quy định tiêu chuẩn phân loại lao động theo điều kiện lao động ban hành ngày 28/12/2021; Điều 2. Đối tượng áp dụng của Thông tư 24/2022/TT-BLĐTBXH Quy định việc bồi dưỡng bằng hiện vật đối với người lao động làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại ban hành ngày 30/11/2022; Điều 20.5.NĐ.2.2. Đối tượng áp dụng; Điều 20.5.TT.74.2. Đối tượng áp dụng; Điều 20.5.TT.74.9. Trách nhiệm của Sở Lao động - Thương binh và Xã hội; Điều 20.5.TT.83.1. Danh mục công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động; Điều 20.5.TT.98.2. Đối tượng áp dụng)
 
 ### Điều 20.5.NĐ.1.1. Phạm vi Điều chỉnh
 
@@ -79,9 +57,7 @@ Nghị định này quy định chi tiết một số Điều của Luật an to
 1. Người sử dụng lao động, người lao động theo quy định tại Điều 2 Luật an toàn, vệ sinh lao động.
 
 2. Đơn vị sự nghiệp, doanh nghiệp và các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm định kỹ thuật an toàn lao động; huấn luyện an toàn, vệ sinh lao động và quan trắc môi trường lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.2. Đối tượng áp dụng)
 
 ### Điều 20.5.NĐ.3.1. Phạm vi điều chỉnh
 
@@ -94,9 +70,7 @@ Nghị định này quy định mức đóng bảo hiểm xã hội bắt buộc
 1. Người sử dụng lao động theo quy định tại khoản 3 Điều 2 Luật Bảo hiểm xã hội.
 
 2. Các cơ quan, tổ chức và cá nhân khác có liên quan đến việc thực hiện đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp trong bảo hiểm xã hội bắt buộc.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.5.NĐ.4.1. Phạm vi điều chỉnh
 
@@ -123,9 +97,7 @@ e) Người quản lý doanh nghiệp, người quản lý điều hành hợp t
 2. Người sử dụng lao động theo quy định tại khoản 3 Điều 2 Luật Bảo hiểm xã hội.
 
 3. Cơ quan, tổ chức, cá nhân có liên quan đến bảo hiểm tai nạn lao động, bệnh nghề nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.5.TT.20.1. Phạm vi Điều chỉnh
 
@@ -155,9 +127,7 @@ Thông tư này hướng dẫn về hồ sơ, nội dung khám sức khỏe trư
 2. Doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ kinh doanh, cá nhân có thuê mướn, sử dụng lao động theo quy định tại Khoản 1 Điều này (sau đây gọi tắt là người sử dụng lao động).
 
 3. Các cơ sở y tế có đủ điều kiện khám bệnh nghề nghiệp theo quy định của pháp luật khám bệnh, chữa bệnh thực hiện việc khám sức khỏe trước khi bố trí làm việc, khám phát hiện bệnh nghề nghiệp cho người lao động, khám định kỳ cho người lao động mắc bệnh nghề nghiệp (sau đây gọi tắt là cơ sở khám bệnh nghề nghiệp).
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.5.TT.48.1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -265,11 +235,7 @@ Thông tư này quy định chi tiết về biện pháp quản lý, triển kha
 3. Doanh nghiệp tự tổ chức huấn luyện an toàn, vệ sinh lao động, Tổ chức huấn luyện an toàn, vệ sinh lao động theo quy định tại khoản 7 Điều 14 Luật An toàn, vệ sinh lao động (sau đây gọi tắt là tổ chức huấn luyện).
 
 4. Các tổ chức, cá nhân có liên quan đến hoạt động huấn luyện an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.2. Đối tượng áp dụng
-;
-Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.2. Đối tượng áp dụng; Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động)
 
 ### Điều 20.5.TT.74.1. Phạm vi điều chỉnh
 
@@ -288,9 +254,7 @@ b) Tàu biển nước ngoài, chủ tàu, thuyền viên làm việc trên tàu
 c) Tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài có liên quan đến tai nạn lao động hàng hải.
 
 2. Thông tư này không áp dụng đối với chủ tàu và thuyền viên làm việc trên tàu quân sự, tàu công vụ, tàu cá.
-(Điều này có nội dung liên quan đến
-Điều 20.5.TT.74.10. Thống kê và báo cáo tai nạn lao động hàng hải
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.TT.74.10. Thống kê và báo cáo tai nạn lao động hàng hải)
 
 ### Điều 20.5.TT.86.1. Phạm vi điều chỉnh
 
@@ -318,9 +282,7 @@ Thông tư này hướng dẫn về hồ sơ, quy trình và trách nhiệm gi�
 
 (Điều 1 Thông tư số 29/2021/TT-BYT hướng dẫn hoạt động đào tạo chuyên môn về y tế lao động ngày 24/12/2021 của Bộ Y tế, có hiệu lực thi hành kể từ ngày 06/02/2022 )
 Thông tư này hướng dẫn nội dung, chương trình, tài liệu, thời gian đào tạo và việc quản lý đào tạo cấp chứng chỉ chứng nhận chuyên môn về y tế lao động được quy định tại khoản 4 Điều 73 Luật An toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.73. Bộ phận y tế
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.73. Bộ phận y tế)
 
 ### Điều 20.5.TT.93.2. Đối tượng áp dụng
 
@@ -332,9 +294,7 @@ Thông tư này áp dụng đối với:
 2. Cơ sở giáo dục có chức năng hoặc được giao nhiệm vụ đào tạo trong khối ngành sức khỏe, cơ sở đào tạo nhân lực y tế (sau đây gọi tắt là cơ sở đào tạo).
 
 3. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đào tạo cấp chứng chỉ chứng nhận chuyên môn về y tế lao động trên lãnh thổ Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế)
 
 ### Điều 20.5.TT.94.1. Phạm vi điều chỉnh
 
@@ -352,11 +312,7 @@ Thông tư này hướng dẫn chi tiết về nội dung, chương trình và v
 
 4. Cơ quan, tổ chức và cá nhân khác có liên quan đến việc thực hiện lập báo cáo đánh giá công tác an toàn, vệ sinh lao động và giảm tần suất tai nạn lao động.
 
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-;
-Điều 20.5.NĐ.3.7. Báo cáo đánh giá công tác an toàn, vệ sinh lao động và giảm tần suất tai nạn lao động làm căn cứ xem xét áp dụng mức đóng thấp hơn mức đóng bình thường vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014; Điều 20.5.NĐ.3.7. Báo cáo đánh giá công tác an toàn, vệ sinh lao động và giảm tần suất tai nạn lao động làm căn cứ xem xét áp dụng mức đóng thấp hơn mức đóng bình thường vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.TT.95.1. Phạm vi điều chỉnh
 
@@ -383,11 +339,7 @@ Thông tư này quy định về chế độ trang cấp phương tiện bảo v
 2. Người sử dụng lao động theo quy định tại khoản 2 Điều 3 Bộ luật Lao động.
 
 3. Cơ quan, tổ chức và cá nhân khác có liên quan đến chế độ trang cấp phương tiện bảo vệ cá nhân trong tao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.2. Đối tượng áp dụng
-;
-Điều 20.2.LQ.3. Giải thích từ ngữ
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.2. Đối tượng áp dụng; Điều 20.2.LQ.3. Giải thích từ ngữ)
 
 ### Điều 20.5.TT.101.1. Phạm vi điều chỉnh
 
@@ -406,44 +358,34 @@ Thông tư này quy định tiêu chuẩn phân loại lao động theo điều 
 (Điều 3 Luật số 84/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-1.
-Cơ sở sản xuất, kinh doanh
+1. Cơ sở sản xuất, kinh doanh
 là doanh nghiệp, hợp tác xã, hộ gia đình và các tổ chức hoạt động sản xuất, kinh doanh.
 
-2.
-An toàn lao động
+2. An toàn lao động
 là giải pháp phòng, chống tác động của các yếu tố nguy hiểm nhằm bảo đảm không xảy ra thương tật, tử vong đối với con người trong quá trình lao động.
 
-3.
-Vệ sinh lao động
+3. Vệ sinh lao động
 là giải pháp phòng, chống tác động của yếu tố có hại gây bệnh tật, làm suy giảm sức khỏe cho con người trong quá trình lao động.
 
-4.
-Yếu tố nguy hiểm
+4. Yếu tố nguy hiểm
 là yếu tố gây mất an toàn, làm tổn thương hoặc gây tử vong cho con người trong quá trình lao động.
 
-5.
-Yếu tố có hại
+5. Yếu tố có hại
 là yếu tố gây bệnh tật, làm suy giảm sức khỏe con người trong quá trình lao động.
 
-6.
-Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
+6. Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
 là hư hỏng của máy, thiết bị, vật tư, chất vượt quá giới hạn an toàn kỹ thuật cho phép, xảy ra trong quá trình lao động và gây thiệt hại hoặc có nguy cơ gây thiệt hại cho con người, tài sản và môi trường.
 
-7.
-Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
+7. Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
 là sự cố kỹ thuật gây mất an toàn, vệ sinh lao động lớn, xảy ra trên diện rộng và vượt khả năng ứng phó của cơ sở sản xuất, kinh doanh, cơ quan, tổ chức, địa phương hoặc liên quan đến nhiều cơ sở sản xuất, kinh doanh, địa phương.
 
-8.
-Tai nạn lao động
+8. Tai nạn lao động
 là tai nạn gây tổn thương cho bất kỳ bộ phận, chức năng nào của cơ thể hoặc gây tử vong cho người lao động, xảy ra trong quá trình lao động, gắn liền với việc thực hiện công việc, nhiệm vụ lao động.
 
-9.
-Bệnh nghề nghiệp
+9. Bệnh nghề nghiệp
 là bệnh phát sinh do điều kiện lao động có hại của nghề nghiệp tác động đối với người lao động.
 
-10.
-Quan trắc môi trường lao động
+10. Quan trắc môi trường lao động
 là hoạt động thu thập, phân tích, đánh giá số liệu đo lường các yếu tố trong môi trường lao động tại nơi làm việc để có biện pháp giảm thiểu tác hại đối với sức khỏe, phòng, chống bệnh nghề nghiệp.
 
 ### Điều 20.5.NĐ.2.3. Giải thích từ ngữ
@@ -509,12 +451,10 @@ là khoảng thời gian kể từ khi người lao động đã thôi tiếp x�
 (Điều 3 Thông tư số 03/2017/TT- BVHTTDL, có hiệu lực thi hành kể từ ngày 01/10/2017)
 Trong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
 
-1.
-Người lao động làm việc trong lĩnh vực nghệ thuật
+1. Người lao động làm việc trong lĩnh vực nghệ thuật
 là diễn viên, đạo diễn và người lao động khác tham gia sáng tạo nghệ thuật.
 
-2.
-Người lao động làm việc trong lĩnh vực thể dục thể thao
+2. Người lao động làm việc trong lĩnh vực thể dục thể thao
 là huấn luyện viên, vận động viên, hướng dẫn viên thể thao.
 
 ### Điều 20.5.LQ.4. Chính sách của Nhà nước về an toàn, vệ sinh lao động
@@ -618,9 +558,7 @@ d) Cử người giám sát, kiểm tra việc thực hiện nội quy, quy trì
 e) Thực hiện việc khai báo, điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; thống kê, báo cáo tình hình thực hiện công tác an toàn, vệ sinh lao động; chấp hành quyết định của thanh tra chuyên ngành về an toàn, vệ sinh lao động;
 
 g) Lấy ý kiến Ban chấp hành công đoàn cơ sở khi xây dựng kế hoạch, nội quy, quy trình, biện pháp bảo đảm an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại)
 
 ### Điều 20.5.LQ.8. Quyền, trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác
 
@@ -638,9 +576,7 @@ d) Vận động đoàn viên, hội viên thực hiện công tác bảo đảm
 đ) Phát hiện và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý kịp thời các hành vi vi phạm pháp luật về an toàn, vệ sinh lao động.
 
 2. Tổ chức đại diện người sử dụng lao động thực hiện quyền và trách nhiệm quy định tại khoản 1 Điều này; có trách nhiệm tham gia Hội đồng an toàn, vệ sinh lao động theo quy định tại Điều 88 của Luật này; vận động người sử dụng lao động tổ chức đối thoại tại nơi làm việc, thương lượng tập thể, thỏa ước lao động tập thể, thực hiện các biện pháp cải thiện điều kiện lao động nhằm bảo đảm an toàn, vệ sinh lao động tại nơi làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.88. Hội đồng quốc gia về an toàn, vệ sinh lao động, Hội đồng an toàn, vệ sinh lao động cấp tỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.88. Hội đồng quốc gia về an toàn, vệ sinh lao động, Hội đồng an toàn, vệ sinh lao động cấp tỉnh)
 
 ### Điều 20.5.LQ.9. Quyền, trách nhiệm của tổ chức công đoàn trong công tác an toàn, vệ sinh lao động
 
@@ -683,11 +619,7 @@ d) Vận động đoàn viên, hội viên thực hiện công tác bảo đảm
 9. Phối hợp với người sử dụng lao động tổ chức các phong trào thi đua, phong trào quần chúng làm công tác an toàn, vệ sinh lao động và xây dựng văn hóa an toàn lao động tại nơi làm việc; quản lý, hướng dẫn hoạt động của mạng lưới an toàn, vệ sinh viên.
 
 10. Những cơ sở sản xuất, kinh doanh chưa thành lập công đoàn cơ sở thì công đoàn cấp trên trực tiếp cơ sở thực hiện quyền, trách nhiệm quy định tại Điều này khi được người lao động ở đó yêu cầu.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng)
 
 ### Điều 20.5.LQ.11. Quyền, trách nhiệm của Hội nông dân Việt Nam
 
@@ -721,11 +653,7 @@ d) Vận động đoàn viên, hội viên thực hiện công tác bảo đảm
 
 # Chương II: Các biện pháp phòng, chống các yếu tố nguy hiểm, yếu tố có hại cho người lao động
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015)
 
 ## Mục 1: Thông tin, tuyên truyền, giáo dục, huấn luyện an toàn, vệ sinh lao động
 
@@ -741,11 +669,7 @@ d) Vận động đoàn viên, hội viên thực hiện công tác bảo đảm
 Căn cứ vào điều kiện cụ thể của địa phương, hằng năm, Ủy ban nhân dân các cấp có trách nhiệm chỉ đạo, tổ chức thực hiện thông tin, tuyên truyền, giáo dục về an toàn, vệ sinh lao động cho người lao động làm việc không theo hợp đồng lao động tại địa phương.
 
 4. Cơ quan thông tin đại chúng có trách nhiệm thường xuyên tổ chức thông tin, tuyên truyền, phổ biến chính sách, pháp luật và kiến thức về an toàn, vệ sinh lao động, lồng ghép thông tin về phòng ngừa tai nạn lao động, bệnh nghề nghiệp với các chương trình, hoạt động thông tin, truyền thông khác.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 6. An toàn, vệ sinh lao động của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 6. An toàn, vệ sinh lao động của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017)
 
 ### Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động
 
@@ -771,17 +695,7 @@ Nhà nước có chính sách hỗ trợ học phí cho người lao động quy
 Trường hợp doanh nghiệp tự huấn luyện an toàn, vệ sinh lao động cho các đối tượng quy định tại các khoản 1, 2 và 3 Điều này thì phải đáp ứng điều kiện hoạt động như đối với tổ chức huấn luyện an toàn, vệ sinh lao động.
 
 8. Chính phủ quy định chi tiết về cơ quan có thẩm quyền cấp, điều kiện về cơ sở vật chất, kỹ thuật, tiêu chuẩn về người huấn luyện an toàn, vệ sinh lao động, trình tự, thủ tục, hồ sơ cấp mới, cấp lại, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện hoạt động của tổ chức huấn luyện an toàn, vệ sinh lao động quy định tại khoản 7 Điều này; việc huấn luyện, tự huấn luyện về an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.NĐ.2.17. Đối tượng tham dự khóa huấn luyện an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.2.21. Huấn luyện, bồi dưỡng, cập nhật kiến thức, kỹ năng về an toàn, vệ sinh lao động và huấn luyện định kỳ
-;
-Điều 20.5.TT.74.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại; Điều 20.5.NĐ.2.17. Đối tượng tham dự khóa huấn luyện an toàn, vệ sinh lao động; Điều 20.5.NĐ.2.21. Huấn luyện, bồi dưỡng, cập nhật kiến thức, kỹ năng về an toàn, vệ sinh lao động và huấn luyện định kỳ; Điều 20.5.TT.74.2. Đối tượng áp dụng)
 
 ## Mục 2: Nội quy, quy trình và các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc
 
@@ -789,9 +703,7 @@ Trường hợp doanh nghiệp tự huấn luyện an toàn, vệ sinh lao độ
 
 (Điều 15 Luật số 84/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 Người sử dụng lao động căn cứ pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia, quy chuẩn kỹ thuật địa phương về an toàn, vệ sinh lao động và điều kiện hoạt động sản xuất, kinh doanh, lao động để xây dựng, ban hành và tổ chức thực hiện nội quy, quy trình bảo đảm an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ### Điều 20.5.LQ.16. Trách nhiệm của người sử dụng lao động trong việc bảo đảm an toàn, vệ sinh lao động tại nơi làm việc
 
@@ -811,9 +723,7 @@ Người sử dụng lao động căn cứ pháp luật, tiêu chuẩn, quy chu�
 7. Tuyên truyền, phổ biến hoặc huấn luyện cho người lao động quy định, nội quy, quy trình về an toàn, vệ sinh lao động, biện pháp phòng, chống yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc có liên quan đến công việc, nhiệm vụ được giao.
 
 8. Xây dựng, ban hành kế hoạch xử lý sự cố, ứng cứu khẩn cấp tại nơi làm việc; tổ chức xử lý sự cố, ứng cứu khẩn cấp, lực lượng ứng cứu và báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ hoặc khi xảy ra tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động tại nơi làm việc vượt ra khỏi khả năng kiểm soát của người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ### Điều 20.5.LQ.17. Trách nhiệm của người lao động trong việc bảo đảm an toàn, vệ sinh lao động tại nơi làm việc
 
@@ -844,15 +754,7 @@ b) Cung cấp thông tin khi tổ chức công đoàn, cơ quan, tổ chức có
 c) Có biện pháp khắc phục, kiểm soát các yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc nhằm bảo đảm an toàn, vệ sinh lao động, chăm sóc sức khỏe cho người lao động.
 
 5. Chính phủ quy định chi tiết về việc kiểm soát yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc và điều kiện hoạt động của tổ chức quan trắc môi trường lao động bảo đảm phù hợp với Luật đầu tư, Luật doanh nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-;
-Điều 12.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 34.6.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.5.NĐ.1.3. Nguyên tắc kiểm soát các yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc; Điều 12.1.LQ.1. Phạm vi điều chỉnh; Điều 34.6.LQ.1. Phạm vi điều chỉnh; Điều 20.5.NĐ.1.3. Nguyên tắc kiểm soát các yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc)
 
 ### Điều 20.5.LQ.19. Biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và ứng cứu khẩn cấp
 
@@ -870,11 +772,7 @@ c) Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm tr�
 Trường hợp vượt quá khả năng ứng phó của các cơ sở sản xuất, kinh doanh, địa phương thì phải khẩn cấp báo cáo cơ quan cấp trên trực tiếp để kịp thời huy động các cơ sở sản xuất, kinh doanh, địa phương khác tham gia ứng cứu; cơ sở sản xuất, kinh doanh, địa phương được yêu cầu huy động phải thực hiện và phối hợp thực hiện biện pháp ứng cứu khẩn cấp trong phạm vi, khả năng của mình.
 
 3. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-;
-Điều 20.5.NĐ.1.8. Biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và ứng cứu khẩn cấp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc; Điều 20.5.NĐ.1.8. Biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và ứng cứu khẩn cấp)
 
 ### Điều 20.5.LQ.20. Cải thiện điều kiện lao động, xây dựng văn hóa an toàn lao động
 
@@ -882,9 +780,7 @@ Trường hợp vượt quá khả năng ứng phó của các cơ sở sản xu
 1. Người sử dụng lao động phải thường xuyên phối hợp với Ban chấp hành công đoàn cơ sở để tổ chức cho người lao động tham gia hoạt động cải thiện điều kiện lao động, xây dựng văn hóa an toàn lao động tại nơi làm việc.
 
 2. Khuyến khích người sử dụng lao động áp dụng các tiêu chuẩn kỹ thuật, hệ thống quản lý tiên tiến, hiện đại và áp dụng công nghệ tiên tiến, công nghệ cao, công nghệ thân thiện với môi trường vào hoạt động sản xuất, kinh doanh nhằm cải thiện điều kiện lao động, bảo đảm an toàn, vệ sinh lao động cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ## Mục 3: Chế độ bảo hộ lao động, chăm sóc sức khỏe người lao động
 
@@ -902,13 +798,7 @@ Trường hợp vượt quá khả năng ứng phó của các cơ sở sản xu
 5. Người sử dụng lao động đưa người lao động được chẩn đoán mắc bệnh nghề nghiệp đến cơ sở khám bệnh, chữa bệnh đủ điều kiện chuyên môn kỹ thuật để điều trị theo phác đồ điều trị bệnh nghề nghiệp do Bộ trưởng Bộ Y tế quy định.
 
 6. Chi phí cho hoạt động khám sức khỏe, khám phát hiện bệnh nghề nghiệp, điều trị bệnh nghề nghiệp cho người lao động do người sử dụng lao động chi trả quy định tại các khoản 1, 2, 3 và 5 Điều này được hạch toán vào chi phí được trừ khi xác định thu nhập chịu thuế theo Luật thuế thu nhập doanh nghiệp và hạch toán vào chi phí hoạt động thường xuyên đối với cơ quan hành chính, đơn vị sự nghiệp không có hoạt động dịch vụ.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.TT.31.3. Đối tượng và thời gian khám sức khỏe trước khi bố trí làm việc
-;
-Điều 20.5.TT.31.7. Thời gian khám phát hiện bệnh nghề nghiệp cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại; Điều 20.5.TT.31.3. Đối tượng và thời gian khám sức khỏe trước khi bố trí làm việc; Điều 20.5.TT.31.7. Thời gian khám phát hiện bệnh nghề nghiệp cho người lao động)
 
 ### Điều 20.5.LQ.22. Nghề, công việc nặng nhọc, độc hại, nguy hiểm
 
@@ -918,11 +808,7 @@ Trường hợp vượt quá khả năng ứng phó của các cơ sở sản xu
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm và nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm sau khi có ý kiến của Bộ Y tế; quy định tiêu chuẩn phân loại lao động theo điều kiện lao động.
 
 3. Người sử dụng lao động thực hiện đầy đủ các chế độ bảo hộ lao động và chăm sóc sức khỏe đối với người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm và nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 4. Mục đích sử dụng phương pháp phân loại lao động theo điều kiện lao động
-;
-Điều 7. Trách nhiệm của Cục An toàn lao động của Thông tư 29/2021/TT-BLĐTBXH Quy định tiêu chuẩn phân loại lao động theo điều kiện lao động ban hành ngày 28/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 4. Mục đích sử dụng phương pháp phân loại lao động theo điều kiện lao động; Điều 7. Trách nhiệm của Cục An toàn lao động của Thông tư 29/2021/TT-BLĐTBXH Quy định tiêu chuẩn phân loại lao động theo điều kiện lao động ban hành ngày 28/12/2021)
 
 ### Điều 20.5.LQ.23. Phương tiện bảo vệ cá nhân trong lao động
 
@@ -942,13 +828,7 @@ c) Hướng dẫn, giám sát người lao động sử dụng phương tiện b
 d) Tổ chức thực hiện biện pháp khử độc, khử trùng, tẩy xạ bảo đảm vệ sinh đối với phương tiện bảo vệ cá nhân đã qua sử dụng ở những nơi dễ gây nhiễm độc, nhiễm trùng, nhiễm xạ.
 
 4. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định về chế độ trang cấp phương tiện bảo vệ cá nhân trong lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.TT.98.8. Trách nhiệm của người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại; Điều 20.5.TT.98.8. Trách nhiệm của người sử dụng lao động)
 
 ### Điều 20.5.LQ.24. Bồi dưỡng bằng hiện vật
 
@@ -964,9 +844,7 @@ b) Bảo đảm thuận tiện, an toàn, vệ sinh thực phẩm;
 c) Thực hiện trong ca, ngày làm việc, trừ trường hợp đặc biệt do tổ chức lao động không thể tổ chức bồi dưỡng tập trung tại chỗ.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định việc bồi dưỡng bằng hiện vật.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ### Điều 20.5.LQ.25. Thời giờ làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại
 
@@ -974,17 +852,13 @@ c) Thực hiện trong ca, ngày làm việc, trừ trường hợp đặc biệ
 1. Người sử dụng lao động có trách nhiệm bảo đảm thời gian tiếp xúc với yếu tố nguy hiểm, yếu tố có hại của người lao động nằm trong giới hạn an toàn được quy định trong quy chuẩn kỹ thuật quốc gia tương ứng và các quy định của pháp luật có liên quan.
 
 2. Thời giờ làm việc đối với người lao động làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được thực hiện theo quy định của pháp luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ### Điều 20.5.LQ.26. Điều dưỡng phục hồi sức khỏe
 
 (Điều 26 Luật số 84/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 Hằng năm, khuyến khích người sử dụng lao động tổ chức cho người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, người lao động làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm và người lao động có sức khỏe kém được điều dưỡng phục hồi sức khỏe.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.4.27. Trình tự giải quyết hỗ trợ kinh phí phục hồi chức năng cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.4.27. Trình tự giải quyết hỗ trợ kinh phí phục hồi chức năng cho người lao động)
 
 ### Điều 20.5.LQ.27. Quản lý sức khỏe người lao động
 
@@ -992,9 +866,7 @@ Hằng năm, khuyến khích người sử dụng lao động tổ chức cho ng
 1. Người sử dụng lao động phải căn cứ vào tiêu chuẩn sức khỏe quy định cho từng loại nghề, công việc và kết quả khám sức khỏe để sắp xếp công việc phù hợp cho người lao động.
 
 2. Người sử dụng lao động có trách nhiệm lập và quản lý hồ sơ sức khỏe của người lao động, hồ sơ sức khỏe của người bị bệnh nghề nghiệp; thông báo kết quả khám sức khỏe, khám phát hiện bệnh nghề nghiệp để người lao động biết; hằng năm, báo cáo về việc quản lý sức khỏe người lao động thuộc trách nhiệm quản lý cho cơ quan quản lý nhà nước về y tế có thẩm quyền.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc)
 
 ## Mục 4: Quản lý máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
 
@@ -1004,9 +876,7 @@ Hằng năm, khuyến khích người sử dụng lao động tổ chức cho ng
 1. Máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động là máy, thiết bị, vật tư, chất trong điều kiện lưu giữ, vận chuyển, bảo quản, sử dụng hợp lý, đúng mục đích và đúng theo hướng dẫn của nhà sản xuất nhưng trong quá trình lao động, sản xuất vẫn tiềm ẩn khả năng xảy ra tai nạn lao động, bệnh nghề nghiệp, gây hậu quả nghiêm trọng đến sức khỏe, tính mạng con người.
 
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Danh mục các loại máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động trên cơ sở đề nghị của các bộ quy định tại Điều 33 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.84. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.84. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Lao động - Thương binh và Xã hội)
 
 ### Điều 20.5.LQ.29. Lập phương án bảo đảm an toàn, vệ sinh lao động khi xây dựng mới, mở rộng hoặc cải tạo công trình, cơ sở để sản xuất, sử dụng, bảo quản, lưu giữ máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
 
@@ -1033,11 +903,7 @@ d) Các biện pháp cụ thể nhằm loại trừ, giảm thiểu yếu tố n
 3. Trong quá trình sử dụng máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động, tổ chức, cá nhân có trách nhiệm định kỳ kiểm tra, bảo dưỡng, lập và lưu giữ hồ sơ kỹ thuật an toàn máy, thiết bị, vật tư theo quy chuẩn kỹ thuật quốc gia tương ứng.
 
 4. Việc sử dụng chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động thực hiện theo quy định của pháp luật về hóa chất và pháp luật chuyên ngành.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.31. Kiểm định máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động
-;
-Điều 20.5.LQ.33. Trách nhiệm của các bộ trong việc quản lý nhà nước đối với máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.31. Kiểm định máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động; Điều 20.5.LQ.33. Trách nhiệm của các bộ trong việc quản lý nhà nước đối với máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.31. Kiểm định máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động
 
@@ -1047,11 +913,7 @@ d) Các biện pháp cụ thể nhằm loại trừ, giảm thiểu yếu tố n
 2. Việc kiểm định các loại máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động phải bảo đảm chính xác, công khai, minh bạch.
 
 3. Chính phủ quy định chi tiết về cơ quan có thẩm quyền cấp, điều kiện về cơ sở vật chất, kỹ thuật, trình tự, thủ tục, hồ sơ cấp mới, cấp lại, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện hoạt động của tổ chức hoạt động kiểm định kỹ thuật an toàn lao động; tiêu chuẩn kiểm định viên đáp ứng các yêu cầu kiểm định của đối tượng kiểm định; việc kiểm định máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động.
-(Điều này có nội dung liên quan đến
-Điều 3. Mức giá dịch vụ kiểm định kỹ thuật an toàn lao động của Thông tư 41/2016/TT-BLĐTBXH Quy định giá tối thiểu đối với dịch vụ kiểm định kỹ thuật an toàn lao động máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động ban hành ngày 11/11/2016
-;
-Điều 20.5.LQ.30. Sử dụng máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 3. Mức giá dịch vụ kiểm định kỹ thuật an toàn lao động của Thông tư 41/2016/TT-BLĐTBXH Quy định giá tối thiểu đối với dịch vụ kiểm định kỹ thuật an toàn lao động máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động ban hành ngày 11/11/2016; Điều 20.5.LQ.30. Sử dụng máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.32. Quyền và nghĩa vụ của tổ chức hoạt động kiểm định kỹ thuật an toàn lao động
 
@@ -1079,9 +941,7 @@ c) Chịu trách nhiệm về kết quả kiểm định, bồi thường thiệ
 d) Hằng năm, báo cáo cơ quan quản lý nhà nước có thẩm quyền quản lý lĩnh vực theo quy định tại khoản 1, khoản 2 Điều 33 của Luật này và cơ quan quản lý nhà nước về lao động tình hình hoạt động kiểm định đã thực hiện theo quy định của pháp luật;
 
 đ) Lưu giữ hồ sơ kiểm định.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.33. Trách nhiệm của các bộ trong việc quản lý nhà nước đối với máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.33. Trách nhiệm của các bộ trong việc quản lý nhà nước đối với máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.33. Trách nhiệm của các bộ trong việc quản lý nhà nước đối với máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
 
@@ -1121,19 +981,11 @@ c) Tổ chức kiểm tra hoạt động kiểm định thuộc thẩm quyền q
 d) Hằng năm, gửi Bộ Lao động - Thương binh và Xã hội báo cáo về việc quản lý máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động quy định tại khoản 1 và khoản 2 Điều này, trừ trường hợp luật chuyên ngành có quy định khác.
 
 4. Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các bộ có liên quan rà soát Danh mục các loại máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động để sửa đổi, bổ sung phù hợp với sự phát triển kinh tế - xã hội, khoa học công nghệ, quản lý trong từng thời kỳ.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.30. Sử dụng máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.32. Quyền và nghĩa vụ của tổ chức hoạt động kiểm định kỹ thuật an toàn lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.30. Sử dụng máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động; Điều 20.5.LQ.32. Quyền và nghĩa vụ của tổ chức hoạt động kiểm định kỹ thuật an toàn lao động)
 
 # Chương III: Các biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động và tai nạn lao động, bệnh nghề nghiệp
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015)
 
 ## Mục 1: Khai báo, thống kê, báo cáo, điều tra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, tai nạn lao động, bệnh nghề nghiệp
 
@@ -1155,23 +1007,7 @@ Trường hợp xảy ra tai nạn lao động chết người, tai nạn lao đ
 Trường hợp xảy ra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động liên quan đến người lao động làm việc không theo hợp đồng lao động thì người phát hiện có trách nhiệm kịp thời khai báo với Ủy ban nhân dân cấp xã tại nơi xảy ra sự cố kỹ thuật và việc báo cáo thực hiện theo quy định tại Điều 19 và Điều 36 của Luật này.
 
 2. Trong phạm vi trách nhiệm của mình, cơ quan, tổ chức có thẩm quyền phải xem xét, giải quyết tin báo về tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, thông báo kết quả giải quyết tin báo cho cơ quan, tổ chức, cá nhân đã báo tin khi có yêu cầu và phải áp dụng các biện pháp cần thiết để bảo vệ quyền, lợi ích hợp pháp, chính đáng của người đã báo tin.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.10. Quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động
-;
-Điều 20.5.NĐ.1.10. Thời gian, nội dung khai báo tai nạn lao động
-;
-Điều 20.5.NĐ.1.11. Quyết định thành lập Đoàn Điều tra tai nạn lao động
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.10. Quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động; Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; Điều 20.5.NĐ.1.10. Thời gian, nội dung khai báo tai nạn lao động; Điều 20.5.NĐ.1.11. Quyết định thành lập Đoàn Điều tra tai nạn lao động; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại; Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động)
 
 ### Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
 
@@ -1237,31 +1073,7 @@ d) Trưởng đoàn điều tra hoặc cơ quan nhà nước chủ trì thực h
 10. Trường hợp vượt quá thời hạn điều tra đối với tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động và sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng quy định tại Điều này mà gây thiệt hại đến quyền, lợi ích hợp pháp của người lao động, người sử dụng lao động thì phải bồi thường theo quy định của pháp luật.
 
 11. Chính phủ quy định chi tiết về phân loại, khai báo, điều tra, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và việc giải quyết chế độ tai nạn lao động cho người lao động trong trường hợp vụ tai nạn lao động có quyết định khởi tố vụ án hình sự.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.10. Quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động
-;
-Điều 20.5.NĐ.1.11. Quyết định thành lập Đoàn Điều tra tai nạn lao động
-;
-Điều 20.5.NĐ.1.17. Điều tra lại tai nạn lao động khi có khiếu nại, tố cáo
-;
-Điều 20.5.NĐ.1.18. Trách nhiệm của người sử dụng lao động của cơ sở xảy ra tai nạn lao động
-;
-Điều 20.5.NĐ.1.20. Phối hợp Điều tra tai nạn lao động chết người và tai nạn lao động khác có dấu hiệu tội phạm
-;
-Điều 20.5.NĐ.1.23. Điều tra tai nạn giao thông liên quan đến lao động
-;
-Điều 20.5.NĐ.1.24. Thời Điểm, mẫu báo cáo tai nạn lao động
-;
-Điều 20.5.NĐ.1.28. Giải quyết chế độ tai nạn lao động cho người lao động trong trường hợp vụ tai nạn lao động có quyết định khởi tố vụ án hình sự
-;
-Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động
-;
-Điều 20.5.TT.95.6. Hồ sơ bồi thường, trợ cấp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.10. Quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động; Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; Điều 20.5.NĐ.1.11. Quyết định thành lập Đoàn Điều tra tai nạn lao động; Điều 20.5.NĐ.1.17. Điều tra lại tai nạn lao động khi có khiếu nại, tố cáo; Điều 20.5.NĐ.1.18. Trách nhiệm của người sử dụng lao động của cơ sở xảy ra tai nạn lao động; Điều 20.5.NĐ.1.20. Phối hợp Điều tra tai nạn lao động chết người và tai nạn lao động khác có dấu hiệu tội phạm; Điều 20.5.NĐ.1.23. Điều tra tai nạn giao thông liên quan đến lao động; Điều 20.5.NĐ.1.24. Thời Điểm, mẫu báo cáo tai nạn lao động; Điều 20.5.NĐ.1.28. Giải quyết chế độ tai nạn lao động cho người lao động trong trường hợp vụ tai nạn lao động có quyết định khởi tố vụ án hình sự; Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động; Điều 20.5.TT.95.6. Hồ sơ bồi thường, trợ cấp)
 
 ### Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
 
@@ -1279,23 +1091,7 @@ b) Định kỳ 06 tháng, hằng năm, gửi báo cáo tình hình tai nạn la
 4. Định kỳ 06 tháng, hằng năm, Bộ Y tế thống kê các trường hợp người bị tai nạn lao động khám và điều trị tại cơ sở khám bệnh, chữa bệnh và gửi Bộ Lao động - Thương binh và Xã hội tổng hợp.
 
 5. Bộ Lao động - Thương binh và Xã hội tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; tổ chức xây dựng, quản lý cơ sở dữ liệu về an toàn lao động trong phạm vi cả nước.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động
-;
-Điều 20.5.LQ.69. An toàn, vệ sinh lao động đối với người lao động nhận công việc về làm tại nhà
-;
-Điều 20.5.LQ.81. Thống kê, báo cáo về an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.1.24. Thời Điểm, mẫu báo cáo tai nạn lao động
-;
-Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; Điều 20.5.LQ.69. An toàn, vệ sinh lao động đối với người lao động nhận công việc về làm tại nhà; Điều 20.5.LQ.81. Thống kê, báo cáo về an toàn, vệ sinh lao động; Điều 20.5.NĐ.1.24. Thời Điểm, mẫu báo cáo tai nạn lao động; Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại; Điều 20.5.TT.86.3. Thu thập, lưu trữ, tổng hợp, cung cấp thông tin tai nạn lao động)
 
 ### Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp
 
@@ -1309,27 +1105,11 @@ Danh mục bệnh nghề nghiệp do Bộ trưởng Bộ Y tế ban hành sau kh
 3. Hằng năm, Bộ Y tế gửi báo cáo thống kê, đánh giá về bệnh nghề nghiệp, tình hình thực hiện công tác phòng, chống bệnh nghề nghiệp cho Bộ Lao động - Thương binh và Xã hội tổng hợp, báo cáo Chính phủ.
 
 4. Bộ Y tế tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình bệnh nghề nghiệp; tổ chức xây dựng, quản lý cơ sở dữ liệu về phòng, chống bệnh nghề nghiệp; tổ chức điều tra bệnh nghề nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.46. Điều kiện hưởng chế độ bệnh nghề nghiệp
-;
-Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động
-;
-Điều 20.5.LQ.81. Thống kê, báo cáo về an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.85. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Y tế
-;
-Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.46. Điều kiện hưởng chế độ bệnh nghề nghiệp; Điều 20.5.LQ.65. An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; Điều 20.5.LQ.81. Thống kê, báo cáo về an toàn, vệ sinh lao động; Điều 20.5.LQ.85. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Y tế; Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại)
 
 ## Mục 2: Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
 
-(Mục này có nội dung liên quan đến
-
-### Điều 20.5.TT.95.14. Nguyên tắc thực hiện chế độ bồi thường, trợ cấp tai nạn lao động, bệnh nghề nghiệp của Thông tư 28/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về chế độ đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp. ban hành ngày 28/12/2021
-
-)
+(Mục này có nội dung liên quan đến: Điều 20.5.TT.95.14. Nguyên tắc thực hiện chế độ bồi thường, trợ cấp tai nạn lao động, bệnh nghề nghiệp của Thông tư 28/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về chế độ đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp. ban hành ngày 28/12/2021)
 
 ### Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
 
@@ -1367,29 +1147,7 @@ b) Ít nhất 30 tháng tiền lương cho người lao động bị suy giảm 
 10. Tiền lương để làm cơ sở thực hiện các chế độ bồi thường, trợ cấp, tiền lương trả cho người lao động nghỉ việc do bị tai nạn lao động, bệnh nghề nghiệp được quy định tại các khoản 3, 4 và 5 Điều này là tiền lương bao gồm mức lương, phụ cấp lương và các khoản bổ sung khác thực hiện theo quy định của pháp luật về lao động.
 
 11. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết các khoản 3, 4 và 5 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động
-;
-Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động
-;
-Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc
-;
-Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc
-;
-Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.69. An toàn, vệ sinh lao động đối với người lao động nhận công việc về làm tại nhà
-;
-Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại
-;
-Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018
-;
-Điều 20.5.NĐ.4.10. Tham gia Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.5.TT.95.5. Tiền lương làm căn cứ thực hiện bồi thường, trợ cấp và trả cho người lao động nghỉ việc do tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động; Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động; Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc; Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc; Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.69. An toàn, vệ sinh lao động đối với người lao động nhận công việc về làm tại nhà; Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại; Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018; Điều 20.5.NĐ.4.10. Tham gia Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.5.TT.95.5. Tiền lương làm căn cứ thực hiện bồi thường, trợ cấp và trả cho người lao động nghỉ việc do tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động
 
@@ -1403,23 +1161,7 @@ b) Ít nhất 30 tháng tiền lương cho người lao động bị suy giảm 
 4. Nếu người sử dụng lao động không đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp cho người lao động thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc theo quy định của Luật bảo hiểm xã hội, thì ngoài việc phải bồi thường, trợ cấp theo quy định tại Điều 38 của Luật này, người sử dụng lao động phải trả khoản tiền tương ứng với chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định tại Mục 3 Chương này khi người lao động bị tai nạn lao động, bệnh nghề nghiệp; việc chi trả có thể thực hiện một lần hoặc hằng tháng theo thỏa thuận của các bên, trường hợp không thống nhất thì thực hiện theo yêu cầu của người lao động.
 
 5. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật
-;
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động
-;
-Điều 20.5.NĐ.1.19. Khai báo, Điều tra, báo cáo tai nạn lao động đối với người lao động Việt Nam đi làm việc ở nước ngoài
-;
-Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại
-;
-Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt
-)
+(Điều này có nội dung liên quan đến: Điều 19.8.LQ.26. Hệ thống quy chuẩn kỹ thuật và ký hiệu quy chuẩn kỹ thuật; Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động; Điều 20.5.NĐ.1.19. Khai báo, Điều tra, báo cáo tai nạn lao động đối với người lao động Việt Nam đi làm việc ở nước ngoài; Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại; Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt)
 
 ### Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động
 
@@ -1433,43 +1175,11 @@ b) Do người lao động cố ý tự hủy hoại sức khỏe của bản th
 c) Do sử dụng ma túy, chất gây nghiện khác trái với quy định của pháp luật.
 
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động
-;
-Điều 20.5.LQ.45. Điều kiện hưởng chế độ tai nạn lao động
-;
-Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018
-;
-Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động; Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động; Điều 20.5.LQ.45. Điều kiện hưởng chế độ tai nạn lao động; Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018; Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt)
 
 ## Mục 3: Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
-(Mục này có nội dung liên quan đến
-
-### Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-
-;
-
-### Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018
-
-;
-
-### Điều 20.5.NĐ.4.4. Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp đối với người lao động giao kết hợp đồng lao động với nhiều người sử dụng lao động
-
-;
-
-### Điều 20.5.NĐ.4.5. Chế độ cho người lao động phát hiện bị bệnh nghề nghiệp khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp của Nghị định 88/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về bảo hiểm tai nạn lao động, bệnh nghề nghiệp bắt buộc ban hành ngày 28/07/2020
-
-;
-
-### Điều 20.5.TT.95.14. Nguyên tắc thực hiện chế độ bồi thường, trợ cấp tai nạn lao động, bệnh nghề nghiệp của Thông tư 28/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về chế độ đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp. ban hành ngày 28/12/2021
-
-)
+(Mục này có nội dung liên quan đến: Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015; Điều 6. Chế độ đối với huấn luyện viên, vận động viên bị tai nạn lao động, bệnh nghề nghiệp trong thời gian tập trung tập huấn, thi đấu của Nghị định 152/2018/NĐ-CP Quy định một số chế độ đối với huấn luyện viên, vận động viên thể thao trong thời gian tập trung tập huấn, thi đấu ban hành ngày 07/11/2018; Điều 20.5.NĐ.4.4. Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp đối với người lao động giao kết hợp đồng lao động với nhiều người sử dụng lao động; Điều 20.5.NĐ.4.5. Chế độ cho người lao động phát hiện bị bệnh nghề nghiệp khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp của Nghị định 88/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về bảo hiểm tai nạn lao động, bệnh nghề nghiệp bắt buộc ban hành ngày 28/07/2020; Điều 20.5.TT.95.14. Nguyên tắc thực hiện chế độ bồi thường, trợ cấp tai nạn lao động, bệnh nghề nghiệp của Thông tư 28/2021/TT-BLĐTBXH Quy định chi tiết và hướng dẫn thi hành một số điều của Luật An toàn, vệ sinh lao động về chế độ đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp. ban hành ngày 28/12/2021)
 
 ### Điều 20.5.LQ.41. Nguyên tắc thực hiện chế độ đối với người bị tai nạn lao động, bệnh nghề nghiệp từ Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
@@ -1500,17 +1210,7 @@ c) Do sử dụng ma túy, chất gây nghiện khác trái với quy định c�
 7. Chi phí quản lý bảo hiểm tai nạn lao động, bệnh nghề nghiệp thực hiện theo quy định của Luật bảo hiểm xã hội.
 
 8. Chi đóng bảo hiểm y tế cho người nghỉ việc hưởng trợ cấp bảo hiểm tai nạn lao động, bệnh nghề nghiệp hằng tháng.
-(Điều này có nội dung liên quan đến
-Điều 2.2.LQ.12. Đối tượng tham gia bảo hiểm y tế
-;
-Điều 20.5.LQ.45. Điều kiện hưởng chế độ tai nạn lao động
-;
-Điều 20.5.LQ.46. Điều kiện hưởng chế độ bệnh nghề nghiệp
-;
-Điều 20.5.LQ.47. Giám định mức suy giảm khả năng lao động
-;
-Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt
-)
+(Điều này có nội dung liên quan đến: Điều 2.2.LQ.12. Đối tượng tham gia bảo hiểm y tế; Điều 20.5.LQ.45. Điều kiện hưởng chế độ tai nạn lao động; Điều 20.5.LQ.46. Điều kiện hưởng chế độ bệnh nghề nghiệp; Điều 20.5.LQ.47. Giám định mức suy giảm khả năng lao động; Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt)
 
 ### Điều 20.5.LQ.43. Đối tượng áp dụng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
@@ -1518,9 +1218,7 @@ c) Do sử dụng ma túy, chất gây nghiện khác trái với quy định c�
 1. Đối tượng áp dụng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định tại Mục này là người lao động tham gia bảo hiểm xã hội bắt buộc theo quy định tại các điểm a, b, c, d, đ, e và h khoản 1 Điều 2 và người sử dụng lao động quy định tại khoản 3 Điều 2 của Luật bảo hiểm xã hội.
 
 2. Trường hợp người lao động giao kết hợp đồng lao động với nhiều người sử dụng lao động thì người sử dụng lao động phải đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo từng hợp đồng lao động đã giao kết nếu người lao động thuộc đối tượng phải tham gia bảo hiểm xã hội bắt buộc. Khi bị tai nạn lao động, bệnh nghề nghiệp thì người lao động được giải quyết chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo nguyên tắc đóng, hưởng do Chính phủ quy định.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.5.LQ.44. Mức đóng, nguồn hình thành Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
@@ -1536,11 +1234,7 @@ b) Tiền sinh lời của hoạt động đầu tư từ quỹ theo quy định
 c) Các nguồn thu hợp pháp khác.
 
 3. Căn cứ vào khả năng bảo đảm cân đối Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp, Chính phủ quy định chi tiết mức đóng vào quỹ quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 90. Chi phí quản lý bảo hiểm xã hội
-;
-Điều 91. Nguyên tắc đầu tư của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-)
+(Điều này có nội dung liên quan đến: Điều 90. Chi phí quản lý bảo hiểm xã hội; Điều 91. Nguyên tắc đầu tư của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014)
 
 ### Điều 20.5.LQ.45. Điều kiện hưởng chế độ tai nạn lao động
 
@@ -1558,11 +1252,7 @@ c) Trên tuyến đường đi từ nơi ở đến nơi làm việc hoặc từ
 2. Suy giảm khả năng lao động từ 5% trở lên do bị tai nạn quy định tại khoản 1 Điều này;
 
 3. Người lao động không được hưởng chế độ do Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chi trả nếu thuộc một trong các nguyên nhân quy định tại khoản 1 Điều 40 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động
-;
-Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.40. Trường hợp người lao động không được hưởng chế độ từ người sử dụng lao động khi bị tai nạn lao động; Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.46. Điều kiện hưởng chế độ bệnh nghề nghiệp
 
@@ -1574,11 +1264,7 @@ a) Bị bệnh nghề nghiệp thuộc Danh mục bệnh nghề nghiệp do Bộ
 b) Suy giảm khả năng lao động từ 5% trở lên do bị bệnh quy định tại điểm a khoản này.
 
 2. Người lao động khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp thuộc Danh mục bệnh nghề nghiệp do Bộ trưởng Bộ Y tế ban hành theo quy định tại khoản 1 Điều 37 của Luật này mà phát hiện bị bệnh nghề nghiệp trong thời gian quy định thì được giám định để xem xét, giải quyết chế độ theo quy định của Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp
-;
-Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp; Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.47. Giám định mức suy giảm khả năng lao động
 
@@ -1600,31 +1286,7 @@ b) Bị tai nạn lao động nhiều lần;
 c) Bị nhiều bệnh nghề nghiệp.
 
 3. Người lao động quy định tại điểm b khoản 1 Điều này được giám định lại tai nạn lao động, bệnh nghề nghiệp sau 24 tháng, kể từ ngày người lao động được Hội đồng giám định y khoa kết luận tỷ lệ suy giảm khả năng lao động liền kề trước đó; trường hợp do tính chất của bệnh nghề nghiệp khiến người lao động suy giảm sức khỏe nhanh thì thời gian giám định được thực hiện sớm hơn theo quy định của Bộ trưởng Bộ Y tế.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp
-;
-Điều 5. Hồ sơ khám giám định lần đầu
-;
-Điều 6. Hồ sơ khám giám định lại do tái phát
-;
-Điều 7. Hồ sơ khám giám định tổng hợp
-;
-Điều 8. Hồ sơ giám định phúc quyết do vượt khả năng chuyên môn
-;
-Điều 9. Hồ sơ khám giám định phúc quyết theo đề nghị của tổ chức, cá nhân
-;
-Điều 10. Hồ sơ khám giám định phúc quyết lần cuối
-;
-Điều 11. Trách nhiệm lập hồ sơ khám giám định
-;
-Điều 12. Thời hạn giám định lại
-;
-Điều 13. Trình tự, nội dung khám giám định
-;
-Điều 14. Thời hạn giá trị Biên bản giám định y khoa của Thông tư 56/2017/TT-BYT quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế ban hành ngày 01/03/2018
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.42. Sử dụng Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp; Điều 5. Hồ sơ khám giám định lần đầu; Điều 6. Hồ sơ khám giám định lại do tái phát; Điều 7. Hồ sơ khám giám định tổng hợp; Điều 8. Hồ sơ giám định phúc quyết do vượt khả năng chuyên môn; Điều 9. Hồ sơ khám giám định phúc quyết theo đề nghị của tổ chức, cá nhân; Điều 10. Hồ sơ khám giám định phúc quyết lần cuối; Điều 11. Trách nhiệm lập hồ sơ khám giám định; Điều 12. Thời hạn giám định lại; Điều 13. Trình tự, nội dung khám giám định; Điều 14. Thời hạn giá trị Biên bản giám định y khoa của Thông tư 56/2017/TT-BYT quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế ban hành ngày 01/03/2018)
 
 ### Điều 20.5.LQ.48. Trợ cấp một lần
 
@@ -1638,13 +1300,7 @@ a) Suy giảm 5% khả năng lao động thì được hưởng năm lần mức
 b) Ngoài mức trợ cấp quy định tại điểm a khoản này, còn được hưởng thêm khoản trợ cấp tính theo số năm đã đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp, từ một năm trở xuống thì được tính bằng 0,5 tháng, sau đó cứ thêm mỗi năm đóng vào quỹ được tính thêm 0,3 tháng tiền lương đóng vào quỹ của tháng liền kề trước tháng bị tai nạn lao động hoặc được xác định mắc bệnh nghề nghiệp; trường hợp bị tai nạn lao động ngay trong tháng đầu tham gia đóng vào quỹ hoặc có thời gian tham gia gián đoạn sau đó trở lại làm việc thì tiền lương làm căn cứ tính khoản trợ cấp này là tiền lương của chính tháng đó.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết việc tính hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp trong trường hợp người lao động thay đổi mức hưởng trợ cấp do giám định lại, giám định tổng hợp.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp
-;
-Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt
-;
-Điều 20.5.TT.95.9. Trợ cấp tai nạn lao động, bệnh nghề nghiệp đối với người lao động được giám định mức suy giảm khả năng lao động lần đầu
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp; Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt; Điều 20.5.TT.95.9. Trợ cấp tai nạn lao động, bệnh nghề nghiệp đối với người lao động được giám định mức suy giảm khả năng lao động lần đầu)
 
 ### Điều 20.5.LQ.49. Trợ cấp hằng tháng
 
@@ -1664,27 +1320,7 @@ b) Ngoài mức trợ cấp quy định tại điểm a khoản này, hằng th�
 5. Người đang hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp hằng tháng khi ra nước ngoài để định cư được giải quyết hưởng trợ cấp một lần; mức trợ cấp một lần bằng 03 tháng mức trợ cấp đang hưởng. Hồ sơ, trình tự giải quyết trợ cấp một lần thực hiện theo quy định tại khoản 2, khoản 3 Điều 109 và khoản 4 Điều 110 của Luật bảo hiểm xã hội.
 
 6. Mức hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp hằng tháng, trợ cấp phục vụ được điều chỉnh mức hưởng theo quy định của Luật bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Điều 64. Tạm dừng, hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng
-;
-Điều 109. Hồ sơ hưởng bảo hiểm xã hội một lần
-;
-Điều 110. Giải quyết hưởng lương hưu, bảo hiểm xã hội một lần
-;
-Điều 113. Hồ sơ hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng đối với người xuất cảnh trái phép trở về nước định cư hợp pháp và người bị Tòa án tuyên bố mất tích trở về
-;
-Điều 114. Giải quyết hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng đối với người xuất cảnh trái phép trở về nước định cư hợp pháp, người bị Tòa án tuyên bố mất tích trở về của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-;
-Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp
-;
-Điều 20.5.LQ.52. Trợ cấp phục vụ
-;
-Điều 20.5.NĐ.4.11. Thời gian, tiền lương tháng làm căn cứ tính hưởng chế độ tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt
-;
-Điều 20.5.TT.95.9. Trợ cấp tai nạn lao động, bệnh nghề nghiệp đối với người lao động được giám định mức suy giảm khả năng lao động lần đầu
-)
+(Điều này có nội dung liên quan đến: Điều 64. Tạm dừng, hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng; Điều 109. Hồ sơ hưởng bảo hiểm xã hội một lần; Điều 110. Giải quyết hưởng lương hưu, bảo hiểm xã hội một lần; Điều 113. Hồ sơ hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng đối với người xuất cảnh trái phép trở về nước định cư hợp pháp và người bị Tòa án tuyên bố mất tích trở về; Điều 114. Giải quyết hưởng tiếp lương hưu, trợ cấp bảo hiểm xã hội hằng tháng đối với người xuất cảnh trái phép trở về nước định cư hợp pháp, người bị Tòa án tuyên bố mất tích trở về của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014; Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp; Điều 20.5.LQ.52. Trợ cấp phục vụ; Điều 20.5.NĐ.4.11. Thời gian, tiền lương tháng làm căn cứ tính hưởng chế độ tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.TT.95.8. Giải quyết chế độ tai nạn lao động, bệnh nghề nghiệp đối với các trường hợp cá biệt; Điều 20.5.TT.95.9. Trợ cấp tai nạn lao động, bệnh nghề nghiệp đối với người lao động được giám định mức suy giảm khả năng lao động lần đầu)
 
 ### Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp
 
@@ -1694,15 +1330,7 @@ b) Ngoài mức trợ cấp quy định tại điểm a khoản này, hằng th�
 Trường hợp bị tai nạn lao động, bệnh nghề nghiệp mà sau đó không xác định được thời điểm điều trị ổn định xong, ra viện thì thời điểm hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp được tính từ tháng có kết luận của Hội đồng giám định y khoa; trường hợp bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp thì thời điểm hưởng trợ cấp tính từ tháng người lao động được cấp Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
 
 2. Trường hợp người lao động được đi giám định mức suy giảm khả năng lao động quy định tại điểm b khoản 1 và khoản 2 Điều 47 của Luật này thì thời điểm hưởng trợ cấp mới được tính từ tháng có kết luận của Hội đồng giám định y khoa.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.47. Giám định mức suy giảm khả năng lao động
-;
-Điều 20.5.LQ.48. Trợ cấp một lần
-;
-Điều 20.5.LQ.49. Trợ cấp hằng tháng
-;
-Điều 20.5.LQ.52. Trợ cấp phục vụ
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.47. Giám định mức suy giảm khả năng lao động; Điều 20.5.LQ.48. Trợ cấp một lần; Điều 20.5.LQ.49. Trợ cấp hằng tháng; Điều 20.5.LQ.52. Trợ cấp phục vụ)
 
 ### Điều 20.5.LQ.51. Phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình
 
@@ -1715,11 +1343,7 @@ Trường hợp bị tai nạn lao động, bệnh nghề nghiệp mà sau đó 
 
 (Điều 52 Luật số 84/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 Người lao động bị suy giảm khả năng lao động từ 81% trở lên mà bị liệt cột sống hoặc mù hai mắt hoặc cụt, liệt hai chi hoặc bị bệnh tâm thần thì ngoài mức hưởng quy định tại Điều 49 của Luật này, hằng tháng còn được hưởng trợ cấp phục vụ bằng mức lương cơ sở.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.49. Trợ cấp hằng tháng
-;
-Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.49. Trợ cấp hằng tháng; Điều 20.5.LQ.50. Thời điểm hưởng trợ cấp)
 
 ### Điều 20.5.LQ.53. Trợ cấp khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp
 
@@ -1733,11 +1357,7 @@ Thân nhân người lao động được hưởng trợ cấp một lần bằn
 3. Người lao động bị chết trong thời gian điều trị thương tật, bệnh tật mà chưa được giám định mức suy giảm khả năng lao động.
 
 Hồ sơ hưởng chế độ tử tuất trong trường hợp người lao động bị chết do tai nạn lao động, bệnh nghề nghiệp thực hiện theo quy định tại khoản 1 Điều 111 của Luật bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Điều 111. Hồ sơ hưởng chế độ tử tuất của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014
-;
-Điều 20.5.NĐ.4.6. Hồ sơ giải quyết chế độ tử tuất theo quy định tại Điều 53 của Luật An toàn, vệ sinh lao động đối với trường hợp bị tai nạn giao thông khi đang thực hiện công việc, nhiệm vụ lao động hoặc khi đi từ nơi ở đến nơi làm việc hoặc đi từ nơi làm việc về nơi ở
-)
+(Điều này có nội dung liên quan đến: Điều 111. Hồ sơ hưởng chế độ tử tuất của Luật 58/2014/QH13 Bảo hiểm xã hội ban hành ngày 20/11/2014; Điều 20.5.NĐ.4.6. Hồ sơ giải quyết chế độ tử tuất theo quy định tại Điều 53 của Luật An toàn, vệ sinh lao động đối với trường hợp bị tai nạn giao thông khi đang thực hiện công việc, nhiệm vụ lao động hoặc khi đi từ nơi ở đến nơi làm việc hoặc đi từ nơi làm việc về nơi ở)
 
 ### Điều 20.5.LQ.54. Dưỡng sức, phục hồi sức khỏe sau khi điều trị thương tật, bệnh tật
 
@@ -1755,11 +1375,7 @@ b) Tối đa 07 ngày đối với trường hợp bị tai nạn lao động, b
 c) Tối đa 05 ngày đối với trường hợp bị tai nạn lao động, bệnh nghề nghiệp có mức suy giảm khả năng lao động từ 15% đến 30%.
 
 3. Người lao động quy định tại khoản 1 Điều này được hưởng 01 ngày bằng 30% mức lương cơ sở.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.60. Giải quyết hưởng trợ cấp dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.4.9. Ngày nghỉ dưỡng sức, phục hồi sức khỏe sau khi điều trị thương tật, bệnh tật
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.60. Giải quyết hưởng trợ cấp dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.NĐ.4.9. Ngày nghỉ dưỡng sức, phục hồi sức khỏe sau khi điều trị thương tật, bệnh tật)
 
 ### Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc
 
@@ -1767,15 +1383,7 @@ c) Tối đa 05 ngày đối với trường hợp bị tai nạn lao động, b
 1. Trường hợp người bị tai nạn lao động, bệnh nghề nghiệp được người sử dụng lao động sắp xếp công việc mới thuộc quyền quản lý theo quy định tại khoản 8 Điều 38 của Luật này, nếu phải đào tạo người lao động để chuyển đổi nghề nghiệp thì được hỗ trợ học phí.
 
 2. Mức hỗ trợ không quá 50% mức học phí và không quá mười lăm lần mức lương cơ sở; số lần hỗ trợ tối đa đối với mỗi người lao động là hai lần và trong 01 năm chỉ được nhận hỗ trợ một lần.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.4.12. Điều kiện hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc
-;
-Điều 20.5.NĐ.4.13. Mức và thẩm quyền quyết định hỗ trợ chuyển đổi nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.NĐ.4.12. Điều kiện hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc; Điều 20.5.NĐ.4.13. Mức và thẩm quyền quyết định hỗ trợ chuyển đổi nghề nghiệp)
 
 ### Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp
 
@@ -1795,27 +1403,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 3. Việc hỗ trợ các hoạt động quy định tại điểm a và điểm b khoản 2 Điều này không bao gồm phần chi phí do Quỹ bảo hiểm y tế đã chi trả theo quy định của Luật bảo hiểm y tế hoặc chi phí do người sử dụng lao động đã hỗ trợ theo quy định tại khoản 2 Điều 38 của Luật này.
 
 4. Chính phủ quy định chi tiết điều kiện hỗ trợ, hồ sơ, mức hỗ trợ, thời gian hỗ trợ, trình tự, thủ tục hỗ trợ, cơ quan có thẩm quyền quyết định việc hỗ trợ, việc tổ chức thực hiện chính sách hỗ trợ quy định tại Điều 55 và Điều 56 của Luật này và phải bảo đảm cân đối Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc
-;
-Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.4.16. Điều kiện hỗ trợ khám bệnh nghề nghiệp cho người lao động
-;
-Điều 20.5.NĐ.4.20. Điều kiện hỗ trợ kinh phí chữa bệnh nghề nghiệp cho người lao động
-;
-Điều 20.5.NĐ.4.24. Điều kiện hỗ trợ kinh phí phục hồi chức năng lao động
-;
-Điều 20.5.NĐ.4.28. Trường hợp được hỗ trợ kinh phí điều tra lại các vụ tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.4.32. Điều kiện hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.4.33. Nguyên tắc hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.14. Huấn luyện an toàn, vệ sinh lao động; Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.55. Hỗ trợ chuyển đổi nghề nghiệp cho người bị tai nạn lao động, bệnh nghề nghiệp khi trở lại làm việc; Điều 20.5.LQ.56. Hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.NĐ.4.16. Điều kiện hỗ trợ khám bệnh nghề nghiệp cho người lao động; Điều 20.5.NĐ.4.20. Điều kiện hỗ trợ kinh phí chữa bệnh nghề nghiệp cho người lao động; Điều 20.5.NĐ.4.24. Điều kiện hỗ trợ kinh phí phục hồi chức năng lao động; Điều 20.5.NĐ.4.28. Trường hợp được hỗ trợ kinh phí điều tra lại các vụ tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.NĐ.4.32. Điều kiện hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động; Điều 20.5.NĐ.4.33. Nguyên tắc hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.57. Hồ sơ hưởng chế độ tai nạn lao động
 
@@ -1827,9 +1415,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 3. Biên bản giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa.
 
 4. Văn bản đề nghị giải quyết chế độ tai nạn lao động theo mẫu do Bảo hiểm xã hội Việt Nam ban hành sau khi thống nhất ý kiến với Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.58. Hồ sơ hưởng chế độ bệnh nghề nghiệp
 
@@ -1841,9 +1427,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 3. Biên bản giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa; trường hợp bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp thì thay bằng Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
 
 4. Văn bản đề nghị giải quyết chế độ bệnh nghề nghiệp theo mẫu do Bảo hiểm xã hội Việt Nam ban hành sau khi thống nhất ý kiến với Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
@@ -1851,13 +1435,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 1. Người sử dụng lao động nộp hồ sơ cho cơ quan bảo hiểm xã hội trong thời hạn 30 ngày, kể từ ngày nhận được đầy đủ hồ sơ hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định tại Điều 57 và Điều 58 của Luật này.
 
 2. Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.57. Hồ sơ hưởng chế độ tai nạn lao động
-;
-Điều 20.5.LQ.58. Hồ sơ hưởng chế độ bệnh nghề nghiệp
-;
-Điều 20.5.LQ.61. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chậm so với thời hạn quy định
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.57. Hồ sơ hưởng chế độ tai nạn lao động; Điều 20.5.LQ.58. Hồ sơ hưởng chế độ bệnh nghề nghiệp; Điều 20.5.LQ.61. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chậm so với thời hạn quy định)
 
 ### Điều 20.5.LQ.60. Giải quyết hưởng trợ cấp dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp
 
@@ -1867,11 +1445,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 2. Trong thời hạn 10 ngày, kể từ khi nhận danh sách, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết chế độ dưỡng sức, phục hồi sức khỏe cho người lao động và chuyển tiền cho đơn vị sử dụng lao động; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
 
 3. Trong thời hạn 05 ngày, kể từ ngày nhận được tiền do cơ quan bảo hiểm xã hội chuyển đến, người sử dụng lao động có trách nhiệm chi trả tiền trợ cấp cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.54. Dưỡng sức, phục hồi sức khỏe sau khi điều trị thương tật, bệnh tật
-;
-Điều 20.5.LQ.61. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chậm so với thời hạn quy định
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.54. Dưỡng sức, phục hồi sức khỏe sau khi điều trị thương tật, bệnh tật; Điều 20.5.LQ.61. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chậm so với thời hạn quy định)
 
 ### Điều 20.5.LQ.61. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp chậm so với thời hạn quy định
 
@@ -1879,11 +1453,7 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 1. Trường hợp vượt quá thời hạn giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp được quy định tại Điều 59 và khoản 1 Điều 60 của Luật này thì phải giải trình bằng văn bản và nêu rõ lý do.
 
 2. Trường hợp giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp và chi trả tiền trợ cấp chậm so với thời hạn quy định, gây thiệt hại đến quyền, lợi ích hợp pháp của người hưởng thì phải bồi thường theo quy định của pháp luật, trừ trường hợp do lỗi của bản thân người lao động hoặc của thân nhân của người lao động được hưởng chế độ tử tuất.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.60. Giải quyết hưởng trợ cấp dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.59. Giải quyết hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.60. Giải quyết hưởng trợ cấp dưỡng sức, phục hồi sức khỏe sau tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.62. Hồ sơ, trình tự khám giám định mức suy giảm khả năng lao động để giải quyết chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp
 
@@ -1891,43 +1461,17 @@ d) Huấn luyện về an toàn, vệ sinh lao động cho người tham gia b�
 1. Hồ sơ, trình tự khám giám định mức suy giảm khả năng lao động để giải quyết chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp do Bộ trưởng Bộ Y tế quy định.
 
 2. Việc khám giám định mức suy giảm khả năng lao động phải bảo đảm chính xác, công khai, minh bạch. Hội đồng giám định y khoa chịu trách nhiệm về tính chính xác của kết quả giám định của mình theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 5. Hồ sơ khám giám định lần đầu
-;
-Điều 6. Hồ sơ khám giám định lại do tái phát
-;
-Điều 7. Hồ sơ khám giám định tổng hợp
-;
-Điều 8. Hồ sơ giám định phúc quyết do vượt khả năng chuyên môn
-;
-Điều 9. Hồ sơ khám giám định phúc quyết theo đề nghị của tổ chức, cá nhân
-;
-Điều 10. Hồ sơ khám giám định phúc quyết lần cuối
-;
-Điều 11. Trách nhiệm lập hồ sơ khám giám định
-;
-Điều 12. Thời hạn giám định lại
-;
-Điều 13. Trình tự, nội dung khám giám định
-;
-Điều 14. Thời hạn giá trị Biên bản giám định y khoa của Thông tư 56/2017/TT-BYT quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế ban hành ngày 01/03/2018
-)
+(Điều này có nội dung liên quan đến: Điều 5. Hồ sơ khám giám định lần đầu; Điều 6. Hồ sơ khám giám định lại do tái phát; Điều 7. Hồ sơ khám giám định tổng hợp; Điều 8. Hồ sơ giám định phúc quyết do vượt khả năng chuyên môn; Điều 9. Hồ sơ khám giám định phúc quyết theo đề nghị của tổ chức, cá nhân; Điều 10. Hồ sơ khám giám định phúc quyết lần cuối; Điều 11. Trách nhiệm lập hồ sơ khám giám định; Điều 12. Thời hạn giám định lại; Điều 13. Trình tự, nội dung khám giám định; Điều 14. Thời hạn giá trị Biên bản giám định y khoa của Thông tư 56/2017/TT-BYT quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế ban hành ngày 01/03/2018)
 
 # Chương IV: Bảo đảm an toàn, vệ sinh lao động đối với một số lao động đặc thù
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015)
 
 ### Điều 20.5.LQ.63. An toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật
 
 (Điều 63 Luật số 84/2015/QH13, có hiệu lực thi hành kể từ ngày 01/07/2016)
 Những quy định về an toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật thực hiện theo quy định của Bộ luật lao động, Luật người khuyết tật và Luật này.
-(Điều này có nội dung liên quan đến
-Điều 6.3.LQ.33. Việc làm đối với người khuyết tật
-)
+(Điều này có nội dung liên quan đến: Điều 6.3.LQ.33. Việc làm đối với người khuyết tật)
 
 ### Điều 20.5.LQ.64. Điều kiện sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm
 
@@ -1970,21 +1514,7 @@ d) Phối hợp với doanh nghiệp cho thuê lại lao động trong việc đ
 3. Người lao động thuê lại phải tuân thủ nội quy, quy trình và biện pháp bảo đảm an toàn, vệ sinh lao động của bên thuê lại lao động.
 
 4. Chính phủ quy định chi tiết về an toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; trách nhiệm của doanh nghiệp cho thuê lại lao động, bên thuê lại lao động đối với người lao động thuê lại, bảo đảm quyền và lợi ích của người lao động thuê lại phù hợp với quy định của Bộ luật lao động và Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp
-;
-Điều 20.5.NĐ.1.30. Nội dung về an toàn, vệ sinh lao động trong hợp đồng cho thuê lại lao động giữa doanh nghiệp cho thuê lại lao động với bên thuê lạilao động
-;
-Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại
-;
-Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.34. Khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; Điều 20.5.LQ.35. Điều tra vụ tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp; Điều 20.5.NĐ.1.30. Nội dung về an toàn, vệ sinh lao động trong hợp đồng cho thuê lại lao động giữa doanh nghiệp cho thuê lại lao động với bên thuê lạilao động; Điều 20.5.NĐ.1.31. Trách nhiệm của doanh nghiệp cho thuê lại lao động đối với người lao động thuê lại; Điều 20.5.NĐ.1.32. Trách nhiệm bảo đảm về an toàn, vệ sinh lao động của bên thuê lại lao động đối với người lao động thuê lại)
 
 ### Điều 20.5.LQ.66. An toàn, vệ sinh lao động tại nơi có nhiều người lao động thuộc nhiều người sử dụng lao động cùng làm việc
 
@@ -2027,11 +1557,7 @@ Trường hợp người bị tai nạn lao động đã tham gia bảo hiểm t
 Trường hợp người bị tai nạn lao động là người thuộc diện không phải tham gia bảo hiểm tai nạn lao động, bệnh nghề nghiệp thì người sử dụng lao động có trách nhiệm giải quyết quyền lợi cho người lao động theo quy định tại các khoản 1, 2, 3, 4, 5, 6, 7, 8 và 10 Điều 38 của Luật này.
 
 3. Người sử dụng lao động có trách nhiệm kiểm tra việc bảo đảm an toàn, vệ sinh lao động đối với nơi làm việc của người lao động nhận công việc về làm tại nhà; thực hiện các cam kết trong thỏa thuận với người lao động nhận công việc về làm tại nhà; báo cáo tai nạn lao động xảy ra khi làm việc tại nhà của người lao động cùng với báo cáo chung về tai nạn lao động quy định tại Điều 36 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp)
 
 ### Điều 20.5.LQ.70. An toàn, vệ sinh lao động đối với học sinh, sinh viên, người học nghề, tập nghề, thử việc
 
@@ -2043,35 +1569,11 @@ Trường hợp người bị tai nạn lao động là người thuộc diện 
 3. Học sinh, sinh viên, người học nghề trong thời gian thực hành, học nghề, tập nghề phải tuân thủ các quy định về an toàn, vệ sinh lao động của cơ sở giáo dục, cơ sở dạy nghề.
 
 Trường hợp học sinh, sinh viên trong thời gian thực hành bị tai nạn lao động thì được hỗ trợ theo quy định của Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.15. Nội quy, quy trình bảo đảm an toàn, vệ sinh lao động
-;
-Điều 20.5.LQ.16. Trách nhiệm của người sử dụng lao động trong việc bảo đảm an toàn, vệ sinh lao động tại nơi làm việc
-;
-Điều 20.5.LQ.18. Kiểm soát các yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc
-;
-Điều 20.5.LQ.19. Biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và ứng cứu khẩn cấp
-;
-Điều 20.5.LQ.20. Cải thiện điều kiện lao động, xây dựng văn hóa an toàn lao động
-;
-Điều 20.5.LQ.23. Phương tiện bảo vệ cá nhân trong lao động
-;
-Điều 20.5.LQ.24. Bồi dưỡng bằng hiện vật
-;
-Điều 20.5.LQ.25. Thời giờ làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại
-;
-Điều 20.5.LQ.27. Quản lý sức khỏe người lao động
-;
-Điều 20.5.NĐ.1.33. Hỗ trợ của cơ sở giáo dục, cơ sở dạy nghề đối với học sinh, sinh viên bị tai nạn lao động trong thời gian thực hành
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.15. Nội quy, quy trình bảo đảm an toàn, vệ sinh lao động; Điều 20.5.LQ.16. Trách nhiệm của người sử dụng lao động trong việc bảo đảm an toàn, vệ sinh lao động tại nơi làm việc; Điều 20.5.LQ.18. Kiểm soát các yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc; Điều 20.5.LQ.19. Biện pháp xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng và ứng cứu khẩn cấp; Điều 20.5.LQ.20. Cải thiện điều kiện lao động, xây dựng văn hóa an toàn lao động; Điều 20.5.LQ.23. Phương tiện bảo vệ cá nhân trong lao động; Điều 20.5.LQ.24. Bồi dưỡng bằng hiện vật; Điều 20.5.LQ.25. Thời giờ làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại; Điều 20.5.LQ.27. Quản lý sức khỏe người lao động; Điều 20.5.NĐ.1.33. Hỗ trợ của cơ sở giáo dục, cơ sở dạy nghề đối với học sinh, sinh viên bị tai nạn lao động trong thời gian thực hành)
 
 # Chương V: Bảo đảm an toàn, vệ sinh lao động đối với cơ sở sản xuất, kinh doanh
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.5.TT.20.12. Điều Khoản thi hành của Thông tư 07/2016/TT-BLĐTBXH Quy định một số nội dung tổ chức thực hiện công tác an toàn, vệ sinh lao động đối với sở sở sản xuất, kinh doanh ban hành ngày 15/05/2016
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.5.TT.20.12. Điều Khoản thi hành của Thông tư 07/2016/TT-BLĐTBXH Quy định một số nội dung tổ chức thực hiện công tác an toàn, vệ sinh lao động đối với sở sở sản xuất, kinh doanh ban hành ngày 15/05/2016)
 
 ### Điều 20.5.LQ.71. Thực hiện công tác an toàn, vệ sinh lao động trong các cơ sở sản xuất, kinh doanh
 
@@ -2081,17 +1583,7 @@ Trường hợp học sinh, sinh viên trong thời gian thực hành bị tai n
 2. Ban quản lý khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao có trách nhiệm chỉ đạo tổ chức công tác an toàn, vệ sinh lao động đối với các cơ sở sản xuất, kinh doanh trong phạm vi quản lý; phối hợp tổ chức kiểm tra hoạt động về an toàn, vệ sinh lao động và báo cáo về hoạt động an toàn, vệ sinh lao động với cơ quan quản lý nhà nước về lao động trong phạm vi quản lý, trừ trường hợp pháp luật chuyên ngành có quy định khác.
 
 3. Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động, Chính phủ quy định chi tiết việc áp dụng quy định về an toàn, vệ sinh lao động của Luật này đối với các cơ sở khác, ban quản lý khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao quy định tại khoản 2 Điều này phù hợp với điều kiện lao động, tổ chức, bộ máy, chức năng, nhiệm vụ và các quy định khác của pháp luật chuyên ngành có liên quan.
-(Điều này có nội dung liên quan đến
-Chương II CÁC BIỆN PHÁP PHÒNG, CHỐNG CÁC YẾU TỐ NGUY HIỂM, YẾU TỐ CÓ HẠI CHO NGƯỜI LAO ĐỘNG
-;
-Chương III CÁC BIỆN PHÁP XỬ LÝ SỰ CỐ KỸ THUẬT GÂY MẤT AN TOÀN, VỆ SINH LAO ĐỘNG VÀ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP
-;
-Chương IV BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG ĐẶC THÙ
-;
-Chương I QUY ĐỊNH CHUNG
-;
-Điều 20.5.NĐ.1.35. Trách nhiệm ban quản lý khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao đối với công tác an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Chương II CÁC BIỆN PHÁP PHÒNG, CHỐNG CÁC YẾU TỐ NGUY HIỂM, YẾU TỐ CÓ HẠI CHO NGƯỜI LAO ĐỘNG; Chương III CÁC BIỆN PHÁP XỬ LÝ SỰ CỐ KỸ THUẬT GÂY MẤT AN TOÀN, VỆ SINH LAO ĐỘNG VÀ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP; Chương IV BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG ĐẶC THÙ; Chương I QUY ĐỊNH CHUNG; Điều 20.5.NĐ.1.35. Trách nhiệm ban quản lý khu kinh tế, khu công nghiệp, khu chế xuất, khu công nghệ cao đối với công tác an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.72. Bộ phận an toàn, vệ sinh lao động
 
@@ -2131,11 +1623,7 @@ c) Được người sử dụng lao động bố trí thời gian tham dự l�
 4. Người làm công tác an toàn, vệ sinh, lao động phải có chuyên môn, nghiệp vụ về kỹ thuật và có hiểu biết về thực tiễn hoạt động sản xuất, kinh doanh của cơ sở.
 
 5. Trường hợp cơ sở sản xuất, kinh doanh không bố trí được người hoặc không thành lập được bộ phận an toàn, vệ sinh lao động theo quy định tại khoản 1 và khoản 4 Điều này thì phải thuê các tổ chức có đủ năng lực theo quy định của pháp luật thực hiện các nhiệm vụ an toàn, vệ sinh lao động theo quy định tại khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.73. Bộ phận y tế
-;
-Điều 20.5.NĐ.1.36. Tổ chức bộ phận an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.73. Bộ phận y tế; Điều 20.5.NĐ.1.36. Tổ chức bộ phận an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.73. Bộ phận y tế
 
@@ -2169,15 +1657,7 @@ c) Được người sử dụng lao động bố trí thời gian tham gia các
 4. Người làm công tác y tế ở cơ sở phải có trình độ chuyên môn về y tế và chứng chỉ chứng nhận chuyên môn về y tế lao động.
 
 5. Trường hợp cơ sở không bố trí được người làm công tác y tế hoặc không thành lập được bộ phận y tế theo quy định tại khoản 1 và khoản 4 Điều này thì phải có hợp đồng với cơ sở khám bệnh, chữa bệnh đủ năng lực theo quy định của Bộ trưởng Bộ Y tế để thực hiện các nhiệm vụ chăm sóc sức khỏe người lao động quy định tại khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.72. Bộ phận an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế
-;
-Điều 20.5.NĐ.2.21. Huấn luyện, bồi dưỡng, cập nhật kiến thức, kỹ năng về an toàn, vệ sinh lao động và huấn luyện định kỳ
-;
-Điều 20.5.TT.93.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.72. Bộ phận an toàn, vệ sinh lao động; Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế; Điều 20.5.NĐ.2.21. Huấn luyện, bồi dưỡng, cập nhật kiến thức, kỹ năng về an toàn, vệ sinh lao động và huấn luyện định kỳ; Điều 20.5.TT.93.1. Phạm vi điều chỉnh)
 
 ### Điều 20.5.LQ.74. An toàn, vệ sinh viên
 
@@ -2211,9 +1691,7 @@ Mức phụ cấp trách nhiệm do người sử dụng lao động và Ban ch�
 c) Yêu cầu người lao động trong tổ ngừng làm việc để thực hiện các biện pháp bảo đảm an toàn, vệ sinh lao động, nếu thấy có nguy cơ trực tiếp gây sự cố, tai nạn lao động và chịu trách nhiệm về quyết định đó;
 
 d) Được học tập, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ, phương pháp hoạt động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.2.17. Đối tượng tham dự khóa huấn luyện an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.2.17. Đối tượng tham dự khóa huấn luyện an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.75. Hội đồng an toàn, vệ sinh lao động cơ sở
 
@@ -2245,9 +1723,7 @@ d) Người làm công tác y tế ở cơ sở sản xuất, kinh doanh;
 đ) Các thành viên khác có liên quan.
 
 Thành phần của Hội đồng an toàn, vệ sinh lao động cơ sở phải bảo đảm tỷ lệ thành viên nữ tham gia phù hợp với nguyên tắc bình đẳng giới, điều kiện thực tế ở cơ sở sản xuất, kinh doanh.
-(Điều này có nội dung liên quan đến
-Điều 20.5.NĐ.1.38. Tổ chức hội đồng an toàn, vệ sinh lao động cơ sở
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.NĐ.1.38. Tổ chức hội đồng an toàn, vệ sinh lao động cơ sở)
 
 ### Điều 20.5.LQ.76. Kế hoạch an toàn, vệ sinh lao động
 
@@ -2334,11 +1810,7 @@ a) Báo cáo về công tác an toàn, vệ sinh lao động với cơ quan qu�
 b) Thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng theo quy định tại Điều 36 và Điều 37 của Luật này.
 
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết điểm a khoản 1 Điều này sau khi có ý kiến của Bộ trưởng Bộ Y tế.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng
-;
-Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.36. Thống kê, báo cáo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng; Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp)
 
 # Chương VI: Quản lý nhà nước về an toàn, vệ sinh lao động
 
@@ -2390,9 +1862,7 @@ b) Thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp, sự c�
 7. Thanh tra, kiểm tra, xử lý vi phạm pháp luật về an toàn, vệ sinh lao động; thực hiện, phối hợp điều tra tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; kiến nghị với Bộ Công an, Viện kiểm sát nhân dân tối cao điều tra, xử lý tai nạn lao động có dấu hiệu tội phạm.
 
 8. Hợp tác quốc tế về an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.28. Máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.28. Máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.85. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Y tế
 
@@ -2416,11 +1886,7 @@ b) Thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp, sự c�
 9. Phối hợp với Bộ Lao động - Thương binh và Xã hội thanh tra, kiểm tra chấp hành pháp luật về vệ sinh lao động theo quy định của pháp luật.
 
 10. Hằng năm, gửi Bộ Lao động - Thương binh và Xã hội báo cáo về tình hình thực hiện chính sách, pháp luật về an toàn, vệ sinh lao động trong lĩnh vực quản lý.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp
-;
-Điều 20.5.LQ.87. Trách nhiệm xây dựng, công bố các tiêu chuẩn quốc gia về an toàn, vệ sinh lao động và xây dựng, ban hành các quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.37. Thống kê, báo cáo về bệnh nghề nghiệp; Điều 20.5.LQ.87. Trách nhiệm xây dựng, công bố các tiêu chuẩn quốc gia về an toàn, vệ sinh lao động và xây dựng, ban hành các quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.86. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Ủy ban nhân dân các cấp
 
@@ -2449,11 +1915,7 @@ Việc thẩm định tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc 
 4. Bộ Lao động - Thương binh và Xã hội xây dựng các tiêu chuẩn quốc gia, ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động thuộc thẩm quyền quản lý theo quy định tại khoản 3 Điều này; có trách nhiệm phối hợp với các bộ, cơ quan ngang bộ trình Thủ tướng Chính phủ quyết định phân công trách nhiệm xây dựng tiêu chuẩn quốc gia, xây dựng và ban hành quy chuẩn kỹ thuật quốc gia mới hoặc liên quan đến phạm vi quản lý của nhiều bộ, cơ quan ngang bộ.
 
 5. Bộ Y tế xây dựng tiêu chuẩn quốc gia về an toàn, vệ sinh lao động ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động thuộc thẩm quyền quản lý theo quy định tại Điều 85 của Luật này; có ý kiến thống nhất về nội dung vệ sinh lao động trong quá trình các bộ, cơ quan ngang bộ xây dựng các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.85. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Y tế
-;
-Điều 20.5.NĐ.1.39. Trách nhiệm xây dựng và ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.85. Trách nhiệm quản lý nhà nước về an toàn, vệ sinh lao động của Bộ trưởng Bộ Y tế; Điều 20.5.NĐ.1.39. Trách nhiệm xây dựng và ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động)
 
 ### Điều 20.5.LQ.88. Hội đồng quốc gia về an toàn, vệ sinh lao động, Hội đồng an toàn, vệ sinh lao động cấp tỉnh
 
@@ -2465,13 +1927,7 @@ Việc thẩm định tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc 
 3. Hằng năm, Hội đồng an toàn, vệ sinh lao động có trách nhiệm tổ chức đối thoại nhằm chia sẻ thông tin, tăng cường sự hiểu biết giữa người sử dụng lao động, người lao động, tổ chức công đoàn, tổ chức đại diện người sử dụng lao động và các cơ quan nhà nước để thúc đẩy việc cải thiện các điều kiện làm việc công bằng, an toàn cho người lao động, nâng cao hiệu quả xây dựng, thực hiện chính sách, pháp luật về an toàn, vệ sinh lao động.
 
 4. Chính phủ quy định chi tiết việc thành lập, chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng quốc gia về an toàn, vệ sinh lao động và Hội đồng an toàn, vệ sinh lao động cấp tỉnh.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.8. Quyền, trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác
-;
-Điều 20.5.NĐ.1.41. Hội đồng quốc gia về an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.1.42. Hội đồng an toàn, vệ sinh lao động cấp tỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.8. Quyền, trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức xã hội khác; Điều 20.5.NĐ.1.41. Hội đồng quốc gia về an toàn, vệ sinh lao động; Điều 20.5.NĐ.1.42. Hội đồng an toàn, vệ sinh lao động cấp tỉnh)
 
 ### Điều 20.5.LQ.89. Thanh tra an toàn, vệ sinh lao động
 
@@ -2827,15 +2283,7 @@ Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân d�
 3. Căn cứ quy định tại Chương V Luật an toàn, vệ sinh lao động, các Điều 36, 37, 38 Nghị định số 39/2016/NĐ-CP và Thông tư này, người sử dụng lao động tổ chức thực hiện công tác an toàn, vệ sinh lao động tại cơ sở sản xuất, kinh doanh.
 
 4. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu giải quyết.
-(Điều này có nội dung liên quan đến
-Chương V BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI CƠ SỞ SẢN XUẤT, KINH DOANH
-;
-Điều 20.5.NĐ.1.36. Tổ chức bộ phận an toàn, vệ sinh lao động
-;
-Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế
-;
-Điều 20.5.NĐ.1.38. Tổ chức hội đồng an toàn, vệ sinh lao động cơ sở
-)
+(Điều này có nội dung liên quan đến: Chương V BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI CƠ SỞ SẢN XUẤT, KINH DOANH; Điều 20.5.NĐ.1.36. Tổ chức bộ phận an toàn, vệ sinh lao động; Điều 20.5.NĐ.1.37. Tổ chức bộ phận y tế; Điều 20.5.NĐ.1.38. Tổ chức hội đồng an toàn, vệ sinh lao động cơ sở)
 
 ### Điều 20.5.TT.21.5. Tổ chức thực hiện
 
@@ -3231,11 +2679,7 @@ Chủ nhiệm Tổng cục Kỹ thuật, Thủ trưởng các cơ quan, đơn v�
 (Điều 2 Thông tư số 54/2016/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/06/2017)
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2017.
 
-2. Bãi bỏ Thông tư số
-07/2014/TT-BLĐTBXH
-ngày 06 tháng 3 năm 2014 của Bộ Lao động - Thương binh và Xã hội ban hành 27 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc trách nhiệm quản lý của Bộ Lao động - Thương binh và Xã hội và Thông tư số
-46/2015/TT-BLĐTBXH
-ngày 16 tháng 11 năm 2015 của Bộ Lao động - Thương binh và Xã hội ban hành các quy trình kiểm định kỹ thuật an toàn đối với xe tời điện chạy trên ray; pa lăng xích kéo tay có tải trọng từ 1.000kg trở lên; trục tải giếng đứng; trục tải giếng nghiêng; sàn biểu diễn di động và nồi gia nhiệt dầu.
+2. Bãi bỏ Thông tư số 07/2014/TT-BLĐTBXH ngày 06 tháng 3 năm 2014 của Bộ Lao động - Thương binh và Xã hội ban hành 27 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc trách nhiệm quản lý của Bộ Lao động - Thương binh và Xã hội và Thông tư số 46/2015/TT-BLĐTBXH ngày 16 tháng 11 năm 2015 của Bộ Lao động - Thương binh và Xã hội ban hành các quy trình kiểm định kỹ thuật an toàn đối với xe tời điện chạy trên ray; pa lăng xích kéo tay có tải trọng từ 1.000kg trở lên; trục tải giếng đứng; trục tải giếng nghiêng; sàn biểu diễn di động và nồi gia nhiệt dầu.
 
 ### Điều 20.5.TT.48.3. Tổ chức thực hiện
 
@@ -3307,19 +2751,10 @@ Cục trưởng Cục Tiêu chuẩn - Đo lường - Chất lượng, Thủ trư
 
 ### Điều 20.5.TT.54.19. Điều khoản thi hành
 
-(
-
-### Điều 19
-
-Thông tư số 09/2017/TT-BCT, có hiệu lực thi hành kể từ ngày 31/08/2017, có nội dung được sửa đổi bởi
-
-### Điều 2
-
-Thông tư số 37/2018/TT-BCT có hiệu lực thi hành kể từ ngày 10/12/2018)
+(Điều 19 Thông tư số 09/2017/TT-BCT, có hiệu lực thi hành kể từ ngày 31/08/2017, có nội dung được sửa đổi bởi Điều 2 Thông tư số 37/2018/TT-BCT có hiệu lực thi hành kể từ ngày 10/12/2018)
 1. Thông tư này có hiệu lực thi hành kể từ ngày 31 tháng 8 năm 2017 và bãi bỏ Thông tư số 35/2009/TT-BCT ngày 09 tháng 12 năm 2009 của Bộ Công Thương quy định về điều kiện hoạt động đối với các tổ chức kiểm định kỹ thuật an toàn.
 
-2.
-Các Tổ chức kiểm định chỉ thực hiện kiểm định máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc thẩm quyền quản lý của Bộ Công Thương sau khi có Giấy chứng nhận đủ điều kiện kiểm định kỹ thuật an toàn lao động.
+2. Các Tổ chức kiểm định chỉ thực hiện kiểm định máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc thẩm quyền quản lý của Bộ Công Thương sau khi có Giấy chứng nhận đủ điều kiện kiểm định kỹ thuật an toàn lao động.
 
 Các tổ chức kiểm định đã được cấp Giấy chứng nhận đủ điều kiện trước ngày 01 tháng 7 năm 2016 được tiếp tục sử dụng đến hết thời hạn ghi trên Giấy chứng nhận đủ điều kiện đó.
 
@@ -3710,9 +3145,7 @@ b) Đánh giá sự cần thiết, tính khả thi, tác động của việc s�
 (Điều 3 Thông tư số 42/2019/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/07/2021)
 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2021.
 
-2. Thông tư số 08/2011/TT-BLĐTBXH ngày 22 tháng 4 năm 2011 ban hành QCVN 02: 2011/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy điện; Thông tư số
-42/2013/TT-BLĐTBXH
-ngày 30 tháng 12 năm 2013 ban hành QCVN 18: 2013/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy thủy lực và Thông tư số 48/2016/TT-BLĐTBXH ngày 28 tháng 12 năm 2016 ban hành QCVN 26: 2016/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy không buồng máy của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
+2. Thông tư số 08/2011/TT-BLĐTBXH ngày 22 tháng 4 năm 2011 ban hành QCVN 02: 2011/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy điện; Thông tư số 42/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013 ban hành QCVN 18: 2013/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy thủy lực và Thông tư số 48/2016/TT-BLĐTBXH ngày 28 tháng 12 năm 2016 ban hành QCVN 26: 2016/BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy không buồng máy của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
 
 3. Trong quá trình thực hiện, nếu có vướng mắc, kịp thời phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu, giải quyết.
 
@@ -3948,8 +3381,6 @@ Luật An toàn, vệ sinh lao động
 (Điều 6 Thông tư số 03/2025/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/04/2025)
 1. Thông tư này có hiệu lực kể từ ngày 01 tháng 4 năm 2025.
 
-2. Thông tư số
-29/2021/TT-BLĐTBXH
-ngày 28 tháng 12 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định tiêu chuẩn phân loại theo điều kiện lao động hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
+2. Thông tư số 29/2021/TT-BLĐTBXH ngày 28 tháng 12 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định tiêu chuẩn phân loại theo điều kiện lao động hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
 
 3. Trong quá trình thực hiện, nếu có vướng mắc đề nghị phản ánh về Bộ Lao động - Thương binh và Xã hội để xem xét, giải quyết./.

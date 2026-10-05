@@ -70,6 +70,7 @@ class Embedder:
             raise
 
 
+# Singleton Pattern
 _embedder: Embedder | None = None
 _embedder_lock = Lock()
 
@@ -93,3 +94,16 @@ def get_embedder() -> Embedder:
                     raise
 
     return _embedder
+
+
+if __name__ == "__main__":
+    from app.indexing.chunking import DocumentChunker
+    import asyncio
+    document_chunker = DocumentChunker()
+    text = document_chunker.split_file(file_path="/home/nguyen-thanh-dat/Documents/PTHTTM_PTIT/HTTM_Representation/chatbot/data/de_muc_20_2_lao-dong.md")[0].content
+    
+    async def main():
+        embedder = Embedder()
+        vector = await embedder.embed_text(text = text)
+        print(len(vector))
+    asyncio.run(main())

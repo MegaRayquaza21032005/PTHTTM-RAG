@@ -112,3 +112,17 @@ def get_retriever(
         _retriever.pre_retriever = pre_retriever
 
     return _retriever
+
+
+if __name__ == "__main__":
+    import asyncio
+    async def main():
+        retriever = Retriever()
+        results = await retriever.retrieve(query="Luật Lao động là gì?", 
+                                           use_pre_retrieval=False)
+        for result in results:
+            print(result)
+            print("\n\n")
+    asyncio.run(main())
+    
+    

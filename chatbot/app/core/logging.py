@@ -10,6 +10,31 @@ from pathlib import Path
 from threading import Lock
 
 
+class ColorLevelFormatter(logging.Formatter):
+    """Colorize the level name for console logs."""
+
+    RESET = "\033[0m"
+    LEVEL_COLORS = {
+        logging.DEBUG: "\033[36m",  # cyan
+        logging.INFO: "\033[32m",  # green
+        logging.WARNING: "\033[33m",  # yellow
+        logging.ERROR: "\033[31m",  # red
+        logging.CRITICAL: "\033[31;1m",  # bold red
+    }
+
+    def format(self, record: logging.LogRecord) -> str:
+        original_levelname = record.levelname
+        color = self.LEVEL_COLORS.get(record.levelno)
+
+        if color:
+            record.levelname = f"{color}{original_levelname:<8}{self.RESET}"
+
+        try:
+            return super().format(record)
+        finally:
+            record.levelname = original_levelname
+
+
 class LoggerManager:
     """Configure and provide application loggers."""
 
@@ -42,7 +67,11 @@ class LoggerManager:
         configuration deterministic during FastAPI reloads and test runs.
         """
         log_level = self._resolve_level(level or os.getenv("LOG_LEVEL", "INFO"))
-        formatter = logging.Formatter(
+        file_formatter = logging.Formatter(
+            self.DEFAULT_FORMAT,
+            datefmt=self.DEFAULT_DATE_FORMAT,
+        )
+        console_formatter = ColorLevelFormatter(
             self.DEFAULT_FORMAT,
             datefmt=self.DEFAULT_DATE_FORMAT,
         )
@@ -53,7 +82,7 @@ class LoggerManager:
         self._remove_managed_handlers(logger)
 
         console_handler = logging.StreamHandler(sys.stdout)
-        self._prepare_handler(console_handler, log_level, formatter)
+        self._prepare_handler(console_handler, log_level, console_formatter)
         logger.addHandler(console_handler)
 
         if enable_file_logging:
@@ -70,7 +99,7 @@ class LoggerManager:
                 ),
                 encoding="utf-8",
             )
-            self._prepare_handler(file_handler, log_level, formatter)
+            self._prepare_handler(file_handler, log_level, file_formatter)
             logger.addHandler(file_handler)
 
         self._configured = True

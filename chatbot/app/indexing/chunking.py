@@ -175,4 +175,4 @@ def get_chunker() -> DocumentChunker:
 if __name__ == "__main__":
     import pprint
     document = DocumentChunker()
-    pprint.pprint(document.split_file(file_path="/home/nguyen-thanh-dat/Documents/PTHTTM_PTIT/HTTM_Representation/chatbot/data/de_muc_20_2_lao-dong.md")[0])
+    pprint.pprint(document.split_file(file_path="/home/nguyen-thanh-dat/Documents/PTHTTM_PTIT/HTTM_Representation/chatbot/data/de_muc_20_2_lao-dong.md")[0].content)

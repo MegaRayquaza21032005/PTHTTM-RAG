@@ -29,7 +29,7 @@ class ChatbotPipeline:
         reranker: BaseReranker | None = None,
     ) -> None:
         self.generator = generator or get_generator()
-        pre_retriever = get_pre_retriever(self.generator.llm)
+        pre_retriever = get_pre_retriever()
         self.retriever = retriever or get_retriever(pre_retriever)
         if self.retriever.pre_retriever is None:
             self.retriever.pre_retriever = pre_retriever
@@ -116,3 +116,12 @@ def get_pipeline() -> ChatbotPipeline:
                     raise
 
     return _pipeline
+
+if __name__ == "__main__":
+    import asyncio
+    
+    async def main():
+        pipeline = ChatbotPipeline()
+        response = await pipeline.ask("Luật Lao động là gì?")
+        print(response.answer)
+    asyncio.run(main())

@@ -46,13 +46,14 @@ class Settings(BaseSettings):
     llm_provider: Literal["openai", "gemini"] = "gemini"
     openai_api_key: str = ""
     openai_model: str = "gpt-4o-mini"
+    pre_retrieval_model: str = "gpt-4o-mini"
     gemini_api_key: str = ""
     gemini_model: str = "gemini-2.5-flash"
 
     # ── Embedding ────────────────────────────────────────────
     embedding_model: str = "BAAI/bge-m3"
     embedding_dimension: int = 1024
-    embedding_batch_size: int = 128
+    embedding_batch_size: int = 32
 
     # ── Vector DB ────────────────────────────────────────────
     vector_db_provider: Literal["qdrant"] = "qdrant"

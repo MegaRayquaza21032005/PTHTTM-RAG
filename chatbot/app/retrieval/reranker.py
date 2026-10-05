@@ -164,3 +164,19 @@ def get_reranker() -> BaseReranker:
                     raise
 
     return _reranker
+
+if __name__ == "__main__":
+    import asyncio
+    from app.retrieval.retriever import Retriever
+    
+    async def main():
+        retriever = Retriever()
+        results = await retriever.retrieve(query="Luật Lao động là gì?", 
+                                                   use_pre_retrieval=False)
+        reranker = BGEReranker()
+        rank_results = await reranker.rerank(query="Luật Lao động là gì", results=results, top_n=5)
+        for rank_result in rank_results:
+            print(rank_result)
+            print("\n\n")
+    
+    asyncio.run(main())

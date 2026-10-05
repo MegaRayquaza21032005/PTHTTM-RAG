@@ -110,3 +110,35 @@ def get_generator() -> BaseGenerator:
                     raise
 
     return _generator
+
+if __name__ == "__main__":
+    import asyncio
+
+    from app.retrieval.retriever import Retriever
+    from app.retrieval.reranker import BGEReranker
+
+    async def main():
+        question = "Luật Lao động là gì?"
+        retriever = Retriever()
+        results = await retriever.retrieve(
+            query=question,
+            use_pre_retrieval=False,
+        )
+        reranker = BGEReranker()
+        ranked_results = await reranker.rerank(
+            query=question,
+            results=results,
+            top_n=5,
+        )
+        # prompt_builder = PromptBuilder()
+        # messages = prompt_builder.build_messages(question, ranked_results)
+        # for message in messages:
+        #     print(message.pretty_repr())
+            
+        generator = GeminiGenerator()
+        response = await generator.generate(question=question, results=ranked_results)
+        print(response)
+        print("\n\n")
+
+    asyncio.run(main())
+    

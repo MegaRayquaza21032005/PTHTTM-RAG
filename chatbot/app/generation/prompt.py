@@ -96,3 +96,29 @@ def get_prompt_builder() -> PromptBuilder:
                 logger.info("Đã khởi tạo PromptBuilder")
 
     return _prompt_builder
+
+if __name__ == "__main__":
+    import asyncio
+
+    from app.retrieval.retriever import Retriever
+    from app.retrieval.reranker import BGEReranker
+
+    async def main():
+        question = "Luật Lao động là gì?"
+        retriever = Retriever()
+        results = await retriever.retrieve(
+            query=question,
+            use_pre_retrieval=False,
+        )
+        reranker = BGEReranker()
+        ranked_results = await reranker.rerank(
+            query=question,
+            results=results,
+            top_n=5,
+        )
+        prompt_builder = PromptBuilder()
+        messages = prompt_builder.build_messages(question, ranked_results)
+        for message in messages:
+            print(message.pretty_repr())
+
+    asyncio.run(main())

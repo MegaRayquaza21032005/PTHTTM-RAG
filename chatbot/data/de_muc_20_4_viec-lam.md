@@ -4,11 +4,7 @@
 
 (Điều 1 Luật số 38/2013/QH13 Việc làm ngày 16/11/2013 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2015)
 Luật này quy định chính sách hỗ trợ tạo việc làm; thông tin thị trường lao động; đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; tổ chức, hoạt động dịch vụ việc làm; bảo hiểm thất nghiệp và quản lý nhà nước về việc làm.
-(Điều này có nội dung liên quan đến
-Điều 6.3.LQ.33. Việc làm đối với người khuyết tật
-;
-Điều 3.3.NĐ.11.4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về Bảo hiểm
-)
+(Điều này có nội dung liên quan đến: Điều 6.3.LQ.33. Việc làm đối với người khuyết tật; Điều 3.3.NĐ.11.4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về Bảo hiểm)
 
 ### Điều 20.4.LQ.2. Đối tượng áp dụng
 
@@ -30,13 +26,7 @@ Nghị định này quy định chi tiết thi hành một số điều của Lu
 3. Tổ chức bảo hiểm xã hội, Sở Lao động - Thương binh và Xã hội tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là Sở Lao động - Thương binh và Xã hội), trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập được giao các nhiệm vụ theo quy định tại Khoản 2 Điều 38 Luật Việc làm (sau đây viết tắt là trung tâm dịch vụ việc làm).
 
 4. Cơ quan, tổ chức, cá nhân có liên quan đến bảo hiểm thất nghiệp theo quy định của Luật Việc làm.
-(Điều này có nội dung liên quan đến
-Điều 38. Nhiệm vụ của trung tâm dịch vụ việc làm
-;
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.TT.3.2. Đối tượng áp dụng của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 38. Nhiệm vụ của trung tâm dịch vụ việc làm; Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.TT.3.2. Đối tượng áp dụng của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.NĐ.4.1. Phạm vi điều chỉnh
 
@@ -46,11 +36,7 @@ Nghị định này quy định chi tiết thi hành một số điều của Lu
 2. Trường hợp điều ước quốc tế mà Cộng hòa Xã hội Chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Nghị định này về việc đánh giá, cấp chứng chỉ hoặc cấp chứng nhận trình độ kỹ năng hay năng lực cho người lao động thì thực hiện theo quy định của điều ước quốc tế đó.
 
 3. Những công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động hoặc cộng đồng thuộc những ngành, nghề yêu cầu phải có chứng chỉ hoặc giấy phép hành nghề được quy định tại các luật hiện hành khác thì thực hiện theo quy định của luật đó và quy định tại Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 31. Tổ chức đánh giá kỹ năng nghề
-;
-Điều 35. Những công việc yêu cầu phải có chứng chỉ kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 31. Tổ chức đánh giá kỹ năng nghề; Điều 35. Những công việc yêu cầu phải có chứng chỉ kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.4.2. Đối tượng áp dụng
 
@@ -65,15 +51,7 @@ Nghị định này quy định chi tiết thi hành một số điều của Lu
 
 (Điều 1 Nghị định số 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ngày 09/07/2015 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/09/2015)
 Nghị định này quy định chi tiết thi hành một số điều của Bộ luật Lao động và Luật Việc làm về chính sách việc làm công, hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng, hỗ trợ tạo việc làm cho thanh niên và Quỹ quốc gia về việc làm.
-(Điều này có nội dung liên quan đến
-Điều 6.3.LQ.34. Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật
-;
-Điều 20.3.LQ.60. Hỗ trợ tạo việc làm và khởi nghiệp
-;
-Điều 20.4.NĐ.5.2. Đối tượng áp dụng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 7. Ưu đãi về học nghề và giải quyết việc làm của Nghị định 36/2019/NĐ-CP Quy định chi tiết một số điều của Luật sửa đổi, bôt sung một số điều của Luật thể dục thể thao ban hành ngày 29/04/2019
-)
+(Điều này có nội dung liên quan đến: Điều 6.3.LQ.34. Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật; Điều 20.3.LQ.60. Hỗ trợ tạo việc làm và khởi nghiệp; Điều 20.4.NĐ.5.2. Đối tượng áp dụng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 7. Ưu đãi về học nghề và giải quyết việc làm của Nghị định 36/2019/NĐ-CP Quy định chi tiết một số điều của Luật sửa đổi, bôt sung một số điều của Luật thể dục thể thao ban hành ngày 29/04/2019)
 
 ### Điều 20.4.NĐ.5.2. Đối tượng áp dụng
 
@@ -83,11 +61,7 @@ Nghị định này quy định chi tiết thi hành một số điều của B�
 2. Người sử dụng lao động theo quy định tại Khoản 2 Điều 3 của Bộ luật Lao động.
 
 3. Cơ quan, doanh nghiệp, tổ chức, cá nhân có liên quan đến các nội dung quy định tại Điều 1 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 3. Giải thích từ ngữ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 1. Phạm vi điều chỉnh của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 3. Giải thích từ ngữ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 1. Phạm vi điều chỉnh của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.6.1. Phạm vi điều chỉnh
 
@@ -97,11 +71,7 @@ Nghị định này quy định chi tiết khoản 3 Điều 37 và Điều 39 c
 1. Điều kiện, trình tự, thủ tục, thẩm quyền thành lập, tổ chức lại, giải thể và tổ chức, hoạt động của trung tâm dịch vụ việc làm.
 
 2. Điều kiện, trình tự, thủ tục cấp, gia hạn, cấp lại, thu hồi giấy phép hoạt động dịch vụ việc làm, hoạt động của doanh nghiệp hoạt động dịch vụ việc làm.
-(Điều này có nội dung liên quan đến
-Điều 37. Trung tâm dịch vụ việc làm
-;
-Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 37. Trung tâm dịch vụ việc làm; Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.6.2. Đối tượng áp dụng
 
@@ -117,21 +87,7 @@ c) Trung tâm dịch vụ việc làm do người đứng đầu tổ chức ch�
 2. Doanh nghiệp hoạt động dịch vụ việc làm theo quy định tại khoản 1 Điều 39 của Luật Việc làm.
 
 3. Cơ quan, tổ chức và cá nhân khác có liên quan trực tiếp đến việc thực hiện quy định tại Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 37. Trung tâm dịch vụ việc làm
-;
-Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 5. Thông báo về thành lập, tổ chức lại, giải thể và hoạt động trung tâm dịch vụ việc làm
-;
-Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm
-;
-Điều 33. Thẩm quyền và trách nhiệm của các bộ, Thủ trưởng cơ quan ngang bộ
-;
-Điều 34. Thẩm quyền và trách nhiệm của cơ quan Trung ương tổ chức chính trị - xã hội
-;
-Điều 35. Thẩm quyền và trách nhiệm của Ủy ban nhân dân cấp tỉnh của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 37. Trung tâm dịch vụ việc làm; Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 5. Thông báo về thành lập, tổ chức lại, giải thể và hoạt động trung tâm dịch vụ việc làm; Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm; Điều 33. Thẩm quyền và trách nhiệm của các bộ, Thủ trưởng cơ quan ngang bộ; Điều 34. Thẩm quyền và trách nhiệm của cơ quan Trung ương tổ chức chính trị - xã hội; Điều 35. Thẩm quyền và trách nhiệm của Ủy ban nhân dân cấp tỉnh của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.QĐ.2.1. Phạm vi điều chỉnh
 
@@ -146,25 +102,19 @@ Quyết định này quy định mức hỗ trợ học nghề đối với ngư
 2. Cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học có đăng ký hoạt động giáo dục nghề nghiệp trình độ cao đẳng doanh nghiệp, cơ quan, tổ chức được thực hiện hoạt động giáo dục nghề nghiệp tham gia đào tạo nghề nghiệp cho người lao động (sau đây gọi chung là cơ sở đào tạo nghề nghiệp).
 
 3. Sở Lao động - Thương binh và Xã hội tỉnh, thành phố trực thuộc trung ương; cơ quan bảo hiểm xã hội; trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập và các cơ quan có liên quan đến việc hỗ trợ học nghề cho người lao động tham gia bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.TT.3.1. Phạm vi điều chỉnh
 
 (Điều 1 Thông tư số 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ngày 31/07/2015 của Bộ Lao động - Thương binh và Xã hội, có hiệu lực thi hành kể từ ngày 15/09/2015)
 Thông tư này hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.TT.3.2. Đối tượng áp dụng
 
 (Điều 2 Thông tư số 28/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/09/2015)
 Đối tượng áp dụng của Thông tư này là đối tượng áp dụng quy định tại Điều 2 Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp (sau đây được viết tắt là Nghị định số 28/2015/NĐ-CP).
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.TT.4.1. Phạm vi điều chỉnh
 
@@ -228,9 +178,7 @@ Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân tr
 
 (Điều 1 Thông tư liên tịch số 03/2016/TTLT-BLĐTBXH-BQP-BCA Hướng dẫn thực hiện Khoản 6 ĐIều 32 của Nghị định số 28/2015/NĐ-CP ngày 12/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp về việc thông báo biến động lao động làm việc tại các đơn vị thuộc Bộ Quốc phòng, Bộ Công an ngày 25/03/2016 của Bộ Lao động - Thương binh và Xã hội, Bộ Quốc phòng và Bộ Công an, có hiệu lực thi hành kể từ ngày 15/05/2016)
 Thông tư này hướng dẫn thực hiện việc thông báo biến động lao động làm việc theo hình thức hợp đồng lao động tại các cơ quan, đơn vị, doanh nghiệp (sau đây viết tắt là đơn vị) thuộc Bộ Quốc phòng, Bộ Công an theo quy định tại Khoản 6 Điều 32 của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi Tiết thi hành một số Điều của Luật việc làm về bảo hiểm thất nghiệp (sau đây viết tắt là Nghị định số 28/2015/NĐ-CP).
-(Điều này có nội dung liên quan đến
-Điều 32. Trách nhiệm của người sử dụng lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 32. Trách nhiệm của người sử dụng lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.TL.1.2. Đối tượng áp dụng
 
@@ -258,15 +206,7 @@ c) Thân nhân của người có công với cách mạng quy định tại Kho
 d) Người thuộc hộ bị thu hồi đất nông nghiệp quy định tại Quyết định số 63/2015/QĐ-TTg ngày 10 tháng 12 năm 2015 của Thủ tướng Chính phủ về chính sách hỗ trợ đào tạo nghề và giải quyết việc làm cho người lao động bị thu hồi đất.
 
 2. Cơ quan, tổ chức, cá nhân khác có liên quan đến các nội dung quy định tại Điều 1 Thông tư liên tịch này.
-(Điều này có nội dung liên quan đến
-Điều 4. Giải thích từ ngữ của Nghị định 31/2013/NĐ-CP Hướng dẫn Pháp lệnh ưu đãi người có công với cách mạng ban hành ngày 09/04/2013
-;
-Điều 7. Hỗ trợ đi làm việc ở nước ngoài theo hợp đồng của Quyết định 63/2015/QĐ-TTg Về chính sách hỗ trợ đào tạo nghề và giải quyết việc làm cho người lao động bị thu hồi đất ban hành ngày 10/12/2015
-;
-Điều 20.4.TL.2.3. Nội dung và mức chi hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng
-;
-Điều 20.4.TL.2.4. Quy trình và thủ tục hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 4. Giải thích từ ngữ của Nghị định 31/2013/NĐ-CP Hướng dẫn Pháp lệnh ưu đãi người có công với cách mạng ban hành ngày 09/04/2013; Điều 7. Hỗ trợ đi làm việc ở nước ngoài theo hợp đồng của Quyết định 63/2015/QĐ-TTg Về chính sách hỗ trợ đào tạo nghề và giải quyết việc làm cho người lao động bị thu hồi đất ban hành ngày 10/12/2015; Điều 20.4.TL.2.3. Nội dung và mức chi hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng; Điều 20.4.TL.2.4. Quy trình và thủ tục hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016)
 
 ### Điều 20.4.TT.8.1. Phạm vi điều chỉnh
 
@@ -284,9 +224,7 @@ Thông tư này hướng dẫn mẫu giấy chứng nhận và mẫu tài liệu
 
 (Điều 1 Thông tư số 43/2016/TT-BLĐTBXH Hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ngày 28/12/2016 của Bộ Lao động - Thương Binh và Xã hội, có hiệu lực thi hành kể từ ngày 12/02/2017)
 Thông tư này hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm (sau đây gọi là Nghị định số 61/2015/NĐ-CP).
-(Điều này có nội dung liên quan đến
-Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.TT.9.2. Đối tượng áp dụng
 
@@ -294,9 +232,7 @@ Thông tư này hướng dẫn thực hiện chính sách hỗ trợ đào tạo
 1. Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ công an, thanh niên tình nguyện hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội (sau đây gọi là thanh niên).
 
 2. Cơ sở giáo dục nghề nghiệp quy định tại Điều 5 Luật giáo dục nghề nghiệp năm 2014; doanh nghiệp và cơ sở giáo dục đại học được cấp giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp (sau đây gọi là cơ sở giáo dục nghề nghiệp); cơ quan, tổ chức, cá nhân có liên quan trong việc thực hiện chính sách hỗ trợ đào tạo nghề cho thanh niên.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.5. Cơ sở giáo dục nghề nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.5. Cơ sở giáo dục nghề nghiệp)
 
 ### Điều 20.4.TT.10.1. Phạm vi điều chỉnh
 
@@ -309,9 +245,7 @@ Thông tư này hướng dẫn thực hiện một số điều về việc ngư
 1. Người lao động theo quy định tại khoản 1 Điều 3 Luật việc làm cư trú hợp pháp tại địa phương nơi thực hiện dự án, hoạt động thực hiện chính sách việc làm công.
 
 2. Cơ quan, doanh nghiệp, tổ chức, cá nhân khác có liên quan đến các nội dung quy định tại Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 3. Giải thích từ ngữ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 3. Giải thích từ ngữ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.TT.11.1. Phạm vi điều chỉnh
 
@@ -347,54 +281,40 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 4. Bảo hiểm thất nghiệp là chế độ nhằm bù đắp một phần thu nhập của người lao động khi bị mất việc làm, hỗ trợ người lao động học nghề, duy trì việc làm, tìm việc làm trên cơ sở đóng vào Quỹ bảo hiểm thất nghiệp.
 
 5. Việc làm công là việc làm tạm thời có trả công được tạo ra thông qua việc thực hiện các dự án hoặc hoạt động sử dụng vốn nhà nước gắn với các chương trình phát triển kinh tế - xã hội trên địa bàn xã, phường, thị trấn (sau đây gọi chung là cấp xã).
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015
-;
-Điều 2. Đối tượng áp dụng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 2. Đối tượng áp dụng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015; Điều 2. Đối tượng áp dụng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 2. Đối tượng áp dụng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017)
 
 ### Điều 20.4.TT.7.3. Giải thích từ ngữ
 
 (Điều 3 Thông tư số 56/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/02/2016)
-1.
-Vị trí việc làm
+1. Vị trí việc làm
 là tập hợp các nhiệm vụ bao gồm nhóm công việc được thực hiện bởi một cá nhân.
 
-2.
-Nhiệm vụ
+2. Nhiệm vụ
 là nhóm các công việc có liên quan tạo thành một phạm vi làm việc trong mỗi vị trí việc làm.
 
-3.
-Công việc
+3. Công việc
 thể hiện qua mô tả là có một sự khởi đầu và kết thúc, có kết quả cụ thể bằng một sản phẩm, dịch vụ hoặc quy trình.
 
-4.
-Năng
+4. Năng
 l
 ực
 thể hiện khả năng chuyển tải các kỹ năng, kiến thức và thái độ vào các tình huống trong làm việc.
 
-5.
-Đơn vị năng lực
+5. Đơn vị năng lực
 là sự trình bày chi tiết về một việc được làm như thế nào, cách thức thực hiện và kiến thức nền tảng được áp dụng.
 
 ### Điều 20.4.TT.8.3. Giải thích từ ngữ
 
 (Điều 3 Thông tư số 19/2016/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 16/08/2016)
-1.
-Người tham dự
+1. Người tham dự
 là người lao động có nhu cầu hoặc người lao động được người sử dụng lao động đăng ký cho người lao động đang làm việc tại đơn vị mình tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia hoặc người đạt được huy chương tại hội thi tay nghề ASEAN đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ở bậc trình độ kỹ năng nghề bậc 3 tương ứng với nghề đã đạt được huy chương.
 
-2.
-Kỳ đ
+2. Kỳ đ
 á
 nh giá kỹ năng nghề quốc gia
 là khoảng thời gian tiến hành các hoạt động đánh giá kiến thức chuyên môn, kỹ thuật, kỹ năng thực hành công việc và quy trình an toàn lao động, vệ sinh lao động của người tham dự tại các tổ chức đánh giá kỹ năng nghề trên phạm vi toàn quốc.
 
-3.
-Tổ chức đánh gi
+3. Tổ chức đánh gi
 á
 kỹ năng nghề
 là tổ chức đã được Bộ Lao động - Thương binh và Xã hội cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia.
@@ -486,11 +406,7 @@ Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mìn
 
 # Chương II: Chính sách hỗ trợ tạo việc làm
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.3.LQ.60. Hỗ trợ tạo việc làm và khởi nghiệp của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.3.LQ.60. Hỗ trợ tạo việc làm và khởi nghiệp của Luật 69/2020/QH14 Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 13/11/2020)
 
 ## Mục 1: Chính sách tín dụng ưu đãi tạo việc làm
 
@@ -511,11 +427,7 @@ b) Nguồn hỗ trợ của tổ chức, cá nhân trong và ngoài nước;
 c) Các nguồn hợp pháp khác.
 
 2. Việc quản lý, sử dụng Quỹ quốc gia về việc làm theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn
-;
-Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn; Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.5.20. Sử dụng Quỹ quốc gia về việc làm
 
@@ -529,20 +441,10 @@ Quỹ quốc gia về việc làm (sau đây gọi chung là Quỹ) được s�
 
 ### Điều 20.4.NĐ.5.21. Quản lý Quỹ quốc gia về việc làm
 
-(
+(Điều 21 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+1. Bộ Lao động - Thương binh và Xã hội thực hiện chức năng quản lý nhà nước đối với Quỹ quốc gia về việc làm (sau đây viết tắt là Quỹ).
 
-### Điều 21
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
-1.
-Bộ Lao động - Thương binh và Xã hội thực hiện chức năng quản lý nhà nước đối với Quỹ quốc gia về việc làm (sau đây viết tắt là Quỹ).
-
-2.
-Ủy ban nhân dân cấp tỉnh và cơ quan trung ương của Hội Liên hiệp Phụ nữ Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Nông dân Việt Nam, Tổng Liên đoàn Lao động Việt Nam, Hội Cựu Chiến binh Việt Nam, Liên minh Hợp tác xã Việt Nam, Hội Người mù Việt Nam (sau đây gọi chung là tổ chức thực hiện chương trình) được giao nhiệm vụ quản lý và sử dụng nguồn vốn từ Quỹ theo quy định tại Nghị định này.
+2. Ủy ban nhân dân cấp tỉnh và cơ quan trung ương của Hội Liên hiệp Phụ nữ Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Nông dân Việt Nam, Tổng Liên đoàn Lao động Việt Nam, Hội Cựu Chiến binh Việt Nam, Liên minh Hợp tác xã Việt Nam, Hội Người mù Việt Nam (sau đây gọi chung là tổ chức thực hiện chương trình) được giao nhiệm vụ quản lý và sử dụng nguồn vốn từ Quỹ theo quy định tại Nghị định này.
 
 3. Quỹ được giao cho Ngân hàng Chính sách xã hội quản lý và cho vay theo quy định tại Nghị định này. Ngân hàng Chính sách xã hội báo cáo kết quả thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.
 
@@ -577,23 +479,7 @@ b) Người lao động.
 a) Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh sử dụng nhiều lao động là người khuyết tật, người dân tộc thiểu số;
 
 b) Người dân tộc thiểu số đang sinh sống tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, người khuyết tật.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.13. Điều kiện vay vốn
-;
-Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn
-;
-Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.5.23. Đối tượng vay vốn
-;
-Điều 20.4.NĐ.5.26. Lãi suất vay vốn
-;
-Điều 20.4.NĐ.5.28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 20.4.TT.5.3. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với người lao động
-;
-Điều 20.4.TT.5.4. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với cơ sở sản xuất, kinh doanh của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.13. Điều kiện vay vốn; Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn; Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.5.23. Đối tượng vay vốn; Điều 20.4.NĐ.5.26. Lãi suất vay vốn; Điều 20.4.NĐ.5.28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 20.4.TT.5.3. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với người lao động; Điều 20.4.TT.5.4. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với cơ sở sản xuất, kinh doanh của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015)
 
 ### Điều 20.4.NĐ.5.22. Nguyên tắc cho vay vốn
 
@@ -618,21 +504,11 @@ a) Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là ngườ
 b) Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người dân tộc thiểu số là cơ sở sản xuất kinh doanh sử dụng từ 30% tổng số lao động trở lên là người dân tộc thiểu số;
 
 c) Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật, người dân tộc thiểu số là cơ sở sản xuất kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật và người dân tộc thiểu số.
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.5.24. Mức vay
 
-(
-
-### Điều 24
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 24 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Đối với cơ sở sản xuất, kinh doanh, mức vay tối đa là 02 tỷ đồng/dự án và không quá 100 triệu đồng cho 01 người lao động được tạo việc làm, duy trì và mở rộng việc làm.
 
 2. Đối với người lao động, mức vay tối đa là 100 triệu đồng.
@@ -641,64 +517,29 @@ Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08
 
 ### Điều 20.4.NĐ.5.25. Thời hạn vay vốn
 
-(
-
-### Điều 25
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 25 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Thời hạn vay vốn tối đa 120 tháng. Thời hạn vay vốn cụ thể do Ngân hàng Chính sách xã hội xem xét căn cứ vào nguồn vốn, chu kỳ sản xuất, kinh doanh, khả năng trả nợ của đối tượng vay vốn để thỏa thuận với đối tượng vay vốn.
 
 ### Điều 20.4.NĐ.5.26. Lãi suất vay vốn
 
-(
-
-### Điều 26
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
-1.
-Đối với đối tượng quy định tại
+(Điều 26 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+1. Đối với đối tượng quy định tại
 khoản 1 Điều 12 Luật việc làm
 , lãi suất vay vốn bằng lãi suất vay vốn đối với hộ cận nghèo theo quy định pháp luật về tín dụng đối với hộ cận nghèo.
 
 2. Đối với đối tượng quy định tại Khoản 2 Điều 12 Luật Việc làm, lãi suất vay vốn bằng 50% lãi suất theo quy định tại Khoản 1 Điều này.
 
 3. Lãi suất nợ quá hạn bằng 130% lãi suất vay vốn theo quy định tại Khoản 1 và Khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.5.27. Điều kiện bảo đảm tiền vay
 
-(
-
-### Điều 27
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 27 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Đối với mức vay từ 100 triệu đồng trở lên, cơ sở sản xuất, kinh doanh phải có tài sản bảo đảm tiền vay theo quy định pháp luật về giao dịch bảo đảm.
 
 ### Điều 20.4.NĐ.5.28. Lập hồ sơ vay vốn
 
-(
-
-### Điều 28
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 28 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Người lao động, cơ sở sản xuất, kinh doanh có nhu cầu vay vốn từ Quỹ lập hồ sơ vay vốn gửi chi nhánh Ngân hàng Chính sách xã hội hoặc phòng giao dịch Ngân hàng Chính sách xã hội (sau đây gọi chung là Ngân hàng Chính sách xã hội địa phương) nơi thực hiện dự án.
 
 2. Hồ sơ vay vốn
@@ -721,25 +562,11 @@ b) Đối với cơ sở sản xuất, kinh doanh, hồ sơ vay vốn gồm:
 Mẫu 1a.doc
 Mẫu 1b.doc
 Mẫu 2.doc
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.TT.5.3. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với người lao động
-;
-Điều 20.4.TT.5.4. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với cơ sở sản xuất, kinh doanh của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.TT.5.3. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với người lao động; Điều 20.4.TT.5.4. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với cơ sở sản xuất, kinh doanh của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015)
 
 ### Điều 20.4.TT.5.3. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với người lao động
 
-(
-
-### Điều 3
-
-Thông tư số 45/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 31/12/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Thông tư số 24/2017/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/10/2017)
+(Điều 3 Thông tư số 45/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 31/12/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 24/2017/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/10/2017)
 1. Giấy đề nghị vay vốn quy định tại Điểm a Khoản 2 Điều 28 Nghị định số 61/2015/NĐ-CP được thực hiện theo Mẫu số 01a và Mẫu số 01b ban hành kèm theo Thông tư này.
 
 2. Bản sao giấy tờ chứng minh người lao động thuộc đối tượng ưu tiên quy định tại Điểm b Khoản 2 Điều 12 Luật Việc làm được hướng dẫn như sau:
@@ -749,23 +576,11 @@ a) Đối với người dân tộc thiểu số đang sinh sống tại vùng c
 b) Đối với người khuyết tật là bản sao giấy xác nhận khuyết tật do Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã) cấp.
 Mau so 01a.doc
 Mau so 01b.doc
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.TT.5.4. Hồ sơ vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm đối với cơ sở sản xuất, kinh doanh
 
-(
-
-### Điều 4
-
-Thông tư số 45/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 31/12/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Thông tư số 24/2017/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/10/2017)
+(Điều 4 Thông tư số 45/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 31/12/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Thông tư số 24/2017/TT-BLĐTBXH có hiệu lực thi hành kể từ ngày 15/10/2017)
 1. Dự án vay vốn quy định tại Điểm b Khoản 2 Điều 28 Nghị định số 61/2015/NĐ-CP được thực hiện theo Mẫu số 02 ban hành kèm theo Thông tư này.
 
 2. Bản sao giấy tờ chứng minh cơ sở sản xuất, kinh doanh thuộc đối tượng ưu tiên quy định tại Điểm a Khoản 2 Điều 12 Luật Việc làm được hướng dẫn như sau:
@@ -776,11 +591,7 @@ b) Đối với cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng s�
 
 c) Đối với cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật và người dân tộc thiểu số bao gồm: danh sách lao động là người khuyết tật và người dân tộc thiểu số, bản sao giấy xác nhận khuyết tật của những người lao động là người khuyết tật do Ủy ban nhân dân cấp xã cấp, bản sao chứng minh nhân dân hoặc hộ chiếu hoặc sổ hộ khẩu hoặc sổ tạm trú của những người lao động là người dân tộc thiểu số và bản sao hợp đồng lao động hoặc quyết định tuyển dụng của những người lao động trong danh sách.
 Mau so 02.doc
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 28. Lập hồ sơ vay vốn của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.29. Thẩm định, phê duyệt hồ sơ vay vốn
 
@@ -800,15 +611,7 @@ b) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ
 
 ### Điều 20.4.NĐ.5.30. Thu hồi và sử dụng vốn vay
 
-(
-
-### Điều 30
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 30 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Ngân hàng Chính sách xã hội địa phương phối hợp với các cơ quan liên quan thu hồi cả gốc và lãi của vốn vay khi đến hạn, đối tượng vay có thể thỏa thuận trả vốn vay trước hạn. Trong quá trình cho vay, Ngân hàng Chính sách xã hội, Sở Lao động - Thương binh và Xã hội, Phòng Lao động - Thương binh và Xã hội, tổ chức thực hiện chương trình kiểm tra, giám sát nếu phát hiện vốn vay được sử dụng không đúng mục đích, không bảo đảm chỉ tiêu tạo việc làm theo dự án vay vốn trong thời gian vay vốn thì báo cáo với cơ quan phê duyệt hồ sơ vay vốn ra quyết định thu hồi vốn vay trước thời hạn.
 
 2. Ngân hàng Chính sách xã hội sử dụng vốn vay đã thu hồi để cho vay, hạn chế vốn tồn đọng.
@@ -821,15 +624,7 @@ Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08
 
 ### Điều 20.4.NĐ.5.31. Sử dụng lãi vốn vay
 
-(
-
-### Điều 31
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 31 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Ngân hàng Chính sách xã hội quản lý và hạch toán tiền lãi thu được vào thu nhập của Ngân hàng Chính sách xã hội. Tiền lãi vốn vay được sử dụng như sau:
 
 a) Trích lập Quỹ dự phòng và các khoản chi phí của Ngân hàng Chính sách xã hội theo quy định pháp luật về quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội;
@@ -852,15 +647,7 @@ Xử lý nợ rủi ro vốn vay thực hiện theo quy định của Chính ph�
 
 ### Điều 20.4.NĐ.5.33. Huy động nguồn vốn để thực hiện cho vay hỗ trợ tạo việc làm, duy trì và mở rộng việc làm
 
-(
-
-### Điều 33
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 33 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Ngân hàng Chính sách xã hội huy động nguồn vốn để cho vay hỗ trợ tạo việc làm, duy trì và mở rộng việc làm được Nhà nước cấp bù chênh lệch lãi suất và phí quản lý theo quy định pháp luật về quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội.
 
 2. Ngân hàng Chính sách xã hội báo cáo kết quả thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.
@@ -885,13 +672,7 @@ b) Có nhu cầu vay vốn để tự tạo việc làm hoặc thu hút thêm la
 c) Cư trú hợp pháp tại địa phương nơi thực hiện dự án.
 
 3. Chính phủ quy định mức vay, thời hạn, lãi suất cho vay, trình tự, thủ tục vay vốn và điều kiện bảo đảm tiền vay.
-(Điều này có nội dung liên quan đến
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm
-;
-Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn
-;
-Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm; Điều 20.4.LQ.15. Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn; Điều 20.4.LQ.17. Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.LQ.14. Cho vay ưu đãi từ các nguồn tín dụng khác để hỗ trợ tạo việc làm
 
@@ -914,13 +695,7 @@ b) Tư vấn miễn phí về chính sách, pháp luật về lao động, việ
 c) Giới thiệu việc làm miễn phí;
 
 Vay vốn từ Quỹ quốc gia về việc làm theo quy định tại các điều 11, 12 và 13 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 11. Quỹ quốc gia về việc làm
-;
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm
-;
-Điều 13. Điều kiện vay vốn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 11. Quỹ quốc gia về việc làm; Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm; Điều 13. Điều kiện vay vốn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.LQ.16. Hỗ trợ học nghề cho người lao động ở khu vực nông thôn
 
@@ -937,13 +712,7 @@ Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh
 2. Hỗ trợ cung cấp thông tin về thị trường tiêu thụ sản phẩm;
 
 3. Miễn, giảm thuế theo quy định của pháp luật về thuế.
-(Điều này có nội dung liên quan đến
-Điều 11. Quỹ quốc gia về việc làm
-;
-Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm
-;
-Điều 13. Điều kiện vay vốn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 11. Quỹ quốc gia về việc làm; Điều 12. Đối tượng vay vốn từ Quỹ quốc gia về việc làm; Điều 13. Điều kiện vay vốn của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ## Mục 3: Chính sách việc làm công
 
@@ -965,11 +734,7 @@ d) Ứng phó với biến đổi khí hậu;
 2. Các dự án, hoạt động quy định tại khoản 1 Điều này khi thực hiện lựa chọn nhà thầu theo quy định của pháp luật về đấu thầu, trong hồ sơ mời thầu hoặc hồ sơ yêu cầu phải quy định nhà thầu tham dự thầu đề xuất phương án sử dụng lao động thuộc đối tượng quy định tại khoản 1 Điều 19 của Luật này.
 
 3. Chính phủ quy định chi tiết việc tổ chức thực hiện chính sách việc làm công.
-(Điều này có nội dung liên quan đến
-Điều 19. Đối tượng tham gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.5.3. Lựa chọn dự án, hoạt động thực hiện chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 19. Đối tượng tham gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.5.3. Lựa chọn dự án, hoạt động thực hiện chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.3. Lựa chọn dự án, hoạt động thực hiện chính sách việc làm công
 
@@ -986,11 +751,7 @@ c) Dự án, hoạt động xây dựng, cải tạo và bảo dưỡng: Đườ
 d) Dự án, hoạt động phục vụ cộng đồng khác.
 
 2. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ; Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh); Chủ tịch Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Ủy ban nhân dân cấp huyện); Chủ tịch Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã) quyết định thực hiện chính sách việc làm công đối với các dự án, hoạt động theo quy định tại Khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 18. Nội dung chính sách việc làm công của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.5.5. Đăng ký tham gia chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 18. Nội dung chính sách việc làm công của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.5.5. Đăng ký tham gia chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.4. Thông báo dự án, hoạt động thực hiện chính sách việc làm công
 
@@ -1017,9 +778,7 @@ d) Dự án, hoạt động phục vụ cộng đồng khác.
 1. Cộng đồng dân cư giám sát việc sử dụng lao động và việc thực hiện các chế độ đối với người lao động tham gia chính sách việc làm công trên địa bàn.
 
 2. Các tổ chức chính trị - xã hội tham gia giám sát việc sử dụng lao động và việc thực hiện các chế độ đối với người lao động tham gia chính sách việc làm công trên địa bàn.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.10.7. Báo cáo thực hiện chính sách việc làm công của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.10.7. Báo cáo thực hiện chính sách việc làm công của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017)
 
 ### Điều 20.4.TT.10.7. Báo cáo thực hiện chính sách việc làm công
 
@@ -1036,9 +795,7 @@ d) Dự án, hoạt động phục vụ cộng đồng khác.
 Mau so 01.doc
 Mau so 02.doc
 Mau so 03.doc
-(Điều này có nội dung liên quan đến
-Điều 9. Giám sát việc thực hiện chính sách việc làm công của cộng đồng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 9. Giám sát việc thực hiện chính sách việc làm công của cộng đồng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.LQ.19. Đối tượng tham gia
 
@@ -1052,11 +809,7 @@ b) Tự nguyện tham gia chính sách việc làm công.
 2. Người lao động quy định tại khoản 1 Điều này là người dân tộc thiểu số; người thuộc hộ nghèo, hộ cận nghèo hoặc hộ bị thu hồi đất nông nghiệp; người chưa có việc làm hoặc thiếu việc làm được ưu tiên tham gia chính sách việc làm công.
 
 3. Khuyến khích tổ chức, cá nhân sử dụng người lao động quy định tại khoản 1 Điều này khi thực hiện dự án, hoạt động không thuộc quy định tại khoản 1 Điều 18 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.18. Nội dung chính sách việc làm công của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.5.6. Lựa chọn người lao động tham gia chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.18. Nội dung chính sách việc làm công của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.5.6. Lựa chọn người lao động tham gia chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.5. Đăng ký tham gia chính sách việc làm công
 
@@ -1065,9 +818,7 @@ b) Tự nguyện tham gia chính sách việc làm công.
 1. Người lao động có nhu cầu tham gia chính sách việc làm công đăng ký tham gia dự án, hoạt động quy định tại Điều 3 Nghị định này với Ủy ban nhân dân cấp xã nơi cư trú hợp pháp theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.
 
 2. Ủy ban nhân dân cấp xã lập danh sách người lao động có nhu cầu tham gia chính sách việc làm công; niêm yết công khai tại trụ sở, các nơi sinh hoạt cộng đồng và thông báo trên các phương tiện truyền thông của cấp xã.
-(Điều này có nội dung liên quan đến
-Điều 3. Lựa chọn dự án, hoạt động thực hiện chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 3. Lựa chọn dự án, hoạt động thực hiện chính sách việc làm công của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.TT.10.3. Đăng ký tham gia dự án, hoạt động thực hiện chính sách việc làm công
 
@@ -1113,9 +864,7 @@ Người lao động đăng ký tham gia dự án, hoạt động thực hiện 
 2. Người lao động thuộc hộ gia đình hoạt động sản xuất nông nghiệp là chủ yếu.
 
 3. Người lao động cư trú hợp pháp tại địa phương nơi thực hiện dự án, hoạt động.
-(Điều này có nội dung liên quan đến
-Điều 19. Đối tượng tham gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 19. Đối tượng tham gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.5.7. Chế độ đối với người lao động tham gia chính sách việc làm công
 
@@ -1135,9 +884,7 @@ Tiền công của người lao động được thanh toán trên cơ sở th�
 2. Đối với người lao động làm việc không đủ 8 giờ trong 1 ngày hoặc 26 ngày trong 1 tháng thì tiền công tính theo giờ và không được thấp hơn mức lương tối thiểu vùng tại nơi thực hiện các dự án, hoạt động chia 26 ngày và chia 8 giờ;
 
 3. Trường hợp người lao động làm thêm giờ theo quy định tại khoản 3 Điều 5 Thông tư này thì được thanh toán tiền công theo giờ theo quy định tại khoản 2 Điều này cho những giờ làm thêm.
-(Điều này có nội dung liên quan đến
-Điều 5. Thời giờ làm việc, thời giờ nghỉ ngơi của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017
-)
+(Điều này có nội dung liên quan đến: Điều 5. Thời giờ làm việc, thời giờ nghỉ ngơi của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017)
 
 ### Điều 20.4.TT.10.5. Thời giờ làm việc, thời giờ nghỉ ngơi của người lao động làm việc theo hình thức cộng đồng
 
@@ -1149,9 +896,7 @@ Việc tổ chức, sắp xếp thời giờ làm việc, thời giờ nghỉ ng
 2. Mỗi tuần được nghỉ ít nhất 1 ngày (24 giờ liên tục). Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần, thì được nghỉ tính bình quân 01 tháng ít nhất 04 ngày;
 
 3. Trường hợp phải làm thêm giờ thì tổng số giờ làm việc và số giờ làm thêm không quá 12 giờ trong 1 ngày.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.10.4. Tiền công của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.10.4. Tiền công của người lao động làm việc theo hình thức cộng đồng của Thông tư 11/2017/TT-BLĐTBXH Hướng dẫn thực hiện một số điều của Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm về chính sách việc làm công ban hành ngày 20/04/2017)
 
 ### Điều 20.4.TT.10.6. An toàn, vệ sinh lao động của người lao động làm việc theo hình thức cộng đồng
 
@@ -1183,13 +928,7 @@ a) Tạo điều kiện để người lao động được làm việc trong m�
 b) Bảo đảm các chế độ đối với người lao động quy định tại các điểm c và d khoản 1 Điều này;
 
 c) Phối hợp và tạo điều kiện để người lao động thực hiện các nghĩa vụ quy định tại khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.13. Thông tin, tuyên truyền, giáo dục về an toàn, vệ sinh lao động của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015
-;
-Điều 20.5.NĐ.1.10. Thời gian, nội dung khai báo tai nạn lao động của Nghị định 39/2016/NĐ-CP Quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động ban hành ngày 15/05/2016
-;
-Điều 20.5.NĐ.2.32. Hỗ trợ huấn luyện người lao động làm công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.13. Thông tin, tuyên truyền, giáo dục về an toàn, vệ sinh lao động của Luật 84/2015/QH13 An toàn, vệ sinh lao động ban hành ngày 25/06/2015; Điều 20.5.NĐ.1.10. Thời gian, nội dung khai báo tai nạn lao động của Nghị định 39/2016/NĐ-CP Quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động ban hành ngày 15/05/2016; Điều 20.5.NĐ.2.32. Hỗ trợ huấn luyện người lao động làm công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động)
 
 ## Mục 4: Các chính sách hỗ trợ khác
 
@@ -1273,13 +1012,7 @@ b) Người lao động tham gia các chương trình đào tạo trình độ c
 5. Trường hợp người lao động đồng thời thuộc hai hay nhiều đối tượng quy định tại Khoản 1 Điều 2 Thông tư liên tịch này thì được lựa chọn áp dụng theo đối tượng có lợi nhất cho người lao động và chỉ được hưởng một lần các Khoản hỗ trợ quy định tại Khoản 1, Khoản 2, Khoản 3 và Khoản 4 Điều này.
 
 6. Người lao động quy định tại Khoản 1 Điều 2 Thông tư liên tịch này thuộc các huyện nghèo theo Nghị quyết số 30a/2008/NQ-CP có thể lựa chọn áp dụng chính sách hỗ trợ theo quy định tại Thông tư liên tịch này hoặc quy định tại Quyết định số 71/2009/QĐ-TTg. Trường hợp người lao động thực hiện theo quy định tại Thông tư liên tịch này thì không thực hiện theo quy định tại Quyết định số 71/2009/QĐ-TTg và ngược lại.
-(Điều này có nội dung liên quan đến
-Điều 20.1.QĐ.1.4. Mức hỗ trợ chi phí đào tạo
-;
-Điều 2. Đối tượng áp dụng
-;
-Điều 20.4.TL.2.4. Quy trình và thủ tục hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.QĐ.1.4. Mức hỗ trợ chi phí đào tạo; Điều 2. Đối tượng áp dụng; Điều 20.4.TL.2.4. Quy trình và thủ tục hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016)
 
 ### Điều 20.4.TL.2.4. Quy trình và thủ tục hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng
 
@@ -1360,11 +1093,7 @@ d) Doanh nghiệp, tổ chức sự nghiệp đưa người lao động đi làm
 Mau so 01.docx
 Mau so 02.docx
 Mau so 03.docx
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng
-;
-Điều 3. Nội dung và mức chi hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng; Điều 3. Nội dung và mức chi hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư liên tịch 09/2016/TTLT-BLĐTBXH-BTC Hướng dẫn thực hiện một số điều về hỗ trợ đưa người lao động đi làm việc ở nước ngoài theo hợp đồng quy định tại Nghị định số 61/2015/NĐ-CP ngày 09/07/2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 15/06/2016)
 
 ### Điều 20.4.TT.11.4. Báo cáo kết quả thực hiện cho vay hỗ trợ tạo việc làm, duy trì và mở rộng việc làm và cho vay hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng từ nguồn vốn huy động
 
@@ -1390,11 +1119,7 @@ Mẫu số 9.doc
 1. Người lao động thuộc hộ nghèo, hộ bị thu hồi đất nông nghiệp và người lao động là người dân tộc thiểu số được vay vốn đi làm việc ở nước ngoài theo hợp đồng từ Ngân hàng chính sách xã hội theo quy định của pháp luật.
 
 2. Người lao động thuộc hộ cận nghèo, người lao động là thân nhân của người có công với cách mạng được vay vốn đi làm việc ở nước ngoài theo hợp đồng từ Quỹ quốc gia về việc làm theo quy định tại Mục 3 Chương V Nghị định này.
-(Điều này có nội dung liên quan đến
-Mục 3 CHO VAY ƯU ĐÃI ĐỐI VỚI NGƯỜI LAO ĐỘNG ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 20.4.TT.5.5. Hồ sơ vay vốn đối với người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015
-)
+(Điều này có nội dung liên quan đến: Mục 3 CHO VAY ƯU ĐÃI ĐỐI VỚI NGƯỜI LAO ĐỘNG ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 20.4.TT.5.5. Hồ sơ vay vốn đối với người lao động đi làm việc ở nước ngoài theo hợp đồng của Thông tư 45/2015/TT-BLĐTBXH Hướng dẫn thực hiện một số điều về Quỹ quốc gia về việc làm quy định tại Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 11/11/2015)
 
 ### Điều 20.4.NĐ.5.12. Hỗ trợ phát triển thị trường lao động ngoài nước
 
@@ -1514,15 +1239,7 @@ d) Hàng năm, xây dựng kế hoạch và dự toán kinh phí từ ngân sác
 
 ### Điều 20.4.NĐ.5.34. Nguyên tắc cho vay vốn
 
-(
-
-### Điều 34
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 34 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Bảo đảm đúng đối tượng.
 
 2. Bảo toàn vốn.
@@ -1531,69 +1248,29 @@ Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08
 
 ### Điều 20.4.NĐ.5.35. Mức vay
 
-(
-
-### Điều 35
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 35 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Mức vay tối đa 100% chi phí đi làm việc ở nước ngoài theo hợp đồng ký kết giữa người lao động và doanh nghiệp dịch vụ, tổ chức sự nghiệp đưa người lao động đi làm việc ở nước ngoài theo hợp đồng.
 
 ### Điều 20.4.NĐ.5.36. Điều kiện bảo đảm tiền vay
 
-(
-
-### Điều 36
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 36 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Đối với mức vay từ 100 triệu đồng trở lên, người lao động vay vốn ưu đãi để đi làm việc ở nước ngoài theo hợp đồng phải có tài sản bảo đảm tiền vay theo quy định pháp luật về giao dịch bảo đảm.
 
 ### Điều 20.4.NĐ.5.37. Thời hạn vay vốn
 
-(
-
-### Điều 37
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 37 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Thời hạn vay vốn hỗ trợ đi làm việc ở nước ngoài theo hợp đồng không vượt quá thời hạn làm việc ở nước ngoài của người lao động ghi trong hợp đồng ký kết giữa người lao động và doanh nghiệp dịch vụ, tổ chức sự nghiệp đưa người lao động đi làm việc ở nước ngoài.
 
 ### Điều 20.4.NĐ.5.38. Lãi suất vay vốn
 
-(
-
-### Điều 38
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 38 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Lãi suất vay vốn ưu đãi đối với người lao động đi làm việc ở nước ngoài theo hợp đồng bằng lãi suất vay vốn đối với hộ nghèo theo từng thời kỳ do Chính phủ quy định.
 
 2. Lãi suất nợ quá hạn bằng 130% lãi suất vay vốn theo quy định tại Khoản 1 Điều này.
 
 ### Điều 20.4.NĐ.5.39. Lập hồ sơ vay vốn
 
-(
-
-### Điều 39
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 39 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Người lao động có nhu cầu vay vốn ưu đãi để đi làm việc ở nước ngoài theo hợp đồng lập hồ sơ vay vốn gửi Ngân hàng Chính sách xã hội địa phương nơi cư trú.
 
 2. Hồ sơ vay vốn
@@ -1620,9 +1297,7 @@ Mẫu 4.doc
 a) Đối với người lao động thuộc hộ cận nghèo được Ủy ban nhân dân cấp xã xác nhận tại giấy đề nghị vay vốn quy định tại Khoản 1 Điều này;
 
 b) Đối với người lao động là thân nhân người có công với cách mạng là bản sao giấy xác nhận thân nhân người có công với cách mạng theo Mẫu số 04 ban hành kèm theo Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 11. Hỗ trợ vay vốn đối với người lao động đi làm việc ở nước ngoài theo hợp đồng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 11. Hỗ trợ vay vốn đối với người lao động đi làm việc ở nước ngoài theo hợp đồng của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.TT.5.6. Xây dựng kế hoạch vốn vay
 
@@ -1656,43 +1331,19 @@ b) Đối với người lao động là thân nhân người có công với c�
 
 ### Điều 20.4.NĐ.5.40. Thẩm định, phê duyệt vốn vay
 
-(
-
-### Điều 40
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 40 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ vay vốn hỗ trợ đi làm việc ở nước ngoài theo hợp đồng, Ngân hàng Chính sách xã hội địa phương tổ chức thẩm định và phê duyệt. Nếu không ra quyết định phê duyệt thì Ngân hàng Chính sách xã hội địa phương thông báo cho người lao động bằng văn bản và nêu rõ lý do.
 
 ### Điều 20.4.NĐ.5.41. Thu hồi vốn vay
 
-(
-
-### Điều 41
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 41 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Ngân hàng Chính sách xã hội thu hồi cả gốc và lãi của vốn vay khi đến hạn; người lao động có thể thỏa thuận về việc trả vốn vay trước hạn.
 
 2. Đối với doanh nghiệp dịch vụ đưa người lao động đi làm việc ở nước ngoài quản lý tiền lương của người lao động ở nước ngoài thì doanh nghiệp, người lao động và Ngân hàng Chính sách xã hội thỏa thuận về việc doanh nghiệp chuyển tiền lương của người lao động để trả vốn vay.
 
 ### Điều 20.4.NĐ.5.42. Sử dụng lãi vốn vay
 
-(
-
-### Điều 42
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 42 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Tiền lãi vốn vay được sử dụng như sau:
 
 a) Trích lập Quỹ dự phòng;
@@ -1705,28 +1356,12 @@ c) Bổ sung vốn vay cho Quỹ.
 
 ### Điều 20.4.NĐ.5.43. Xử lý nợ rủi ro vốn vay
 
-(
-
-### Điều 43
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 43 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 Xử lý nợ rủi ro vốn vay ưu đãi đối với người lao động đi làm việc ở nước ngoài theo hợp đồng thực hiện theo quy định của Chính phủ về cơ chế xử lý nợ rủi ro tại Ngân hàng Chính sách xã hội.
 
 ### Điều 20.4.NĐ.5.44. Huy động nguồn vốn để cho vay hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng
 
-(
-
-### Điều 44
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 44 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Ngân hàng Chính sách xã hội huy động nguồn vốn để cho vay hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng được Nhà nước cấp bù chênh lệch lãi suất và phí quản lý theo quy định pháp luật về quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội.
 
 2. Ngân hàng Chính sách xã hội báo cáo kết quả thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.
@@ -1745,26 +1380,14 @@ b) Đào tạo nghề gắn với tạo việc làm cho thanh niên hoàn thành
 c) Hỗ trợ thanh niên lập nghiệp, khởi sự doanh nghiệp.
 
 3. Chính phủ quy định chi tiết điểm b và điểm c khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 41.11.LQ.32. Quyền và nghĩa vụ của vận động viên thể thao thành tích cao
-)
+(Điều này có nội dung liên quan đến: Điều 41.11.LQ.32. Quyền và nghĩa vụ của vận động viên thể thao thành tích cao)
 
 ### Điều 20.4.NĐ.5.14. Đối tượng hỗ trợ đào tạo nghề
 
 (Điều 14 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015)
 
 Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ công an, thanh niên tình nguyện hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội được hỗ trợ đào tạo nghề khi đáp ứng các điều kiện quy định tại Điều 15 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 15. Điều kiện hỗ trợ đào tạo nghề
-;
-Điều 20.4.NĐ.5.16. Nội dung và mức hỗ trợ đào tạo nghề
-;
-Điều 20.4.NĐ.5.17. Kinh phí hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 20.4.TT.9.1. Phạm vi điều chỉnh của Thông tư 43/2016/TT-BLĐTBXH Hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 28/12/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học; Điều 15. Điều kiện hỗ trợ đào tạo nghề; Điều 20.4.NĐ.5.16. Nội dung và mức hỗ trợ đào tạo nghề; Điều 20.4.NĐ.5.17. Kinh phí hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 20.4.TT.9.1. Phạm vi điều chỉnh của Thông tư 43/2016/TT-BLĐTBXH Hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 28/12/2016)
 
 ### Điều 20.4.TT.9.3. Chính sách hỗ trợ đào tạo nghề trình độ sơ cấp cho thanh niên
 
@@ -1858,15 +1481,7 @@ Phuluc 01.doc
 Phuluc 02.doc
 Phuluc 03.doc
 Phuluc 04.doc
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 15. Điều kiện hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 20.1.TT.4.7. Nội dung và mức hỗ trợ
-;
-Điều 20.1.TT.4.10. Xây dựng đơn giá đặt hàng trong trường hợp chưa có định mức kinh tế - kỹ thuật, định mức chi phí
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học; Điều 15. Điều kiện hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 20.1.TT.4.7. Nội dung và mức hỗ trợ; Điều 20.1.TT.4.10. Xây dựng đơn giá đặt hàng trong trường hợp chưa có định mức kinh tế - kỹ thuật, định mức chi phí)
 
 ### Điều 20.4.TT.9.4. Chính sách hỗ trợ đào tạo nghề trình độ trung cấp, trình độ cao đẳng cho thanh niên
 
@@ -1875,17 +1490,7 @@ Phuluc 04.doc
 1. Thanh niên thuộc đối tượng quy định tại Điều 6, 7 và 8 Nghị định số 86/2015/NĐ-CP ngày 02 tháng 10 năm 2015 của Chính phủ về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 được miễn, giảm học phí khi tham gia đào tạo nghề trình độ trung cấp, trình độ cao đẳng.
 
 2. Thanh niên thuộc đối tượng quy định tại khoản 1 Điều 2 của Quyết định số 157/2007/QĐ-TTg ngày 27 tháng 9 năm 2007 của Thủ tướng Chính phủ về tín dụng đối với học sinh, sinh viên được vay vốn để tham gia đào tạo nghề trình độ trung cấp, trình độ cao đẳng.
-(Điều này có nội dung liên quan đến
-Điều 6. Đối tượng không phải đóng học phí
-;
-Điều 7. Đối tượng được miễn học phí
-;
-Điều 8. Đối tượng được giảm học phí của Nghị định 86/2015/NĐ-CP Quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 ban hành ngày 02/10/2015
-;
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 22.3.QĐ.26.2. Đối tượng được vay vốn
-)
+(Điều này có nội dung liên quan đến: Điều 6. Đối tượng không phải đóng học phí; Điều 7. Đối tượng được miễn học phí; Điều 8. Đối tượng được giảm học phí của Nghị định 86/2015/NĐ-CP Quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 ban hành ngày 02/10/2015; Điều 20.1.LQ.62. Chính sách đối với người học; Điều 22.3.QĐ.26.2. Đối tượng được vay vốn)
 
 ### Điều 20.4.NĐ.5.15. Điều kiện hỗ trợ đào tạo nghề
 
@@ -1896,13 +1501,7 @@ Các đối tượng theo quy định tại Điều 14 Nghị định này đư�
 1. Có nhu cầu đào tạo nghề trong thời hạn 12 tháng kể từ ngày hoàn thành nghĩa vụ quân sự, nghĩa vụ công an; hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội;
 
 2. Chưa được hỗ trợ đào tạo nghề từ chính sách hỗ trợ đào tạo nghề khác có sử dụng nguồn kinh phí của ngân sách nhà nước kể từ ngày hoàn thành nghĩa vụ quân sự, nghĩa vụ công an; hoàn thành nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 20.4.NĐ.5.14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-;
-Điều 20.4.TT.9.3. Chính sách hỗ trợ đào tạo nghề trình độ sơ cấp cho thanh niên của Thông tư 43/2016/TT-BLĐTBXH Hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 28/12/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học; Điều 20.4.NĐ.5.14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015; Điều 20.4.TT.9.3. Chính sách hỗ trợ đào tạo nghề trình độ sơ cấp cho thanh niên của Thông tư 43/2016/TT-BLĐTBXH Hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 28/12/2016)
 
 ### Điều 20.4.NĐ.5.16. Nội dung và mức hỗ trợ đào tạo nghề
 
@@ -1917,22 +1516,14 @@ b) Vay vốn để tham gia đào tạo nghề trình độ trung cấp, cao đ�
 2. Các đối tượng theo quy định tại Điều 14 Nghị định này tham gia đào tạo nghề trình độ sơ cấp được cấp thẻ đào tạo nghề có giá trị tối đa bằng 12 tháng tiền lương cơ sở tại thời điểm đào tạo nghề và có giá trị sử dụng trong 01 năm kể từ ngày cấp.
 
 3. Bộ Lao động - Thương binh và Xã hội, Bộ Quốc phòng, Bộ Công an hướng dẫn thực hiện chính sách hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học; Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.17. Kinh phí hỗ trợ đào tạo nghề
 
 (Điều 17 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015)
 
 Nguồn kinh phí để hỗ trợ đào tạo nghề cho các đối tượng quy định tại Điều 14 Nghị định này thực hiện theo quy định của pháp luật về ngân sách nhà nước.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-;
-Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học; Điều 14. Đối tượng hỗ trợ đào tạo nghề của Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ban hành ngày 09/07/2015)
 
 ### Điều 20.4.NĐ.5.18. Hỗ trợ thanh niên lập nghiệp
 
@@ -2016,13 +1607,7 @@ Nhà nước hỗ trợ phát triển thị trường lao động thông qua cá
 3. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình quản lý thông tin thị trường lao động tại địa phương.
 
 4. Các cơ quan quy định tại các khoản 1, 2 và 3 Điều này có trách nhiệm định kỳ công bố thông tin thị trường lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.4.TT.2.21. Công bố thông tin về thị trường lao động của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015
-;
-Điều 20.4.LQ.25. Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.2.1. Phạm vi điều chỉnh; Điều 20.4.TT.2.21. Công bố thông tin về thị trường lao động của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015; Điều 20.4.LQ.25. Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của)
 
 ### Điều 20.4.LQ.25. Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động
 
@@ -2032,11 +1617,7 @@ Nhà nước hỗ trợ phát triển thị trường lao động thông qua cá
 2. Ủy ban nhân dân các cấp tổ chức việc thu thập, lưu trữ, tổng hợp thông tin thị trường lao động trên địa bàn thuộc phạm vi quản lý.
 
 3. Cơ quan, tổ chức, doanh nghiệp và cá nhân thu thập, lưu trữ, tổng hợp thông tin thị trường lao động theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 24. Quản lý thông tin thị trường lao động của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 24. Quản lý thông tin thị trường lao động của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.4. Nguyên tắc thu thập, lưu trữ, tổng hợp thông tin thị trường lao động
 
@@ -2087,11 +1668,7 @@ d) Sản phẩm thu thập, lưu trữ, tổng hợp thông tin thị trường 
 e) Tổ chức thực hiện.
 
 g) Dự toán kinh phí.
-(Điều này có nội dung liên quan đến
-Điều 7. Nội dung thu thập
-;
-Điều 10. Nội dung thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 7. Nội dung thu thập; Điều 10. Nội dung thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.6. Đối tượng được thu thập
 
@@ -2116,9 +1693,7 @@ d) Tình trạng thất nghiệp (công việc chính trước khi thất nghi�
 e) Nhu cầu đào tạo, việc làm.
 
 2. Khi có sự thay đổi hoặc sai sót về nội dung thông tin quy định tại khoản 1 Điều này thì cơ quan, tổ chức, cá nhân có trách nhiệm thu thập thông tin tiến hành cập nhật, chỉnh sửa.
-(Điều này có nội dung liên quan đến
-Điều 5. Lập kế hoạch thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 5. Lập kế hoạch thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.8. Quy trình thu thập
 
@@ -2160,9 +1735,7 @@ Phu luc.doc
 
 (Điều 9 Thông tư số 01/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 10/03/2022)
 Đối tượng được thu thập là người sử dụng lao động theo quy định tại khoản 2 Điều 3 Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 3. Giải thích từ ngữ của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012
-)
+(Điều này có nội dung liên quan đến: Điều 3. Giải thích từ ngữ của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012)
 
 ### Điều 20.4.TT.12.10. Nội dung thu thập
 
@@ -2174,13 +1747,7 @@ a) Việc sử dụng lao động của người sử dụng lao động theo qu
 b) Nhu cầu tuyển dụng lao động của người sử dụng lao động.
 
 2. Khi có sự thay đổi hoặc sai sót trong quá trình thu thập thông tin quy định tại khoản 1 Điều này thì cơ quan, tổ chức, cá nhân có trách nhiệm thu thập thông tin tiến hành cập nhật, chỉnh sửa.
-(Điều này có nội dung liên quan đến
-Điều 12. Chính sách của Nhà nước hỗ trợ phát triển việc làm của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012
-;
-Điều 5. Lập kế hoạch thu thập, lưu trữ, tổng hợp thông tin thị trường lao động
-;
-Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 12. Chính sách của Nhà nước hỗ trợ phát triển việc làm của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012; Điều 5. Lập kế hoạch thu thập, lưu trữ, tổng hợp thông tin thị trường lao động; Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.11. Quy trình thu thập
 
@@ -2221,15 +1788,7 @@ c) Giao nộp, sử dụng thông tin, dữ liệu người sử dụng lao đ�
 
 3. Sở Lao động - Thương binh và Xã hội căn cứ vào thực trạng và nhu cầu thông tin về thực trạng và nhu cầu sử dụng lao động của địa phương để xây dựng kế hoạch và triển khai thu thập, cập nhật thông tin về cầu lao động.
 Phu luc.doc
-(Điều này có nội dung liên quan đến
-Điều 37. Trung tâm dịch vụ việc làm
-;
-Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.2.NĐ.3.4. Báo cáo sử dụng lao động
-;
-Điều 10. Nội dung thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 37. Trung tâm dịch vụ việc làm; Điều 39. Doanh nghiệp hoạt động dịch vụ việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.2.NĐ.3.4. Báo cáo sử dụng lao động; Điều 10. Nội dung thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.12. Đối tượng được thu thập
 
@@ -2258,9 +1817,7 @@ Từ hệ thống thông tin, dữ liệu chấp thuận nhu cầu sử dụng n
 
 Trường hợp người lao động nước ngoài thực hiện theo quy định tại điểm a khoản 1 Điều 30 Nghị định 152/2020/NĐ-CP ngày 30/12/2020 của Chính phủ quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động việt nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam thì Cục Việc làm tiến hành thu thập theo Mẫu số 03 ban hành kèm theo Thông tư này.
 Phu luc.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.30. Trách nhiệm thi hành
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.30. Trách nhiệm thi hành)
 
 ### Điều 20.4.TT.12.15. Lưu trữ thông tin thị trường lao động
 
@@ -2291,9 +1848,7 @@ e) Kết nối, tích hợp, liên thông với các hệ thống thông tin li�
 g) Bảo đảm hiệu năng và an toàn, an ninh thông tin hệ thống.
 
 3. Sở Lao động - Thương binh và Xã hội chuyển tải dữ liệu cung lao động của địa phương về Bộ Lao động - Thương binh và Xã hội để tổng hợp trước ngày 15 tháng 12 hằng năm; thường xuyên cập nhật dữ liệu về nhu cầu tuyển dụng lao động của người sử dụng lao động, dữ liệu người lao động nước ngoài làm việc tại Việt Nam vào hệ thống lưu trữ, tổng hợp thông tin thị trường lao động.
-(Điều này có nội dung liên quan đến
-Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.17. Kết nối, chia sẻ thông tin thị trường lao động
 
@@ -2311,11 +1866,7 @@ b) Thông tin, dữ liệu về vị trí việc làm mà người sử dụng l
 (Điều 18 Thông tư số 01/2022/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 10/03/2022)
 Sở Lao động - Thương binh và Xã hội tổng hợp báo cáo thông tin thị trường lao động của địa phương theo Mẫu số 04 ban hành kèm theo Thông tư này gửi Ủy ban nhân dân tỉnh/thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) và Bộ Lao động - Thương binh và Xã hội trước ngày 15 tháng 12 hằng năm.
 Phu luc.doc
-(Điều này có nội dung liên quan đến
-Điều 21. Trách nhiệm của Trung tâm dịch vụ việc làm
-;
-Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 21. Trách nhiệm của Trung tâm dịch vụ việc làm; Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.19. Trách nhiệm của người cung cấp thông tin
 
@@ -2341,9 +1892,7 @@ Phu luc.doc
 3. Báo cáo công tác thu thập, lưu trữ, tổng hợp thông tin thị trường lao động thuộc phạm vi phụ trách gửi Sở Lao động - Thương binh và Xã hội theo quy định tại Điều 18 Thông tư này.
 
 4. Xây dựng kế hoạch và tổ chức thu thập, cung cấp thông tin thị trường lao động khác theo hướng dẫn của cơ quan có thẩm quyền.
-(Điều này có nội dung liên quan đến
-Điều 18. Báo cáo thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 18. Báo cáo thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
@@ -2369,13 +1918,7 @@ g) Kiểm tra, giám sát việc thu thập thông tin thị trường lao độ
 a) Phối hợp với Sở Lao động - Thương binh và Xã hội thực hiện xây dựng kế hoạch và tổ chức thu thập, lưu trữ, tổng hợp thông tin thị trường lao động thuộc phạm vi quản lý.
 
 b) Báo cáo công tác thu thập, lưu trữ, tổng hợp thông tin thị trường lao động gửi Sở Lao động - Thương binh và Xã hội theo quy định tại Điều 18 Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 25. Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 16. Hệ thống lưu trữ, tổng hợp thông tin thị trường lao động
-;
-Điều 18. Báo cáo thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 25. Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 16. Hệ thống lưu trữ, tổng hợp thông tin thị trường lao động; Điều 18. Báo cáo thông tin thị trường lao động của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.TT.12.23. Trách nhiệm của các đơn vị thuộc Bộ Lao động - Thương binh và Xã hội
 
@@ -2426,9 +1969,7 @@ b) Thông tin thị trường lao động đang trong quá trình thu thập, t�
 c) Thông tin thị trường lao động thuộc danh mục bí mật nhà nước theo quy định của pháp luật.
 
 3. Cơ quan, tổ chức, doanh nghiệp và cá nhân khai thác, sử dụng thông tin thị trường lao động có trách nhiệm bảo đảm an toàn, bảo mật và lưu trữ thông tin theo quy định của Luật này và quy định khác của pháp luật có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.2.21. Công bố thông tin về thị trường lao động của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.2.21. Công bố thông tin về thị trường lao động của Thông tư 27/2015/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 24/07/2015)
 
 # Chương IV: Đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -2459,9 +2000,7 @@ a) Kiến thức chuyên môn, kỹ thuật;
 b) Kỹ năng thực hành công việc;
 
 c) Quy trình an toàn lao động, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.19. Tổ chức việc thực hiện đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.19. Tổ chức việc thực hiện đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.LQ.31. Tổ chức đánh giá kỹ năng nghề
 
@@ -2473,21 +2012,11 @@ c) Quy trình an toàn lao động, vệ sinh lao động.
 3. Tổ chức đánh giá kỹ năng nghề được thu phí theo quy định của pháp luật về phí và lệ phí.
 
 4. Chính phủ quy định chi tiết điều kiện, tổ chức và hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.1. Phạm vi điều chỉnh của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.1. Phạm vi điều chỉnh của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
-(
-
-### Điều 3
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 3 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 Tổ chức được cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia phải bảo đảm các điều kiện sau đây:
 
 1. Về cơ sở vật chất, trang thiết bị:
@@ -2501,15 +2030,7 @@ c) Có trang thông tin điện tử riêng bảo đảm cho người lao độn
 2. Về nhân lực trực tiếp thực hiện việc đánh giá kỹ năng nghề của người tham dự:
 
 Có ít nhất là 01 (một) người đang làm việc chính thức tại tổ chức đánh giá kỹ năng nghề, có thẻ đánh giá viên kỹ năng nghề quốc gia (sau đây viết tắt là thẻ đánh giá viên) phù hợp với nghề và bậc trình độ kỹ năng nghề đề nghị cấp giấy chứng nhận.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.6. Hồ sơ, trình tự, thủ tục cấp giấy chứng nhận
-;
-Điều 12. Thẩm quyền cấp, cấp lại, hủy bỏ, thu hồi thẻ đánh giá viên của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.6. Mẫu tài liệu thuộc hồ sơ đề nghị cấp, cấp đổi, bổ sung, cấp lại giấy chứng nhận
-;
-Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.6. Hồ sơ, trình tự, thủ tục cấp giấy chứng nhận; Điều 12. Thẩm quyền cấp, cấp lại, hủy bỏ, thu hồi thẻ đánh giá viên của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.6. Mẫu tài liệu thuộc hồ sơ đề nghị cấp, cấp đổi, bổ sung, cấp lại giấy chứng nhận; Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.4. Giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -2542,13 +2063,7 @@ a) Văn bản đề nghị thay đổi, bổ sung, cấp lại giấy chứng nh
 
 b) Bản kê khai về cơ sở vật chất, trang thiết bị theo mẫu số 02 và danh sách dự kiến những người trực tiếp thực hiện việc đánh giá kỹ năng nghề của người tham dự theo mẫu số 03 tại Phụ lục 03 ban hành kèm theo Thông tư này (được áp dụng đối với trường hợp có đề nghị thay đổi, bổ sung tên nghề, bậc trình độ kỹ năng nghề quy định tại Khoản 1 Điều 7 của Nghị định số 31/2015/NĐ-CP).
 Phu luc 03.docx
-(Điều này có nội dung liên quan đến
-Điều 7. Hồ sơ, trình tự, thủ tục thay đổi, bổ sung, cấp lại giấy chứng nhận
-;
-Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 6. Hồ sơ, trình tự, thủ tục cấp giấy chứng nhận của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 7. Hồ sơ, trình tự, thủ tục thay đổi, bổ sung, cấp lại giấy chứng nhận; Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 6. Hồ sơ, trình tự, thủ tục cấp giấy chứng nhận của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.5. Thẩm quyền cấp giấy chứng nhận
 
@@ -2558,15 +2073,7 @@ Bộ Lao động - Thương binh và Xã hội là cơ quan có thẩm quyền c
 
 ### Điều 20.4.NĐ.4.6. Hồ sơ, trình tự, thủ tục cấp; cấp lại; cấp đổi, bổ sung giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
-(
-
-### Điều 6
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 6 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Thành phần hồ sơ
 
 a) Hồ sơ đề nghị cấp giấy chứng nhận là 01 bộ, gồm:
@@ -2600,11 +2107,7 @@ Trường hợp có thay đổi, bổ sung tên nghề, bậc trình độ kỹ 
 - Tổ chức có nhu cầu cấp; cấp lại; cấp đổi, bổ sung giấy chứng nhận lập hồ sơ theo quy định tại một trong các điểm a, b, c Khoản 1 Điều này gửi trực tiếp qua cổng dịch vụ công trực tuyến hoặc bưu điện đến Bộ Lao động - Thương binh và Xã hội (qua Tổng cục Giáo dục nghề nghiệp). Trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện thì các thành phần hồ sơ nộp ở dạng bản gốc hoặc bản sao có chứng thực; trường hợp đăng ký qua cổng dịch vụ công trực tuyến thì thực hiện theo quy định của pháp luật về giao dịch điện tử;
 
 Trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan có thẩm quyền có trách nhiệm kiểm tra hồ sơ và cấp; cấp lại; cấp thay đổi giấy chứng nhận; trường hợp không cấp thì phải trả lời bằng văn bản và nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.6. Mẫu tài liệu thuộc hồ sơ đề nghị cấp, cấp đổi, bổ sung, cấp lại giấy chứng nhận của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.6. Mẫu tài liệu thuộc hồ sơ đề nghị cấp, cấp đổi, bổ sung, cấp lại giấy chứng nhận của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.8. Tạm đình chỉ hoạt động hoặc thu hồi giấy chứng nhận
 
@@ -2673,11 +2176,7 @@ g) Chuyển qua đường bưu điện hoặc trực tiếp giao chứng chỉ k
 h) Chấp hành và thực hiện việc báo cáo định kỳ 06 (sáu) tháng và hằng năm hoặc đột xuất theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội;
 
 i) Thực hiện các nhiệm vụ khác được quy định tại Nghị định này và các quy định khác của pháp luật có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.4.15. Trách nhiệm của tổ chức đánh giá kỹ năng nghề
 
@@ -2692,9 +2191,7 @@ i) Thực hiện các nhiệm vụ khác được quy định tại Nghị đị
 4. Ghi chép chính xác và đầy đủ các nội dung trong sổ chuyển, phát chứng chỉ kỹ năng nghề quốc gia và quản lý, lưu trữ sổ chuyển, phát chứng chỉ kỹ năng nghề quốc gia theo quy định của pháp luật về lưu trữ.
 
 5. Thực hiện việc chuyển, phát chứng chỉ kỹ năng nghề quốc gia đến người được cấp chứng chỉ và thực hiện các nhiệm vụ khác theo quy định tại Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.TT.8.26. Nhiệm vụ của tổ chức đánh giá kỹ năng nghề, ban giám khảo, tổ giám sát và người lao động tham dự kỳ đánh giá kỹ năng nghề
 
@@ -2755,27 +2252,15 @@ a) Đã được cấp chứng chỉ kỹ năng nghề quốc gia bậc 5 của 
 b) Đã tốt nghiệp trình độ đại học trở lên về ngành học tương ứng với nghề đó và có ít nhất 15 năm kinh nghiệm làm việc trong nghề kể từ khi tốt nghiệp hiện đang giảng dạy từ trình độ cao đẳng trở lên hoặc đang làm việc tại cơ sở y tế, doanh nghiệp giữ vị trí quản lý, giám sát.
 
 7. Thời gian kinh nghiệm làm việc trong nghề được xác định thông qua hợp đồng lao động được giao kết bằng văn bản giữa người lao động và người sử dụng lao động theo quy định của pháp luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.13. Hồ sơ, trình tự, thủ tục cấp thẻ đánh giá viên của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.13. Hồ sơ, trình tự, thủ tục cấp thẻ đánh giá viên của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.12. Thẻ đánh giá viên kỹ năng nghề quốc gia
 
-(
-
-### Điều 12
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 12 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Thẻ đánh giá viên phải ghi rõ tên nghề và bậc trình độ kỹ năng nghề tham gia đánh giá. Bộ Lao động - Thương binh và Xã hội quy định mẫu thẻ đánh giá viên và mẫu tài liệu thuộc hồ sơ đề nghị cấp thẻ đánh giá viên; tổ chức việc biên soạn chương trình, tài liệu đào tạo về nghiệp vụ đánh giá kỹ năng nghề quốc gia và tổ chức việc đào tạo để cấp thẻ đánh giá viên.
 
 2 Trong thời hạn 03 (ba) ngày làm việc kể từ ngày thẻ đánh giá viên được cấp; cấp lại;cấp đổi, bổ sung hoặc bị hủy bỏ; thu hồi, Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội thông báo trên trang thông tin điện tử của cơ quan về danh sách người được cấp; cấp lại; cấp thay đổi hoặc bị hủy bỏ; thu hồi thẻ đánh giá viên.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.TT.8.5. Mẫu thẻ đánh giá viên kỹ năng nghề quốc gia
 
@@ -2797,15 +2282,7 @@ Chuong trinh dao tao ky nang nghe quoc gia_ban hanh kem theo TT so 16_2022_TT-BL
 
 ### Điều 20.4.NĐ.4.13. Hồ sơ, trình tự, thủ tục cấp; cấp lại; cấp đổi, bổ sung thẻ đánh giá viên
 
-(
-
-### Điều 13
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 13 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Thành phần hồ sơ
 
 a) Hồ sơ đề nghị cấp thẻ đánh giá viên là 01 bộ, gồm:
@@ -2837,21 +2314,11 @@ Trường hợp có thay đổi, bổ sung bậc trình độ kỹ năng nghề 
 - Người đề nghị cấp; cấp lại; cấp đổi, bổ sung thẻ đánh giá viên lập hồ sơ theo quy định tại một trong các điểm a, b, c Khoản 1 Điều này gửi trực tiếp, qua cổng dịch vụ công trực tuyến hoặc bưu điện đến Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội. Trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện thì các thành phần hồ sơ nộp ở dạng bản gốc hoặc bản sao có chứng thực; trường hợp đăng ký qua cổng dịch vụ công trực tuyến thì thực hiện theo quy định của pháp luật về giao dịch điện tử.
 
 - Trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội kiểm tra hồ sơ va cấp mới; cấp lại; cấp đổi, bổ sung thẻ đánh giá viên, trường hợp không cấp thì phải trả lời bằng văn bản và nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 11. Điều kiện cấp thẻ đánh giá viên kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 11. Điều kiện cấp thẻ đánh giá viên kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.15. Hủy bỏ, thu hồi thẻ đánh giá viên
 
-(
-
-### Điều 15
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 15 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Thẻ đánh giá viên bị hủy bỏ khi người được cấp thẻ đánh giá viên thôi việc hoặc chuyển công tác khác không phù hợp để tham gia đánh giá kỹ năng nghề quốc gia.
 
 2. Thẻ đánh giá viên bị thu hồi khi người được cấp thẻ vi phạm một trong các trường hợp sau đây:
@@ -2917,13 +2384,7 @@ d) Có chứng chỉ kỹ năng nghề quốc gia bậc 1 hoặc chứng chỉ s
 e) Có ít nhất 15 năm kinh nghiệm làm việc liên tục trong nghề đó.
 
 6. Thời gian kinh nghiệm làm việc trong nghề được xác định thông qua hợp đồng lao động được giao kết bằng văn bản giữa người lao động và người sử dụng lao động theo quy định của pháp luật lao động hoặc do Ủy ban nhân dân xã, phường nơi cư trú xác nhận đối với người lao động tự tạo việc làm.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.17. Thủ tục, hồ sơ đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.9. Hồ sơ đăng ký tham dự của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.17. Thủ tục, hồ sơ đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 20.4.TT.8.9. Hồ sơ đăng ký tham dự của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.17. Thủ tục, hồ sơ đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -2944,9 +2405,7 @@ a) Phiếu đăng ký tham dự có ảnh của người lao động và ghi đ�
 b) Một (01) bản chụp một trong các loại giấy tờ để chứng minh có một trong những Điều kiện được quy định tại Điều 16 Nghị định này.
 
 3. Bộ trưởng Bộ Lao động - Thương binh, và Xã hội quy định cụ thể về việc đăng ký tham dự và hồ sơ đăng ký tham dự quy định tại Điều này.
-(Điều này có nội dung liên quan đến
-Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -2965,19 +2424,7 @@ a) Người đăng ký tham dự có thể trực tiếp nhận phiếu đăng k
 
 b) Tổ chức đánh giá kỹ năng nghề kiểm tra hồ sơ đăng ký tham dự của từng cá nhân mà người đăng ký tham dự đã nộp theo quy định tại Điểm a Khoản này, đối chiếu điều kiện tham dự ở các bậc trình độ kỹ năng nghề quy định tại Điều 16 hoặc tại Khoản 2 Điều 18 của Nghị định số 31/2015/NĐ-CP và chậm nhất 07 (bảy) ngày trước khi bắt đầu kỳ đánh giá kỹ năng nghề quốc gia phải hoàn thành việc gửi người đăng ký tham dự phiếu báo dự kiểm tra của từng cá nhân (mẫu phiếu báo dự kiểm tra quy định tại Phụ lục 05 ban hành kèm theo Thông tư này); trường hợp hồ sơ đăng ký tham dự của cá nhân không đáp ứng quy định tại Điều 9 của Thông tư này hoặc không phù hợp với điều kiện quy định tại Điều 16 và Khoản 2 Điều 18 của Nghị định số 31/2015/NĐ-CP thì chậm nhất sau 02 (hai) ngày kể từ ngày nhận được hồ sơ đăng ký tham dự của từng cá nhân, tổ chức đánh giá kỹ năng nghề phải có văn bản thông báo cho người đăng ký tham dự bổ sung, hoàn thiện hồ sơ đăng ký tham dự của cá nhân đó và nộp lại cho tổ chức đánh giá kỹ năng nghề trước khi bắt đầu kỳ đánh giá kỹ năng nghề quốc gia ít nhất 09 (chín) ngày.
 Phu luc 05.docx
-(Điều này có nội dung liên quan đến
-Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề
-;
-Điều 18. Điều kiện được công nhận tương đương hoặc miễn đánh giá kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 9. Hồ sơ đăng ký tham dự
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề; Điều 18. Điều kiện được công nhận tương đương hoặc miễn đánh giá kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 9. Hồ sơ đăng ký tham dự; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.9. Hồ sơ đăng ký tham dự
 
@@ -2994,13 +2441,7 @@ a) Phiếu đăng ký tham dự theo mẫu tại Phụ lục 06 ban hành kèm t
 
 b) Một (01) bản chụp các loại giấy tờ chứng nhận đạt được huy chương tại hội thi tay nghề ASEAN.
 Phu luc 06.docx
-(Điều này có nội dung liên quan đến
-Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 16. Điều kiện tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo các bậc trình độ kỹ năng nghề của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.18. Điều kiện được công nhận tương đương hoặc miễn đánh giá kỹ năng nghề quốc gia
 
@@ -3011,9 +2452,7 @@ Phu luc 06.docx
 2. Người đạt được huy chương tại hội thi tay nghề ASEAN thì được công nhận và cấp chứng chỉ kỹ năng nghề quốc gia ở bậc trình độ kỹ năng nghề bậc 2 tương ứng với nghề đã đạt huy chương. Trường hợp tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ở bậc trình độ kỹ năng nghề bậc 3 tương ứng với nghề đã đạt huy chương thì được miễn kiểm tra kỹ năng thực hành công việc và quy trình an toàn lao động, vệ sinh lao động.
 
 3. Người đạt giải nhất, nhì và ba tại hội thi tay nghề quốc gia thì được công nhận và cấp chứng chỉ kỹ năng nghề quốc gia ở bậc trình độ kỹ năng nghề bậc 2 tương ứng với nghề đã đạt giải.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.8.8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.19. Tổ chức việc thực hiện đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -3024,23 +2463,11 @@ Việc đánh giá kỹ năng nghề quốc gia cho người tham dự ở từn
 1. Đối với các bậc trình độ kỹ năng nghề từ bậc 3 trở lên được tổ chức 04 (bốn) kỳ trong năm;
 
 2. Đối với các bậc trình độ kỹ năng nghề bậc 1 và bậc 2 được tổ chức nhiều kỳ trong năm.
-(Điều này có nội dung liên quan đến
-Điều 30. Nguyên tắc, nội dung đánh giá kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.TT.8.10. Lập kế hoạch tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 30. Nguyên tắc, nội dung đánh giá kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.TT.8.10. Lập kế hoạch tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.20. Phương thức thực hiện việc đánh giá kỹ năng nghề quốc gia
 
-(
-
-### Điều 20
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 20 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Đối với mỗi bậc trình độ kỹ năng của một nghề, có một ban giám khảo do người đứng đầu tổ chức đánh giá kỹ năng nghề quyết định lựa chọn để thực hiện việc đánh giá kỹ năng nghề của người tham dự. Tiêu chuẩn, số lượng thành viên, thành phần và nhiệm vụ của ban giám khảo như sau:
 
 a) Thành viên của ban giám khảo là những người đã được cấp thẻ đánh giá viên theo quy định tại Nghị định này;
@@ -3072,11 +2499,7 @@ b) Kiểm tra thực hiện công việc thông qua việc tác nghiệp trên g
 c) Kiểm tra thực hiện công việc thông qua việc thao tác trên phương tiện, thiết bị, công cụ kết hợp với kiểm tra thực hiện công việc thông qua việc tác nghiệp trên giấy để xử lý, giải quyết các tình huống.
 
 4. Căn cứ vào tiêu chuẩn kỹ năng nghề quốc gia của các nghề đã được công bố, Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội tổ chức biên soạn các bài kiểm tra kiến thức, bài kiểm tra thực hành quy định tại Khoản 2 và Khoản 3 Điều này theo từng bậc trình độ kỹ năng nghề của từng nghề; quản lý và thiết lập ngân hàng đề thi để cung cấp cho các tổ chức đánh giá kỹ năng nghề sử dụng trong các kỳ đánh giá kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.21. Quy trình thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -3107,9 +2530,7 @@ Việc lập kế hoạch tổ chức các kỳ đánh giá kỹ năng nghề qu
 Phu luc 07.docx
 Phu luc 08.docx
 Phu luc 09.docx
-(Điều này có nội dung liên quan đến
-Điều 19. Tổ chức việc thực hiện đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 19. Tổ chức việc thực hiện đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3147,17 +2568,7 @@ a) Chuẩn bị các tài liệu hướng dẫn sử dụng trong kỳ đánh gi
 b) Ngay sau khi nhận được danh sách các tổ giám sát do Sở Lao động - Thương binh và Xã hội lập và gửi theo quy định tại Điểm a Khoản 2 của Điều này, quyết định thành lập các tổ giám sát và gửi các quyết định này đến Sở Lao động - Thương binh và Xã hội trước khi bắt đầu kỳ đánh giá kỹ năng nghề quốc gia ít nhất 03 (ba) ngày.
 Phu luc 10.docx
 Phu luc 11.docx
-(Điều này có nội dung liên quan đến
-Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20. Phương thức thực hiện việc đánh giá kỹ năng nghề quốc gia
-;
-Điều 22. Giám sát việc thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 3. Điều kiện cấp giấy chứng nhận hoạt động đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 20. Phương thức thực hiện việc đánh giá kỹ năng nghề quốc gia; Điều 22. Giám sát việc thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3201,23 +2612,7 @@ d) Trước khi bắt đầu kỳ đánh giá kỹ năng nghề quốc gia 01 (m
 a) Mang theo phiếu báo dự kiểm tra của từng cá nhân và các giấy tờ, vật dụng cần thiết khác và đảm bảo có mặt theo đúng thời gian để thực hiện các thủ tục cần thiết đã được ghi trong phiếu báo dự kiểm tra của cá nhân do tổ chức đánh giá kỹ năng nghề gửi theo quy định tại Điểm b Khoản 1 và Điểm b Khoản 2 Điều 8 của Thông tư này;
 
 b) Nghe tổ chức đánh giá kỹ năng nghề phổ biến, thông báo những nội dung theo quy định tại Điểm đ Khoản 3 của Điều này.
-(Điều này có nội dung liên quan đến
-Điều 10. Quyền và nghĩa vụ của tổ chức đánh giá kỹ năng nghề
-;
-Điều 20. Phương thức thực hiện việc đánh giá kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 9. Hồ sơ đăng ký tham dự
-;
-Điều 11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 10. Quyền và nghĩa vụ của tổ chức đánh giá kỹ năng nghề; Điều 20. Phương thức thực hiện việc đánh giá kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 9. Hồ sơ đăng ký tham dự; Điều 11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia; Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3266,21 +2661,7 @@ k) Tiếp nhận bài kiểm tra kiến thức của người tham dự giao, n�
 
 l) Hoàn trả người tham dự các tài liệu, vật dụng đã giao, nộp (nếu có) ngay sau khi kết thúc việc tiếp nhận bài kiểm tra kiến thức của người tham dự.
 Phu luc 12.docx
-(Điều này có nội dung liên quan đến
-Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3293,21 +2674,7 @@ Phu luc 12.docx
 
 4. Giao, nộp các bài kiểm tra kiến thức và tiêu chuẩn chấm điểm, bảng điểm đã tiếp nhận chưa sử dụng cho tổ chức đánh giá kỹ năng nghề ngay sau khi hoàn thành việc chấm điểm. Việc giao, nộp phải lập biên bản theo mẫu tại Phụ lục 12 ban hành kèm theo Thông tư này.
 Phu luc 12.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
-;
-Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.8.12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia; Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành; Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3367,19 +2734,7 @@ o) Tiếp nhận sản phẩm, kết quả thực hiện bài kiểm tra thực 
 p) Hoàn trả người tham dự các tài liệu, vật dụng đã giao, nộp (nếu có) ngay sau khi kết thúc việc tiếp nhận sản phẩm, kết quả thực hiện bài kiểm tra thực hành của người tham dự.
 Phu luc 13.docx
 Phu luc 14.docx
-(Điều này có nội dung liên quan đến
-Điều 12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 12. Thực hiện và kiểm tra việc chuẩn bị các điều kiện trước mỗi kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3392,19 +2747,7 @@ Phu luc 14.docx
 
 4. Giao, nộp các bài kiểm tra thực hành và tiêu chuẩn chấm điểm, bảng điểm đã tiếp nhận chưa sử dụng cho tổ chức đánh giá kỹ năng nghề ngay sau khi hoàn thành việc chấm điểm. Việc giao, nộp phải lập biên bản theo mẫu tại Phụ lục 12 ban hành kèm theo Thông tư này.
 Phu luc 15.docx
-(Điều này có nội dung liên quan đến
-Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
-;
-Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành; Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3435,19 +2778,7 @@ a) Đình chỉ không cho tiếp tục thực hiện bài kiểm tra đối v�
 
 b) Không chấm điểm bài kiểm tra đối với những hành vi vi phạm tại Điểm i Khoản 1 Điều này.
 Phu luc 16.docx
-(Điều này có nội dung liên quan đến
-Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 8. Đăng ký tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; Điều 20.4.TT.8.13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3458,25 +2789,7 @@ Phu luc 16.docx
 
 3. Ngay sau khi ban giám khảo hoàn thành việc chấm điểm bài kiểm tra theo quy định tại Điều 14 và Điều 16 của Thông tư này, tổ trưởng tổ giám sát lập biên bản giám sát kỳ đánh giá kỹ năng nghề quốc gia theo mẫu tại Phụ lục 17 ban hành kèm theo Thông tư này để gửi cho tổ chức đánh giá kỹ năng nghề và báo cáo Bộ Lao động - Thương binh và Xã hội.
 Phu luc 17.docx
-(Điều này có nội dung liên quan đến
-Điều 11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
-;
-Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia; Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành; Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
 
@@ -3504,21 +2817,7 @@ a) Đình chỉ và yêu cầu người có hành vi vi phạm Điểm a, Điể
 b) Đình chỉ và yêu cầu người có hành vi vi phạm một trong các điểm c, d, đ và e Khoản 1 Điều này ra khỏi khu vực đó và yêu cầu tổ chức đánh giá kỹ năng nghề thay thế người khác, đồng thời có văn bản báo cáo và đề nghị Bộ Lao động - Thương binh và Xã hội thu hồi thẻ đánh giá viên đối với các trường hợp này;
 
 4. Tổ chức đánh giá đăng tải trên trang thông tin điện tử của tổ chức về các hành vi vi phạm và việc xử lý vi phạm của ban giám khảo trong kỳ đánh giá kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
 
@@ -3527,17 +2826,7 @@ b) Đình chỉ và yêu cầu người có hành vi vi phạm một trong các 
 1. Ngay sau khi hoàn thành việc chấm điểm bài kiểm tra kiến thức của người dự theo quy định tại Khoản 1 hoặc Khoản 2 Điều 14 của Thông tư này, ban giám khảo thông báo trực tiếp cho từng người tham dự biết điểm bài kiểm tra và yêu cầu ký xác nhận vào bảng điểm hoặc kết quả điểm bài kiểm tra kiến thức đã được in ra. Nếu người tham dự có thắc mắc về kết quả điểm bài kiểm tra kiến thức được chấm điểm theo quy định tại Khoản 1 Điều 14 của Thông tư này thì ban giám khảo phải thực hiện ngay việc chấm lại bài kiểm tra kiến thức của người đó, trước khi tổng hợp kết quả điểm bài kiểm tra kiến thức của người tham dự để nộp cho tổ chức đánh giá kỹ năng nghề theo quy định tại Khoản 3 Điều 14 của Thông tư này.
 
 2. Ngay sau khi hoàn thành việc chấm điểm sản phẩm, kết quả thực hiện bài kiểm tra thực hành và tổng hợp điểm bài kiểm tra thực hành của người tham dự theo quy định tại Khoản 1 và Khoản 2 Điều 16 của Thông tư này, ban giám khảo thông báo trực tiếp cho từng người tham dự để họ ký xác nhận vào bảng điểm kết quả điểm bài kiểm tra thực hành đã đạt được. Nếu người tham dự có thắc mắc về kết quả điểm bài kiểm tra thực hành thì ban giám khảo phải thực hiện ngay việc chấm lại sản phẩm, kết quả thực hiện bài kiểm tra thực hành hoặc đưa ra các bằng chứng về thái độ thao tác trong khi thực hiện bài kiểm tra và thời gian kết thúc thực hiện bài kiểm tra của người đó, trước khi tổng hợp kết quả điểm bài kiểm tra thực hành của người tham dự để nộp cho tổ chức đánh giá kỹ năng nghề theo quy định tại Khoản 3 Điều 16 của Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.8.14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.8.14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.22. Khiếu nại và tố cáo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.21. Công nhận kết quả đánh giá của ban giám khảo
 
@@ -3546,17 +2835,7 @@ b) Đình chỉ và yêu cầu người có hành vi vi phạm một trong các 
 
 2. Ngay sau khi quyết định công nhận kết quả đánh giá của ban giám khảo theo quy định tại Khoản 1 của Điều này, tổ chức đánh giá kỹ năng nghề phải đăng tải kết quả kiểm tra kiến thức, kiểm tra thực hành của người tham dự tại kỳ đánh giá kỹ năng nghề quốc gia đó trên trang thông tin điện tử của tổ chức theo mẫu tại Phụ lục 18 ban hành kèm theo Thông tư này và niêm yết tại địa điểm tổ chức kỳ đánh giá kỹ năng nghề đó ít nhất 05 (năm) ngày.
 Phu luc 18.docx
-(Điều này có nội dung liên quan đến
-Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.8.22. Khiếu nại và tố cáo
-;
-Điều 20.4.TT.8.23. Đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20.4.TT.8.22. Khiếu nại và tố cáo; Điều 20.4.TT.8.23. Đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.22. Khiếu nại và tố cáo
 
@@ -3577,48 +2856,18 @@ b) Trường hợp nội dung khiếu nại, tố cáo liên quan đến tổ ch
 c) Trường hợp nội dung khiếu nại, tố cáo liên quan đến người tham dự hoặc ban giám khảo và thành viên ban giám khảo thì tổ chức hoặc cá nhân tố cáo gửi nội dung tố cáo đến tổ chức đánh giá kỹ năng nghề hoặc Sở Lao động - Thương binh và Xã hội địa phương nơi tổ chức đánh giá kỹ năng nghề hoạt động;
 
 d) Việc khiếu nại, tố cáo và việc giải quyết khiếu nại, tố cáo được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
-(Điều này có nội dung liên quan đến
-Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia
-;
-Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành
-;
-Điều 21. Công nhận kết quả đánh giá của ban giám khảo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 13. Đánh giá kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 14. Chấm điểm bài kiểm tra kiến thức trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 15. Đánh giá kỹ năng thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 16. Chấm điểm bài kiểm tra thực hành trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 17. Hành vi vi phạm và việc xử lý vi phạm của người tham dự khi thực hiện bài kiểm tra trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 18. Giám sát các hoạt động của các thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 19. Hành vi vi phạm và việc xử lý vi phạm của thành viên ban giám khảo trong các kỳ đánh giá kỹ năng nghề quốc gia; Điều 20. Thực hiện việc thông báo kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành; Điều 21. Công nhận kết quả đánh giá của ban giám khảo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.8.23. Đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia
 
 (Điều 23 Thông tư số 19/2016/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 16/08/2016)
 
 Chậm nhất sau 05 (năm) ngày kể từ khi đăng tải, niêm yết thông báo kết quả kiểm tra kiến thức, kiểm tra thực hành theo quy định tại Điều 21 của Thông tư này, tổ chức đánh giá kỹ năng nghề phải lập hồ sơ đề nghị Bộ Lao động - Thương binh và Xã hội, công nhận và cấp chứng chỉ kỹ năng nghề quốc gia cho người tham dự kỳ đánh giá kỹ năng nghề đạt yêu cầu theo quy định tại Khoản 1 Điều 6 của Thông tư số 38/2015/TT-BLĐTBXH ngày 19 tháng 10 năm 2015 của Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 6. Hồ sơ đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-;
-Điều 21. Công nhận kết quả đánh giá của ban giám khảo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 6. Hồ sơ đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015; Điều 21. Công nhận kết quả đánh giá của ban giám khảo của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.22. Giám sát việc thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
-(
-
-### Điều 22
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 22 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động -Thương binh và Xã hội quyết định thành lập các tổ giám sát để thực hiện việc giám sát kỳ đánh giá kỹ năng nghề quốc gia được tổ chức tại từng tổ chức đánh giá kỹ năng nghề.
 
 2. Tổ giám sát có ít nhất 03 (ba) thành viên, trong đó có tổ trưởng và các thành viên; thành viên tổ giám sát là người đã được cấp thẻ đánh giá viên hoặc là người có trình độ chuyên môn và kinh nghiệm về nghề đó được tổ chức công đoàn, hiệp hội nghề nghiệp, doanh nghiệp giới thiệu.
@@ -3632,23 +2881,11 @@ b) Các thành viên của tổ giám sát làm việc độc lập khi thực h
 c) Khi phát hiện thành viên trong ban giám khảo có sai phạm, lập biên bản và kiến nghị cơ quan có thẩm quyền xử lý theo quy định trong quy trình thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia do Bộ Lao động - Thương binh và Xã hội ban hành;
 
 d) Báo cáo kết quả giám sát với cơ quan có thẩm quyền quyết định thành lập tổ giám sát sau khi kết thúc kỳ đánh giá kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 26. Công nhận kết quả đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.8.11. Chuẩn bị các điều kiện để tổ chức các kỳ đánh giá kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.NĐ.4.23. Xử lý các sự cố xảy ra khi thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
-(
-
-### Điều 23
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 23 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 Trường hợp ngay khi bắt đầu thực hiện kỳ đánh giá kỹ năng nghề quốc gia hoặc khi người tham dự đang thực hiện bài kiểm tra kiến thức, bài kiểm tra thực hành có xảy ra sự cố bất khả kháng như bão, lụt, cháy, nổ hoặc xảy ra sự cố khác, bắt buộc phải dừng các hoạt động lại do không thể tiến hành theo đúng quy định, tổ chức đánh giá kỹ năng nghề thực hiện các công việc sau đây:
 
 1. Có văn bản báo cáo Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội về việc hoãn kỳ đánh giá kỹ năng nghề quốc gia đang tiến hành để tổ chức lại vào thời điểm thích hợp;
@@ -3656,9 +2893,7 @@ Trường hợp ngay khi bắt đầu thực hiện kỳ đánh giá kỹ năng 
 2. Thông báo đến từng người tham dự về thời gian tổ chức lại kỳ đánh giá kỹ năng nghề quốc gia đã hoãn;
 
 3. Thực hiện việc hoàn trả chi phí theo quy định tại Điều 25 Nghị định này cho người tham dự đã nộp tiền thuê dụng cụ, thiết bị và tiền mua vật tư, nguyên, nhiên vật liệu khi người đó không muốn tiếp tục tham gia kỳ đánh giá kỹ năng nghề quốc gia được tổ chức lại sau khi đã hoãn.
-(Điều này có nội dung liên quan đến
-Điều 25. Thực hiện việc hoàn trả chi phí cho người tham dự của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 25. Thực hiện việc hoàn trả chi phí cho người tham dự của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.24. Xử lý vi phạm của người tham dự trong quá trình thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia
 
@@ -3677,33 +2912,17 @@ Việc hoàn trả chi phí cho người tham dự đã nộp tiền thuê dụn
 1. Trường hợp do lỗi của tổ chức đánh giá kỹ năng nghề để xảy ra các sự cố bắt buộc phải dừng các hoạt động do không thể tiến hành theo đúng quy định, nếu người tham dự không muốn tiếp tục tham gia kỳ đánh giá kỹ năng nghề quốc gia được tổ chức lại sau khi đã hoãn thì tổ chức đánh giá kỹ năng nghề phải hoàn lại chi phí cho người tham dự số tiền đã nộp tương ứng với giá trị theo số lượng dụng cụ, thiết bị đã thuê và vật tư, nguyên, nhiên vật liệu đã mua nhưng chưa được người đó sử dụng;
 
 2. Trường hợp xảy ra sự cố bất khả kháng như bão, lụt, cháy, nổ bắt buộc phải dừng các hoạt động do không thể tiến hành theo đúng quy định, nếu người tham dự không muốn tiếp tục tham gia kỳ đánh giá kỹ năng nghề quốc gia được tổ chức lại sau khi đã hoãn thì tổ chức đánh giá kỹ năng nghề phải hoàn lại chi phí cho người tham dự số tiền đã nộp tương ứng với 50% giá trị theo số lượng dụng cụ, thiết bị đã thuê và vật tư, nguyên, nhiên vật liệu đã mua nhưng chưa được người đó sử dụng.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.23. Xử lý các sự cố xảy ra khi thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.23. Xử lý các sự cố xảy ra khi thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.26. Cấp chứng chỉ kỹ năng nghề quốc gia
 
-(
-
-### Điều 26
-
-Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi
-
-### Điều 3
-
-Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
+(Điều 26 Nghị định số 31/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/05/2015, có nội dung được sửa đổi bởi Điều 3 Nghị định số 140/2018/NĐ-CP có hiệu lực thi hành kể từ ngày 08/10/2018)
 1. Căn cứ vào biên bản và tổng hợp kết quả điểm bài kiểm tra kiến thức, bài kiểm tra thực hành do ban giám khảo lập, biên bản giám sát của tổ giám sát, tổ chức đánh giá kỹ năng nghề quyết định công nhận kết quả đánh giá của ban giám khảo và lập hồ sơ đề nghị cấp chứng chỉ kỹ năng nghề quốc gia cho những người tham dự đạt yêu cầu gửi Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội.
 
 2. Tổng cục Giáo dục nghề nghiệp thuộc Bộ Lao động - Thương binh và Xã hội xem xét hồ sơ đề nghị cấp chứng chỉ kỹ năng nghề quốc gia cho những người tham dự đạt yêu cầu, hồ sơ đề nghị cấp lại chứng chỉ kỹ năng nghề quốc gia; cấp chứng chỉ; trường hợp không cấp thì phải trả lời bằng văn bản và nêu rõ lý do; công nhận và cấp chứng chỉ kỹ năng nghề quốc gia cho các đối tượng được nêu tại Điều 18 của Nghị định này; công bố công khai trên trang thông tin điện tử của cơ quan về danh sách những người đã được cấp, cấp lại hoặc bị thu hồi chứng chỉ kỹ năng nghề quốc gia; thực hiện thu, quản lý và sử dụng lệ phí cấp chứng chỉ kỹ năng nghề quốc gia theo hướng dẫn do Bộ Tài chính quy định.
 
 3. Bộ Lao động - Thương binh và Xã hội quy định về mẫu chứng chỉ kỹ năng nghề quốc gia; hồ sơ, trình tự, thủ tục đề nghị cấp, cấp lại chứng chỉ kỹ năng nghề quốc gia; việc thu hồi chứng chỉ kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.10. Quyền và nghĩa vụ của tổ chức đánh giá kỹ năng nghề
-;
-Điều 20.4.NĐ.4.22. Giám sát việc thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.4.15. Trách nhiệm của tổ chức đánh giá kỹ năng nghề của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.10. Quyền và nghĩa vụ của tổ chức đánh giá kỹ năng nghề; Điều 20.4.NĐ.4.22. Giám sát việc thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.4.15. Trách nhiệm của tổ chức đánh giá kỹ năng nghề của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015)
 
 ### Điều 20.4.NĐ.4.27. Chế độ lưu trữ
 
@@ -3764,15 +2983,7 @@ Bộ Lao động - Thương binh và Xã hội giúp Chính phủ thống nhất
 3. Hướng dẫn và phối hợp với các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong việc sửa đổi, bổ sung các nội dung trong các tiêu chuẩn kỹ năng nghề quốc gia và điều chỉnh về định dạng cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia đã được ban hành trước ngày Thông tư này có hiệu lực thi hành để đảm bảo phù hợp với các quy định tại Thông tư này.
 
 4. Thực hiện các nhiệm vụ quy định tại các điều 13, 14, 16 và 17 của Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
-;
-Điều 14. Thành lập Hội đồng thẩm định
-;
-Điều 16. Trình tự thẩm định
-;
-Điều 17. Công bố tiêu chuẩn kỹ năng nghề quốc gia của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn; Điều 14. Thành lập Hội đồng thẩm định; Điều 16. Trình tự thẩm định; Điều 17. Công bố tiêu chuẩn kỹ năng nghề quốc gia của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.8.24. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
@@ -3803,13 +3014,7 @@ Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi, q
 4. Phối hợp với Bộ Lao động - Thương binh và Xã hội trong việc biên soạn các bài kiểm tra kiến thức, bài kiểm tra thực hành theo từng bậc trình độ kỹ năng của từng nghề và danh mục cơ sở vật chất, trang thiết bị đánh giá kỹ năng nghề quốc gia đối với từng nghề để sử dụng trong việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo quy định tại Nghị định này;
 
 5. Thực hiện các nhiệm vụ khác được quy định tại Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 28. Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 29. Đề xuất thay đổi, loại bỏ, bổ sung công việc thuộc danh mục công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 28. Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia; Điều 29. Đề xuất thay đổi, loại bỏ, bổ sung công việc thuộc danh mục công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.TT.7.19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
@@ -3822,13 +3027,7 @@ Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi, q
 3. Trước ngày 15 tháng 12 hằng năm, Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có trách nhiệm gửi báo cáo định kỳ đến Bộ Lao động - Thương binh và Xã hội về việc xây dựng mới và cập nhật, bổ sung, điều chỉnh, sửa đổi tiêu chuẩn kỹ năng nghề quốc gia của các nghề thuộc lĩnh vực quản lý.
 
 4. Thực hiện các nhiệm vụ quy định tại Điều 7 và Khoản 1 Điều 13, Khoản 2 Điều 20 của Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
-;
-Điều 20. Điều khoản chuyển tiếp của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn; Điều 20. Điều khoản chuyển tiếp của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.NĐ.4.33. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
 
@@ -3872,13 +3071,7 @@ Sở Lao động - Thương binh và Xã hội có trách nhiệm giúp Ủy ban
 2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ có trách nhiệm chủ trì xây dựng tiêu chuẩn kỹ năng nghề quốc gia cho từng nghề thuộc lĩnh vực quản lý và đề nghị Bộ Lao động - Thương binh và Xã hội thẩm định, công bố tiêu chuẩn kỹ năng nghề quốc gia.
 
 3. Bộ Lao động - Thương binh và Xã hội hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.30. Thời điểm áp dụng
-;
-Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-;
-Điều 20.4.TT.7.4. Nguyên tắc xây dựng tiêu chuẩn kỹ năng nghề quốc gia của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.30. Thời điểm áp dụng; Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015; Điều 20.4.TT.7.4. Nguyên tắc xây dựng tiêu chuẩn kỹ năng nghề quốc gia của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.4. Nguyên tắc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
 
@@ -3891,9 +3084,7 @@ Tiêu chuẩn kỹ năng nghề quốc gia các nghề được xây dựng ph�
 2. Định dạng về cấu trúc thống nhất và xây dựng theo quy trình quy định tại Thông tư này;
 
 3. Phù hợp với tiêu chuẩn tham chiếu của ASEAN và quốc tế.
-(Điều này có nội dung liên quan đến
-Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.TT.7.5. Khung trình độ kỹ năng nghề quốc gia
 
@@ -3976,15 +3167,7 @@ d) Điều kiện thực hiện: mô tả những thông số cho việc ứng d
 
 4. Định dạng cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia theo mẫu tại Phụ lục 01 ban hành kèm theo Thông tư này.
 Phụ lục 01.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.10. Xác định danh mục các đơn vị năng lực
-;
-Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.10. Xác định danh mục các đơn vị năng lực; Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
 
@@ -4015,25 +3198,7 @@ b) Có quyền thuê hoặc sử dụng cá nhân, tổ chức khác ở trong v
 c) Được phép sử dụng tiêu chuẩn nghề, tiêu chuẩn kỹ năng hoặc tiêu chuẩn năng lực do nước ngoài chuyển giao để chỉnh sửa và biên soạn dự thảo tiêu chuẩn kỹ năng nghề quốc gia theo định dạng cấu trúc quy định tại Điều 6 của Thông tư này;
 
 d) Tuân thủ quy định của pháp luật về quyền tác giả, quyền sở hữu trí tuệ khi sử dụng tài liệu, tiêu chuẩn nghề của các cá nhân, tổ chức trong và ngoài nước.
-(Điều này có nội dung liên quan đến
-Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 8. Phân tích nghề
-;
-Điều 9. Phân tích công việc
-;
-Điều 10. Xác định danh mục các đơn vị năng lực
-;
-Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định
-;
-Điều 16. Trình tự thẩm định
-;
-Điều 20.4.TT.7.19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia; Điều 8. Phân tích nghề; Điều 9. Phân tích công việc; Điều 10. Xác định danh mục các đơn vị năng lực; Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định; Điều 16. Trình tự thẩm định; Điều 20.4.TT.7.19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.8. Phân tích nghề
 
@@ -4052,17 +3217,7 @@ b) Phiếu điều tra về chức năng, vai trò, vị trí đang đảm nhậ
 
 5. Tổ chức việc phân tích dữ liệu thu thập được từ các phiếu điều tra và kết quả việc tiến hành khảo sát theo quy định tại Khoản 4 của Điều này để xác định các vị trí việc làm phổ biến của nghề và các công việc cần phải thực hiện của từng vị trí việc làm đó; tổng hợp và lập thành bảng các vị trí việc làm phổ biến của nghề theo Phụ lục 02 ban hành kèm theo Thông tư này.
 Phụ lục 02.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.9. Phân tích công việc
-;
-Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.9. Phân tích công việc; Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.9. Phân tích công việc
 
@@ -4088,19 +3243,7 @@ c) Tham khảo các tiêu chuẩn, tài liệu đã được thu thập được
 d) Tổ chức việc lấy ý kiến các chuyên gia trong nghề không tham gia vào các hoạt động quy định tại các điểm a, b và c của Khoản này, các cơ quan, tổ chức có liên quan và doanh nghiệp có sử dụng lao động làm những công việc đó để góp ý cho sơ đồ các vị trí việc làm của nghề đã lập hoặc điều chỉnh (nếu có); hoàn thiện sơ đồ các vị trí việc làm của nghề sau khi nhận được các ý kiến góp ý.
 Phụ lục 03.docx
 Phụ lục 04.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 8. Phân tích nghề
-;
-Điều 20.4.TT.7.10. Xác định danh mục các đơn vị năng lực
-;
-Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 8. Phân tích nghề; Điều 20.4.TT.7.10. Xác định danh mục các đơn vị năng lực; Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.10. Xác định danh mục các đơn vị năng lực
 
@@ -4109,17 +3252,7 @@ Phụ lục 04.docx
 1. Căn cứ các phiếu phân tích công việc đã được lập và hoàn thiện theo Khoản 1 Điều 9 của Thông tư này, tiến hành xác định các năng lực cần phải có để thực hiện công việc đó và lập danh mục các đơn vị năng lực theo quy định tại Khoản 2 Điều 6 của Thông tư này.
 
 2. Tổ chức việc lấy ý kiến các chuyên gia trong nghề không tham gia vào các hoạt động quy định tại Khoản 1 của Điều này, các cơ quan, tổ chức có liên quan và doanh nghiệp có sử dụng lao động làm những công việc đó thông qua việc gửi xin ý kiến góp ý về danh mục các đơn vị năng lực đã được lập; hoàn chỉnh danh mục các đơn vị năng lực sau khi nhận được các ý kiến góp ý.
-(Điều này có nội dung liên quan đến
-Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 9. Phân tích công việc
-;
-Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 9. Phân tích công việc; Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
 
@@ -4132,21 +3265,7 @@ Phụ lục 04.docx
 3. Tổ chức việc lấy ý kiến các chuyên gia trong nghề không tham gia vào các hoạt động quy định tại Khoản 1 hoặc Khoản 2 của Điều này thông qua việc gửi xin ý kiến góp ý về các đơn vị năng lực và dự thảo tiêu chuẩn kỹ năng nghề quốc gia được biên soạn theo quy định tại Khoản 1 hoặc dự thảo tiêu chuẩn kỹ năng nghề quốc gia được biên soạn theo quy định tại Khoản 2 của Điều này; hoàn chỉnh sau khi nhận được các ý kiến góp ý.
 
 4. Tiến hành hội thảo lấy ý kiến của các chuyên gia trong nghề và các cơ quan, tổ chức có liên quan, doanh nghiệp có sử dụng lao động làm những công việc đó để trực tiếp góp ý cho dự thảo tiêu chuẩn kỹ năng nghề quốc gia đã được hoàn chỉnh theo quy định tại Khoản 3 của Điều này; hoàn thiện dự thảo tiêu chuẩn kỹ năng nghề quốc gia sau khi tổng hợp các ý kiến góp ý trong hội thảo.
-(Điều này có nội dung liên quan đến
-Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 8. Phân tích nghề
-;
-Điều 9. Phân tích công việc
-;
-Điều 10. Xác định danh mục các đơn vị năng lực
-;
-Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 8. Phân tích nghề; Điều 9. Phân tích công việc; Điều 10. Xác định danh mục các đơn vị năng lực; Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
 
@@ -4165,17 +3284,7 @@ b) Các phiếu phân tích công việc, sơ đồ các vị trí việc làm c
 
 c) Tiêu chuẩn và các tài liệu có liên quan đến việc sử dụng tiêu chuẩn do nước ngoài chuyển giao (đối với trường hợp sử dụng tiêu chuẩn do nước ngoài chuyển giao để chỉnh sửa, biên soạn thành dự thảo tiêu chuẩn kỹ năng nghề quốc gia).
 Phụ lục 05.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 8. Phân tích nghề
-;
-Điều 9. Phân tích công việc
-;
-Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 8. Phân tích nghề; Điều 9. Phân tích công việc; Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
 
@@ -4188,19 +3297,7 @@ Phụ lục 05.docx
 a) Đăng tải dự thảo tiêu chuẩn kỹ năng nghề quốc gia có trong hồ sơ đề nghị thẩm định trên trang thông tin điện tử của Bộ trong thời gian 30 ngày làm việc để lấy ý kiến góp ý của các cá nhân và các cơ quan, tổ chức, doanh nghiệp trong toàn quốc;
 
 b) Có văn bản gửi các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có liên quan, Tổng Liên đoàn Lao động Việt Nam hoặc Hội Nông dân Việt Nam, Phòng Thương mại và Công nghiệp Việt Nam hoặc Liên minh Hợp tác xã Việt Nam, hội nghề nghiệp ở trung ương có liên quan cho ý kiến góp ý bằng văn bản đối với bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia có trong hồ sơ đề nghị thẩm định đã nhận được.
-(Điều này có nội dung liên quan đến
-Điều 12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.14. Thành lập Hội đồng thẩm định
-;
-Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định
-;
-Điều 20.4.TT.7.16. Trình tự thẩm định
-;
-Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
-;
-Điều 20.4.TT.7.19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 12. Lập hồ sơ đề nghị thẩm định tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.14. Thành lập Hội đồng thẩm định; Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định; Điều 20.4.TT.7.16. Trình tự thẩm định; Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội; Điều 20.4.TT.7.19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.14. Thành lập Hội đồng thẩm định
 
@@ -4225,13 +3322,7 @@ c) Hội đồng làm việc theo nguyên tắc tập trung dân chủ, từng t
 
 d) Hội đồng thực hiện đánh giá chất lượng bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia có trong hồ sơ đề nghị thẩm định đã nhận được thông qua việc bỏ phiếu kín của các thành viên Hội đồng. Phiếu đánh giá chất lượng bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia theo mẫu tại Phụ lục 06 ban hành kèm theo Thông tư này.
 Phu luc 06.docx
-(Điều này có nội dung liên quan đến
-Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
-;
-Điều 20.4.TT.7.16. Trình tự thẩm định
-;
-Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn; Điều 20.4.TT.7.16. Trình tự thẩm định; Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.15. Nội dung và thời hạn thẩm định
 
@@ -4248,23 +3339,7 @@ c) Thẩm định về chất lượng của bản dự thảo tiêu chuẩn k�
 2. Thời hạn thẩm định:
 
 Trong thời hạn 05 (năm) ngày làm việc kể từ khi kết thúc thời gian đăng tải dự thảo tiêu chuẩn kỹ năng nghề quốc gia trên trang thông tin điện tử của Bộ Lao động - Thương binh và Xã hội theo quy định tại Điểm a Khoản 2 Điều 13 của Thông tư này, Hội đồng thẩm định phải tiến hành thực hiện công việc thẩm định theo nội dung quy định tại Khoản 1 của Điều này.
-(Điều này có nội dung liên quan đến
-Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 8. Phân tích nghề
-;
-Điều 9. Phân tích công việc
-;
-Điều 10. Xác định danh mục các đơn vị năng lực
-;
-Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
-;
-Điều 20.4.TT.7.16. Trình tự thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 6. Cấu trúc của tiêu chuẩn kỹ năng nghề quốc gia; Điều 7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 8. Phân tích nghề; Điều 9. Phân tích công việc; Điều 10. Xác định danh mục các đơn vị năng lực; Điều 11. Biên soạn tiêu chuẩn kỹ năng nghề quốc gia; Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn; Điều 20.4.TT.7.16. Trình tự thẩm định của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.16. Trình tự thẩm định
 
@@ -4281,30 +3356,14 @@ Trong thời hạn 05 (năm) ngày làm việc kể từ khi kết thúc thời 
 5. Chậm nhất sau 05 (năm) ngày làm việc kể từ ngày nhận được các văn bản do Chủ tịch Hội đồng gửi theo quy định tại Khoản 4 của Điều này, tổ chức giúp việc xây dựng tiêu chuẩn nghề có báo cáo về việc xem xét tiếp thu các ý kiến đã nhận được và hoàn thiện lại bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia gửi cho Hội đồng thẩm định. Trường hợp sau khi xem xét mà có những vấn đề không tiếp thu hoặc cần phải làm rõ thì tổ chức giúp việc xây dựng tiêu chuẩn nghề trực tiếp làm việc với Hội đồng thẩm định để hai bên đi đến thống nhất các vấn đề đó trước khi hoàn thiện lại bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia gửi cho Hội đồng thẩm định.
 
 6. Ngay sau khi nhận được bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia do tổ chức giúp việc xây dựng tiêu chuẩn nghề hoàn thiện lại theo quy định tại Khoản 5 của Điều này, Hội đồng thẩm định tổ chức phiên họp hội đồng để rà soát lại bản dự thảo tiêu chuẩn kỹ năng nghề quốc gia đó trước khi Chủ tịch Hội đồng gửi trình Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn
-;
-Điều 14. Thành lập Hội đồng thẩm định
-;
-Điều 15. Nội dung và thời hạn thẩm định
-;
-Điều 20.4.TT.7.17. Công bố tiêu chuẩn kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.7.7. Thành lập, lựa chọn tổ chức giúp việc xây dựng tiêu chuẩn kỹ năng nghề quốc gia; Điều 13. Tiếp nhận hồ sơ đề nghị thẩm định dự thảo tiêu chuẩn; Điều 14. Thành lập Hội đồng thẩm định; Điều 15. Nội dung và thời hạn thẩm định; Điều 20.4.TT.7.17. Công bố tiêu chuẩn kỹ năng nghề quốc gia; Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.TT.7.17. Công bố tiêu chuẩn kỹ năng nghề quốc gia
 
 (Điều 17 Thông tư số 56/2015/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/02/2016)
 
 Trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được bản tiêu chuẩn kỹ năng nghề quốc gia do Chủ tịch Hội đồng gửi trình theo quy định tại Khoản 6 Điều 16 của Thông tư này, Bộ Lao động - Thương binh và Xã hội có văn bản công bố và đăng tải bản tiêu chuẩn kỹ năng nghề quốc gia đó trên trang thông tin điện tử của Bộ đồng thời gửi cho Cơ quan chủ trì để theo dõi và phối hợp trong quản lý việc cập nhật, bổ sung, điều chỉnh, sửa đổi các nội dung trong tiêu chuẩn kỹ năng nghề quốc gia đó cho phù hợp với những thay đổi trong thực tiễn của hoạt động sản xuất, kinh doanh.
-(Điều này có nội dung liên quan đến
-Điều 16. Trình tự thẩm định
-;
-Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 16. Trình tự thẩm định; Điều 20.4.TT.7.18. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.LQ.33. Chứng chỉ kỹ năng nghề quốc gia
 
@@ -4332,9 +3391,7 @@ d) Chứng chỉ kỹ năng nghề quốc gia bậc IV;
 
 3. Hình thức và nội dung của chứng chỉ kỹ năng nghề quốc gia theo Mẫu tại Phụ lục 01 ban hành kèm theo Thông tư này.
 Phụlục 01.doc
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.4.7. Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.4.7. Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015)
 
 ### Điều 20.4.TT.4.4. Quy định số hiệu trên chứng chỉ kỹ năng nghề quốc gia
 
@@ -4364,11 +3421,7 @@ c) Quyết định của người đứng đầu tổ chức đánh giá kỹ n�
 2. Hồ sơ đề nghị công nhận và cấp chứng chỉ kỹ năng nghề cho người đạt huy chương tại hội thi tay nghề thế giới, hội thi tay nghề ASEAN và người đạt một trong các giải nhất, nhì, ba tại hội thi tay nghề quốc gia của Ban tổ chức thi tay nghề thực hiện theo Mẫu 01, Phụ lục 04 ban hành kèm theo Thông tư này.
 Mẫu 01_Phụlục 04.doc
 Phụlục 03.doc
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-;
-Điều 20.4.TT.8.23. Đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015; Điều 20.4.TT.8.23. Đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia của Thông tư 19/2016/TT-BLĐTBXH Hướng dẫn thi hành một số điều của Nghị định số 31/2015/NĐ-CP ngày 24/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 28/06/2016)
 
 ### Điều 20.4.TT.4.7. Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia
 
@@ -4379,11 +3432,7 @@ Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia quy đ�
 
 2. Chứng chỉ kỹ năng nghề quốc gia đã được cấp và bản chụp giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn sử dụng của người đó để đối chiếu.
 Mẫu 02_Phụlục 04.doc
-(Điều này có nội dung liên quan đến
-Điều 3. Chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-)
+(Điều này có nội dung liên quan đến: Điều 3. Chứng chỉ kỹ năng nghề quốc gia; Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015)
 
 ### Điều 20.4.TT.4.8. Hồ sơ đề nghị cấp lại chứng chỉ kỹ năng nghề quốc gia
 
@@ -4396,9 +3445,7 @@ Chứng chỉ kỹ năng nghề quốc gia được cấp lại trong các trư�
 
 3. Đối với trường hợp có sự thay đổi, cải chính về hộ tịch phải gửi kèm bản sao chứng thực hộ tịch có nội dung thay đổi, cải chính hoặc bản chụp hộ tịch đó (xuất trình kèm bản chính để đối chiếu khi nộp trực tiếp).
 Mẫu 03_Phụlục 04.doc
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015)
 
 ### Điều 20.4.TT.4.9. Trình tự, thủ tục đề nghị công nhận và cấp, đổi, cấp lại chứng chỉ kỹ năng nghề quốc gia
 
@@ -4421,13 +3468,7 @@ b) Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận đư�
 a) Người có nhu cầu đối chứng chỉ kỹ năng nghề quốc gia hoặc người có đề nghị cấp lại chứng chỉ kỹ năng nghề quốc gia trực tiếp nộp 01 (một) bộ hồ sơ theo quy định tại Điều 7 hoặc Điều 8 của Thông tư này hoặc gửi qua đường bưu điện đến Bộ Lao động - Thương binh và Xã hội;
 
 b) Trong thời hạn 15 (mười lăm) ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Lao động - Thương binh và Xã hội có trách nhiệm kiểm tra hồ sơ và đổi hoặc cấp lại chứng chỉ kỹ năng nghề quốc gia; trường hợp không đổi hoặc không cấp lại thì phải trả lời bằng văn bản và nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 6. Hồ sơ đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 7. Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia
-;
-Điều 8. Hồ sơ đề nghị cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015
-)
+(Điều này có nội dung liên quan đến: Điều 6. Hồ sơ đề nghị công nhận và cấp chứng chỉ kỹ năng nghề quốc gia; Điều 7. Hồ sơ đề nghị đổi chứng chỉ kỹ năng nghề quốc gia; Điều 8. Hồ sơ đề nghị cấp lại chứng chỉ kỹ năng nghề quốc gia của Thông tư 38/2015/TT-BLĐTBXH Quy định về chứng chỉ kỹ năng nghề quốc gia, cấp và quản lý việc cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 19/10/2015)
 
 ### Điều 20.4.TT.4.10. Hủy bỏ, thu hồi chứng chỉ kỹ năng nghề quốc gia
 
@@ -4486,9 +3527,7 @@ b) Nộp phí đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia theo
 1. Người lao động làm công việc ảnh hưởng trực tiếp đến an toàn và sức khoẻ của cá nhân người lao động hoặc cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia.
 
 2. Chính phủ quy định danh mục công việc quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.1. Phạm vi điều chỉnh của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.1. Phạm vi điều chỉnh của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.28. Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia
 
@@ -4509,11 +3548,7 @@ b) Các công việc thuộc danh mục được đề xuất thay đổi hoặc
 
 4. Danh mục công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động hoặc cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia được quy định cụ thể tại Phụ lục ban hành kèm theo Nghị định này.
 Phu luc.docx
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.30. Thời điểm áp dụng
-;
-Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.30. Thời điểm áp dụng; Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.29. Đề xuất thay đổi, loại bỏ, bổ sung công việc thuộc danh mục công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia
 
@@ -4522,9 +3557,7 @@ Phu luc.docx
 1. Hằng năm, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, trong phạm vi chức năng, quyền hạn của mình chỉ đạo các cơ quan, tổ chức thuộc phạm vi quản lý xem xét, đề xuất thay đổi, loại bỏ, bổ sung công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia gửi Bộ Lao động - Thương binh và Xã hội để tổng hợp.
 
 2. Bộ Lao động - Thương binh, và Xã hội có trách nhiệm tổng hợp và phối hợp với các Bộ, ngành, các tổ chức chính trị - xã hội, chính trị xã hội - nghề nghiệp, tổng hội, hiệp hội, hội nghề nghiệp xem xét các đề xuất thay đổi, loại bỏ, bổ sung các công việc ảnh hưởng trực tiếp đến an toàn và sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia của các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương để trình Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.4.32. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 ### Điều 20.4.NĐ.4.30. Thời điểm áp dụng
 
@@ -4539,11 +3572,7 @@ Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức kh�
 a) Bộ Lao động - Thương binh và Xã hội có trách nhiệm tổ chức thực hiện việc đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia cho người lao động làm những nghề có công việc thuộc danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng quy định tại Nghị định này;
 
 b) Người sử dụng lao động có thuê mướn, sử dụng lao động theo hợp đồng làm những công việc thuộc danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng theo quy định tại Nghị đinh này phải tạo điều kiện cho người lao động tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; hoặc tạo điều kiện cho người lao động tham gia các khóa đào tạo để bổ sung kiến thức chuyên môn, kỹ thuật, hoàn thiện kỹ năng thực hành công việc và quy trình an toàn lao động, vệ sinh lao động để tham dự đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; hoặc tạo điều kiện cho người lao động tham gia các khóa đào tạo để chuyển sang làm công việc khác.
-(Điều này có nội dung liên quan đến
-Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 28. Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 32. Xây dựng, công bố tiêu chuẩn kỹ năng nghề quốc gia của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 28. Danh mục công việc ảnh hưởng trực tiếp đến an toàn, sức khỏe của cá nhân người lao động và cộng đồng phải có chứng chỉ kỹ năng nghề quốc gia của Nghị định 31/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia ban hành ngày 24/03/2015)
 
 # Chương V: Tổ chức và hoạt động dịch vụ việc làm
 
@@ -4566,13 +3595,7 @@ b) Trung tâm dịch vụ việc làm do tổ chức chính trị - xã hội th
 2. Trung tâm dịch vụ việc làm được thành lập phải phù hợp với quy hoạch do Thủ tướng Chính phủ phê duyệt và có đủ điều kiện về cơ sở vật chất, trang thiết bị, nhân lực theo quy định. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) quyết định thành lập trung tâm dịch vụ việc làm quy định tại điểm a khoản 1 Điều này; người đứng đầu tổ chức chính trị - xã hội cấp trung ương quyết định thành lập trung tâm dịch vụ việc làm quy định tại điểm b khoản 1 Điều này.
 
 3. Chính phủ quy định chi tiết điều kiện thành lập, tổ chức và hoạt động của trung tâm dịch vụ việc làm.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh
-;
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-;
-Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021; Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.NĐ.6.3. Điều kiện thành lập, tổ chức lại và giải thể
 
@@ -4593,7 +3616,7 @@ e) Cơ quan có thẩm quyền thành lập đảm bảo kinh phí cho các ho�
 
 2. Điều kiện tổ chức lại và giải thể
 
-### Điều kiện tổ chức lại, giải thể trung tâm dịch vụ việc làm thực hiện theo quy định của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập.
+Điều kiện tổ chức lại, giải thể trung tâm dịch vụ việc làm thực hiện theo quy định của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập.
 
 
 3. Trung tâm dịch vụ việc làm được thành lập mới, tổ chức lại phải thực hiện phương án về trụ sở làm việc, trang thiết bị và nhân sự trong thời hạn 90 ngày kể từ ngày có Quyết định thành lập. Trường hợp cần thiết thành lập mới trung tâm dịch vụ việc làm thì trung tâm dịch vụ việc làm phải tự đảm bảo toàn bộ chi thường xuyên và chi đầu tư.
@@ -4611,9 +3634,7 @@ Trình tự, thủ tục, hồ sơ thành lập, tổ chức lại, giải thể
 Đối với trung tâm dịch vụ việc làm quy định tại các điểm a, c khoản 1 Điều 2 Nghị định này thì cơ quan ban hành Quyết định có trách nhiệm gửi thêm 01 bản Quyết định tới Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) nơi trung tâm dịch vụ việc làm đặt trụ sở.
 
 2. Trước 10 ngày làm việc, kể từ ngày bắt đầu hoạt động, trung tâm dịch vụ việc làm có trách nhiệm thông báo bằng văn bản tới Sở Lao động - Thương binh và Xã hội nơi trung tâm dịch vụ việc làm đặt trụ sở và thông tin công khai trên phương tiện thông tin đại chúng về Quyết định thành lập, tổ chức lại, địa điểm trụ sở, số điện thoại, website của trung tâm dịch vụ việc làm.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.6. Tên của trung tâm dịch vụ việc làm
 
@@ -4660,13 +3681,7 @@ c) Giới thiệu lao động cho doanh nghiệp được cấp phép đưa ngư
 7. Đào tạo kỹ năng tham gia phỏng vấn, tìm kiếm việc làm và các kỹ năng làm việc khác; giáo dục nghề nghiệp theo quy định của pháp luật.
 
 8. Thực hiện các chương trình, dự án về việc làm.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng
-;
-Điều 9. Số lượng người làm việc
-;
-Điều 10. Nguồn kinh phí của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng; Điều 9. Số lượng người làm việc; Điều 10. Nguồn kinh phí của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.8. Cơ cấu tổ chức
 
@@ -4683,9 +3698,7 @@ c) Giới thiệu lao động cho doanh nghiệp được cấp phép đưa ngư
 Số lượng người làm việc của trung tâm dịch vụ việc làm được xác định trên cơ sở vị trí việc làm, khối lượng công việc của từng vị trí việc làm, định mức kinh tế - kỹ thuật theo chức năng, nhiệm vụ quy định tại Điều 7 Nghị định này.
 
 Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn về vị trí việc làm lãnh đạo, quản lý và chức danh nghề nghiệp chuyên ngành, cơ cấu viên chức theo chức danh nghề nghiệp và định mức số lượng người làm việc trong trung tâm dịch vụ việc làm sau khi có ý kiến của Bộ trưởng Bộ Nội vụ.
-(Điều này có nội dung liên quan đến
-Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.10. Nguồn kinh phí
 
@@ -4697,9 +3710,7 @@ Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn v�
 3. Nguồn thu từ hoạt động dịch vụ của trung tâm dịch vụ việc làm theo quy định của pháp luật.
 
 4. Nguồn thu hợp pháp khác.
-(Điều này có nội dung liên quan đến
-Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 7. Nhiệm vụ của trung tâm dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.11. Quy chế hoạt động của trung tâm dịch vụ việc làm
 
@@ -4778,9 +3789,7 @@ Phụ lục I.doc
 
 Báo cáo 06 tháng gửi trước ngày 20 tháng 6 và báo cáo năm gửi trước ngày 20 tháng 12 năm báo cáo. Thời gian chốt số liệu báo cáo theo quy định của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.34. Thẩm quyền và trách nhiệm của cơ quan Trung ương tổ chức chính trị - xã hội
 
@@ -4795,9 +3804,7 @@ Phụ lục II.doc
 
 Báo cáo 06 tháng gửi trước ngày 20 tháng 6 và báo cáo năm gửi trước ngày 20 tháng 12 năm báo cáo. Thời gian chốt số liệu báo cáo theo quy định của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.35. Thẩm quyền và trách nhiệm của Ủy ban nhân dân cấp tỉnh
 
@@ -4822,9 +3829,7 @@ Phụ lục II.doc
 
 Báo cáo 06 tháng gửi trước ngày 20 tháng 6 và báo cáo năm gửi trước ngày 20 tháng 12 năm báo cáo. Thời gian chốt số liệu báo cáo theo quy định của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.LQ.38. Nhiệm vụ của trung tâm dịch vụ việc làm
 
@@ -4844,9 +3849,7 @@ d) Phân tích và dự báo thị trường lao động;
 e) Đào tạo kỹ năng, dạy nghề theo quy định của pháp luật;
 
 2. Trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập thực hiện các nhiệm vụ theo quy định tại khoản 1 Điều này và thực hiện việc tiếp nhận hồ sơ hưởng bảo hiểm thất nghiệp để trình cơ quan nhà nước có thẩm quyền quyết định.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.1.2. Đối tượng áp dụng của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.1.2. Đối tượng áp dụng của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.39. Doanh nghiệp hoạt động dịch vụ việc làm
 
@@ -4860,13 +3863,7 @@ e) Đào tạo kỹ năng, dạy nghề theo quy định của pháp luật;
 4. Doanh nghiệp hoạt động dịch vụ việc làm được thu phí theo quy định của pháp luật về phí, lệ phí.
 
 5. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 1. Phạm vi điều chỉnh
-;
-Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-;
-Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 1. Phạm vi điều chỉnh; Điều 2. Đối tượng áp dụng của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021; Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.4.NĐ.6.14. Điều kiện cấp giấy phép
 
@@ -4882,13 +3879,7 @@ a) Là người quản lý doanh nghiệp theo quy định của Luật Doanh ng
 b) Không thuộc một trong các trường hợp sau đây: đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc, trốn khỏi nơi cư trú, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc liên quan đến dịch vụ việc làm;
 
 c) Có trình độ từ đại học trở lên hoặc đã có thời gian trực tiếp làm chuyên môn hoặc quản lý dịch vụ việc làm hoặc cung ứng lao động từ đủ 02 năm (24 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép.
-(Điều này có nội dung liên quan đến
-Điều 23. Ký quỹ và sử dụng tiền ký quỹ
-;
-Điều 29. Chi nhánh của doanh nghiệp hoạt động dịch vụ việc làm
-;
-Điều 30. Thông báo hoạt động dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 23. Ký quỹ và sử dụng tiền ký quỹ; Điều 29. Chi nhánh của doanh nghiệp hoạt động dịch vụ việc làm; Điều 30. Thông báo hoạt động dịch vụ việc làm của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.15. Thẩm quyền cấp, gia hạn, cấp lại, thu hồi giấy phép
 
@@ -4932,13 +3923,7 @@ b) Bản sao được chứng thực từ bản chính hoặc bản sao, xuất 
 
 Các văn bản quy định tại điểm a, điểm b khoản này là văn bản của nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định pháp luật.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 18. Trình tự, thủ tục cấp giấy phép
-;
-Điều 19. Gia hạn giấy phép
-;
-Điều 20. Cấp lại giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 18. Trình tự, thủ tục cấp giấy phép; Điều 19. Gia hạn giấy phép; Điều 20. Cấp lại giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.18. Trình tự, thủ tục cấp giấy phép
 
@@ -4948,9 +3933,7 @@ Phụ lục II.doc
 2. Sau khi kiểm tra đủ giấy tờ quy định tại Điều 17 Nghị định này, Sở Lao động - Thương binh và Xã hội cấp giấy biên nhận ghi rõ ngày, tháng, năm nhận hồ sơ đề nghị cấp giấy phép.
 
 3. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được hồ sơ đảm bảo theo quy định, cơ quan nhà nước có thẩm quyền xem xét, cấp giấy phép đối với doanh nghiệp; trường hợp không cấp giấy phép thì có văn bản trả lời doanh nghiệp và nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.19. Gia hạn giấy phép
 
@@ -4981,9 +3964,7 @@ b) Sau khi kiểm tra đủ giấy tờ quy định tại khoản 2 Điều này
 
 c) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đảm bảo theo quy định, cơ quan nhà nước có thẩm quyền xem xét, gia hạn giấy phép đối với doanh nghiệp; trường hợp không gia hạn giấy phép thì có văn bản trả lời doanh nghiệp và nêu rõ lý do.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.20. Cấp lại giấy phép
 
@@ -5032,9 +4013,7 @@ Trường hợp doanh nghiệp bị thu hồi giấy phép theo khoản 1 Điề
 
 e) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản của Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đã được cấp giấy phép, cơ quan nhà nước có thẩm quyền xem xét, cấp lại giấy phép đối với doanh nghiệp; trường hợp không cấp lại giấy phép thì có văn bản trả lời và nêu rõ lý do.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 17. Hồ sơ đề nghị cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.21. Thu hồi giấy phép
 
@@ -5079,11 +4058,7 @@ b) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được quy�
 
 5. Doanh nghiệp không được cấp giấy phép trong thời hạn 03 năm, kể từ ngày bị thu hồi giấy phép vì vi phạm các nội dung quy định tại các điểm d, đ, e, g, h khoản 1 Điều này.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 151. Thông tin về an toàn lao động, vệ sinh lao động của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012
-;
-Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 151. Thông tin về an toàn lao động, vệ sinh lao động của Bộ luật 10/2012/QH13 Lao động ban hành ngày 18/06/2012; Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.22. Trách nhiệm của doanh nghiệp trong trường hợp bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép
 
@@ -5104,15 +4079,7 @@ Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được văn b�
 3. Trong thời hạn 30 ngày, kể từ ngày rút tiền ký quỹ để thanh toán đối với trường hợp quy định tại điểm d khoản 1 Điều 26 Nghị định này, doanh nghiệp phải nộp bổ sung tiền ký quỹ bảo đảm theo quy định tại khoản 2 Điều 14 Nghị định này.
 
 4. Trong thời hạn không quá 30 ngày, kể từ ngày hết hạn quy định tại khoản 3 Điều này mà doanh nghiệp không bổ sung đầy đủ tiền ký quỹ thì ngân hàng nhận ký quỹ có trách nhiệm thông báo bằng văn bản cho Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đặt trụ sở chính. Trong thời hạn 15 ngày, kể từ ngày nhận được thông báo của ngân hàng nhận ký quỹ, Sở Lao động - Thương binh và Xã hội trình cơ quan nhà nước có thẩm quyền thu hồi giấy phép của doanh nghiệp theo quy định tại điểm g khoản 1 Điều 21 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 14. Điều kiện cấp giấy phép
-;
-Điều 21. Thu hồi giấy phép
-;
-Điều 25. Quản lý tiền ký quỹ
-;
-Điều 26. Rút tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 14. Điều kiện cấp giấy phép; Điều 21. Thu hồi giấy phép; Điều 25. Quản lý tiền ký quỹ; Điều 26. Rút tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.24. Nộp tiền ký quỹ
 
@@ -5132,9 +4099,7 @@ Phụ lục II.doc
 2. Ngân hàng nhận ký quỹ thực hiện cho doanh nghiệp rút tiền ký quỹ theo đúng quy định tại Điều 26 Nghị định này và yêu cầu doanh nghiệp nộp bổ sung tiền ký quỹ theo quy định tại khoản 3 Điều 23 Nghị định này.
 
 3. Ngân hàng nhận ký quỹ không được cho doanh nghiệp rút tiền ký quỹ khi chưa có ý kiến chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền cấp, gia hạn, cấp lại, thu hồi giấy phép nơi doanh nghiệp đặt trụ sở chính.
-(Điều này có nội dung liên quan đến
-Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.26. Rút tiền ký quỹ
 
@@ -5181,9 +4146,7 @@ d) Ngân hàng nhận ký quỹ tiếp nhận và kiểm tra hồ sơ rút tiề
 
 Trường hợp rút tiền ký quỹ theo quy định tại điểm d khoản 1 Điều này thì việc thanh toán, bồi thường cho người lao động, người sử dụng lao động do ngân hàng nhận ký quỹ trực tiếp chi trả theo phương án đã được cơ quan nhà nước có thẩm quyền đồng ý sau khi trừ chi phí dịch vụ ngân hàng.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 23. Ký quỹ và sử dụng tiền ký quỹ của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.27. Trách nhiệm của ngân hàng nhận ký quỹ
 
@@ -5238,9 +4201,7 @@ b) Báo cáo Sở Lao động - Thương binh và Xã hội nơi đặt trụ s�
 
 4. Thời hạn hoạt động dịch vụ việc làm của chi nhánh không vượt quá thời hạn giấy phép của doanh nghiệp hoạt động dịch vụ việc làm.
 Phụ lục II.doc
-(Điều này có nội dung liên quan đến
-Điều 14. Điều kiện cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 14. Điều kiện cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.30. Thông báo hoạt động dịch vụ việc làm
 
@@ -5250,9 +4211,7 @@ Phụ lục II.doc
 2. Trước 10 ngày làm việc, kể từ ngày bắt đầu hoạt động dịch vụ việc làm, doanh nghiệp có trách nhiệm thông báo bằng văn bản cho Sở Lao động - Thương binh và Xã hội nơi đặt trụ sở chính về ngày bắt đầu hoạt động.
 
 3. Trường hợp chuyển địa điểm đặt trụ sở chi nhánh, doanh nghiệp phải có văn bản gửi Sở Lao động - Thương binh và Xã hội nơi đặt trụ sở chính, chi nhánh về địa điểm mới kèm theo giấy tờ chứng minh điều kiện quy định tại khoản 1 Điều 14 Nghị định này trong thời hạn 10 ngày làm việc, trước ngày thực hiện chuyển địa điểm.
-(Điều này có nội dung liên quan đến
-Điều 14. Điều kiện cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 14. Điều kiện cấp giấy phép của Nghị định 23/2021/NĐ-CP Quy định chi tiết khoản 3 Điều 37 và Điều 39 về Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm ban hành ngày 19/03/2021)
 
 ### Điều 20.4.NĐ.6.31. Trách nhiệm của doanh nghiện hoạt động dịch vụ việc làm
 
@@ -5291,15 +4250,7 @@ Phụ lục II.doc
 
 # Chương VI: Bảo hiểm thất nghiệp
 
-(Chương này có nội dung liên quan đến
-
-### Điều 41.11.LQ.32. Quyền và nghĩa vụ của vận động viên thể thao thành tích cao
-
-;
-
-### Điều 41.11.LQ.33. Quyền và nghĩa vụ của huấn luyện viên thể thao thành tích cao của Luật 77/2006/QH11 Thể dục, thể thao ban hành ngày 29/11/2006
-
-)
+(Chương này có nội dung liên quan đến: Điều 41.11.LQ.32. Quyền và nghĩa vụ của vận động viên thể thao thành tích cao; Điều 41.11.LQ.33. Quyền và nghĩa vụ của huấn luyện viên thể thao thành tích cao của Luật 77/2006/QH11 Thể dục, thể thao ban hành ngày 29/11/2006)
 
 ## Mục 1: Nguyên tắc, đối tượng, chế độ bảo hiểm thất nghiệp
 
@@ -5326,9 +4277,7 @@ Phụ lục II.doc
 3. Hỗ trợ Học nghề.
 
 4. Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp
 
@@ -5346,21 +4295,7 @@ Trong trường hợp người lao động giao kết và đang thực hiện nh
 2. Người lao động theo quy định tại khoản 1 Điều này đang hưởng lương hưu, giúp việc gia đình thì không phải tham gia bảo hiểm thất nghiệp.
 
 3. Người sử dụng lao động tham gia bảo hiểm thất nghiệp bao gồm cơ quan nhà nước, đơn vị sự nghiệp công lập, đơn vị vũ trang nhân dân; tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam; doanh nghiệp, hợp tác xã, hộ gia đình, hộ kinh doanh, tổ hợp tác, tổ chức khác và cá nhân có thuê mướn, sử dụng lao động theo hợp đồng làm việc hoặc hợp đồng lao động quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.47. Điều kiện, thời gian và mức hỗ trợ
-;
-Điều 20.4.LQ.49. Điều kiện hưởng
-;
-Điều 20.4.LQ.54. Tư vấn, giới thiệu việc làm
-;
-Điều 20.4.LQ.55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.1.2. Đối tượng áp dụng
-;
-Điều 20.4.NĐ.3.14. Hỗ trợ tư vấn, giới thiệu việc làm
-;
-Điều 20.4.NĐ.3.16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.47. Điều kiện, thời gian và mức hỗ trợ; Điều 20.4.LQ.49. Điều kiện hưởng; Điều 20.4.LQ.54. Tư vấn, giới thiệu việc làm; Điều 20.4.LQ.55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.1.2. Đối tượng áp dụng; Điều 20.4.NĐ.3.14. Hỗ trợ tư vấn, giới thiệu việc làm; Điều 20.4.NĐ.3.16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.44. Tham gia bảo hiểm thất nghiệp
 
@@ -5370,11 +4305,7 @@ Trong trường hợp người lao động giao kết và đang thực hiện nh
 2. Hằng tháng, người sử dụng lao động đóng bảo hiểm thất nghiệp theo mức quy định tại điểm b khoản 1 Điều 57 của Luật này và trích tiền lương của từng người lao động theo mức quy định tại điểm a khoản 1 Điều 57 của Luật này để đóng cùng một lúc vào Quỹ bảo hiểm thất nghiệp.
 
 3. Căn cứ vào tình hình kết dư của Quỹ bảo hiểm thất nghiệp, Nhà nước chuyển kinh phí hỗ trợ từ ngân sách nhà nước vào Quỹ theo mức do Chính phủ quy định tại khoản 3 Điều 59 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 59. Quản lý Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 59. Quản lý Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.45. Thời gian đóng bảo hiểm thất nghiệp
 
@@ -5384,13 +4315,7 @@ Trong trường hợp người lao động giao kết và đang thực hiện nh
 2. Sau khi chấm dứt hưởng trợ cấp thất nghiệp, thời gian đóng bảo hiểm thất nghiệp trước đó của người lao động không được tính để hưởng trợ cấp thất nghiệp cho lần tiếp theo. Thời gian đóng bảo hiểm thất nghiệp cho lần hưởng bảo hiểm thất nghiệp tiếp theo được tính lại từ đầu, trừ trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, h, l, m và n khoản 3 Điều 53 của Luật này.
 
 3. Thời gian người lao động đóng bảo hiểm thất nghiệp không được tính để hưởng trợ cấp mất việc làm hoặc trợ cấp thôi việc theo quy định của pháp luật về lao động, pháp luật về viên chức.
-(Điều này có nội dung liên quan đến
-Điều 53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.18. Giải quyết hưởng trợ cấp thất nghiệp
-;
-Điều 20.4.NĐ.3.39. Điều khoản chuyển tiếp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.18. Giải quyết hưởng trợ cấp thất nghiệp; Điều 20.4.NĐ.3.39. Điều khoản chuyển tiếp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.46. Hưởng trợ cấp thất nghiệp
 
@@ -5400,9 +4325,7 @@ Trong trường hợp người lao động giao kết và đang thực hiện nh
 2. Trong thời hạn 20 ngày, kể từ ngày trung tâm dịch vụ việc làm tiếp nhận đủ hồ sơ, cơ quan nhà nước có thẩm quyền ra quyết định hưởng trợ cấp thất nghiệp; trường hợp không đủ điều kiện để hưởng chế độ trợ cấp thất nghiệp thì phải trả lời bằng văn bản cho người lao động.
 
 3. Tổ chức bảo hiểm xã hội thực hiện việc chi trả trợ cấp thất nghiệp cho người lao động trong thời hạn 05 ngày, kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ## Mục 2: Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động
 
@@ -5422,23 +4345,11 @@ d) Có phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ nă
 2. Thời gian hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo phương án được phê duyệt và không quá 06 tháng.
 
 3. Chính phủ quy định chi tiết Điều này và mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động, bảo đảm cân đối quỹ bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.3. Điều kiện được hỗ trợ
 
-(
-
-### Điều 3
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 3 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 Người sử dụng lao động được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động quy định tại Khoản 1 Điều 47 Luật Việc làm khi có đủ các điều kiện sau:
 
 1. Đóng đủ bảo hiểm thất nghiệp theo quy định tại Khoản 2 Điều 44 Luật Việc làm liên tục từ đủ 12 tháng trở lên tính đến tháng liền trước của tháng đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động hoặc đến tháng của ngày đề nghị hỗ trợ kinh phí để đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động nếu người sử dụng lao động đã đóng bảo hiểm thất nghiệp của tháng đó.
@@ -5454,13 +4365,7 @@ Những trường hợp được coi là bất khả kháng theo quy định t�
 3. Không đủ kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động được xác định thông qua báo cáo sản xuất, kinh doanh của năm trước thời điểm đề nghị hỗ trợ mà bị lỗ có xác nhận của cơ quan thuế.
 
 4. Có phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm được cơ quan nhà nước có thẩm quyền phê duyệt.
-(Điều này có nội dung liên quan đến
-Điều 44. Tham gia bảo hiểm thất nghiệp
-;
-Điều 47. Điều kiện, thời gian và mức hỗ trợ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.26. Hồ sơ đề nghị hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 44. Tham gia bảo hiểm thất nghiệp; Điều 47. Điều kiện, thời gian và mức hỗ trợ của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.26. Hồ sơ đề nghị hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.4. Mức hỗ trợ
 
@@ -5471,9 +4376,7 @@ Những trường hợp được coi là bất khả kháng theo quy định t�
 Trường hợp khóa học nghề có những ngày lẻ không đủ tháng thì được tính theo nguyên tắc: Dưới 15 ngày tính là 1/2 tháng, từ đủ 15 ngày trở lên tính là 01 tháng để xác định mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.
 
 2. Đối với khóa đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề có mức chi phí cao hơn mức hỗ trợ theo quy định tại Khoản 1 Điều này thì phần vượt quá mức hỗ trợ do người sử dụng lao động tự chi trả.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.3.15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.3.15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.TT.3.15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP
 
@@ -5486,11 +4389,7 @@ Trường hợp khóa học nghề có những ngày lẻ không đủ tháng th
 3. Đối với trường hợp khóa học nghề có những ngày lẻ không đủ tháng thì mức hỗ trợ được tính theo nguyên tắc: Dưới 15 ngày tính là ½ tháng, từ đủ 15 ngày trở lên thì tính là 01 tháng để xác định mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.
 
 Ví dụ 18: Doanh nghiệp N được hỗ trợ kinh phí để đào tạo lắp ráp thiết bị điện tử cho 100 người lao động. Khóa đào tạo bắt đầu từ ngày 05/3/2015 đến ngày 15/5/2015 với mức hỗ trợ là 600.000 đồng/tháng/người (trong đó: Tháng thứ nhất được tính từ ngày 05/3/2015 đến ngày 04/4/2015; tháng thứ hai được tính từ ngày 05/4/2015 đến ngày 04/5/2015). Do đó, khóa đào tạo này có số ngày lẻ được tính từ ngày 05/5/2015 đến ngày 15/5/2015. Số ngày lẻ này dưới 15 ngày nên được tính là ½ tháng. Như vậy, thời gian doanh nghiệp N được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề là 2,5 tháng với tổng số kinh phí được hỗ trợ là: 600.000 đồng x 100 người x 2,5 tháng = 150.000.000 đồng.
-(Điều này có nội dung liên quan đến
-Điều 4. Mức hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 4. Mức hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.NĐ.3.26. Hồ sơ đề nghị hỗ trợ
 
@@ -5507,9 +4406,7 @@ Ví dụ 18: Doanh nghiệp N được hỗ trợ kinh phí để đào tạo l�
 5. Văn bản xác nhận của tổ chức bảo hiểm xã hội nơi người sử dụng lao động đóng bảo hiểm thất nghiệp cho người lao động theo quy định tại Khoản 1 Điều 3 Nghị định này.
 
 Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn Khoản 1 và Khoản 3 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 3. Điều kiện được hỗ trợ của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.TT.3.13. Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động
 
@@ -5528,9 +4425,7 @@ Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng 
 5. Tổng kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động (có dự toán chi tiết kèm theo bao gồm các chi phí để thực hiện phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động).
 
 6. Cam kết tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và sử dụng lao động theo đúng phương án đã được phê duyệt.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.14. Phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm
 
@@ -5553,9 +4448,7 @@ a) Số lao động được tiếp tục làm việc hoặc thay đổi vị tr
 b) Cam kết của người sử dụng lao động về việc sử dụng lao động theo đúng phương án. Nếu người lao động không được bố trí việc làm thì người sử dụng lao động sẽ phải hoàn trả toàn bộ kinh phí hỗ trợ bồi dưỡng, nâng cao trình độ kỹ năng nghề.
 
 6. Dự toán chi tiết kinh phí thực hiện.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.NĐ.3.27. Giải quyết hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động
 
@@ -5603,25 +4496,11 @@ Quyết định về việc hỗ trợ kinh phí đào tạo, bồi dưỡng, n�
 5. Khiếu nại, tố cáo về bảo hiểm thất nghiệp theo quy định của pháp luật.
 
 6. Các quyền khác theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 42. Các chế độ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp
-;
-Điều 18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 42. Các chế độ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp; Điều 18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động
 
-(
-
-### Điều 30
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung bị bãi bỏ bởi
-
-### Điều 2
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 30 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung bị bãi bỏ bởi Điều 2 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Đóng bảo hiểm thất nghiệp đủ và đúng theo quy định tại Điểm a Khoản 1 Điều 57 Luật Việc làm.
 
 2. Thực hiện đúng quy định về việc tham gia bảo hiểm thất nghiệp.
@@ -5643,13 +4522,7 @@ Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15
 10. Thông báo theo quy định với trung tâm dịch vụ việc làm khi thuộc các trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các Điểm b, c, d, g, h, l và n Khoản 1 Điều 21 Nghị định này.
 
 12. Thực hiện đầy đủ các quy định của pháp luật về bảo hiểm thất nghiệp và các quy định khác của pháp luật có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 21. Chấm dứt hưởng trợ cấp thất nghiệp
-;
-Điều 22. Chuyển nơi hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 21. Chấm dứt hưởng trợ cấp thất nghiệp; Điều 22. Chuyển nơi hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.31. Quyền của người sử dụng lao động
 
@@ -5686,9 +4559,7 @@ Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15
 9. Sử dụng người lao động đã được đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề theo phương án đã được phê duyệt và báo cáo kết quả thực hiện về Sở Lao động - Thương binh và Xã hội trong thời hạn 30 ngày kể từ ngày kết thúc khóa đào tạo.
 
 10. Thực hiện các trách nhiệm khác theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TL.1.1. Phạm vi điều chỉnh của Thông tư liên tịch 03/2016/TTLT-BLĐTBXH-BQP-BCA Hướng dẫn thực hiện Khoản 6 ĐIều 32 của Nghị định số 28/2015/NĐ-CP ngày 12/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp về việc thông báo biến động lao động làm việc tại các đơn vị thuộc Bộ Quốc phòng, Bộ Công an ban hành ngày 25/03/2016
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TL.1.1. Phạm vi điều chỉnh của Thông tư liên tịch 03/2016/TTLT-BLĐTBXH-BQP-BCA Hướng dẫn thực hiện Khoản 6 ĐIều 32 của Nghị định số 28/2015/NĐ-CP ngày 12/3/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp về việc thông báo biến động lao động làm việc tại các đơn vị thuộc Bộ Quốc phòng, Bộ Công an ban hành ngày 25/03/2016)
 
 ### Điều 20.4.TL.1.3. Việc thông báo biến động lao động làm việc theo hình thức hợp đồng lao động tại các đơn vị thuộc Bộ Quốc phòng, Bộ Công an theo quy định tại Khoản 6 Điều 32 Nghị định số 28/2015/NĐ-CP
 
@@ -5728,15 +4599,7 @@ Mau so 1.docx
 
 ### Điều 20.4.NĐ.3.34. Trách nhiệm của trung tâm dịch vụ việc làm
 
-(
-
-### Điều 34
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 34 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Tổ chức thông tin, tuyên truyền, phổ biến chính sách, pháp luật về bảo hiểm thất nghiệp.
 
 2. Tổ chức tiếp nhận hồ sơ đề nghị hưởng trợ cấp thất nghiệp và hồ sơ đề nghị hỗ trợ học nghề, xem xét và thực hiện các thủ tục giải quyết hưởng trợ cấp thất nghiệp, hỗ trợ học nghề theo quy định của pháp luật.
@@ -5773,15 +4636,7 @@ Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15
 
 ### Điều 20.4.NĐ.3.36. Trách nhiệm của tổ chức bảo hiểm xã hội
 
-(
-
-### Điều 36
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 36 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Hằng năm thông báo cho từng người lao động thông tin về việc đóng bảo hiểm thất nghiệp của người lao động.
 
 2. Tuyên truyền, phổ biến chế độ, chính sách, pháp luật về bảo hiểm thất nghiệp; hướng dẫn thủ tục đăng ký tham gia và thu bảo hiểm thất nghiệp đối với người lao động, người sử dụng lao động thuộc đối tượng tham gia bảo hiểm thất nghiệp.
@@ -5838,15 +4693,7 @@ Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15
 
 ### Điều 20.4.NĐ.3.38. Trách nhiệm của Sở Lao động - Thương binh và Xã hội
 
-(
-
-### Điều 38
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 38 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Chủ trì, phối hợp với các cơ quan có liên quan tổ chức thông tin, tuyên truyền chính sách, pháp luật về bảo hiểm thất nghiệp.
 
 2. Giải quyết khiếu nại, tố cáo của tổ chức, cá nhân về việc thực hiện chế độ bảo hiểm thất nghiệp theo quy định của pháp luật.
@@ -5893,25 +4740,11 @@ d) Bị tạm giam; chấp hành hình phạt tù;
 đ) Ra nước ngoài định cư; đi lao động ở nước ngoài theo hợp đồng;
 
 e) Chết.
-(Điều này có nội dung liên quan đến
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp
-;
-Điều 20.4.LQ.53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp
-;
-Điều 20.4.LQ.55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp; Điều 20.4.LQ.53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp; Điều 20.4.LQ.55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp
 
-(
-
-### Điều 16
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 16 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Đề nghị hưởng trợ cấp thất nghiệp theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.
 
 2. Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của một trong các giấy tờ sau đây xác nhận về việc chấm dứt hợp đồng lao động hoặc hợp đồng làm việc:
@@ -5945,25 +4778,11 @@ i) Trường hợp người lao động tham gia bảo hiểm thất nghiệp th
 Tổ chức bảo hiểm xã hội thực hiện xác nhận về việc đóng bảo hiểm thất nghiệp và trả sổ bảo hiểm xã hội cho người lao động trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề nghị của người sử dụng lao động.
 
 Đối với người sử dụng lao động là các cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an thì trong thời hạn 30 ngày, Bảo hiểm xã hội Bộ Quốc phòng, Bảo hiểm xã hội Công an nhân dân thực hiện xác nhận về việc đóng bảo hiểm thất nghiệp và trả sổ bảo hiểm xã hội cho người lao động kể từ ngày nhận được đề nghị của người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp
-;
-Điều 20.4.NĐ.3.24. Hồ sơ đề nghị hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp; Điều 20.4.NĐ.3.24. Hồ sơ đề nghị hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp
 
-(
-
-### Điều 17
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 17 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Trong thời hạn 03 tháng kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, người lao động chưa có việc làm và có nhu cầu hưởng trợ cấp thất nghiệp phải trực tiếp nộp 01 bộ hồ sơ đề nghị hưởng trợ cấp thất nghiệp theo đúng quy định tại Điều 16 của Nghị định này cho trung tâm dịch vụ việc làm tại địa phương nơi người lao động muốn nhận trợ cấp thất nghiệp.
 
 2. Người lao động được ủy quyền cho người khác nộp hồ sơ hoặc gửi hồ sơ theo đường bưu điện nếu thuộc một trong các trường hợp sau:
@@ -5979,11 +4798,7 @@ Ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp trong cá
 3. Trung tâm dịch vụ việc làm có trách nhiệm tiếp nhận, kiểm tra hồ sơ, ghi phiếu hẹn trả kết quả theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định và trao phiếu trực tiếp cho người nộp hồ sơ hoặc gửi qua đường bưu điện đối với người nộp hồ sơ qua đường bưu điện; trường hợp hồ sơ không đúng theo quy định tại Điều 16 Nghị định này thì trả lại người nộp và nêu rõ lý do.
 
 4. Trong thời hạn 15 ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nếu người lao động không có nhu cầu hưởng trợ cấp thất nghiệp thì người lao động phải trực tiếp hoặc ủy quyền cho người khác nộp đề nghị không hưởng trợ cấp thất nghiệp cho trung tâm dịch vụ việc làm nơi người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp
-;
-Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp; Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.LQ.50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp
 
@@ -5993,27 +4808,11 @@ Ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp trong cá
 2. Thời gian hưởng trợ cấp thất nghiệp được tính theo số tháng đóng bảo hiểm thất nghiệp, cứ đóng đủ 12 tháng đến đủ 36 tháng thì được hưởng 03 tháng trợ cấp thất nghiệp, sau đó, cứ đóng đủ thêm 12 tháng thì được hưởng thêm 01 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng.
 
 3. Thời điểm hưởng trợ cấp thất nghiệp được tính từ ngày thứ 16, kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp theo quy định tại khoản 1 Điều 46 của Luật này.
-(Điều này có nội dung liên quan đến
-Điều 46. Hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 46. Hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.18. Giải quyết hưởng trợ cấp thất nghiệp
 
-(
-
-### Điều 18
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi
-
-### Điều 1
-
-,
-
-### Điều 2
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 18 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1, Điều 2 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Trung tâm dịch vụ việc làm có trách nhiệm xem xét, trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc hưởng trợ cấp thất nghiệp của người lao động trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, trường hợp hồ sơ đề nghị hưởng trợ cấp thất nghiệp gửi theo đường bưu điện thì ngày nhận hồ sơ được tính là ngày chuyển đến ghi trên dấu bưu điện.
 
 Người lao động chưa tìm được việc làm trong thời hạn 15 ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp được Giám đốc Sở Lao động - Thương binh và Xã hội quyết định hưởng trợ cấp thất nghiệp thì trung tâm dịch vụ việc làm xác nhận về việc đã giải quyết hưởng trợ cấp thất nghiệp của người lao động vào sổ bảo hiểm xã hội và gửi lại người lao động cùng với quyết định hưởng trợ cấp thất nghiệp sau khi chụp sổ bảo hiểm xã hội để lưu hồ sơ.
@@ -6045,15 +4844,7 @@ Trong thời hạn 10 ngày làm việc kể từ ngày nhận được thông b
 Quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện bảo lưu thời gian đóng bảo hiểm thất nghiệp cho người lao động; 01 bản đến người lao động. Quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.
 
 7. Thời gian hưởng trợ cấp thất nghiệp được tính theo số tháng đóng bảo hiểm thất nghiệp theo quy định tại Khoản 2 Điều 50 Luật Việc làm. Người lao động có thời gian đóng bảo hiểm thất nghiệp trên 36 tháng thì những tháng lẻ chưa giải quyết hưởng trợ cấp thất nghiệp được bảo lưu làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần hưởng trợ cấp thất nghiệp tiếp theo khi đủ điều kiện hưởng trợ cấp thất nghiệp theo quy định.
-(Điều này có nội dung liên quan đến
-Điều 45. Thời gian đóng bảo hiểm thất nghiệp
-;
-Điều 50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.TT.3.9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 45. Thời gian đóng bảo hiểm thất nghiệp; Điều 50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.29. Quyền của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.TT.3.9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.LQ.51. Bảo hiểm y tế
 
@@ -6064,15 +4855,7 @@ Quyết định về việc bảo lưu thời gian đóng bảo hiểm thất ng
 
 ### Điều 20.4.NĐ.3.23. Hưởng bảo hiểm y tế
 
-(
-
-### Điều 23
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 23 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Căn cứ quyết định về việc hưởng trợ cấp thất nghiệp, cơ quan bảo hiểm xã hội cấp thẻ bảo hiểm y tế cho người lao động.
 
 2. Người lao động bị chấm dứt hưởng bảo hiểm y tế khi chấm dứt hưởng trợ cấp thất nghiệp.
@@ -6089,13 +4872,7 @@ b) Trường hợp bất khả kháng.
 2. Đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều này thì người lao động có trách nhiệm thông báo cho trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp.
 
 3. Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.19. Tạm dừng hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.TT.3.1. Phạm vi điều chỉnh của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.19. Tạm dừng hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.TT.3.1. Phạm vi điều chỉnh của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.TT.3.7. Người lao động không có nhu cầu hưởng trợ cấp thất nghiệp
 
@@ -6104,9 +4881,7 @@ b) Trường hợp bất khả kháng.
 Trong thời hạn 15 ngày tính theo ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nếu người lao động không có nhu cầu hưởng trợ cấp thất nghiệp thì người lao động phải trực tiếp nộp đề nghị không hưởng trợ cấp thất nghiệp theo Mẫu số 08 ban hành kèm theo Thông tư này cho trung tâm dịch vụ việc làm nơi người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.
 
 Trung tâm dịch vụ việc làm có trách nhiệm gửi lại hồ sơ đề nghị hưởng trợ cấp thất nghiệp cho người lao động vào ngày trả kết quả theo phiếu hẹn trả kết quả.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.8. Mức hưởng và tháng hưởng trợ cấp thất nghiệp
 
@@ -6143,9 +4918,7 @@ Tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 11/4/2015 đế
 Tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 11/5/2015 đến hết ngày 10/6/2015.
 
 3. Trình tự, thủ tục, hình thức chi trả trợ cấp thất nghiệp theo hướng dẫn của Bảo hiểm xã hội Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp
 
@@ -6196,11 +4969,7 @@ Ví dụ 13: Ông Đỗ Văn X có thời gian đóng bảo hiểm thất nghi�
 3. Thời gian đóng bảo hiểm thất nghiệp của người lao động được bảo lưu theo quy định tại Khoản 5, Khoản 6, Khoản 7 Điều 18 và Khoản 5 Điều 21 Nghị định số 28/2015/NĐ-CP là khoảng thời gian đóng bảo hiểm thất nghiệp tính từ tháng đóng bảo hiểm thất nghiệp cuối cùng trước khi hưởng trợ cấp thất nghiệp.
 
 4. Người lao động được bảo lưu thời gian đóng bảo hiểm thất nghiệp theo quy định có trách nhiệm thực hiện thủ tục bảo lưu thời gian đóng bảo hiểm thất nghiệp theo hướng dẫn của Bảo hiểm xã hội Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 18. Giải quyết hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.10. Thông báo về việc tìm kiếm việc làm theo quy định tại Điều 52 Luật Việc làm
 
@@ -6247,9 +5016,7 @@ b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thô
 Ví dụ 15: Bà Nguyễn Lan Y có quyết định hưởng trợ cấp thất nghiệp với thời gian 03 tháng. Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp.
 
 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.16. Thông báo tình hình biến động lao động
 
@@ -6401,15 +5168,7 @@ n) Bị tạm giam; chấp hành hình phạt tù.
 4. Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 3 Điều này được bảo lưu thời gian đóng bảo hiểm thất nghiệp làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần tiếp theo khi đủ điều kiện quy định tại Điều 49 của Luật này.
 
 Thời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã hưởng trợ cấp thất nghiệp, theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.4.LQ.45. Thời gian đóng bảo hiểm thất nghiệp
-;
-Điều 49. Điều kiện hưởng
-;
-Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.20. Tiếp tục hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.LQ.45. Thời gian đóng bảo hiểm thất nghiệp; Điều 49. Điều kiện hưởng; Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.20. Tiếp tục hưởng trợ cấp thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.19. Tạm dừng hưởng trợ cấp thất nghiệp
 
@@ -6420,9 +5179,7 @@ Thời gian bảo lưu được tính bằng tổng thời gian đóng bảo hi�
 2. Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định, trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp của người lao động.
 
 Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tạm dừng chi trả trợ cấp thất nghiệp đối với người lao động; 01 bản đến người lao động. Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.
-(Điều này có nội dung liên quan đến
-Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 52. Thông báo về việc tìm kiếm việc làm của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.20. Tiếp tục hưởng trợ cấp thất nghiệp
 
@@ -6433,21 +5190,11 @@ Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp đ
 Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tiếp tục chi trả trợ cấp thất nghiệp cho người lao động; 01 bản đến người lao động. Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.
 
 2. Thời gian tạm dừng hưởng trợ cấp thất nghiệp, người lao động không được hưởng tiền trợ cấp thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.21. Chấm dứt hưởng trợ cấp thất nghiệp
 
-(
-
-### Điều 21
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 21 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Các trường hợp người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp được quy định như sau:
 
 a) Hết thời hạn hưởng trợ cấp thất nghiệp theo quyết định hưởng trợ cấp thất nghiệp của người lao động;
@@ -6512,8 +5259,7 @@ n) Bị tạm giam, chấp hành hình phạt tù
 
 Ngày mà người lao động được xác định bị tạm giam, chấp hành hình phạt tù là ngày bắt đầu thực hiện quyết định tạm giam, chấp hành hình phạt tù của cơ quan có thẩm quyền.
 
-2.
-Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc các trường hợp bị chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, d và h khoản 1 Điều này, người lao động phải thông báo với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và kèm theo bản sao giấy tờ có liên quan đến việc chấm dứt hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày ghi trên dấu bưu điện.
+2. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc các trường hợp bị chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, d và h khoản 1 Điều này, người lao động phải thông báo với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và kèm theo bản sao giấy tờ có liên quan đến việc chấm dứt hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày ghi trên dấu bưu điện.
 
 3. Người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp trong các trường hợp quy định tại các Điểm b, c, d, đ, e, g, h, i, k, l, m và n Khoản 1 Điều này thì trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp của người lao động.
 
@@ -6524,9 +5270,7 @@ Quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp đ
 5. Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 1 Điều này thì thời gian đóng bảo hiểm thất nghiệp tương ứng với thời gian còn lại mà người lao động chưa nhận trợ cấp thất nghiệp được bảo lưu làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần hưởng trợ cấp thất nghiệp tiếp theo khi đủ điều kiện hưởng trợ cấp thất nghiệp theo quy định, trừ trường hợp người lao động bị chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại điểm b, c, h khoản 1 Điều này nhưng không thực hiện thông báo theo quy định tại khoản 2 Điều này.
 
 Thời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã được hưởng trợ cấp thất nghiệp theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp và trừ những tháng lẻ chưa giải quyết hưởng trợ cấp thất nghiệp được bảo lưu trong quyết định về việc hưởng trợ cấp thất nghiệp (nếu có).
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.TT.3.6. Từ chối nhận việc làm theo quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số 28/2015/NĐ-CP
 
@@ -6539,25 +5283,11 @@ Người lao động đang hưởng trợ cấp thất nghiệp được xác đ
 2. Người lao động được trung tâm dịch vụ việc làm giới thiệu việc làm mà người lao động đó đã từng làm nhưng không đến tham gia dự tuyển lao động.
 
 3. Người lao động đã tham gia dự tuyển lao động theo giới thiệu của trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và có thông báo trúng tuyển của người sử dụng lao động nhưng không nhận việc làm đã trúng tuyển, trừ trường hợp việc làm đó không đúng như thông báo tuyển lao động của người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.NĐ.3.22. Chuyển nơi hưởng trợ cấp thất nghiệp
 
-(
-
-### Điều 22
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi
-
-### Điều 1
-
-,
-
-### Điều 2
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 22 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1, Điều 2 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Người lao động đã hưởng ít nhất 01 tháng trợ cấp thất nghiệp theo quy định mà có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp đến tỉnh, thành phố trực thuộc Trung ương khác thì phải làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định và gửi trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp.
 
 2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị của người lao động, trung tâm dịch vụ việc làm có trách nhiệm cung cấp hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho người lao động và gửi giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp cho trung tâm dịch vụ việc làm nơi người lao động chuyển đến theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định. Hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp bao gồm:
@@ -6581,9 +5311,7 @@ d) Bản chụp các quyết định hỗ trợ học nghề, quyết định t�
 7b. Thông báo về việc tìm kiếm việc làm của người lao động trong thời gian chuyển nơi hưởng trợ cấp thất nghiệp thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.
 
 8. Tổ chức bảo hiểm xã hội nơi người lao động chuyển đến hưởng trợ cấp thất nghiệp thực hiện chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ## Mục 4: Hỗ trợ tư vấn, giới thiệu việc làm, học nghề
 
@@ -6591,34 +5319,19 @@ d) Bản chụp các quyết định hỗ trợ học nghề, quyết định t�
 
 (Điều 54 Luật số 38/2013/QH13, có hiệu lực thi hành kể từ ngày 01/01/2015)
 Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc mà có nhu cầu tìm kiếm việc làm được tư vấn, giới thiệu việc làm miễn phí.
-(Điều này có nội dung liên quan đến
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.14. Hỗ trợ tư vấn, giới thiệu việc làm
 
-(
-
-### Điều 14
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 14 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Người lao động quy định tại Khoản 1 Điều 43 Luật Việc làm đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc được tư vấn, giới thiệu việc làm miễn phí thông qua trung tâm dịch vụ việc làm.
 
 2. Kinh phí thực hiện tư vấn, giới thiệu việc làm của trung tâm dịch vụ việc làm được giao khoán theo số lượng người nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp của năm liền trước và thực hiện thanh quyết toán theo quy định trên cơ sở thực tế số lượng người nộp hồ sơ hưởng trợ cấp thất nghiệp.
 
-3.
-Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định giá dịch vụ tư vấn, giới thiệu việc làm từ Quỹ bảo hiểm thất nghiệp cho người lao động theo quy định tại
+3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định giá dịch vụ tư vấn, giới thiệu việc làm từ Quỹ bảo hiểm thất nghiệp cho người lao động theo quy định tại
 
-### Điều 54 Luật Việc làm
-
-.
-(Điều này có nội dung liên quan đến
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+Điều 54 Luật Việc làm.
+(Điều này có nội dung liên quan đến: Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.15. Tổ chức tư vấn, giới thiệu việc làm
 
@@ -6641,9 +5354,7 @@ Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định giá d
 3. Trung tâm dịch vụ việc làm gửi cho người lao động Phiếu giới thiệu việc làm theo Mẫu số 02 ban hành kèm theo Thông tư này để người lao động tham gia dự tuyển lao động.
 
 4. Trung tâm dịch vụ việc làm có trách nhiệm theo dõi kết quả dự tuyển lao động để kịp thời hỗ trợ người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.LQ.55. Điều kiện được hỗ trợ học nghề
 
@@ -6653,29 +5364,11 @@ Người lao động quy định tại khoản 1 Điều 43 của Luật này đ
 1. Đủ các điều kiện quy định tại các khoản 1, 3 và 4 Điều 49 của Luật này;
 
 2. Đã đóng bảo hiểm thất nghiệp từ đủ 09 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.4.QĐ.1.2. Đối tượng áp dụng của Quyết định 77/2014/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 24/12/2014
-;
-Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp
-;
-Điều 49. Điều kiện hưởng của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 20.4.NĐ.3.25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 2. Đối tượng áp dụng của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.QĐ.1.2. Đối tượng áp dụng của Quyết định 77/2014/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 24/12/2014; Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp; Điều 49. Điều kiện hưởng của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 20.4.NĐ.3.25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 2. Đối tượng áp dụng của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021)
 
 ### Điều 20.4.NĐ.3.24. Hồ sơ đề nghị hỗ trợ học nghề
 
-(
-
-### Điều 24
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 24 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Hồ sơ đề nghị hỗ trợ học nghề đối với người lao động đang chờ kết quả giải quyết hưởng trợ cấp thất nghiệp hoặc đang hưởng trợ cấp thất nghiệp mà có nhu cầu học nghề tại địa phương nơi đang chờ kết quả hoặc đang hưởng trợ cấp thất nghiệp là đề nghị hỗ trợ học nghề theo Mẫu số 03 ban hành kèm theo Nghị định này.
 
 2. Hồ sơ đề nghị hỗ trợ học nghề đối với người lao động đang hưởng trợ cấp thất nghiệp mà có nhu cầu học nghề tại địa phương không phải nơi đang hưởng trợ cấp thất nghiệp bao gồm đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều này và quyết định về việc hưởng trợ cấp thất nghiệp. Quyết định về việc hưởng trợ cấp thất nghiệp là bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu.
@@ -6691,25 +5384,11 @@ c) Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo b
 d) Sổ bảo hiểm xã hội.
 
 Trường hợp người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nhưng không đáp ứng đủ điều kiện hưởng thì hồ sơ đề nghị hỗ trợ học nghề là đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều này và thông báo của trung tâm dịch vụ việc làm về việc người lao động không đáp ứng đủ điều kiện hưởng trợ cấp thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp
-;
-Điều 20.4.NĐ.3.25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 3. Mức hỗ trợ học nghề của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021
-)
+(Điều này có nội dung liên quan đến: Điều 16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp; Điều 20.4.NĐ.3.25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 3. Mức hỗ trợ học nghề của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021)
 
 ### Điều 20.4.NĐ.3.25. Giải quyết hỗ trợ học nghề
 
-(
-
-### Điều 25
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 25 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Người lao động đáp ứng đủ điều kiện theo quy định tại Điều 55 Luật Việc làm có nhu cầu học nghề được hỗ trợ 01 lần để học 01 nghề tại cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học có đăng ký hoạt động giáo dục nghề nghiệp trình độ cao đẳng, doanh nghiệp được thực hiện hoạt động giáo dục nghề nghiệp tham gia đào tạo nghề nghiệp cho người lao động tham gia bảo hiểm thất nghiệp (sau đây gọi chung là cơ sở đào tạo nghề nghiệp). Phương thức hỗ trợ kinh phí học nghề được thực hiện thông qua cơ sở đào tạo nghề nghiệp.
 
 2. Người lao động có nhu cầu học nghề thì phải nộp 01 bộ hồ sơ đề nghị hỗ trợ học nghề cho trung tâm dịch vụ việc làm
@@ -6733,15 +5412,7 @@ Trường hợp người lao động đã có quyết định hỗ trợ học n
 5. Trong 03 ngày làm việc được ghi trên phiếu hẹn trả kết quả, nếu người lao động không đến nhận quyết định về việc hỗ trợ học nghề hoặc không ủy quyền cho người khác đến nhận quyết định và không thông báo cho trung tâm dịch vụ việc làm về lý do không thể đến nhận thì được coi là không có nhu cầu hỗ trợ học nghề. Trong thời hạn 02 ngày làm việc kể từ ngày người lao động hết hạn nhận quyết định theo phiếu hẹn trả kết quả, trung tâm dịch vụ việc làm trình Giám đốc Sở Lao động - Thương binh và Xã hội ban hành quyết định về việc hủy quyết định hỗ trợ học nghề của người lao động theo Mẫu số 05 ban hành kèm theo Nghị định này. Quyết định về việc hủy quyết định hỗ trợ học nghề được trung tâm dịch vụ việc làm gửi: 01 bản đến cơ quan bảo hiểm xã hội cấp tỉnh để không thực hiện chi trả tiền hỗ trợ học nghề cho cơ sở đào tạo nghề nghiệp; 01 bản đến cơ sở đào tạo nghề nghiệp để không thực hiện việc dạy nghề cho người lao động; 01 bản đến người lao động.
 
 6. Cơ sở đào tạo nghề nghiệp tổ chức dạy nghề cho người lao động theo quyết định về việc hỗ trợ học nghề của Giám đốc Sở Lao động - Thương binh và Xã hội và hằng tháng có trách nhiệm lập danh sách có chữ ký của người lao động đang học nghề chuyển cho cơ quan bảo hiểm xã hội để thanh quyết toán kinh phí hỗ trợ học nghề.
-(Điều này có nội dung liên quan đến
-Điều 55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-;
-Điều 24. Hồ sơ đề nghị hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 3. Mức hỗ trợ học nghề của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021
-;
-Điều 20.4.TT.3.11. Nộp hồ sơ đề nghị hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 55. Điều kiện được hỗ trợ học nghề của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013; Điều 24. Hồ sơ đề nghị hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 3. Mức hỗ trợ học nghề của Quyết định 17/2021/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 31/03/2021; Điều 20.4.TT.3.11. Nộp hồ sơ đề nghị hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.TT.3.11. Nộp hồ sơ đề nghị hỗ trợ học nghề
 
@@ -6756,13 +5427,7 @@ Ví dụ 16: Bà Mai Thị K đang hưởng trợ cấp thất nghiệp tại t�
 2. Người lao động có thời gian đóng bảo hiểm thất nghiệp từ đủ 09 tháng trở lên nhưng không thuộc diện đang hưởng trợ cấp thất nghiệp nếu có nhu cầu học nghề thì nộp hồ sơ đề nghị hỗ trợ học nghề cùng với hồ sơ đề nghị hưởng trợ cấp thất nghiệp tại trung tâm dịch vụ việc làm ở địa phương nơi người lao động có nhu cầu học nghề.
 
 Ví dụ 17: Ông Nguyễn Văn M làm việc tại tỉnh Bình Dương, có thời gian đóng bảo hiểm thất nghiệp liên tục là 11 tháng. Khi chấm dứt hợp đồng lao động, ông M có nhu cầu học nghề tại thành phố Hồ Chí Minh thì ông M nộp hồ sơ đề nghị hỗ trợ học nghề cùng với hồ sơ đề nghị hưởng trợ cấp thất nghiệp cho Trung tâm Dịch vụ việc làm thành phố Hồ Chí Minh.
-(Điều này có nội dung liên quan đến
-Điều 25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.TT.3.12. Giải quyết hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-;
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.TT.3.12. Giải quyết hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015; Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.TT.3.12. Giải quyết hỗ trợ học nghề
 
@@ -6787,11 +5452,7 @@ c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, d�
 5. Hằng tháng, cơ sở dạy nghề lập danh sách và có chữ ký của người lao động đang học nghề chuyển tổ chức bảo hiểm xã hội để thanh, quyết toán kinh phí hỗ trợ học nghề theo tháng và thời gian thực tế người lao động tham gia học nghề.
 
 6. Trình tự, thủ tục, hình thức chi trả hỗ trợ học nghề theo hướng dẫn của Bảo hiểm xã hội Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 11. Nộp hồ sơ đề nghị hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-;
-Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 11. Nộp hồ sơ đề nghị hỗ trợ học nghề của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015; Điều 20.4.TT.6.5. Các chế độ bảo hiểm thất nghiệp và hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp của Thông tư 139/2015/TT-BQP Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng ban hành ngày 16/12/2015)
 
 ### Điều 20.4.LQ.56. Thời gian, mức hỗ trợ học nghề
 
@@ -6799,9 +5460,7 @@ c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, d�
 1. Thời gian hỗ trợ học nghề theo thời gian học nghề thực tế nhưng không quá 06 tháng.
 
 2. Mức hỗ trợ học nghề theo quy định của Thủ tướng Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 3. Mức hỗ trợ học nghề của Quyết định 77/2014/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 24/12/2014
-)
+(Điều này có nội dung liên quan đến: Điều 3. Mức hỗ trợ học nghề của Quyết định 77/2014/QĐ-TTg Quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp ban hành ngày 24/12/2014)
 
 ### Điều 20.4.QĐ.2.3. Mức hỗ trợ học nghề
 
@@ -6814,18 +5473,10 @@ b) Đối với người tham gia khóa đào tạo nghề trên 03 tháng: Mứ
 
 Trường hợp người lao động tham gia khóa đào tạo nghề có những ngày lẻ không đủ tháng theo quy định của cơ sở đào tạo nghề nghiệp thì số ngày lẻ được tính theo nguyên tắc: Từ 14 ngày trở xuống tính là ½ tháng và từ 15 ngày trở lên được tính là 01 tháng.
 
-2. Hồ sơ đề nghị học nghề và giải quyết hỗ trợ học nghề được thực hiện theo quy định tại Điều 24 và Điều 25 Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp (đã được sửa đổi, bổ sung bởi Nghị định số
-61/2020/NĐ-CP
-ngày 29 tháng 5 năm 2020 của Chính phủ).
+2. Hồ sơ đề nghị học nghề và giải quyết hỗ trợ học nghề được thực hiện theo quy định tại Điều 24 và Điều 25 Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp (đã được sửa đổi, bổ sung bởi Nghị định số 61/2020/NĐ-CP ngày 29 tháng 5 năm 2020 của Chính phủ).
 
-3. Hằng tháng, cơ sở đào tạo nghề nghiệp thực hiện các thủ tục thanh, quyết toán kinh phí hỗ trợ học nghề theo quy định tại Điều 25 Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp (đã được sửa đổi, bổ sung bởi Nghị định số
-61/2020/NĐ-CP
-ngày 29 tháng 5 năm 2020 của Chính phủ).
-(Điều này có nội dung liên quan đến
-Điều 24. Hồ sơ đề nghị hỗ trợ học nghề
-;
-Điều 25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+3. Hằng tháng, cơ sở đào tạo nghề nghiệp thực hiện các thủ tục thanh, quyết toán kinh phí hỗ trợ học nghề theo quy định tại Điều 25 Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp (đã được sửa đổi, bổ sung bởi Nghị định số 61/2020/NĐ-CP ngày 29 tháng 5 năm 2020 của Chính phủ).
+(Điều này có nội dung liên quan đến: Điều 24. Hồ sơ đề nghị hỗ trợ học nghề; Điều 25. Giải quyết hỗ trợ học nghề của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.QĐ.2.4. Kinh phí thực hiện
 
@@ -6868,13 +5519,7 @@ d) Hỗ trợ tư vấn, giới thiệu việc làm;
 e) Chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Luật bảo hiểm xã hội;
 
 g) Đầu tư để bảo toàn và tăng trưởng Quỹ.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.3.5. Nguồn hình thành Quỹ bảo hiểm thất nghiệp
-;
-Điều 20.4.NĐ.3.6. Phương thức đóng và nguồn đóng bảo hiểm thất nghiệp của người sử dụng lao động
-;
-Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.3.5. Nguồn hình thành Quỹ bảo hiểm thất nghiệp; Điều 20.4.NĐ.3.6. Phương thức đóng và nguồn đóng bảo hiểm thất nghiệp của người sử dụng lao động; Điều 20.4.NĐ.3.30. Nghĩa vụ của người lao động của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015)
 
 ### Điều 20.4.NĐ.3.5. Nguồn hình thành Quỹ bảo hiểm thất nghiệp
 
@@ -6889,9 +5534,7 @@ g) Đầu tư để bảo toàn và tăng trưởng Quỹ.
 a) Tiền lãi chậm đóng bảo hiểm thất nghiệp theo quy định;
 
 b) Các khoản thu hợp pháp khác theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.3.6. Phương thức đóng và nguồn đóng bảo hiểm thất nghiệp của người sử dụng lao động
 
@@ -6908,9 +5551,7 @@ b) Người sử dụng lao động là cơ quan, đơn vị, tổ chức đư�
 c) Người sử dụng lao động là doanh nghiệp, đơn vị, tổ chức có hoạt động sản xuất, kinh doanh, dịch vụ thì khoản đóng bảo hiểm thất nghiệp được hạch toán vào chi phí sản xuất, kinh doanh, dịch vụ trong kỳ.
 
 d) Người sử dụng lao động là cơ quan, đơn vị, tổ chức khác thì khoản đóng bảo hiểm thất nghiệp được sử dụng từ nguồn kinh phí hoạt động của cơ quan, đơn vị, tổ chức theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.LQ.58. Tiền lương làm căn cứ đóng bảo hiểm thất nghiệp
 
@@ -6967,15 +5608,7 @@ Trường hợp người lao động nghỉ việc hưởng chế độ thai s�
 
 ### Điều 20.4.NĐ.3.12. Đóng bảo hiểm thất nghiệp
 
-(
-
-### Điều 12
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 12 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Thời điểm đóng bảo hiểm thất nghiệp của người sử dụng lao động và người lao động là thời điểm đóng bảo hiểm xã hội bắt buộc.
 
 2. Người lao động được xác định là đang đóng bảo hiểm thất nghiệp theo quy định tại Điều 49 Luật Việc làm khi thuộc một trong các trường hợp sau:
@@ -7035,29 +5668,7 @@ c) Đối với người sử dụng lao động là đơn vị hạch toán, th
 1. Các chế độ bảo hiểm thất nghiệp bao gồm: Hỗ trợ tư vấn, giới thiệu việc làm; trợ cấp thất nghiệp, bảo lưu thời gian đóng bảo hiểm thất nghiệp, chế độ bảo hiểm y tế; hỗ trợ học nghề; hỗ trợ đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề để duy trì việc làm; hồ sơ, điều kiện, quy trình, trách nhiệm giải quyết các chế độ bảo hiểm thất nghiệp thực hiện theo hướng dẫn tại Điều 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 Thông tư số 28/2015/TT-BLĐTBXH ngày 31 tháng 7 năm 2015 của Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp.
 
 2. Việc giải quyết các chế độ bảo hiểm thất nghiệp do Trung tâm dịch vụ việc làm, Sở Lao động - Thương binh và Xã hội, Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương, nơi người lao động đăng ký hoặc cư trú thực hiện.
-(Điều này có nội dung liên quan đến
-Điều 5. Trình tự, thủ tục tư vấn, giới thiệu việc làm theo quy định tại Điều 15 Nghị định số 28/2015/NĐ-CP
-;
-Điều 6. Từ chối nhận việc làm theo quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số 28/2015/NĐ-CP
-;
-Điều 7. Người lao động không có nhu cầu hưởng trợ cấp thất nghiệp
-;
-Điều 8. Mức hưởng và tháng hưởng trợ cấp thất nghiệp
-;
-Điều 9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp
-;
-Điều 10. Thông báo về việc tìm kiếm việc làm theo quy định tại Điều 52 Luật Việc làm
-;
-Điều 11. Nộp hồ sơ đề nghị hỗ trợ học nghề
-;
-Điều 12. Giải quyết hỗ trợ học nghề
-;
-Điều 13. Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động
-;
-Điều 14. Phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm
-;
-Điều 15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015
-)
+(Điều này có nội dung liên quan đến: Điều 5. Trình tự, thủ tục tư vấn, giới thiệu việc làm theo quy định tại Điều 15 Nghị định số 28/2015/NĐ-CP; Điều 6. Từ chối nhận việc làm theo quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số 28/2015/NĐ-CP; Điều 7. Người lao động không có nhu cầu hưởng trợ cấp thất nghiệp; Điều 8. Mức hưởng và tháng hưởng trợ cấp thất nghiệp; Điều 9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp; Điều 10. Thông báo về việc tìm kiếm việc làm theo quy định tại Điều 52 Luật Việc làm; Điều 11. Nộp hồ sơ đề nghị hỗ trợ học nghề; Điều 12. Giải quyết hỗ trợ học nghề; Điều 13. Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động; Điều 14. Phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm; Điều 15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP của Thông tư 28/2015/TT-BLĐTBXH Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 31/07/2015)
 
 ### Điều 20.4.TT.6.6. Trách nhiệm của các cơ quan, đơn vị
 
@@ -7111,11 +5722,7 @@ b) Đầu tư vào các dự án quan trọng theo quyết định của Thủ t
 c) Cho ngân sách nhà nước, Ngân hàng phát triển Việt Nam, Ngân hàng Chính sách xã hội, ngân hàng thương mại do Nhà nước sở hữu trên 50% vốn điều lệ vay.
 
 3. Chính phủ quy định chi tiết tỷ lệ hỗ trợ từ ngân sách nhà nước; việc quản lý, sử dụng Quỹ; tổ chức thực hiện bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.4.NĐ.3.9. Hoạt động đầu tư từ Quỹ bảo hiểm thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015
-;
-Điều 20.4.LQ.44. Tham gia bảo hiểm thất nghiệp của
-)
+(Điều này có nội dung liên quan đến: Điều 20.4.NĐ.3.9. Hoạt động đầu tư từ Quỹ bảo hiểm thất nghiệp của Nghị định 28/2015/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp ban hành ngày 12/03/2015; Điều 20.4.LQ.44. Tham gia bảo hiểm thất nghiệp của)
 
 ### Điều 20.4.NĐ.3.7. Hỗ trợ từ ngân sách nhà nước
 
@@ -7133,15 +5740,7 @@ b) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo 
 
 ### Điều 20.4.NĐ.3.8. Chi phí quản lý bảo hiểm thất nghiệp
 
-(
-
-### Điều 8
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 8 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Nội dung và mức chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Luật Bảo hiểm xã hội và quy định của pháp luật về quản lý tài chính đối với Bảo hiểm xã hội Việt Nam.
 
 2. Chi phí quản lý bảo hiểm thất nghiệp hằng năm được phân bổ và giao dự toán như sau:
@@ -7158,19 +5757,7 @@ Căn cứ dự toán chi quản lý bảo hiểm thất nghiệp được Thủ 
 
 ### Điều 20.4.NĐ.3.10. Kế hoạch tài chính, quản lý, sử dụng và quyết toán
 
-(
-
-### Điều 10
-
-Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi
-
-### Điều 1
-
-,
-
-### Điều 2
-
-Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
+(Điều 10 Nghị định số 28/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/05/2015, có nội dung được sửa đổi, có nội dung được bổ sung, có nội dung bị bãi bỏ bởi Điều 1, Điều 2 Nghị định số 61/2020/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2020)
 1. Hằng năm, cùng thời gian quy định về lập dự toán ngân sách nhà nước, cơ quan, tổ chức liên quan lập kế hoạch thu, chi bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm thất nghiệp gửi Bảo hiểm xã hội Việt Nam như sau:
 
 a) Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương lập kế hoạch thu, chi bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm thất nghiệp;
@@ -7179,8 +5766,7 @@ b) Bảo hiểm xã hội Bộ Quốc phòng, Bảo hiểm xã hội Công an nh
 
 c) Bộ Lao động - Thương binh và Xã hội lập kế hoạch chi phí quản lý bảo hiểm thất nghiệp cho các đơn vị thuộc ngành lao động - thương binh và xã hội được giao thực hiện các nhiệm vụ về bảo hiểm thất nghiệp.
 
-2.
-Việc lập, phân bổ, giao dự toán, quản lý, sử dụng và quyết toán chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Thủ tướng Chính phủ về cơ chế quản lý tài chính về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+2. Việc lập, phân bổ, giao dự toán, quản lý, sử dụng và quyết toán chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Thủ tướng Chính phủ về cơ chế quản lý tài chính về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
 
 # Chương VII: Điều khoản thi hành
 
@@ -7205,9 +5791,7 @@ Việc lập, phân bổ, giao dự toán, quản lý, sử dụng và quyết t
 3. Thời gian người lao động thực tế làm việc theo các hợp đồng lao động, hợp đồng làm việc với người sử dụng lao động mà không phải đóng bảo hiểm thất nghiệp thì được tính để xét hưởng trợ cấp thôi việc, trợ cấp mất việc làm theo quy định của pháp luật lao động hiện hành hoặc trợ cấp thôi việc theo quy định của pháp luật về viên chức.
 
 4. Người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp trước ngày 01 tháng 01 năm 2015 thì thực hiện theo quy định của Nghị định số 127/2008/NĐ-CP ngày 12 tháng 12 năm 2008 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm thất nghiệp; Nghị định số 100/2012/NĐ-CP ngày 21 tháng 11 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2008/NĐ-CP ngày 12 tháng 12 năm 2008 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm thất nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 45. Thời gian đóng bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013
-)
+(Điều này có nội dung liên quan đến: Điều 45. Thời gian đóng bảo hiểm thất nghiệp của Luật 38/2013/QH13 Việc làm ban hành ngày 16/11/2013)
 
 ### Điều 20.4.NĐ.4.36. Quy định chuyển tiếp
 
@@ -7227,19 +5811,10 @@ a) Được tiếp tục thực hiện hoạt động dịch vụ việc làm ch
 
 b) Nếu thuộc một trong các trường hợp bị thu hồi giấy phép theo quy định tại các điểm a, b, c, d, đ, e, h khoản 1 Điều 21 Nghị định này hoặc không đảm bảo một trong các điều kiện quy định tại khoản 1, 2 Điều 14 Nghị định này thì Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đặt trụ sở chính thực hiện thu hồi theo quy định tại Điều 21 Nghị định này.
 
-2. Doanh nghiệp đã nộp đủ hồ sơ cấp, cấp lại, gia hạn giấy phép và đảm bảo các điều kiện cấp giấy phép theo quy định tại Nghị định số
-52/2014/NĐ-CP
-ngày 23 tháng 5 năm 2014 của Chính phủ quy định điều kiện, thủ tục cấp giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm (sau đây viết tắt là Nghị định số 52/2014/NĐ-CP); Nghị định số
-140/2018/NĐ-CP
-ngày 08 tháng 10 năm 2018 của Chính phủ sửa đổi, bổ sung các Nghị định liên quan đến điều kiện đầu tư kinh doanh và thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội (sau đây viết tắt là Nghị định số 140/2018/NĐ-CP) trước ngày Nghị định này có hiệu lực thì được cấp, cấp lại, gia hạn theo quy định tại Nghị định số
-52/2014/NĐ-CP
-và Nghị định số
-140/2018/NĐ-CP
-.
+2. Doanh nghiệp đã nộp đủ hồ sơ cấp, cấp lại, gia hạn giấy phép và đảm bảo các điều kiện cấp giấy phép theo quy định tại Nghị định số 52/2014/NĐ-CP ngày 23 tháng 5 năm 2014 của Chính phủ quy định điều kiện, thủ tục cấp giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm (sau đây viết tắt là Nghị định số 52/2014/NĐ-CP); Nghị định số 140/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ sửa đổi, bổ sung các Nghị định liên quan đến điều kiện đầu tư kinh doanh và thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội (sau đây viết tắt là Nghị định số 140/2018/NĐ-CP) trước ngày Nghị định này có hiệu lực thì được cấp, cấp lại, gia hạn theo quy định tại Nghị định số 52/2014/NĐ-CP
+và Nghị định số 140/2018/NĐ-CP.
 
-3. Trung tâm dịch vụ việc làm thành lập và hoạt động theo quy định tại Nghị định số
-196/2013/NĐ-CP
-ngày 21 tháng 11 năm 2013 của Chính phủ quy định thành lập và hoạt động của trung tâm dịch vụ việc làm thì được tiếp tục hoạt động.
+3. Trung tâm dịch vụ việc làm thành lập và hoạt động theo quy định tại Nghị định số 196/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định thành lập và hoạt động của trung tâm dịch vụ việc làm thì được tiếp tục hoạt động.
 
 Trường hợp trung tâm dịch vụ việc làm không đảm bảo điều kiện quy định tại khoản 1 Điều 3 Nghị định này thì phải bổ sung đầy đủ điều kiện trong thời hạn 12 tháng; trường hợp không bổ sung đầy đủ thì phải chấm dứt hoạt động dịch vụ việc làm.
 
@@ -7249,9 +5824,7 @@ Trường hợp trung tâm dịch vụ việc làm không đảm bảo điều k
 1. Tiêu chuẩn kỹ năng nghề quốc gia của các nghề đã được ban hành trước ngày Thông tư này có hiệu lực thi hành vẫn có giá trị áp dụng.
 
 2. Trong thời hạn tối đa là 03 (ba) năm kể từ ngày Thông tư này có hiệu lực thi hành, Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ đã ban hành tiêu chuẩn kỹ năng nghề quốc gia của từng nghề thuộc lĩnh vực quản lý phải tiến hành sửa đổi, bổ sung các nội dung trong các tiêu chuẩn kỹ năng nghề quốc gia và điều chỉnh về định dạng cấu trúc theo quy định tại Thông tư này và gửi Bộ Lao động -Thương binh và Xã hội để tổ chức việc thẩm định và công bố.
-(Điều này có nội dung liên quan đến
-Điều 19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015
-)
+(Điều này có nội dung liên quan đến: Điều 19. Trách nhiệm của Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ của Thông tư 56/2015/TT-BLĐTBXH Hướng dẫn việc xây dựng, thẩm định và công bố tiêu chuẩn kỹ năng nghề quốc gia ban hành ngày 24/12/2015)
 
 ### Điều 20.4.LQ.61. Hiệu lực thi hành
 
@@ -7324,15 +5897,7 @@ Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 
 
 ### Điều 20.4.NĐ.5.45. Hiệu lực thi hành và trách nhiệm thi hành
 
-(
-
-### Điều 45
-
-Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
+(Điều 45 Nghị định số 61/2015/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/09/2015, có nội dung được sửa đổi bởi Điều 1 Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 2015.
 
 2. Quyết định số 71/2005/QĐ-TTg ngày 05 tháng 4 năm 2005 của Thủ tướng Chính phủ về cơ chế quản lý và điều hành Quỹ quốc gia về việc làm và Quyết định số 15/2008/QĐ-TTg ngày 23 tháng 01 năm 2008 của Thủ tướng Chính phủ về sửa đổi và bổ sung một số điều của Quyết định số 71/2005/QĐ-TTg; các quy định về chính sách hỗ trợ bộ đội xuất ngũ học nghề quy định tại Quyết định số 121/2009/QĐ-TTg ngày 09 tháng 10 năm 2009 của Thủ tướng Chính phủ về cơ chế hoạt động của các cơ sở dạy nghề thuộc Bộ Quốc phòng và chính sách hỗ trợ bộ đội xuất ngũ học nghề; Điều 4 Nghị định số 03/2014/NĐ-CP ngày 16 tháng 01 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Bộ luật Lao động về việc làm hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực thi hành.
@@ -7348,9 +5913,7 @@ Nghị định số 74/2019/NĐ-CP có hiệu lực thi hành kể từ ngày 08
 (Điều 2 Nghị định số 74/2019/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 61/2015/NĐ-CP ngày 09 tháng 7 năm 2015 của Chính phủ quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm ngày 23/09/2019 của Chính phủ, có hiệu lực thi hành kể từ ngày 08/11/2019)
 1. Nghị định này có hiệu lực thi hành từ ngày 08 tháng 11 năm 2019.
 
-2. Mức vay, thời hạn vay vốn, lãi suất vay vốn, điều kiện bảo đảm tiền vay đối với dự án vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm; điều kiện bảo đảm tiền vay đối với dự án vay vốn hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng từ Quỹ quốc gia về việc làm đã được phê duyệt trước ngày Nghị định này có hiệu lực thi hành thực hiện theo quy định tại Nghị định số
-61/2015/NĐ-CP
-.
+2. Mức vay, thời hạn vay vốn, lãi suất vay vốn, điều kiện bảo đảm tiền vay đối với dự án vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm; điều kiện bảo đảm tiền vay đối với dự án vay vốn hỗ trợ người lao động đi làm việc ở nước ngoài theo hợp đồng từ Quỹ quốc gia về việc làm đã được phê duyệt trước ngày Nghị định này có hiệu lực thi hành thực hiện theo quy định tại Nghị định số 61/2015/NĐ-CP.
 
 ### Điều 20.4.NĐ.5.47. Trách nhiệm thi hành
 
@@ -7362,9 +5925,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ qu
 (Điều 37 Nghị định số 23/2021/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/06/2021)
 1. Nghị định này có hiệu lực từ ngày 01 tháng 6 năm 2021.
 
-2. Nghị định số
-196/2013/NĐ-CP
-ngày 21 tháng 11 năm 2013 của Chính phủ quy định thành lập và hoạt động của trung tâm dịch vụ việc làm; Nghị định số 52/2014/NĐ-CP; Điều 10, Điều 12 Nghị định số 140/2018/NĐ-CPhết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
+2. Nghị định số 196/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định thành lập và hoạt động của trung tâm dịch vụ việc làm; Nghị định số 52/2014/NĐ-CP; Điều 10, Điều 12 Nghị định số 140/2018/NĐ-CPhết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
 ### Điều 20.4.NĐ.6.38. Trách nhiệm thi hành
 
@@ -7378,9 +5939,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ qu
 
 Đối với người lao động đã nộp hồ sơ đề nghị hỗ trợ học nghề trước ngày Quyết định này có hiệu lực thi hành nhưng chưa có quyết định hỗ trợ học nghề thì được áp dụng mức hỗ trợ học nghề theo các quy định tại Quyết định này.
 
-2. Quyết định số
-77/2014/QĐ-TTg
-ngày 24 tháng 12 năm 2014 của Thủ tướng Chính phủ quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.
+2. Quyết định số 77/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ tướng Chính phủ quy định mức hỗ trợ học nghề đối với người lao động tham gia bảo hiểm thất nghiệp hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.
 
 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Quyết định này.
 
@@ -7516,9 +6075,7 @@ Trong quá trình thực hiện nếu có vướng mắc, đề nghị các cơ 
 2. Kể từ ngày 01 tháng 9 năm 2015, thanh niên đăng ký tham gia đào tạo nghề được hưởng chính sách hỗ trợ đào tạo nghề theo hướng dẫn tại Thông tư này.
 
 3. Cơ quan, tổ chức, cơ sở giáo dục nghề nghiệp và thanh niên trong quá trình thực hiện hướng dẫn tại Thông tư này, nếu có khó khăn, vướng mắc, đề nghị phản ánh kịp thời về Bộ Lao động - Thương binh và Xã hội để nghiên cứu, hướng dẫn hoặc sửa đổi, bổ sung cho phù hợp.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.62. Chính sách đối với người học
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.62. Chính sách đối với người học)
 
 ### Điều 20.4.TT.10.8. Hiệu lực thi hành và trách nhiệm thi hành
 

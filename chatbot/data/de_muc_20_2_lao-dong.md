@@ -4,15 +4,7 @@
 
 (Điều 1 Bộ luật số 45/2019/QH14 Bộ Luật lao động ngày 20/11/2019 của Quốc hội, có hiệu lực thi hành kể từ ngày 01/01/2021 )
 Bộ luật Lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện người lao động tại cơ sở, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động.
-(Điều này có nội dung liên quan đến
-Điều 6.3.LQ.33. Việc làm đối với người khuyết tật
-;
-Điều 24.10.TT.5.3. Nội dung chi
-;
-Điều 41.12.TT.11.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
-;
-Điều 41.11.TT.57.4. Nội dung định mức kinh tế - kỹ thuật
-)
+(Điều này có nội dung liên quan đến: Điều 6.3.LQ.33. Việc làm đối với người khuyết tật; Điều 24.10.TT.5.3. Nội dung chi; Điều 41.12.TT.11.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật; Điều 41.11.TT.57.4. Nội dung định mức kinh tế - kỹ thuật)
 
 ### Điều 20.2.LQ.2. Đối tượng áp dụng
 
@@ -24,25 +16,13 @@ Bộ luật Lao động quy định tiêu chuẩn lao động; quyền, nghĩa v
 3. Người lao động nước ngoài làm việc tại Việt Nam.
 
 4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.
-(Điều này có nội dung liên quan đến
-Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ
-;
-Điều 20.2.NĐ.2.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.3.2. Đối tượng áp dụng
-;
-Điều 20.2.TT.2.2. Đối tượng áp dụng
-;
-Điều 2. Đối tượng áp dụng của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 20.2.NĐ.2.2. Đối tượng áp dụng; Điều 20.2.NĐ.3.2. Đối tượng áp dụng; Điều 20.2.TT.2.2. Đối tượng áp dụng; Điều 2. Đối tượng áp dụng của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021)
 
 ### Điều 20.2.NĐ.2.1. Phạm vi điều chỉnh
 
 (Điều 1 Nghị định số 135/2020/NĐ-CP Quy định về tuổi nghỉ hưu ngày 18/11/2020 của Chính phủ, có hiệu lực thi hành kể từ ngày 01/01/2021 )
 Nghị định này quy định chi tiết Điều 169 của Bộ luật Lao động về tuổi nghỉ hưu.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu)
 
 ### Điều 20.2.NĐ.2.2. Đối tượng áp dụng
 
@@ -50,9 +30,7 @@ Nghị định này quy định chi tiết Điều 169 của Bộ luật Lao đ�
 1. Người lao động và người sử dụng lao động quy định tại các khoản 1, 2 và 3 Điều 2 của Bộ luật Lao động.
 
 2. Cơ quan, tổ chức và cá nhân có liên quan đến bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.2. Đối tượng áp dụng)
 
 ### Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
 
@@ -78,57 +56,7 @@ Nghị định này quy định chi tiết và hướng dẫn thi hành một s�
 9. Lao động là người giúp việc gia đình theo khoản 2 Điều 161.
 
 10. Giải quyết tranh chấp lao động theo khoản 2 Điều 184; khoản 6 Điều 185; khoản 2 Điều 209; khoản 2 Điều 210.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.LQ.51. Xử lý hợp đồng lao động vô hiệu
-;
-Điều 20.2.LQ.54. Doanh nghiệp cho thuê lại lao động
-;
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.LQ.92. Hội đồng tiền lương quốc gia
-;
-Điều 20.2.LQ.96. Hình thức trả lương
-;
-Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm
-;
-Điều 20.2.LQ.107. Làm thêm giờ
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
-;
-Điều 20.2.LQ.118. Nội quy lao động
-;
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại
-;
-Điều 20.2.LQ.131. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất
-;
-Điều 20.2.LQ.135. Chính sách của Nhà nước
-;
-Điều 20.2.LQ.161. Lao động là người giúp việc gia đình
-;
-Điều 20.2.LQ.184. Hòa giải viên lao động
-;
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.209. Nơi sử dụng lao động không được đình công
-;
-Điều 20.2.LQ.210. Quyết định hoãn, ngừng đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động; Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.LQ.51. Xử lý hợp đồng lao động vô hiệu; Điều 20.2.LQ.54. Doanh nghiệp cho thuê lại lao động; Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.LQ.92. Hội đồng tiền lương quốc gia; Điều 20.2.LQ.96. Hình thức trả lương; Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm; Điều 20.2.LQ.107. Làm thêm giờ; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt; Điều 20.2.LQ.118. Nội quy lao động; Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại; Điều 20.2.LQ.131. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất; Điều 20.2.LQ.135. Chính sách của Nhà nước; Điều 20.2.LQ.161. Lao động là người giúp việc gia đình; Điều 20.2.LQ.184. Hòa giải viên lao động; Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.LQ.209. Nơi sử dụng lao động không được đình công; Điều 20.2.LQ.210. Quyết định hoãn, ngừng đình công)
 
 ### Điều 20.2.NĐ.3.2. Đối tượng áp dụng
 
@@ -138,9 +66,7 @@ Nghị định này quy định chi tiết và hướng dẫn thi hành một s�
 2. Người sử dụng lao động theo khoản 2 Điều 2 của Bộ luật Lao động.
 
 3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến việc thực hiện quy định tại Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.2. Đối tượng áp dụng)
 
 ### Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh
 
@@ -150,13 +76,7 @@ Nghị định này quy định về người lao động nước ngoài làm vi
 1. Điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc tại Việt Nam theo Điều 157 của Bộ luật Lao động và người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động theo khoản 1, 2 và 9 Điều 154 của Bộ luật Lao động.
 
 2. Tuyển dụng, giới thiệu, quản lý người lao động Việt Nam làm việc cho các tổ chức, cá nhân nước ngoài tại Việt Nam (sau đây gọi là tổ chức, cá nhân nước ngoài) theo khoản 3 Điều 150 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.150. Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam
-;
-Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.LQ.157. Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.150. Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam; Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động; Điều 20.2.LQ.157. Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.2. Đối tượng áp dụng
 
@@ -226,19 +146,7 @@ d) Tổ chức phi chính phủ nước ngoài được cơ quan có thẩm quy�
 5. Người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
 
 6. Tổ chức dịch vụ việc làm và doanh nghiệp cho thuê lại lao động cung cấp dịch vụ cho tổ chức, cá nhân nước ngoài tại Việt Nam liên quan đến tuyển dụng, giới thiệu, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.11. Trình tự cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.18. Trình tự gia hạn giấy phép lao động
-;
-Điều 20.2.NĐ.4.22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
-;
-Điều 20.2.NĐ.4.26. Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động; Điều 20.2.NĐ.4.11. Trình tự cấp giấy phép lao động; Điều 20.2.NĐ.4.18. Trình tự gia hạn giấy phép lao động; Điều 20.2.NĐ.4.22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài; Điều 20.2.NĐ.4.26. Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam)
 
 ### Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh
 
@@ -254,26 +162,16 @@ Nghị định này quy định chính sách đối với người lao động d
 4. Sáp nhập, hợp nhất, chia, tách.
 
 5. Giải thể, phá sản.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.6.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.2. Đối tượng áp dụng; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư)
 
 ### Điều 20.2.NĐ.6.2. Đối tượng áp dụng
 
 (Điều 2 Nghị định số 97/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 1. Người lao động dôi dư trong doanh nghiệp thực hiện sắp xếp lại quy định tại Điều 1 Nghị định này, bao gồm:
 
-a) Người lao động làm việc theo hợp đồng lao động, có tên trong danh sách lao động và được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1, 2, 3 và 4 Điều 1 Nghị định này trước ngày 21 tháng 4 năm 1998 (thời điểm thực hiện Chỉ thị số
-20/1998/CT-TTg
-của Thủ tướng Chính phủ về đẩy mạnh sắp xếp và đổi mới doanh nghiệp nhà nước), tại thời điểm sắp xếp lại, doanh nghiệp không bố trí được việc làm; làm việc ở doanh nghiệp thuộc lĩnh vực nông nghiệp, lâm nghiệp tại thời điểm sắp xếp lại, doanh nghiệp không bố trí được việc làm và không được giao khoán đất, giao khoán rừng;
+a) Người lao động làm việc theo hợp đồng lao động, có tên trong danh sách lao động và được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1, 2, 3 và 4 Điều 1 Nghị định này trước ngày 21 tháng 4 năm 1998 (thời điểm thực hiện Chỉ thị số 20/1998/CT-TTg của Thủ tướng Chính phủ về đẩy mạnh sắp xếp và đổi mới doanh nghiệp nhà nước), tại thời điểm sắp xếp lại, doanh nghiệp không bố trí được việc làm; làm việc ở doanh nghiệp thuộc lĩnh vực nông nghiệp, lâm nghiệp tại thời điểm sắp xếp lại, doanh nghiệp không bố trí được việc làm và không được giao khoán đất, giao khoán rừng;
 
-b) Người lao động làm việc theo hợp đồng lao động, có tên trong danh sách lao động và được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này trước ngày 26 tháng 4 năm 2002 (thời điểm Nghị định số
-41/2002/NĐ-CP
-ngày 11 tháng 4 năm 2002 của Chính phủ về chính sách đối với lao động dôi dư khi sắp xếp lại doanh nghiệp nhà nước có hiệu lực thi hành);
+b) Người lao động làm việc theo hợp đồng lao động, có tên trong danh sách lao động và được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này trước ngày 26 tháng 4 năm 2002 (thời điểm Nghị định số 41/2002/NĐ-CP ngày 11 tháng 4 năm 2002 của Chính phủ về chính sách đối với lao động dôi dư khi sắp xếp lại doanh nghiệp nhà nước có hiệu lực thi hành);
 
 c) Người lao động làm việc theo hợp đồng lao động, có tên trong danh sách lao động và được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1, 2, 3 và 4 Điều 1 Nghị định này từ ngày 21 tháng 4 năm 1998 trở về sau, tại thời điểm sắp xếp lại, doanh nghiệp không bố trí được việc làm;
 
@@ -286,18 +184,7 @@ d) Người lao động làm việc theo hợp đồng lao động, có tên tro
 3. Cơ quan đại diện chủ sở hữu của doanh nghiệp thực hiện sắp xếp lại.
 
 4. Các cơ quan, tổ chức, cá nhân khác có liên quan đến việc thực hiện quy định tại Nghị định này.
-(Điều này có nội dung liên quan đến
-;
-Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp
-;
-Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp; Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại)
 
 ### Điều 20.2.NĐ.8.1. Phạm vi điều chỉnh
 
@@ -329,15 +216,7 @@ Thông tư này quy định chi tiết và hướng dẫn thi hành một số �
 3. Danh mục nghề, công việc người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể được làm thêm giờ, làm việc vào ban đêm theo quy định tại khoản 2 Điều 146.
 
 4. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên theo quy định khoản 3 Điều 147.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.143. Lao động chưa thành niên
-;
-Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.LQ.146. Thời giờ làm việc của người chưa thành niên
-;
-Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.143. Lao động chưa thành niên; Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.LQ.146. Thời giờ làm việc của người chưa thành niên; Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi)
 
 ### Điều 20.2.TT.1.2. Đối tượng áp dụng
 
@@ -358,13 +237,7 @@ Thông tư này quy định chi tiết và hướng dẫn thi hành một số �
 2. Chức năng, nhiệm vụ và hoạt động của Hội đồng thương lượng tập thể theo khoản 4 Điều 73.
 
 3. Danh mục nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con theo khoản 1 Điều 142.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
-;
-Điều 20.2.LQ.142. Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể; Điều 20.2.LQ.142. Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con)
 
 ### Điều 20.2.TT.2.2. Đối tượng áp dụng
 
@@ -372,9 +245,7 @@ Thông tư này quy định chi tiết và hướng dẫn thi hành một số �
 1. Người lao động, người sử dụng lao động theo khoản 1, khoản 2 và khoản 3 Điều 2 của Bộ luật Lao động.
 
 2. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến việc thực hiện quy định tại Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.2. Đối tượng áp dụng)
 
 ### Điều 20.2.TT.3.1. Phạm vi điều chỉnh
 
@@ -412,11 +283,7 @@ b) Gia công hàng theo đơn đặt hàng, bị phụ thuộc vào thời đi�
 
 (Điều 1 Thông tư số 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ngày 15/12/2021 của Bộ Lao động - Thương binh và Xã hội, có hiệu lực thi hành kể từ ngày 30/01/2022 )
 Thông tư này quy định Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn để làm căn cứ xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và Điều 5 Nghị định số 135/2020/NĐ-CP ngày 18 tháng 11 năm 2020 của Chính phủ quy định về tuổi nghỉ hưu.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.2.5. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.2.5. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường)
 
 ### Điều 20.2.TT.5.2. Đối tượng áp dụng
 
@@ -424,9 +291,7 @@ Thông tư này quy định Danh mục vùng có điều kiện kinh tế - xã 
 1. Người lao động và người sử dụng lao động quy định tại các khoản 1, 2 và 3 Điều 2 của Bộ luật Lao động.
 
 2. Cơ quan, tổ chức và cá nhân có liên quan đến bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.2. Đối tượng áp dụng)
 
 ### Điều 20.2.TT.6.1. Phạm vi điều chỉnh
 
@@ -511,27 +376,11 @@ Việc phân biệt, loại trừ hoặc ưu tiên xuất phát từ yêu cầu 
 
 9. Quấy rối tình dục tại nơi làm việc
 là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận. Nơi làm việc là bất kỳ nơi nào mà người lao động thực tế làm việc theo thỏa thuận hoặc phân công của người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng của Thông tư 24/2022/TT-BLĐTBXH Quy định việc bồi dưỡng bằng hiện vật đối với người lao động làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại ban hành ngày 30/11/2022
-;
-Điều 20.2.NĐ.3.84. Quấy rối tình dục tại nơi làm việc
-;
-Điều 20.2.NĐ.3.88. Lao động là người giúp việc gia đình
-;
-Điều 20.5.TT.98.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng của Thông tư 24/2022/TT-BLĐTBXH Quy định việc bồi dưỡng bằng hiện vật đối với người lao động làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại ban hành ngày 30/11/2022; Điều 20.2.NĐ.3.84. Quấy rối tình dục tại nơi làm việc; Điều 20.2.NĐ.3.88. Lao động là người giúp việc gia đình; Điều 20.5.TT.98.2. Đối tượng áp dụng)
 
 ### Điều 20.2.NĐ.4.3. Giải thích từ ngữ
 
-(
-
-### Điều 3
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 3 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Người lao động nước ngoài di chuyển trong nội bộ doanh nghiệp là nhà quản lý, giám đốc điều hành, chuyên gia và lao động kỹ thuật của một doanh nghiệp nước ngoài đã thành lập hiện diện thương mại trên lãnh thổ Việt Nam, di chuyển tạm thời trong nội bộ doanh nghiệp sang hiện diện thương mại trên lãnh thổ Việt Nam và đã được doanh nghiệp nước ngoài tuyển dụng trước đó ít nhất 12 tháng liên tục.
 
 2. Tình nguyện viên là người lao động nước ngoài làm việc tại Việt Nam theo hình thức tự nguyện và không hưởng lương để thực hiện điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và có xác nhận của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam.
@@ -563,13 +412,7 @@ b) Có ít nhất 5 năm kinh nghiệm làm công việc phù hợp với vị t
 8. Nhà cung cấp dịch vụ theo hợp đồng là người lao động nước ngoài làm việc ít nhất 02 năm (24 tháng) trong một doanh nghiệp nước ngoài không có hiện diện thương mại tại Việt Nam và phải đáp ứng quy định đối với chuyên gia tại khoản 3 Điều này.
 
 9. Người lao động nước ngoài làm việc theo hình thức chào bán dịch vụ là người lao động nước ngoài không sống tại Việt Nam và không nhận thù lao từ bất cứ nguồn nào tại Việt Nam, tham gia vào các hoạt động liên quan đến việc đại diện cho một nhà cung cấp dịch vụ để đàm phán tiêu thụ dịch vụ của nhà cung cấp đó, với điều kiện không được bán trực tiếp dịch vụ đó cho công chúng và không trực tiếp tham gia cung cấp dịch vụ.
-(Điều này có nội dung liên quan đến
-Điều 12.1.LQ.4. Giải thích từ ngữ
-;
-Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 12.1.LQ.4. Giải thích từ ngữ; Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động)
 
 ### Điều 20.2.TT.3.3. Giải thích từ ngữ
 
@@ -647,9 +490,7 @@ a) Thực hiện hợp đồng lao động, thỏa ước lao động tập th�
 b) Chấp hành kỷ luật lao động, nội quy lao động; tuân theo sự quản lý, điều hành, giám sát của người sử dụng lao động;
 
 c) Thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.58. Quyền và nghĩa vụ của người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.58. Quyền và nghĩa vụ của người lao động thuê lại)
 
 ### Điều 20.2.LQ.6. Quyền và nghĩa vụ của người sử dụng lao động
 
@@ -677,9 +518,7 @@ c) Đào tạo, đào tạo lại, bồi dưỡng nâng cao trình độ, kỹ n
 d) Thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động; xây dựng và thực hiện các giải pháp phòng, chống quấy rối tình dục tại nơi làm việc;
 
 đ) Tham gia phát triển tiêu chuẩn kỹ năng nghề quốc gia, đánh giá, công nhận kỹ năng nghề cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.56. Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.56. Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động)
 
 ### Điều 20.2.LQ.7. Xây dựng quan hệ lao động
 
@@ -740,13 +579,7 @@ d) Thực hiện quy định của pháp luật về lao động, việc làm, g
 2. Khai trình việc sử dụng lao động trong thời hạn 30 ngày kể từ ngày bắt đầu hoạt động, định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh và thông báo cho cơ quan bảo hiểm xã hội.
 
 3. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.3. Sổ quản lý lao động
-;
-Điều 20.2.NĐ.3.4. Báo cáo sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.3. Sổ quản lý lao động; Điều 20.2.NĐ.3.4. Báo cáo sử dụng lao động)
 
 ### Điều 20.2.NĐ.3.3. Sổ quản lý lao động
 
@@ -758,21 +591,11 @@ Việc lập, cập nhật, quản lý, sử dụng sổ quản lý lao động 
 2. Sổ quản lý lao động được lập bằng bản giấy hoặc bản điện tử nhưng phải bảo đảm các thông tin cơ bản về người lao động, gồm: họ tên; giới tính; ngày tháng năm sinh; quốc tịch; nơi cư trú; số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu; trình độ chuyên môn kỹ thuật; bậc trình độ kỹ năng nghề; vị trí việc làm; loại hợp đồng lao động; thời điểm bắt đầu làm việc; tham gia bảo hiểm xã hội; tiền lương; nâng bậc, nâng lương; số ngày nghỉ trong năm; số giờ làm thêm; học nghề, đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề; kỷ luật lao động, trách nhiệm vật chất; tai nạn lao động, bệnh nghề nghiệp; thời điểm chấm dứt hợp đồng lao động và lý do.
 
 3. Người sử dụng lao động có trách nhiệm thể hiện, cập nhật các thông tin quy định tại khoản 2 Điều này kể từ ngày người lao động bắt đầu làm việc; quản lý, sử dụng và xuất trình sổ quản lý lao động với cơ quan quản lý về lao động và các cơ quan liên quan khi có yêu cầu theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động)
 
 ### Điều 20.2.NĐ.3.4. Báo cáo sử dụng lao động
 
-(
-
-### Điều 4
-
-Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 73
-
-Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022)
+(Điều 4 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 73 Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022)
 Việc khai trình sử dụng lao động, định kỳ báo cáo tình hình thay đổi về lao động tại khoản 2 Điều 12 của Bộ luật Lao động được quy định như sau:
 
 1. Người sử dụng lao động khai trình việc sử dụng lao động theo Nghị định số 122/2020/NĐ-CP ngày 15 tháng 10 năm 2020 của Chính phủ quy định về phối hợp, liên thông thủ tục đăng ký thành lập doanh nghiệp, chi nhánh, văn phòng đại diện, khai trình việc sử dụng lao động, cấp mã số đơn vị tham gia bảo hiểm xã hội, đăng ký sử dụng hóa đơn của doanh nghiệp.
@@ -784,13 +607,7 @@ Sở Lao động - Thương binh và Xã hội có trách nhiệm tổng hợp t
 3. Định kỳ 06 tháng, trước ngày 15 tháng 6 và hàng năm, trước ngày 15 tháng 12, Sở Lao động - Thương binh và Xã hội có trách nhiệm báo cáo Bộ Lao động - Thương binh và Xã hội về tình hình sử dụng lao động trên địa bàn thông qua cổng Dịch vụ công Quốc gia theo Mẫu số 02/PLI Phụ lục I ban hành kèm theo Nghị định này.
 
 Trường hợp Sở Lao động - Thương binh và Xã hội không thể báo cáo tình hình sử dụng lao động thông qua cổng Dịch vụ công Quốc gia thì gửi báo cáo bằng bản giấy đến Bộ Lao động - Thương binh và Xã hội theo Mẫu số 02/PLI Phụ lục I ban hành kèm theo Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động
-;
-Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ
-;
-Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.12. Trách nhiệm quản lý lao động của người sử dụng lao động; Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 11. Quy trình thu thập của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 # Chương III: Hợp đồng lao động
 
@@ -813,15 +630,7 @@ Trường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội
 Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.
 
 2. Hai bên có thể giao kết hợp đồng lao động bằng lời nói đối với hợp đồng có thời hạn dưới 01 tháng, trừ trường hợp quy định tại khoản 2 Điều 18, điểm a khoản 1 Điều 145 và khoản 1 Điều 162 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.LQ.162. Hợp đồng lao động đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động; Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.LQ.162. Hợp đồng lao động đối với lao động là người giúp việc gia đình; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.15. Nguyên tắc giao kết hợp đồng lao động
 
@@ -829,9 +638,7 @@ Hợp đồng lao động được giao kết thông qua phương tiện điện
 1. Tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực.
 
 2. Tự do giao kết hợp đồng lao động nhưng không được trái pháp luật, thỏa ước lao động tập thể và đạo đức xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.49. Hợp đồng lao động vô hiệu
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.49. Hợp đồng lao động vô hiệu)
 
 ### Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động
 
@@ -839,13 +646,7 @@ Hợp đồng lao động được giao kết thông qua phương tiện điện
 1. Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.
 
 2. Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, trình độ học vấn, trình độ kỹ năng nghề, xác nhận tình trạng sức khỏe và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người sử dụng lao động yêu cầu.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động
 
@@ -886,15 +687,7 @@ c) Người chưa đủ 15 tuổi và người đại diện theo pháp luật c
 d) Người lao động được những người lao động trong nhóm ủy quyền hợp pháp giao kết hợp đồng lao động.
 
 5. Người được ủy quyền giao kết hợp đồng lao động không được ủy quyền lại cho người khác giao kết hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.14. Hình thức hợp đồng lao động
-;
-Điều 20.2.NĐ.3.69. Nội quy lao động
-;
-Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.14. Hình thức hợp đồng lao động; Điều 20.2.NĐ.3.69. Nội quy lao động; Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động)
 
 ### Điều 20.2.LQ.19. Giao kết nhiều hợp đồng lao động
 
@@ -919,15 +712,7 @@ a) Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết h
 b) Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại điểm b khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn;
 
 c) Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp quy định tại khoản 1 Điều 149, khoản 2 Điều 151 và khoản 4 Điều 177 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.149. Sử dụng người lao động cao tuổi
-;
-Điều 20.2.LQ.151. Điều kiện người lao động nước ngoài làm việc tại Việt Nam
-;
-Điều 20.2.LQ.177. Nghĩa vụ của người sử dụng lao động đối với tổ chức đại diện người lao động tại cơ sở
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.149. Sử dụng người lao động cao tuổi; Điều 20.2.LQ.151. Điều kiện người lao động nước ngoài làm việc tại Việt Nam; Điều 20.2.LQ.177. Nghĩa vụ của người sử dụng lao động đối với tổ chức đại diện người lao động tại cơ sở; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm)
 
 ### Điều 20.2.LQ.21. Nội dung hợp đồng lao động
 
@@ -961,27 +746,7 @@ k) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
 4. Chính phủ quy định nội dung của hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước.
 
 5. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết các khoản 1, 2 và 3 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.24. Thử việc
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.5. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết
-;
-Điều 20.2.NĐ.3.6. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ từ 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết trở xuống
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ
-;
-Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-;
-Điều 20.2.TT.2.5. Nội dung chủ yếu của hợp đồng lao động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.24. Thử việc; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.5. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết; Điều 20.2.NĐ.3.6. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ từ 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết trở xuống; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ; Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.2.1. Phạm vi điều chỉnh; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động; Điều 20.2.TT.2.5. Nội dung chủ yếu của hợp đồng lao động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp)
 
 ### Điều 20.2.NĐ.3.5. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết
 
@@ -1033,17 +798,13 @@ d) Được hưởng các chế độ về: tiền lương, thưởng; thời gi
 11. Kỷ luật lao động, trách nhiệm vật chất, giải quyết tranh chấp lao động và khiếu nại.
 
 12. Các nội dung khác do hai bên thỏa thuận.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động)
 
 ### Điều 20.2.NĐ.3.6. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ từ 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết trở xuống
 
 (Điều 6 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ từ 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết trở xuống thực hiện theo quy định tại khoản 1 Điều 21 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động)
 
 ### Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
 
@@ -1106,19 +867,7 @@ d) Hình thức trả lương do hai bên xác định theo quy định tại Đ
 9. Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp: theo quy định của pháp luật về lao động, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.
 
 10. Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề: quyền, nghĩa vụ và lợi ích của người sử dụng lao động và người lao động trong việc bảo đảm thời gian, kinh phí đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.LQ.93. Xây dựng thang lương, bảng lương và định mức lao động
-;
-Điều 20.2.LQ.96. Hình thức trả lương
-;
-Điều 20.2.LQ.97. Kỳ hạn trả lương
-;
-Điều 20.2.LQ.104. Thưởng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động; Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.LQ.93. Xây dựng thang lương, bảng lương và định mức lao động; Điều 20.2.LQ.96. Hình thức trả lương; Điều 20.2.LQ.97. Kỳ hạn trả lương; Điều 20.2.LQ.104. Thưởng)
 
 ### Điều 20.2.TT.2.4. Bảo vệ bí mật kinh doanh, bí mật công nghệ
 
@@ -1147,9 +896,7 @@ a) Trường hợp phát hiện người lao động có hành vi vi phạm tron
 b) Trường hợp phát hiện người lao động có hành vi vi phạm sau khi chấm dứt hợp đồng lao động thì xử lý theo quy định của pháp luật dân sự và pháp luật khác có liên quan.
 
 4. Đối với bí mật kinh doanh, bí mật công nghệ thuộc danh mục bí mật nhà nước thì thực hiện theo quy định của pháp luật về bảo vệ bí mật nhà nước.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại)
 
 ### Điều 20.2.TT.2.5. Nội dung chủ yếu của hợp đồng lao động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp
 
@@ -1158,9 +905,7 @@ b) Trường hợp phát hiện người lao động có hành vi vi phạm sau 
 1. Hợp đồng lao động đối với người lao động làm việc trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp bao gồm các nội dung chủ yếu của hợp đồng lao động theo khoản 1 Điều 21 của Bộ luật Lao động và Điều 3 Thông tư này. Đối với những công việc có tính chất giản đơn, thực hiện trong thời gian ngắn hạn hoặc theo mùa vụ thì hai bên có thể giảm nội dung thỏa thuận về nâng bậc quy định tại điểm e khoản 1 Điều 21 và đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề quy định tại điểm k khoản 1 Điều 21 của Bộ luật Lao động.
 
 2. Đối với những công việc và địa điểm làm việc chịu ảnh hưởng trực tiếp của thiên tai, hỏa hoạn, thời tiết thì hai bên có thể thỏa thuận trong hợp đồng lao động những nội dung về cơ chế giải quyết việc thực hiện hợp đồng lao động phù hợp với điều kiện thực tế và quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động)
 
 ### Điều 20.2.LQ.22. Phụ lục hợp đồng lao động
 
@@ -1186,9 +931,7 @@ Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, 
 2. Nội dung chủ yếu của hợp đồng thử việc gồm thời gian thử việc và nội dung quy định tại các điểm a, b, c, đ, g và h khoản 1 Điều 21 của Bộ luật này.
 
 3. Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới 01 tháng.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động)
 
 ### Điều 20.2.LQ.25. Thời gian thử việc
 
@@ -1238,15 +981,7 @@ Người sử dụng lao động quy định cụ thể trong nội quy lao đ�
 3. Người lao động chuyển sang làm công việc khác so với hợp đồng lao động được trả lương theo công việc mới. Nếu tiền lương của công việc mới thấp hơn tiền lương của công việc cũ thì được giữ nguyên tiền lương của công việc cũ trong thời hạn 30 ngày làm việc. Tiền lương theo công việc mới ít nhất phải bằng 85% tiền lương của công việc cũ nhưng không thấp hơn mức lương tối thiểu.
 
 4. Người lao động không đồng ý tạm thời làm công việc khác so với hợp đồng lao động quá 60 ngày làm việc cộng dồn trong 01 năm mà phải ngừng việc thì người sử dụng lao động phải trả lương ngừng việc theo quy định tại Điều 99 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.99. Tiền lương ngừng việc
-;
-Điều 20.2.NĐ.3.69. Nội quy lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.99. Tiền lương ngừng việc; Điều 20.2.NĐ.3.69. Nội quy lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.30. Tạm hoãn thực hiện hợp đồng lao động
 
@@ -1270,19 +1005,13 @@ g) Người lao động được ủy quyền để thực hiện quyền, trác
 h) Trường hợp khác do hai bên thỏa thuận.
 
 2. Trong thời gian tạm hoãn thực hiện hợp đồng lao động, người lao động không được hưởng lương và quyền, lợi ích đã giao kết trong hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai)
 
 ### Điều 20.2.LQ.31. Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động
 
 (Điều 31 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thực hiện hợp đồng lao động, người lao động phải có mặt tại nơi làm việc và người sử dụng lao động phải nhận người lao động trở lại làm công việc theo hợp đồng lao động đã giao kết nếu hợp đồng lao động còn thời hạn, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.32. Làm việc không trọn thời gian
 
@@ -1292,11 +1021,7 @@ Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thự
 2. Người lao động thỏa thuận với người sử dụng lao động làm việc không trọn thời gian khi giao kết hợp đồng lao động.
 
 3. Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong thực hiện quyền và nghĩa vụ với người lao động làm việc trọn thời gian; bình đẳng về cơ hội, không bị phân biệt đối xử, bảo đảm an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm
-;
-Điều 28.7.TT.3.5. Đối tượng và thời gian làm việc để tính mua cổ phần với giá ưu đãi
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm; Điều 28.7.TT.3.5. Đối tượng và thời gian làm việc để tính mua cổ phần với giá ưu đãi)
 
 ### Điều 20.2.LQ.33. Sửa đổi, bổ sung hợp đồng lao động
 
@@ -1309,11 +1034,7 @@ Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thự
 
 ## Mục 3: Chấm dứt hợp đồng lao động
 
-(Mục này có nội dung liên quan đến
-
-### Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường của Nghị định 135/2020/NĐ-CP Quy định về tuổi nghỉ hưu ban hành ngày 18/11/2020
-
-)
+(Mục này có nội dung liên quan đến: Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường của Nghị định 135/2020/NĐ-CP Quy định về tuổi nghỉ hưu ban hành ngày 18/11/2020)
 
 ### Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
 
@@ -1343,29 +1064,7 @@ Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thự
 12. Giấy phép lao động hết hiệu lực đối với người lao động là người nước ngoài làm việc tại Việt Nam theo quy định tại Điều 156 của Bộ luật này.
 
 13. Trường hợp thỏa thuận nội dung thử việc ghi trong hợp đồng lao động mà thử việc không đạt yêu cầu hoặc một bên hủy bỏ thỏa thuận thử việc.
-(Điều này có nội dung liên quan đến
-Điều 37.7.LQ.328. Trả tự do cho bị cáo
-;
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
-;
-Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã
-;
-Điều 20.2.LQ.45. Thông báo chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.LQ.156. Các trường hợp giấy phép lao động hết hiệu lực
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 37.7.LQ.328. Trả tự do cho bị cáo; Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã; Điều 20.2.LQ.45. Thông báo chấm dứt hợp đồng lao động; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.LQ.156. Các trường hợp giấy phép lao động hết hiệu lực; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
 
@@ -1395,27 +1094,7 @@ d) Bị quấy rối tình dục tại nơi làm việc;
 e) Đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp các bên có thỏa thuận khác;
 
 g) Người sử dụng lao động cung cấp thông tin không trung thực theo quy định tại khoản 1 Điều 16 của Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động
-;
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.LQ.97. Kỳ hạn trả lương
-;
-Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động đối với một số ngành, nghề, công việc đặc thù
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động; Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động; Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.LQ.97. Kỳ hạn trả lương; Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai; Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động đối với một số ngành, nghề, công việc đặc thù; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.NĐ.3.7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động đối với một số ngành, nghề, công việc đặc thù
 
@@ -1437,11 +1116,7 @@ d) Trường hợp khác do pháp luật quy định.
 a) Ít nhất 120 ngày đối với hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động xác định thời hạn từ 12 tháng trở lên;
 
 b) Ít nhất bằng một phần tư thời hạn của hợp đồng lao động đối với hợp đồng lao động có thời hạn dưới 12 tháng.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động)
 
 ### Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
 
@@ -1475,33 +1150,7 @@ c) Ít nhất 03 ngày làm việc đối với hợp đồng lao động xác �
 d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ.
 
 3. Khi đơn phương chấm dứt hợp đồng lao động quy định tại điểm d và điểm e khoản 1 Điều này thì người sử dụng lao động không phải báo trước cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.31. Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động
-;
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.37. Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động đối với một số ngành, nghề, công việc đặc thù
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động; Điều 20.2.LQ.31. Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động; Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.37. Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động; Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động đối với một số ngành, nghề, công việc đặc thù; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.37. Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động
 
@@ -1511,11 +1160,7 @@ d) Đối với một số ngành, nghề, công việc đặc thù thì thời 
 2. Người lao động đang nghỉ hằng năm, nghỉ việc riêng và trường hợp nghỉ khác được người sử dụng lao động đồng ý.
 
 3. Người lao động nữ mang thai; người lao động đang nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật)
 
 ### Điều 20.2.LQ.38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động
 
@@ -1525,15 +1170,8 @@ Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợ
 ### Điều 20.2.LQ.39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật
 
 (Điều 39 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
-Đơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt hợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của Bộ luật này
-.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.37. Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động
-)
+Đơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt hợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của Bộ luật này.
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.37. Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động)
 
 ### Điều 20.2.LQ.40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
 
@@ -1543,11 +1181,7 @@ Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợ
 2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.
 
 3. Phải hoàn trả cho người sử dụng lao động chi phí đào tạo quy định tại Điều 62 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.62. Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao động và chi phí đào tạo nghề
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.62. Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao động và chi phí đào tạo nghề; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
 
@@ -1563,13 +1197,7 @@ Trường hợp vi phạm quy định về thời hạn báo trước quy địn
 2. Trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải trả quy định tại khoản 1 Điều này người sử dụng lao động phải trả trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này để chấm dứt hợp đồng lao động.
 
 3. Trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo quy định tại khoản 1 Điều này và trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này, hai bên thỏa thuận khoản tiền bồi thường thêm cho người lao động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
 
@@ -1595,17 +1223,7 @@ b) Thực hiện chính sách, pháp luật của Nhà nước khi cơ cấu l�
 5. Trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.
 
 6. Việc cho thôi việc đối với người lao động theo quy định tại Điều này chỉ được tiến hành sau khi đã trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở mà người lao động là thành viên và thông báo trước 30 ngày cho Ủy ban nhân dân cấp tỉnh và cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc)
 
 ### Điều 20.2.TT.8.3. Cơ quan ủy quyền, cơ quan được ủy quyền
 
@@ -1688,13 +1306,7 @@ Tham mưu, giúp Ủy ban nhân dân cấp tỉnh trong việc tổng hợp, bá
 2. Người sử dụng lao động hiện tại và người sử dụng lao động kế tiếp có trách nhiệm thực hiện phương án sử dụng lao động đã được thông qua.
 
 3. Người lao động bị thôi việc thì được nhận trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.LQ.47. Trợ cấp mất việc làm)
 
 ### Điều 20.2.LQ.44. Phương án sử dụng lao động
 
@@ -1712,19 +1324,7 @@ d) Quyền và nghĩa vụ của người sử dụng lao động, người lao 
 đ) Biện pháp và nguồn tài chính bảo đảm thực hiện phương án.
 
 2. Khi xây dựng phương án sử dụng lao động, người sử dụng lao động phải trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở. Phương án sử dụng lao động phải được thông báo công khai cho người lao động biết trong thời hạn 15 ngày kể từ ngày được thông qua.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
-;
-Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã
-;
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-;
-Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã; Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc; Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại)
 
 ### Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
 
@@ -1761,23 +1361,7 @@ b) Hỗ trợ một khoản tiền bằng 0,05 mức lương tối thiểu thán
 a) Trợ cấp thôi việc quy định tại Điều 46 Bộ luật Lao động và khoản 1 Điều 8 Nghị định số 145/2020/NĐ-CP;
 
 b) Hỗ trợ một khoản tiền bằng 0,2 tháng tiền lương cho mỗi năm làm việc tại doanh nghiệp thực hiện sắp xếp lại.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường
-;
-Điều 20.2.NĐ.6.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp
-;
-Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư
-;
-Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường; Điều 20.2.NĐ.6.2. Đối tượng áp dụng; Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp; Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ; Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ; Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư; Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại)
 
 ### Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
 
@@ -1788,25 +1372,7 @@ Người lao động dôi dư quy định tại điểm c và d khoản 1 Điề
 1. Trợ cấp mất việc làm quy định tại Điều 47 Bộ luật Lao động và khoản 2 Điều 8 Nghị định số 145/2020/NĐ-CP đối với người lao động trong doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1, 2, 3 và 4 Điều 1 Nghị định này.
 
 2. Trợ cấp thôi việc quy định tại Điều 46 Bộ luật Lao động và khoản 1 Điều 8 Nghị định số 145/2020/NĐ-CP đối với người lao động trong doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.6.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp
-;
-Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.6.2. Đối tượng áp dụng; Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp; Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ; Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ; Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư)
 
 ### Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp
 
@@ -1815,15 +1381,7 @@ Người lao động dôi dư quy định tại điểm c và d khoản 1 Điề
 1. Người đại diện phần vốn của doanh nghiệp quy định tại điểm đ khoản 1 Điều 2 Nghị định này được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002 được hưởng chính sách quy định tại Điều 3 Nghị định này.
 
 2. Người đại diện phần vốn của doanh nghiệp quy định tại điểm đ khoản 1 Điều 2 Nghị định này được tuyển dụng lần cuối cùng vào doanh nghiệp thực hiện sắp xếp lại từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau được hưởng chính sách quy định tại Điều 4 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.6.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.2. Đối tượng áp dụng; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư)
 
 ### Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
 
@@ -1836,17 +1394,7 @@ Người lao động dôi dư quy định tại điểm c và d khoản 1 Điề
 3. Thời gian làm việc để tính khoản tiền hỗ trợ quy định tại điểm b khoản 4 và điểm b khoản 5 Điều 3 Nghị định này là tổng thời gian người lao động đã làm việc thực tế tại doanh nghiệp thực hiện sắp xếp lại. Thời gian làm việc thực tế tại doanh nghiệp thực hiện sắp xếp lại thực hiện theo quy định tại điểm a khoản 3 và khoản 4 Điều 8 Nghị định số 145/2020/NĐ-CP.
 
 4. Thời gian làm việc để tính khoản tiền hỗ trợ quy định tại điểm c khoản 1, điểm b khoản 2, điểm b khoản 4 và điểm b khoản 5 Điều 3 Nghị định này được tính theo năm (đủ 12 tháng), trường hợp có tháng lẻ thì từ đủ 01 tháng đến đủ 06 tháng được tính bằng 1/2 năm, trên 06 tháng được tính bằng 01 năm làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau)
 
 ### Điều 20.2.NĐ.6.7. Tiền lương làm căn cứ tính chế độ
 
@@ -1857,13 +1405,7 @@ Người lao động dôi dư quy định tại điểm c và d khoản 1 Điề
 2. Mức lương tối thiểu tháng tính bình quân quy định tại điểm c khoản 1, điểm b khoản 2 và điểm b khoản 4 Điều 3 Nghị định này được xác định bằng bình quân của tất cả các mức lương tối thiểu tháng theo vùng do Chính phủ quy định tại thời điểm người lao động nghỉ việc.
 
 3. Tiền lương làm căn cứ tính trợ cấp mất việc làm, trợ cấp thôi việc quy định tại điểm a khoản 4, điểm a khoản 5 Điều 3, Điều 4 và tiền lương làm căn cứ tính khoản tiền hỗ trợ quy định tại điểm b khoản 5 Điều 3 Nghị định này gồm mức lương, phụ cấp lương và các khoản bổ sung khác để tính trợ cấp mất việc làm, trợ cấp thôi việc ghi trong hợp đồng lao động theo quy định tại Điều 21 Bộ luật Lao động và các văn bản hướng dẫn thi hành.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau)
 
 ### Điều 20.2.NĐ.6.8. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư
 
@@ -1871,34 +1413,18 @@ Người lao động dôi dư quy định tại điểm c và d khoản 1 Điề
 
 1. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư quy định tại Điều 3 và người đại diện phần vốn của doanh nghiệp quy định tại khoản 1 Điều 5 Nghị định này được quy định như sau:
 
-a) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ tiền bán cổ phần lần đầu, bán doanh nghiệp; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số
-148/2021/NĐ-CP
-ngày 31 tháng 12 năm 2021 của Chính phủ về quản lý, sử dụng nguồn thu từ chuyển đổi sở hữu doanh nghiệp, đơn vị sự nghiệp công lập, nguồn thu từ chuyển nhượng vốn nhà nước và chênh lệch vốn chủ sở hữu lớn hơn vốn điều lệ tại doanh nghiệp (sau đây gọi là Nghị định số 148/2021/NĐ-CP);
+a) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ tiền bán cổ phần lần đầu, bán doanh nghiệp; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số 148/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính phủ về quản lý, sử dụng nguồn thu từ chuyển đổi sở hữu doanh nghiệp, đơn vị sự nghiệp công lập, nguồn thu từ chuyển nhượng vốn nhà nước và chênh lệch vốn chủ sở hữu lớn hơn vốn điều lệ tại doanh nghiệp (sau đây gọi là Nghị định số 148/2021/NĐ-CP);
 
-b) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 2, 3 và 4 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ ngân sách nhà nước theo quy định tại Nghị định số
-148/2021/NĐ-CP
-;
+b) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 2, 3 và 4 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ ngân sách nhà nước theo quy định tại Nghị định số 148/2021/NĐ-CP;
 
-c) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ các khoản thu giải thể, phá sản theo quy định của pháp luật; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số
-148/2021/NĐ-CP
-.
+c) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ các khoản thu giải thể, phá sản theo quy định của pháp luật; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số 148/2021/NĐ-CP.
 
 2. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư quy định tại Điều 4 và người đại diện phần vốn của doanh nghiệp quy định tại khoản 2 Điều 5 Nghị định này được quy định như sau:
 
 a) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 1, 2, 3 và 4 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách được hạch toán vào chi phí sản xuất, kinh doanh của doanh nghiệp thực hiện sắp xếp lại;
 
-b) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ các khoản thu giải thể, phá sản theo quy định của pháp luật; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số
-148/2021/NĐ-CP
-.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp
-)
+b) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định tại khoản 5 Điều 1 Nghị định này, nguồn kinh phí thực hiện chính sách từ các khoản thu giải thể, phá sản theo quy định của pháp luật; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số 148/2021/NĐ-CP.
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.5. Chính sách đối với người đại diện phần vốn của doanh nghiệp)
 
 ### Điều 20.2.NĐ.6.9. Trách nhiệm của doanh nghiệp thực hiện sắp xếp lại
 
@@ -1915,13 +1441,7 @@ b) Đối với doanh nghiệp thực hiện sắp xếp lại theo quy định 
 
 6. Báo cáo cơ quan đại diện chủ sở hữu tình hình giải quyết chế độ đối với người lao động dôi dư theo quy định tại Mẫu số 12 Phụ lục II ban hành kèm theo Nghị định này trong thời hạn 30 ngày kể từ ngày hoàn thành việc giải quyết chế độ đối với người lao động dôi dư.
 Phu luc 1 kem theo NĐ 97.2022.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.NĐ.6.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.NĐ.6.2. Đối tượng áp dụng; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002)
 
 ### Điều 20.2.NĐ.6.10. Trách nhiệm của doanh nghiệp sau khi sắp xếp lại
 
@@ -1930,11 +1450,7 @@ Phu luc 1 kem theo NĐ 97.2022.doc
 1. Thực hiện phương án sử dụng lao động đã được phê duyệt; bố trí sử dụng lao động phù hợp với tình hình sản xuất, kinh doanh.
 
 2. Trả trợ cấp thôi việc, trợ cấp mất việc làm đối với người lao động từ doanh nghiệp thực hiện sắp xếp lại chuyển sang theo phương án sử dụng lao động đã được cấp có thẩm quyền phê duyệt khi người lao động đó thôi việc, mất việc làm tại doanh nghiệp sau khi sắp xếp lại theo quy định tại Điều 46, Điều 47 Bộ luật Lao động và các văn bản hướng dẫn thi hành.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm)
 
 ### Điều 20.2.LQ.45. Thông báo chấm dứt hợp đồng lao động
 
@@ -1944,9 +1460,7 @@ Phu luc 1 kem theo NĐ 97.2022.doc
 2. Trường hợp người sử dụng lao động không phải là cá nhân chấm dứt hoạt động thì thời điểm chấm dứt hợp đồng lao động tính từ thời điểm có thông báo chấm dứt hoạt động.
 
 Trường hợp người sử dụng lao động không phải là cá nhân bị cơ quan chuyên môn về đăng ký kinh doanh thuộc Ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật theo quy định tại khoản 7 Điều 34 của Bộ luật này thì thời điểm chấm dứt hợp đồng lao động tính từ ngày ra thông báo.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động)
 
 ### Điều 20.2.LQ.46. Trợ cấp thôi việc
 
@@ -1958,25 +1472,7 @@ Trường hợp người sử dụng lao động không phải là cá nhân b�
 3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.
 
 4. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.10. Trách nhiệm của doanh nghiệp sau khi sắp xếp lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ; Điều 20.2.NĐ.6.10. Trách nhiệm của doanh nghiệp sau khi sắp xếp lại)
 
 ### Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
 
@@ -2022,47 +1518,7 @@ a) Tiền lương để tính trợ cấp thôi việc, trợ cấp mất việc
 b) Trường hợp người lao động làm việc cho người sử dụng lao động theo nhiều hợp đồng lao động kế tiếp nhau theo quy định tại khoản 2 Điều 20 của Bộ luật Lao động thì tiền lương để tính trợ cấp thôi việc, trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi chấm dứt hợp đồng lao động cuối cùng. Trường hợp hợp đồng lao động cuối cùng bị tuyên bố vô hiệu vì có nội dung tiền lương thấp hơn mức lương tối thiểu vùng do Chính phủ công bố hoặc mức lương ghi trong thỏa ước lao động tập thể thì tiền lương làm căn cứ tính trợ cấp thôi việc do hai bên thỏa thuận nhưng không thấp hơn mức lương tối thiểu vùng hoặc mức lương ghi trong thỏa ước lao động tập thể.
 
 6. Kinh phí chi trả trợ cấp thôi việc, trợ cấp mất việc làm đối với người lao động được hạch toán vào chi phí sản xuất, kinh doanh hoặc kinh phí hoạt động của người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.20. Loại hợp đồng lao động
-;
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.47. Trợ cấp mất việc làm
-;
-Điều 20.2.LQ.111. Nghỉ hằng tuần
-;
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
-;
-Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
-;
-Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải
-;
-Điều 20.2.LQ.128. Tạm đình chỉ công việc
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
-;
-Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần
-;
-Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động
-;
-Điều 20.2.NĐ.3.11. Xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.20. Loại hợp đồng lao động; Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.47. Trợ cấp mất việc làm; Điều 20.2.LQ.111. Nghỉ hằng tuần; Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc; Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương; Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải; Điều 20.2.LQ.128. Tạm đình chỉ công việc; Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở; Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần; Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động; Điều 20.2.NĐ.3.11. Xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ)
 
 ### Điều 20.2.LQ.47. Trợ cấp mất việc làm
 
@@ -2074,23 +1530,7 @@ b) Trường hợp người lao động làm việc cho người sử dụng lao
 3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.
 
 4. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
-;
-Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau
-;
-Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ
-;
-Điều 20.2.NĐ.6.10. Trách nhiệm của doanh nghiệp sau khi sắp xếp lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; Điều 20.2.LQ.43. Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.6.4. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng từ ngày 21 tháng 4 năm 1998 hoặc từ ngày 26 tháng 4 năm 2002 trở về sau; Điều 20.2.NĐ.6.6. Thời gian làm việc để làm căn cứ tính chế độ; Điều 20.2.NĐ.6.10. Trách nhiệm của doanh nghiệp sau khi sắp xếp lại)
 
 ### Điều 20.2.LQ.48. Trách nhiệm khi chấm dứt hợp đồng lao động
 
@@ -2127,9 +1567,7 @@ b) Người giao kết hợp đồng lao động không đúng thẩm quyền ho
 c) Công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm.
 
 2. Hợp đồng lao động vô hiệu từng phần khi nội dung của phần đó vi phạm pháp luật nhưng không ảnh hưởng đến các phần còn lại của hợp đồng.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.15. Nguyên tắc giao kết hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.15. Nguyên tắc giao kết hợp đồng lao động)
 
 ### Điều 20.2.LQ.50. Thẩm quyền tuyên bố hợp đồng lao động vô hiệu
 
@@ -2148,11 +1586,7 @@ b) Hai bên tiến hành sửa đổi, bổ sung phần của hợp đồng lao 
 2. Khi hợp đồng lao động bị tuyên bố vô hiệu toàn bộ thì quyền, nghĩa vụ và lợi ích của người lao động được giải quyết theo quy định của pháp luật; trường hợp do ký sai thẩm quyền thì hai bên ký lại.
 
 3. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần)
 
 ### Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần
 
@@ -2176,13 +1610,7 @@ c) Giải quyết chế độ trợ cấp thôi việc theo quy định tại Đ
 d) Thời gian làm việc của người lao động theo hợp đồng lao động bị tuyên bố vô hiệu được tính là thời gian người lao động làm việc cho người sử dụng lao động để làm căn cứ thực hiện chế độ theo quy định của pháp luật về lao động.
 
 4. Các vấn đề khác liên quan đến việc xử lý hợp đồng lao động vô hiệu từng phần thuộc thẩm quyền giải quyết của Tòa án theo quy định của Bộ luật Tố tụng dân sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.51. Xử lý hợp đồng lao động vô hiệu
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.51. Xử lý hợp đồng lao động vô hiệu; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động)
 
 ### Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động
 
@@ -2206,13 +1634,7 @@ b) Quyền, nghĩa vụ, lợi ích của người lao động kể từ khi b�
 c) Giải quyết chế độ trợ cấp thôi việc theo quy định tại Điều 8 Nghị định này.
 
 4. Các vấn đề khác liên quan đến việc xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động thuộc thẩm quyền giải quyết của Tòa án theo quy định của Bộ luật Tố tụng dân sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần
-;
-Điều 20.2.NĐ.3.11. Xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.9. Xử lý hợp đồng lao động vô hiệu từng phần; Điều 20.2.NĐ.3.11. Xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm)
 
 ### Điều 20.2.NĐ.3.11. Xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm
 
@@ -2232,11 +1654,7 @@ c) Người sử dụng lao động trả cho người lao động một khoản
 d) Giải quyết chế độ trợ cấp thôi việc đối với các hợp đồng lao động trước hợp đồng lao động bị tuyên bố vô hiệu theo quy định tại Điều 8 Nghị định này, nếu có.
 
 4. Các vấn đề khác liên quan đến việc xử lý hợp đồng lao động vô hiệu toàn bộ do toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật hoặc công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm thuộc thẩm quyền giải quyết của Tòa án theo quy định của Bộ luật Tố tụng dân sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.10. Xử lý hợp đồng lao động vô hiệu toàn bộ do người giao kết không đúng thẩm quyền hoặc vi phạm nguyên tắc giao kết hợp đồng lao động)
 
 ## Mục 5: Cho thuê lại lao động
 
@@ -2276,9 +1694,7 @@ c) Thay thế người lao động bị cho thôi việc do thay đổi cơ cấ
 1. Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp Giấy phép hoạt động cho thuê lại lao động.
 
 2. Chính phủ quy định việc ký quỹ, điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi Giấy phép hoạt động cho thuê lại lao động và danh mục công việc được thực hiện cho thuê lại lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.12. Doanh nghiệp cho thuê lại lao động
 
@@ -2289,17 +1705,13 @@ Doanh nghiệp cho thuê lại lao động là doanh nghiệp được thành l�
 
 (Điều 13 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Bên thuê lại lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình và cá nhân có năng lực hành vi dân sự đầy đủ, có sử dụng người lao động thuê lại để làm những công việc theo danh mục công việc được phép thuê lại lao động trong một thời gian nhất định.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.57. Quyền và nghĩa vụ của bên thuê lại lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.57. Quyền và nghĩa vụ của bên thuê lại lao động)
 
 ### Điều 20.2.NĐ.3.14. Người lao động thuê lại
 
 (Điều 14 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Người lao động thuê lại là người lao động có năng lực hành vi dân sự đầy đủ, được doanh nghiệp cho thuê lại tuyển dụng và giao kết hợp đồng lao động, sau đó chuyển sang làm việc và chịu sự điều hành của bên thuê lại lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.58. Quyền và nghĩa vụ của người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.58. Quyền và nghĩa vụ của người lao động thuê lại)
 
 ### Điều 20.2.NĐ.3.15. Ký quỹ và sử dụng tiền ký quỹ
 
@@ -2307,11 +1719,7 @@ Người lao động thuê lại là người lao động có năng lực hành 
 1. Doanh nghiệp thực hiện ký quỹ theo mức quy định tại khoản 2 Điều 21 Nghị định này tại ngân hàng thương mại của Việt Nam hoặc chi nhánh ngân hàng nước ngoài thành lập và hoạt động hợp pháp tại Việt Nam (sau đây gọi là ngân hàng nhận ký quỹ).
 
 2. Tiền ký quỹ được sử dụng vào mục đích thanh toán tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại hoặc bồi thường cho người lao động thuê lại trong trường hợp doanh nghiệp cho thuê lại vi phạm hợp đồng lao động với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại do không bảo đảm về quyền và lợi ích hợp pháp của người lao động thuê lại.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại
-;
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại; Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép)
 
 ### Điều 20.2.NĐ.3.16. Nộp tiền ký quỹ
 
@@ -2328,13 +1736,7 @@ Người lao động thuê lại là người lao động có năng lực hành 
 2. Ngân hàng nhận ký quỹ thực hiện cho doanh nghiệp cho thuê lại rút tiền ký quỹ, trích tiền ký quỹ và yêu cầu doanh nghiệp cho thuê lại nộp bổ sung tiền ký quỹ theo đúng quy định tại Điều 18, Điều 19 và Điều 20 Nghị định này.
 
 3. Ngân hàng nhận ký quỹ không được cho doanh nghiệp cho thuê lại rút tiền ký quỹ khi chưa có ý kiến đồng ý bằng văn bản của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Chủ tịch Ủy ban nhân dân cấp tỉnh).
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.18. Rút tiền ký quỹ
-;
-Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại
-;
-Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.18. Rút tiền ký quỹ; Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại; Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ)
 
 ### Điều 20.2.NĐ.3.18. Rút tiền ký quỹ
 
@@ -2382,11 +1784,7 @@ d) Sau khi có văn bản đồng ý về việc rút tiền ký quỹ của Ch�
 đ) Ngân hàng nhận ký quỹ tiếp nhận và kiểm tra hồ sơ rút tiền ký quỹ của doanh nghiệp cho thuê lại, nếu đúng quy định thì ngân hàng nhận ký quỹ cho doanh nghiệp cho thuê lại thực hiện rút tiền ký quỹ trong thời hạn 01 ngày làm việc, kể từ ngày tiếp nhận hồ sơ rút tiền ký quỹ.
 
 Trường hợp rút tiền ký quỹ theo quy định tại các điểm a và điểm b khoản 1 Điều này thì việc thanh toán, bồi thường cho người lao động thuê lại do ngân hàng nhận ký quỹ trực tiếp chi trả theo phương án đã được Chủ tịch Ủy ban nhân dân cấp tỉnh đồng ý sau khi trừ chi phí dịch vụ ngân hàng.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ
-;
-Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ; Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ)
 
 ### Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại
 
@@ -2400,13 +1798,7 @@ b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề
 c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận được quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh, ngân hàng nhận ký quỹ thực hiện trích tiền ký quỹ của doanh nghiệp cho thuê lại và trực tiếp chi trả cho người lao động thuê lại theo danh sách kèm theo quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh, sau khi trừ chi phí dịch vụ ngân hàng. Tiền ký quỹ của doanh nghiệp cho thuê được thanh toán theo thứ tự ưu tiên: tiền lương; bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại.
 
 2. Sở Lao động - Thương binh và Xã hội có trách nhiệm giám sát việc thực hiện thanh toán, bồi thường cho người lao động thuê lại theo quy định tại khoản 1 Điều này và báo cáo kết quả thực hiện về Ủy ban nhân dân cấp tỉnh.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.15. Ký quỹ và sử dụng tiền ký quỹ
-;
-Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ
-;
-Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.15. Ký quỹ và sử dụng tiền ký quỹ; Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ; Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ)
 
 ### Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ
 
@@ -2414,15 +1806,7 @@ c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận được quy�
 1. Trong thời hạn 30 ngày kể từ ngày rút tiền ký quỹ để thanh toán đối với trường hợp quy định tại các điểm a và điểm b khoản 1 Điều 18 và Điều 19 Nghị định này, doanh nghiệp cho thuê lại phải nộp bổ sung tiền ký quỹ bảo đảm quy định tại khoản 2 Điều 21 Nghị định này.
 
 2. Trong thời hạn không quá 30 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều này mà doanh nghiệp cho thuê lại không bổ sung đầy đủ tiền ký quỹ thì ngân hàng nhận ký quỹ có trách nhiệm thông báo bằng văn bản cho Sở Lao động - Thương binh và Xã hội và Chủ tịch Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp cho thuê lại đặt trụ sở chính. Trong thời hạn 15 ngày, kể từ ngày nhận được thông báo của ngân hàng nhận ký quỹ, Sở Lao động - Thương binh và Xã hội trình Chủ tịch Ủy ban nhân dân cấp tỉnh thu hồi giấy phép của doanh nghiệp theo quy định tại khoản 4 Điều 28 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ
-;
-Điều 20.2.NĐ.3.18. Rút tiền ký quỹ
-;
-Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại
-;
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.17. Quản lý tiền ký quỹ; Điều 20.2.NĐ.3.18. Rút tiền ký quỹ; Điều 20.2.NĐ.3.19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại; Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép)
 
 ### Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
 
@@ -2436,19 +1820,7 @@ b) Không có án tích;
 c) Đã có thời gian trực tiếp làm chuyên môn hoặc quản lý về cho thuê lại lao động hoặc cung ứng lao động từ đủ 03 năm (36 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép.
 
 2. Doanh nghiệp đã thực hiện ký quỹ 2.000.000.000 đồng (hai tỷ đồng).
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.15. Ký quỹ và sử dụng tiền ký quỹ
-;
-Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ
-;
-Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép
-;
-Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép
-;
-Điều 20.2.NĐ.3.26. Gia hạn giấy phép
-;
-Điều 20.2.NĐ.3.28. Thu hồi giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.15. Ký quỹ và sử dụng tiền ký quỹ; Điều 20.2.NĐ.3.20. Nộp bổ sung tiền ký quỹ; Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép; Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép; Điều 20.2.NĐ.3.26. Gia hạn giấy phép; Điều 20.2.NĐ.3.28. Thu hồi giấy phép)
 
 ### Điều 20.2.NĐ.3.22. Thẩm quyền cấp, gia hạn, cấp lại, thu hồi giấy phép
 
@@ -2490,15 +1862,7 @@ b) Bản sao được chứng thực từ bản chính quyết định bổ nhi�
 Các văn bản quy định tại điểm a, điểm b khoản này là văn bản của nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định pháp luật.
 
 5. Giấy chứng nhận tiền ký quỹ hoạt động cho thuê lại lao động theo Mẫu số 01/PLIII Phụ lục III ban hành kèm theo Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-;
-Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép
-;
-Điều 20.2.NĐ.3.26. Gia hạn giấy phép
-;
-Điều 20.2.NĐ.3.27. Cấp lại giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép; Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép; Điều 20.2.NĐ.3.26. Gia hạn giấy phép; Điều 20.2.NĐ.3.27. Cấp lại giấy phép)
 
 ### Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép
 
@@ -2522,13 +1886,7 @@ b) Đã sử dụng giấy phép giả để hoạt động cho thuê lại lao 
 c) Có người đại diện theo pháp luật đã từng là người đại diện theo pháp luật của doanh nghiệp bị thu hồi giấy phép vì những lý do tại các điểm d, đ và điểm e khoản 1 Điều 28 Nghị định này trong 05 năm liền kề trước khi đề nghị cấp giấy phép hoạt động cho thuê lại lao động;
 
 d) Có người đại diện theo pháp luật đã từng là người đại diện theo pháp luật của doanh nghiệp sử dụng giấy phép giả.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-;
-Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép
-;
-Điều 20.2.NĐ.3.26. Gia hạn giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép; Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép; Điều 20.2.NĐ.3.26. Gia hạn giấy phép)
 
 ### Điều 20.2.NĐ.3.26. Gia hạn giấy phép
 
@@ -2560,15 +1918,7 @@ b) Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ 
 c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ trình của Sở Lao động - Thương binh và Xã hội, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, gia hạn giấy phép đối với doanh nghiệp; trường hợp không gia hạn giấy phép thì có văn bản trả lời doanh nghiệp trong đó nêu rõ lý do không gia hạn giấy phép.
 
 4. Đối với doanh nghiệp cho thuê lại không bảo đảm quy định theo khoản 1 Điều này hoặc thuộc trường hợp quy định tại khoản 5 Điều 25 Nghị định này thì Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản cho doanh nghiệp biết và nêu rõ lý do không gia hạn.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-;
-Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép
-;
-Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép
-;
-Điều 20.2.NĐ.3.28. Thu hồi giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép; Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép; Điều 20.2.NĐ.3.25. Trình tự, thủ tục cấp giấy phép; Điều 20.2.NĐ.3.28. Thu hồi giấy phép)
 
 ### Điều 20.2.NĐ.3.27. Cấp lại giấy phép
 
@@ -2622,9 +1972,7 @@ Trường hợp doanh nghiệp cho thuê lại bị Chủ tịch Ủy ban nhân 
 Trường hợp doanh nghiệp cho thuê lại bị Chủ tịch Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính trước đây thu hồi giấy phép theo quy định tại điểm c, d, đ và e khoản 1 Điều 28 Nghị định này, Sở Lao động - Thương binh và Xã hội trình Chủ tịch Ủy ban nhân dân cấp tỉnh không cấp giấy phép đối với doanh nghiệp cho thuê lại;
 
 e) Trong thời hạn 04 ngày làm việc kể từ ngày nhận được hồ sơ trình của Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đặt trụ sở chính mới, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp giấy phép đối với doanh nghiệp; trường hợp không cấp giấy phép thì có văn bản trả lời doanh nghiệp trong đó nêu rõ lý do không cấp giấy phép.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.24. Hồ sơ đề nghị cấp giấy phép)
 
 ### Điều 20.2.NĐ.3.28. Thu hồi giấy phép
 
@@ -2670,11 +2018,7 @@ b) Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ 
 c) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được quyết định thu hồi giấy phép, doanh nghiệp cho thuê lại có trách nhiệm nộp lại giấy phép cho Ủy ban nhân dân cấp tỉnh.
 
 5. Doanh nghiệp cho thuê lại không được cấp giấy phép trong thời hạn 05 năm, kể từ ngày bị thu hồi giấy phép vì vi phạm các nội dung quy định tại các điểm c, d, đ và điểm e khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép
-;
-Điều 20.2.NĐ.3.26. Gia hạn giấy phép
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.21. Điều kiện cấp giấy phép; Điều 20.2.NĐ.3.26. Gia hạn giấy phép)
 
 ### Điều 20.2.NĐ.3.29. Trách nhiệm của doanh nghiệp cho thuê lại trong trường hợp bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép
 
@@ -2688,15 +2032,7 @@ Danh mục công việc được thực hiện cho thuê lại lao động đư�
 
 ### Điều 20.2.NĐ.3.31. Trách nhiệm của doanh nghiệp cho thuê lại
 
-(
-
-### Điều 31
-
-Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 73
-
-Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022)
+(Điều 31 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 73 Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022)
 1. Niêm yết công khai bản chính giấy phép tại trụ sở chính và bản sao được chứng thực từ bản chính giấy phép tại các chi nhánh, văn phòng đại diện (nếu có) của doanh nghiệp cho thuê lại. Trường hợp sang địa bàn cấp tỉnh khác hoạt động thì doanh nghiệp cho thuê lại gửi bản sao chứng thực giấy phép đến Sở Lao động - Thương binh và Xã hội đó để theo dõi, quản lý.
 
 2. Định kỳ 06 tháng và hằng năm, báo cáo tình hình hoạt động cho thuê lại lao động theo Mẫu số 09/PLIII Phụ lục III ban hành kèm theo Nghị định này, gửi Chủ tịch Ủy ban nhân dân cấp tỉnh, Sở Lao động - Thương binh và Xã hội và Ban quản lý khu công nghiệp, khu kinh tế nơi doanh nghiệp đặt trụ sở chính; đồng thời báo cáo Sở Lao động - Thương binh và Xã hội và Ban quản lý khu công nghiệp, khu kinh tế nơi doanh nghiệp đến hoạt động cho thuê lại lao động về tình hình hoạt động cho thuê lại lao động trên địa bàn đó đối với trường hợp doanh nghiệp cho thuê lại sang địa bàn cấp tỉnh khác hoạt động. Báo cáo 06 tháng gửi trước ngày 20 tháng 6 và báo cáo năm gửi trước ngày 20 tháng 12.
@@ -2704,9 +2040,7 @@ Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15
 3. Kịp thời báo cáo những trường hợp xảy ra sự cố liên quan đến hoạt động cho thuê lại lao động cho cơ quan nhà nước có thẩm quyền tại địa phương hoặc theo yêu cầu của cơ quan quản lý nhà nước về lao động.
 
 4. Thực hiện đầy đủ trách nhiệm của doanh nghiệp cho thuê lại theo quy định tại Điều 56 của Bộ luật Lao động và Chương này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.56. Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.56. Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động)
 
 ### Điều 20.2.NĐ.3.32. Trách nhiệm của ngân hàng nhận ký quỹ
 
@@ -2786,11 +2120,7 @@ Ngoài các quyền và nghĩa vụ quy định tại Điều 6 của Bộ luậ
 5. Lập hồ sơ ghi rõ số lao động đã cho thuê lại, bên thuê lại lao động và định kỳ báo cáo cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh;
 
 6. Xử lý kỷ luật lao động đối với người lao động vi phạm kỷ luật lao động khi bên thuê lại lao động trả lại người lao động do vi phạm kỷ luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.6. Quyền và nghĩa vụ của người sử dụng lao động
-;
-Điều 20.2.NĐ.3.31. Trách nhiệm của doanh nghiệp cho thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.6. Quyền và nghĩa vụ của người sử dụng lao động; Điều 20.2.NĐ.3.31. Trách nhiệm của doanh nghiệp cho thuê lại)
 
 ### Điều 20.2.LQ.57. Quyền và nghĩa vụ của bên thuê lại lao động
 
@@ -2806,9 +2136,7 @@ Ngoài các quyền và nghĩa vụ quy định tại Điều 6 của Bộ luậ
 5. Trả lại người lao động thuê lại không đáp ứng yêu cầu như đã thỏa thuận hoặc vi phạm kỷ luật lao động cho doanh nghiệp cho thuê lại lao động.
 
 6. Cung cấp cho doanh nghiệp cho thuê lại lao động chứng cứ về hành vi vi phạm kỷ luật lao động của người lao động thuê lại để xem xét xử lý kỷ luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.13. Bên thuê lại lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.13. Bên thuê lại lao động)
 
 ### Điều 20.2.LQ.58. Quyền và nghĩa vụ của người lao động thuê lại
 
@@ -2824,11 +2152,7 @@ Ngoài các quyền và nghĩa vụ theo quy định tại Điều 5 của Bộ 
 4. Khiếu nại với doanh nghiệp cho thuê lại lao động trong trường hợp bị bên thuê lại lao động vi phạm các thỏa thuận trong hợp đồng cho thuê lại lao động;
 
 5. Thỏa thuận chấm dứt hợp đồng lao động với doanh nghiệp cho thuê lại lao động để giao kết hợp đồng lao động với bên thuê lại lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.5. Quyền và nghĩa vụ của người lao động
-;
-Điều 20.2.NĐ.3.14. Người lao động thuê lại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.5. Quyền và nghĩa vụ của người lao động; Điều 20.2.NĐ.3.14. Người lao động thuê lại)
 
 # Chương IV: Giáo dục nghề nghiệp và phát triển kỹ năng nghề
 
@@ -2864,13 +2188,7 @@ b) Tổ chức thi kỹ năng nghề cho người lao động; tham gia hội đ
 5. Trong thời gian học nghề, tập nghề, nếu người học nghề, người tập nghề trực tiếp hoặc tham gia lao động thì được người sử dụng lao động trả lương theo mức do hai bên thỏa thuận.
 
 6. Hết thời hạn học nghề, tập nghề, hai bên phải ký kết hợp đồng lao động khi đủ các điều kiện theo quy định của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.1.LQ.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
-;
-Điều 20.2.NĐ.3.65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.1.LQ.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương; Điều 20.2.NĐ.3.65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động)
 
 ### Điều 20.2.LQ.62. Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao động và chi phí đào tạo nghề
 
@@ -2894,9 +2212,7 @@ d) Chi phí đào tạo và trách nhiệm hoàn trả chi phí đào tạo;
 e) Trách nhiệm của người lao động.
 
 3. Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho người dạy, tài liệu học tập, trường, lớp, máy, thiết bị, vật liệu thực hành, các chi phí khác hỗ trợ cho người học và tiền lương, tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người học trong thời gian đi học. Trường hợp người lao động được gửi đi đào tạo ở nước ngoài thì chi phí đào tạo còn bao gồm chi phí đi lại, chi phí sinh hoạt trong thời gian đào tạo.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật)
 
 # Chương V: Đối thoại tại nơi làm việc, thương lượng tập thể, thỏa ước lao động tập thể
 
@@ -2918,31 +2234,7 @@ c) Khi có vụ việc quy định tại điểm a khoản 1 Điều 36, các đ
 3. Khuyến khích người sử dụng lao động và người lao động hoặc tổ chức đại diện người lao động tiến hành đối thoại ngoài những trường hợp quy định tại khoản 2 Điều này.
 
 4. Chính phủ quy định việc tổ chức đối thoại và thực hiện quy chế dân chủ ở cơ sở tại nơi làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
-;
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc
-;
-Điều 20.2.LQ.93. Xây dựng thang lương, bảng lương và định mức lao động
-;
-Điều 20.2.LQ.104. Thưởng
-;
-Điều 20.2.LQ.118. Nội quy lao động
-;
-Điều 20.2.LQ.128. Tạm đình chỉ công việc
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.37. Trách nhiệm tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại
-;
-Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc
-;
-Điều 20.2.NĐ.3.82. Giúp đỡ, hỗ trợ của người sử dụng lao động về chi phí gửi trẻ, mẫu giáo cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc; Điều 20.2.LQ.93. Xây dựng thang lương, bảng lương và định mức lao động; Điều 20.2.LQ.104. Thưởng; Điều 20.2.LQ.118. Nội quy lao động; Điều 20.2.LQ.128. Tạm đình chỉ công việc; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.37. Trách nhiệm tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại; Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc; Điều 20.2.NĐ.3.82. Giúp đỡ, hỗ trợ của người sử dụng lao động về chi phí gửi trẻ, mẫu giáo cho người lao động)
 
 ### Điều 20.2.NĐ.3.37. Trách nhiệm tổ chức đối thoại tại nơi làm việc
 
@@ -2986,11 +2278,7 @@ c) Lấy ý kiến người lao động, tổng hợp và chuẩn bị nội dun
 d) Tham gia đối thoại với người sử dụng lao động theo quy định tại khoản 2 Điều 63 của Bộ luật Lao động, Nghị định này và quy chế dân chủ ở cơ sở tại nơi làm việc.
 
 5. Khuyến khích người sử dụng lao động và người lao động, tổ chức đại diện người lao động tiến hành đối thoại ngoài những trường hợp quy định tại khoản 2 Điều 63 của Bộ luật Lao động phù hợp với điều kiện tổ chức sản xuất, kinh doanh, tổ chức lao động tại nơi làm việc và quy định cụ thể trong quy chế dân chủ ở cơ sở tại nơi làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở)
 
 ### Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại
 
@@ -3022,15 +2310,7 @@ b) Căn cứ số lượng người đại diện đối thoại của bên ngư
 3. Việc xác định danh sách thành viên đại diện tham gia đối thoại của bên người sử dụng lao động và bên người lao động quy định tại khoản 1 và khoản 2 Điều này được thực hiện định kỳ ít nhất 02 năm một lần và công bố công khai tại nơi làm việc. Trong khoảng thời gian giữa 02 kỳ, xác định thành viên tham gia đối thoại, nếu có thành viên đại diện không thể tiếp tục tham gia thì người sử dụng lao động hoặc từng tổ chức đại diện người lao động, nhóm đại diện đối thoại của người lao động xem xét, quyết định bổ sung thành viên thay thế của tổ chức, nhóm mình và công bố công khai tại nơi làm việc.
 
 4. Khi tiến hành đối thoại theo quy định tại khoản 2 Điều 63 của Bộ luật Lao động, ngoài các thành viên tham gia đối thoại quy định tại khoản 3 Điều này, hai bên thống nhất mời tất cả người lao động hoặc một số người lao động liên quan cùng tham gia đối thoại, bảo đảm có sự tham gia của đại diện lao động nữ khi đối thoại về các nội dung liên quan đến quyền, lợi ích của lao động nữ theo quy định tại khoản 2 Điều 136 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.LQ.136. Trách nhiệm của người sử dụng lao động
-;
-Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc
-;
-Điều 20.2.NĐ.3.40. Tổ chức đối thoại khi có yêu cầu của một hoặc các bên
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.LQ.136. Trách nhiệm của người sử dụng lao động; Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc; Điều 20.2.NĐ.3.40. Tổ chức đối thoại khi có yêu cầu của một hoặc các bên)
 
 ### Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc
 
@@ -3044,13 +2324,7 @@ b) Căn cứ số lượng người đại diện đối thoại của bên ngư
 4. Đối thoại định kỳ chỉ được tiến hành khi bên người sử dụng lao động có sự tham gia của người đại diện theo pháp luật hoặc người được ủy quyền và bên người lao động có sự tham gia của trên 70% tổng số thành viên đại diện quy định tại khoản 3 Điều 38 Nghị định này. Diễn biến đối thoại phải được ghi thành biên bản và có chữ ký của người đại diện theo pháp luật của người sử dụng lao động hoặc người được ủy quyền và chữ ký của người đại diện từng tổ chức đại diện người lao động (nếu có) và của người đại diện cho nhóm đại diện đối thoại của người lao động (nếu có).
 
 5. Chậm nhất 03 ngày làm việc kể từ khi kết thúc đối thoại, người sử dụng lao động có trách nhiệm công bố công khai tại nơi làm việc những nội dung chính của đối thoại; tổ chức đại diện người lao động (nếu có), nhóm đại diện đối thoại của người lao động (nếu có) phổ biến những nội dung chính của đối thoại đến người lao động là thành viên.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại
-;
-Điều 20.2.NĐ.3.40. Tổ chức đối thoại khi có yêu cầu của một hoặc các bên
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại; Điều 20.2.NĐ.3.40. Tổ chức đối thoại khi có yêu cầu của một hoặc các bên)
 
 ### Điều 20.2.NĐ.3.40. Tổ chức đối thoại khi có yêu cầu của một hoặc các bên
 
@@ -3066,11 +2340,7 @@ b) Đối với bên người lao động, nội dung yêu cầu đối thoại 
 3. Diễn biến đối thoại phải được ghi thành biên bản và có chữ ký của đại diện các bên tham gia đối thoại theo quy định tại khoản 4 Điều 39 Nghị định này.
 
 4. Chậm nhất 03 ngày làm việc kể từ khi kết thúc đối thoại, người sử dụng lao động có trách nhiệm công bố công khai tại nơi làm việc những nội dung chính của đối thoại; tổ chức đại diện người lao động (nếu có), nhóm đại diện đối thoại của người lao động (nếu có) phổ biến những nội dung chính của đối thoại đến người lao động là thành viên.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại
-;
-Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại; Điều 20.2.NĐ.3.39. Tổ chức đối thoại định kỳ tại nơi làm việc)
 
 ### Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
 
@@ -3090,23 +2360,7 @@ d) Số lượng, thành phần tham gia, thời gian, địa điểm tổ chứ
 e) Chậm nhất 03 ngày làm việc kể từ khi kết thúc đối thoại, người sử dụng lao động có trách nhiệm công bố công khai tại nơi làm việc những nội dung chính của đối thoại; tổ chức đại diện người lao động (nếu có), nhóm đại diện đối thoại của người lao động (nếu có) phổ biến những nội dung chính của đối thoại đến người lao động là thành viên.
 
 2. Đối với vụ việc tạm đình chỉ công việc của người lao động theo quy định tại khoản 1 Điều 128 của Bộ luật Lao động thì người sử dụng lao động và tổ chức đại diện người lao động mà người lao động bị tạm đình chỉ công việc là thành viên có thể trao đổi bằng văn bản hoặc thông qua trao đổi trực tiếp giữa đại diện tham gia đối thoại của bên người sử dụng lao động và đại diện đối thoại của tổ chức đại diện người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
-;
-Điều 20.2.LQ.44. Phương án sử dụng lao động
-;
-Điều 20.2.LQ.104. Thưởng
-;
-Điều 20.2.LQ.118. Nội quy lao động
-;
-Điều 20.2.LQ.128. Tạm đình chỉ công việc
-;
-Điều 20.2.NĐ.3.69. Nội quy lao động
-;
-Điều 20.2.NĐ.3.78. Quyền làm việc bình đẳng của người lao động, thực hiện các biện pháp bảo đảm bình đẳng giới
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; Điều 20.2.LQ.44. Phương án sử dụng lao động; Điều 20.2.LQ.104. Thưởng; Điều 20.2.LQ.118. Nội quy lao động; Điều 20.2.LQ.128. Tạm đình chỉ công việc; Điều 20.2.NĐ.3.69. Nội quy lao động; Điều 20.2.NĐ.3.78. Quyền làm việc bình đẳng của người lao động, thực hiện các biện pháp bảo đảm bình đẳng giới)
 
 ### Điều 20.2.NĐ.3.42. Nguyên tắc thực hiện quy chế dân chủ ở cơ sở tại nơi làm việc
 
@@ -3147,9 +2401,7 @@ c) Thông báo bằng văn bản cho tổ chức đại diện người lao đ�
 d) Thông báo trên hệ thống thông tin nội bộ;
 
 đ) Hình thức khác mà pháp luật không cấm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.48. Trách nhiệm ban hành quy chế dân chủ ở cơ sở tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.48. Trách nhiệm ban hành quy chế dân chủ ở cơ sở tại nơi làm việc)
 
 ### Điều 20.2.NĐ.3.44. Nội dung, hình thức người lao động được tham gia ý kiến
 
@@ -3214,11 +2466,7 @@ d) Việc trích nộp kinh phí công đoàn, đóng bảo hiểm xã hội, b�
 2. Nội dung hội nghị người lao động thực hiện theo quy định tại Điều 64 của Bộ luật Lao động và các nội dung khác do hai bên thỏa thuận.
 
 3. Hình thức tổ chức hội nghị, nội dung, thành phần tham gia, thời gian, địa điểm, quy trình, trách nhiệm tổ chức thực hiện và hình thức phổ biến kết quả hội nghị người lao động thực hiện theo quy chế dân chủ ở cơ sở tại nơi làm việc quy định tại Điều 48 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.48. Trách nhiệm ban hành quy chế dân chủ ở cơ sở tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.48. Trách nhiệm ban hành quy chế dân chủ ở cơ sở tại nơi làm việc)
 
 ### Điều 20.2.NĐ.3.48. Trách nhiệm ban hành quy chế dân chủ ở cơ sở tại nơi làm việc
 
@@ -3228,11 +2476,7 @@ d) Việc trích nộp kinh phí công đoàn, đóng bảo hiểm xã hội, b�
 2. Khi xây dựng, sửa đổi, bổ sung quy chế dân chủ ở cơ sở tại nơi làm việc, người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở (nếu có) và nhóm đại diện đối thoại của người lao động (nếu có) để hoàn thiện và ban hành. Đối với những góp ý của tổ chức đại diện người lao động tại cơ sở và nhóm đại diện đối thoại của người lao động mà người sử dụng lao động không tiếp thu thì phải nêu rõ lý do.
 
 3. Quy chế dân chủ ở cơ sở tại nơi làm việc phải được phổ biến công khai tới người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.43. Nội dung, hình thức người sử dụng lao động phải công khai
-;
-Điều 20.2.NĐ.3.47. Hội nghị người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.43. Nội dung, hình thức người sử dụng lao động phải công khai; Điều 20.2.NĐ.3.47. Hội nghị người lao động)
 
 ### Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc
 
@@ -3252,13 +2496,7 @@ d) Yêu cầu của người lao động, tổ chức đại diện người lao
 đ) Yêu cầu của người sử dụng lao động đối với người lao động, tổ chức đại diện người lao động;
 
 e) Nội dung khác mà một hoặc các bên quan tâm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.47. Hội nghị người lao động
-;
-Điều 20.2.NĐ.3.82. Giúp đỡ, hỗ trợ của người sử dụng lao động về chi phí gửi trẻ, mẫu giáo cho người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.47. Hội nghị người lao động; Điều 20.2.NĐ.3.82. Giúp đỡ, hỗ trợ của người sử dụng lao động về chi phí gửi trẻ, mẫu giáo cho người lao động)
 
 ## Mục 2: Thương lượng tập thể
 
@@ -3271,9 +2509,7 @@ Thương lượng tập thể là việc đàm phán, thỏa thuận giữa mộ
 
 (Điều 66 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Thương lượng tập thể được tiến hành theo nguyên tắc tự nguyện, hợp tác, thiện chí, bình đẳng, công khai và minh bạch.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia)
 
 ### Điều 20.2.LQ.67. Nội dung thương lượng tập thể
 
@@ -3295,9 +2531,7 @@ Các bên thương lượng lựa chọn một hoặc một số nội dung sau 
 7. Bảo đảm bình đẳng giới, bảo vệ thai sản, nghỉ hằng năm; phòng, chống bạo lực và quấy rối tình dục tại nơi làm việc;
 
 8. Nội dung khác mà một hoặc các bên quan tâm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia)
 
 ### Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp
 
@@ -3309,13 +2543,7 @@ Các bên thương lượng lựa chọn một hoặc một số nội dung sau 
 3. Trường hợp doanh nghiệp có nhiều tổ chức đại diện người lao động tại cơ sở mà không có tổ chức nào đáp ứng quy định tại khoản 1 Điều này thì các tổ chức có quyền tự nguyện kết hợp với nhau để yêu cầu thương lượng tập thể nhưng tổng số thành viên của các tổ chức này phải đạt tỷ lệ tối thiểu theo quy định tại khoản 1 Điều này.
 
 4. Chính phủ quy định việc giải quyết tranh chấp giữa các bên liên quan đến quyền thương lượng tập thể.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.69. Đại diện thương lượng tập thể tại doanh nghiệp
-;
-Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp
-;
-Điều 20.2.NĐ.3.108. Giải quyết tranh chấp liên quan đến quyền thương lượng tập thể tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.69. Đại diện thương lượng tập thể tại doanh nghiệp; Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp; Điều 20.2.NĐ.3.108. Giải quyết tranh chấp liên quan đến quyền thương lượng tập thể tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.69. Đại diện thương lượng tập thể tại doanh nghiệp
 
@@ -3329,9 +2557,7 @@ Trường hợp bên người lao động có nhiều tổ chức đại diện 
 Trường hợp bên người lao động có nhiều tổ chức đại diện tham gia thương lượng tập thể theo quy định tại khoản 3 Điều 68 của Bộ luật này thì số lượng đại diện của mỗi tổ chức do các tổ chức đó thỏa thuận. Trường hợp không thỏa thuận được thì từng tổ chức xác định số lượng đại diện tham gia tương ứng theo số lượng thành viên của tổ chức mình trên tổng số thành viên của các tổ chức.
 
 3. Mỗi bên thương lượng tập thể có quyền mời tổ chức đại diện cấp trên của mình cử người tham gia là đại diện thương lượng và bên kia không được từ chối. Đại diện thương lượng tập thể của mỗi bên không được vượt quá số lượng quy định tại khoản 1 Điều này, trừ trường hợp được bên kia đồng ý.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp)
 
 ### Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp
 
@@ -3357,13 +2583,7 @@ Tổ chức đại diện người lao động tại cơ sở quyết định v�
 Người sử dụng lao động không được gây khó khăn, cản trở hoặc can thiệp vào quá trình tổ chức đại diện người lao động thảo luận, lấy ý kiến người lao động.
 
 5. Việc thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau. Biên bản thương lượng tập thể phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản. Tổ chức đại diện người lao động tại cơ sở công bố rộng rãi, công khai biên bản thương lượng tập thể đến toàn bộ người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp
-;
-Điều 20.2.LQ.71. Thương lượng tập thể không thành
-;
-Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp; Điều 20.2.LQ.71. Thương lượng tập thể không thành; Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở)
 
 ### Điều 20.2.LQ.71. Thương lượng tập thể không thành
 
@@ -3377,9 +2597,7 @@ b) Đã hết thời hạn quy định tại khoản 2 Điều 70 của Bộ lu�
 c) Chưa hết thời hạn quy định tại khoản 2 Điều 70 của Bộ luật này nhưng các bên cùng xác định và tuyên bố về việc thương lượng tập thể không đạt được thỏa thuận.
 
 2. Khi thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết tranh chấp lao động theo quy định của Bộ luật này. Trong khi đang giải quyết tranh chấp lao động, tổ chức đại diện người lao động không được tổ chức đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp)
 
 ### Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
 
@@ -3391,15 +2609,7 @@ c) Chưa hết thời hạn quy định tại khoản 2 Điều 70 của Bộ lu
 3. Trường hợp thương lượng tập thể ngành thì đại diện thương lượng là tổ chức công đoàn ngành và tổ chức đại diện người sử dụng lao động cấp ngành quyết định.
 
 Trường hợp thương lượng tập thể có nhiều doanh nghiệp tham gia thì đại diện thương lượng do các bên thương lượng quyết định trên cơ sở tự nguyện, thỏa thuận.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.66. Nguyên tắc thương lượng tập thể
-;
-Điều 20.2.LQ.67. Nội dung thương lượng tập thể
-;
-Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
-;
-Điều 20.2.TT.2.9. Hoạt động của Hội đồng thương lượng tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.66. Nguyên tắc thương lượng tập thể; Điều 20.2.LQ.67. Nội dung thương lượng tập thể; Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể; Điều 20.2.TT.2.9. Hoạt động của Hội đồng thương lượng tập thể)
 
 ### Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
 
@@ -3417,15 +2627,7 @@ c) Đại diện Ủy ban nhân dân cấp tỉnh.
 3. Hội đồng thương lượng tập thể tiến hành thương lượng theo yêu cầu của các bên và tự chấm dứt hoạt động khi thỏa ước lao động tập thể có nhiều doanh nghiệp tham gia được ký kết hoặc theo thỏa thuận của các bên.
 
 4. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chức năng, nhiệm vụ, hoạt động của Hội đồng thương lượng tập thể.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
-;
-Điều 20.2.LQ.74. Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong thương lượng tập thể
-;
-Điều 20.2.TT.2.1. Phạm vi điều chỉnh
-;
-Điều 20.2.TT.2.6. Thành lập Hội đồng thương lượng tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia; Điều 20.2.LQ.74. Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong thương lượng tập thể; Điều 20.2.TT.2.1. Phạm vi điều chỉnh; Điều 20.2.TT.2.6. Thành lập Hội đồng thương lượng tập thể)
 
 ### Điều 20.2.TT.2.6. Thành lập Hội đồng thương lượng tập thể
 
@@ -3472,9 +2674,7 @@ Trường hợp Sở Lao động - Thương binh và Xã hội đề nghị khô
 5. Trong quá trình hoạt động, khi cần thay đổi Chủ tịch Hội đồng thương lượng tập thể, đại diện Ủy ban nhân dân cấp tỉnh, chức năng, nhiệm vụ, kế hoạch, thời gian hoạt động của Hội đồng thương lượng tập thể để phù hợp với tình hình thực tế thì Chủ tịch Hội đồng thương lượng tập thể đương nhiệm đề nghị Ủy ban nhân dân cấp tỉnh xem xét, quyết định.
 
 Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đề nghị của Chủ tịch Hội đồng thương lượng tập thể đương nhiệm, Ủy ban nhân dân cấp tỉnh xem xét, sửa đổi, bổ sung quyết định thành lập Hội đồng thương lượng tập thể. Trường hợp không sửa đổi, bổ sung thì phải có văn bản trả lời nêu rõ lý do.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể)
 
 ### Điều 20.2.TT.2.7. Chức năng của Hội đồng thương lượng tập thể
 
@@ -3501,9 +2701,7 @@ Hội đồng thương lượng tập thể có chức năng tổ chức cho đ�
 7. Báo cáo kết quả hoạt động của Hội đồng thương lượng tập thể với Ủy ban nhân dân cấp tỉnh, đồng thời gửi Sở Lao động – Thương binh và Xã hội.
 
 8. Thực hiện các nhiệm vụ khác theo yêu cầu của các bên và nhiệm vụ theo quyết định thành lập Hội đồng thương lượng tập thể.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể)
 
 ### Điều 20.2.TT.2.9. Hoạt động của Hội đồng thương lượng tập thể
 
@@ -3526,9 +2724,7 @@ c) Quyết định thành lập bộ phận giúp việc Hội đồng, Chủ t�
 5. Hội đồng thương lượng tập thể tự giải thể khi hết thời gian hoạt động theo quyết định thành lập Hội đồng thương lượng tập thể. Trường hợp các bên có thỏa thuận khác thì Chủ tịch Hội đồng thương lượng tập thể đề nghị Ủy ban nhân dân cấp tỉnh xem xét, quyết định.
 
 6. Kinh phí hoạt động của Hội đồng thương lượng tập thể do người sử dụng lao động và tổ chức đại diện người lao động tại cơ sở ở các doanh nghiệp tham gia thương lượng thỏa thuận đóng góp và huy động từ các nguồn hợp pháp khác theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.72. Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia)
 
 ### Điều 20.2.LQ.74. Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong thương lượng tập thể
 
@@ -3540,9 +2736,7 @@ c) Quyết định thành lập bộ phận giúp việc Hội đồng, Chủ t�
 3. Chủ động hoặc khi có yêu cầu của cả hai bên thương lượng tập thể, hỗ trợ các bên đạt được thỏa thuận trong quá trình thương lượng tập thể; trường hợp không có yêu cầu, việc chủ động hỗ trợ của Ủy ban nhân dân cấp tỉnh chỉ được tiến hành nếu được các bên đồng ý.
 
 4. Thành lập Hội đồng thương lượng tập thể khi có yêu cầu của các bên thương lượng tập thể có nhiều doanh nghiệp theo quy định tại Điều 73 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.73. Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể)
 
 ## Mục 3: Thỏa ước lao động tập thể
 
@@ -3577,21 +2771,13 @@ Trường hợp thỏa ước lao động tập thể có nhiều doanh nghiệp
 6. Sau khi thỏa ước lao động tập thể được ký kết, người sử dụng lao động phải công bố cho người lao động của mình biết.
 
 7. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.77. Gửi thỏa ước lao động tập thể
-;
-Điều 20.2.LQ.83. Thỏa ước lao động tập thể hết hạn
-;
-Điều 20.2.TT.2.8. Nhiệm vụ của Hội đồng thương lượng tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.77. Gửi thỏa ước lao động tập thể; Điều 20.2.LQ.83. Thỏa ước lao động tập thể hết hạn; Điều 20.2.TT.2.8. Nhiệm vụ của Hội đồng thương lượng tập thể)
 
 ### Điều 20.2.LQ.77. Gửi thỏa ước lao động tập thể
 
 (Điều 77 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Trong thời hạn 10 ngày kể từ ngày thỏa ước lao động tập thể được ký kết, người sử dụng lao động tham gia thỏa ước phải gửi 01 bản thỏa ước lao động tập thể đến cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể)
 
 ### Điều 20.2.LQ.78. Hiệu lực và thời hạn của thỏa ước lao động tập thể
 
@@ -3644,9 +2830,7 @@ Việc sửa đổi, bổ sung thỏa ước lao động tập thể được th
 Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên có thể thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể hoặc ký kết thỏa ước lao động tập thể mới. Trường hợp các bên thỏa thuận kéo dài thời hạn của thỏa ước lao động tập thể thì phải lấy ý kiến theo quy định tại Điều 76 của Bộ luật này.
 
 Khi thỏa ước lao động tập thể hết hạn mà các bên vẫn tiếp tục thương lượng thì thỏa ước lao động tập thể cũ vẫn được tiếp tục thực hiện trong thời hạn không quá 90 ngày kể từ ngày thỏa ước lao động tập thể hết hạn, trừ trường hợp các bên có thỏa thuận khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.76. Lấy ý kiến và ký kết thỏa ước lao động tập thể)
 
 ### Điều 20.2.LQ.84. Mở rộng phạm vi áp dụng của thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
 
@@ -3654,9 +2838,7 @@ Khi thỏa ước lao động tập thể hết hạn mà các bên vẫn tiếp
 1. Khi một thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp có phạm vi áp dụng chiếm trên 75% người lao động hoặc trên 75% doanh nghiệp cùng ngành, nghề, lĩnh vực trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao thì người sử dụng lao động hoặc tổ chức đại diện của người lao động tại đó đề nghị cơ quan nhà nước có thẩm quyền quyết định mở rộng phạm vi áp dụng một phần hoặc toàn bộ thỏa ước đó đối với các doanh nghiệp cùng ngành, nghề, lĩnh vực trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao.
 
 2. Chính phủ quy định chi tiết khoản 1 Điều này; quy định trình tự, thủ tục và thẩm quyền quyết định mở rộng phạm vi áp dụng thỏa ước lao động tập thể quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.85. Gia nhập và rút khỏi thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.85. Gia nhập và rút khỏi thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp)
 
 ### Điều 20.2.LQ.85. Gia nhập và rút khỏi thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
 
@@ -3666,9 +2848,7 @@ Khi thỏa ước lao động tập thể hết hạn mà các bên vẫn tiếp
 2. Doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp được rút khỏi thỏa ước lao động tập thể khi có sự đồng thuận của tất cả người sử dụng lao động và tổ chức đại diện người lao động tại doanh nghiệp là thành viên của thỏa ước, trừ trường hợp có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh.
 
 3. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.84. Mở rộng phạm vi áp dụng của thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.84. Mở rộng phạm vi áp dụng của thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp)
 
 ### Điều 20.2.LQ.86. Thỏa ước lao động tập thể vô hiệu
 
@@ -3708,9 +2888,7 @@ Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung,
 2. Mức lương theo công việc hoặc chức danh không được thấp hơn mức lương tối thiểu.
 
 3. Người sử dụng lao động phải bảo đảm trả lương bình đẳng, không phân biệt giới tính đối với người lao động làm công việc có giá trị như nhau.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.91. Mức lương tối thiểu
 
@@ -3722,9 +2900,7 @@ Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung,
 3. Mức lương tối thiểu được điều chỉnh dựa trên mức sống tối thiểu của người lao động và gia đình họ; tương quan giữa mức lương tối thiểu và mức lương trên thị trường; chỉ số giá tiêu dùng, tốc độ tăng trưởng kinh tế; quan hệ cung, cầu lao động; việc làm và thất nghiệp; năng suất lao động; khả năng chi trả của doanh nghiệp.
 
 4. Chính phủ quy định chi tiết Điều này; quyết định và công bố mức lương tối thiểu trên cơ sở khuyến nghị của Hội đồng tiền lương quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.50. Nhiệm vụ của Hội đồng tiền lương quốc gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.50. Nhiệm vụ của Hội đồng tiền lương quốc gia)
 
 ### Điều 20.2.NĐ.8.3. Mức lương tối thiểu
 
@@ -3774,11 +2950,7 @@ b) Mức lương quy đổi theo giờ bằng mức lương theo tuần, theo ng
 2. Thủ tướng Chính phủ thành lập Hội đồng tiền lương quốc gia bao gồm các thành viên là đại diện của Bộ Lao động - Thương binh và Xã hội, Tổng Liên đoàn Lao động Việt Nam, một số tổ chức đại diện người sử dụng lao động ở trung ương và chuyên gia độc lập.
 
 3. Chính phủ quy định chức năng, nhiệm vụ, cơ cấu tổ chức và hoạt động của Hội đồng tiền lương quốc gia.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.49. Chức năng của Hội đồng tiền lương quốc gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.49. Chức năng của Hội đồng tiền lương quốc gia)
 
 ### Điều 20.2.NĐ.3.49. Chức năng của Hội đồng tiền lương quốc gia
 
@@ -3788,9 +2960,7 @@ Hội đồng tiền lương quốc gia do Thủ tướng Chính phủ quyết �
 1. Mức lương tối thiểu xác lập theo vùng (bao gồm mức lương tối thiểu theo tháng và mức lương tối thiểu theo giờ).
 
 2. Chính sách tiền lương áp dụng đối với người lao động theo quy định của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.92. Hội đồng tiền lương quốc gia
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.92. Hội đồng tiền lương quốc gia)
 
 ### Điều 20.2.NĐ.3.50. Nhiệm vụ của Hội đồng tiền lương quốc gia
 
@@ -3804,9 +2974,7 @@ Hội đồng tiền lương quốc gia do Thủ tướng Chính phủ quyết �
 4. Hằng năm, tổ chức thương lượng để khuyến nghị với Chính phủ phương án điều chỉnh mức lương tối thiểu xác lập theo vùng (bao gồm mức lương tối thiểu theo tháng và mức lương tối thiểu theo giờ).
 
 5. Tư vấn, khuyến nghị với Chính phủ về một số chính sách tiền lương áp dụng chung đối với người lao động trong các loại hình doanh nghiệp, cơ quan, tổ chức, hợp tác xã theo quy định của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.91. Mức lương tối thiểu
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.91. Mức lương tối thiểu)
 
 ### Điều 20.2.NĐ.3.51. Cơ cấu tổ chức của Hội đồng tiền lương quốc gia
 
@@ -3855,11 +3023,7 @@ c) Các thành viên Hội đồng tiền lương quốc gia còn lại, gồm: 
 3. Người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở khi xây dựng thang lương, bảng lương và định mức lao động.
 
 Thang lương, bảng lương và mức lao động phải được công bố công khai tại nơi làm việc trước khi thực hiện.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động)
 
 ### Điều 20.2.LQ.94. Nguyên tắc trả lương
 
@@ -3887,13 +3051,7 @@ Thang lương, bảng lương và mức lao động phải được công bố c
 Trường hợp trả lương qua tài khoản cá nhân của người lao động được mở tại ngân hàng thì người sử dụng lao động phải trả các loại phí liên quan đến việc mở tài khoản và chuyển tiền lương.
 
 3. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.54. Hình thức trả lương
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.54. Hình thức trả lương; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động)
 
 ### Điều 20.2.NĐ.3.54. Hình thức trả lương
 
@@ -3917,11 +3075,7 @@ b) Tiền lương theo sản phẩm được trả cho người lao động hư�
 c) Tiền lương khoán được trả cho người lao động hưởng lương khoán, căn cứ vào khối lượng, chất lượng công việc và thời gian phải hoàn thành.
 
 2. Tiền lương của người lao động theo các hình thức trả lương quy định tại khoản 1 Điều này được trả bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động được mở tại ngân hàng. Người sử dụng lao động phải trả các loại phí liên quan đến việc mở tài khoản và chuyển tiền lương khi chọn trả lương qua tài khoản cá nhân của người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.96. Hình thức trả lương
-;
-Điều 20.2.LQ.105. Thời giờ làm việc bình thường
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.96. Hình thức trả lương; Điều 20.2.LQ.105. Thời giờ làm việc bình thường)
 
 ### Điều 20.2.LQ.97. Kỳ hạn trả lương
 
@@ -3933,13 +3087,7 @@ c) Tiền lương khoán được trả cho người lao động hưởng lươn
 3. Người lao động hưởng lương theo sản phẩm, theo khoán được trả lương theo thỏa thuận của hai bên; nếu công việc phải làm trong nhiều tháng thì hằng tháng được tạm ứng tiền lương theo khối lượng công việc đã làm trong tháng.
 
 4. Trường hợp vì lý do bất khả kháng mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không thể trả lương đúng hạn thì không được chậm quá 30 ngày; nếu trả lương chậm từ 15 ngày trở lên thì người sử dụng lao động phải đền bù cho người lao động một khoản tiền ít nhất bằng số tiền lãi của số tiền trả chậm tính theo lãi suất huy động tiền gửi có kỳ hạn 01 tháng do ngân hàng nơi người sử dụng lao động mở tài khoản trả lương cho người lao động công bố tại thời điểm trả lương.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động)
 
 ### Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm
 
@@ -3957,15 +3105,7 @@ c) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất 
 3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết.
 
 4. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ
-;
-Điều 20.2.NĐ.3.56. Tiền lương làm việc vào ban đêm
-;
-Điều 20.2.NĐ.3.57. Tiền lương làm thêm giờ vào ban đêm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ; Điều 20.2.NĐ.3.56. Tiền lương làm việc vào ban đêm; Điều 20.2.NĐ.3.57. Tiền lương làm thêm giờ vào ban đêm)
 
 ### Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ
 
@@ -3991,15 +3131,7 @@ Trong đó:
 Mức ít nhất bằng 150% so với đơn giá tiền lương sản phẩm của ngày làm việc bình thường, áp dụng đối với sản phẩm làm thêm vào ngày thường; mức ít nhất bằng 200% so với đơn giá tiền lương sản phẩm của ngày làm việc bình thường, áp dụng đối với sản phẩm làm thêm vào ngày nghỉ hằng tuần; mức ít nhất bằng 300% so với đơn giá tiền lương sản phẩm của ngày làm việc bình thường, áp dụng đối với sản phẩm làm thêm vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương.
 
 3. Người lao động làm thêm giờ vào ngày lễ, tết trùng vào ngày nghỉ hằng tuần thì được trả lương làm thêm giờ vào ngày nghỉ lễ, tết. Trường hợp làm thêm giờ vào ngày nghỉ bù khi ngày lễ, tết trùng vào ngày nghỉ hằng tuần thì người lao động được trả lương làm thêm giờ vào ngày nghỉ hằng tuần.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm
-;
-Điều 20.2.LQ.104. Thưởng
-;
-Điều 20.2.LQ.105. Thời giờ làm việc bình thường
-;
-Điều 20.2.NĐ.3.57. Tiền lương làm thêm giờ vào ban đêm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm; Điều 20.2.LQ.104. Thưởng; Điều 20.2.LQ.105. Thời giờ làm việc bình thường; Điều 20.2.NĐ.3.57. Tiền lương làm thêm giờ vào ban đêm)
 
 ### Điều 20.2.NĐ.3.56. Tiền lương làm việc vào ban đêm
 
@@ -4012,9 +3144,7 @@ Trong đó: Tiền lương giờ thực trả của công việc đang làm vào
 
 2. Đối với người lao động hưởng lương theo sản phẩm, tiền lương làm việc vào ban đêm được tính như sau:
 
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm)
 
 ### Điều 20.2.NĐ.3.57. Tiền lương làm thêm giờ vào ban đêm
 
@@ -4045,11 +3175,7 @@ a) Đơn giá tiền lương sản phẩm vào ban ngày của ngày làm việc
 b) Đơn giá tiền lương sản phẩm vào ban ngày của ngày nghỉ hằng tuần, được tính ít nhất bằng 200% so với đơn giá tiền lương sản phẩm của ngày làm việc bình thường;
 
 c) Đơn giá tiền lương sản phẩm vào ban ngày của ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, được tính ít nhất 300% so với đơn giá tiền lương sản phẩm của ngày làm việc bình thường.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm
-;
-Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.98. Tiền lương làm thêm giờ, làm việc vào ban đêm; Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ)
 
 ### Điều 20.2.LQ.99. Tiền lương ngừng việc
 
@@ -4065,11 +3191,7 @@ Trường hợp phải ngừng việc, người lao động được trả lươ
 a) Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu;
 
 b) Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động
-;
-Điều 20.2.LQ.207. Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động; Điều 20.2.LQ.207. Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công)
 
 ### Điều 20.2.LQ.100. Trả lương thông qua người cai thầu
 
@@ -4090,9 +3212,7 @@ Trong trường hợp này, người sử dụng lao động là chủ chính c�
 Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân sự thì không được tạm ứng tiền lương.
 
 3. Khi nghỉ hằng năm, người lao động được tạm ứng một khoản tiền ít nhất bằng tiền lương của những ngày nghỉ.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.113. Nghỉ hằng năm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.113. Nghỉ hằng năm)
 
 ### Điều 20.2.LQ.102. Khấu trừ tiền lương
 
@@ -4102,9 +3222,7 @@ Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân
 2. Người lao động có quyền được biết lý do khấu trừ tiền lương của mình.
 
 3. Mức khấu trừ tiền lương hằng tháng không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.129. Bồi thường thiệt hại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.129. Bồi thường thiệt hại)
 
 ### Điều 20.2.LQ.103. Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp
 
@@ -4117,23 +3235,11 @@ Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp và các chế 
 1. Thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao động thưởng cho người lao động căn cứ vào kết quả sản xuất, kinh doanh, mức độ hoàn thành công việc của người lao động.
 
 2. Quy chế thưởng do người sử dụng lao động quyết định và công bố công khai tại nơi làm việc sau khi tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-;
-Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ
-;
-Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc; Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ; Điều 20.2.TT.2.3. Nội dung chủ yếu của hợp đồng lao động)
 
 # Chương VII: Thời giờ làm việc, thời giờ nghỉ ngơi
 
-(Chương này có nội dung liên quan đến
-
-### Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020
-
-)
+(Chương này có nội dung liên quan đến: Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020)
 
 ## Mục 1: Thời giờ làm việc
 
@@ -4147,25 +3253,7 @@ Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp và các chế 
 Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.
 
 3. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.54. Hình thức trả lương
-;
-Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-;
-Điều 41.11.TT.55.3. Nội dung định mức kinh tế - kỹ thuật
-;
-Điều 41.11.TT.56.3. Nội dung định mức kinh tế - kỹ thuật
-;
-Điều 41.5.TT.5.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
-;
-Điều 41.11.TT.58.3. Nội dung định mức kinh tế - kỹ thuật
-;
-Điều 41.11.TT.59.3. Nội dung định mức kinh tế - kỹ thuật
-;
-Điều 41.5.TT.6.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.54. Hình thức trả lương; Điều 20.2.NĐ.3.55. Tiền lương làm thêm giờ; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm; Điều 41.11.TT.55.3. Nội dung định mức kinh tế - kỹ thuật; Điều 41.11.TT.56.3. Nội dung định mức kinh tế - kỹ thuật; Điều 41.5.TT.5.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật; Điều 41.11.TT.58.3. Nội dung định mức kinh tế - kỹ thuật; Điều 41.11.TT.59.3. Nội dung định mức kinh tế - kỹ thuật; Điều 41.5.TT.6.3. Nội dung, kết cấu định mức kinh tế - kỹ thuật)
 
 ### Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
 
@@ -4189,17 +3277,7 @@ Nhà nước khuyến khích người sử dụng lao động thực hiện tu�
 9. Thời giờ khám sức khỏe, khám phát hiện bệnh nghề nghiệp, giám định y khoa để xác định mức độ suy giảm khả năng lao động do tai nạn lao động, bệnh nghề nghiệp, nếu thời giờ đó được thực hiện theo sự bố trí hoặc do yêu cầu của người sử dụng lao động.
 
 10. Thời giờ đăng ký, khám, kiểm tra sức khỏe nghĩa vụ quân sự, nếu thời giờ đó được hưởng nguyên lương theo quy định của pháp luật về nghĩa vụ quân sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.61. Học nghề, tập nghề để làm việc cho người sử dụng lao động
-;
-Điều 20.2.LQ.137. Bảo vệ thai sản
-;
-Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
-;
-Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm
-;
-Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.61. Học nghề, tập nghề để làm việc cho người sử dụng lao động; Điều 20.2.LQ.137. Bảo vệ thai sản; Điều 20.2.LQ.176. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở; Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm; Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc)
 
 ### Điều 20.2.NĐ.3.63. Ca làm việc và tổ chức làm việc theo ca
 
@@ -4213,11 +3291,7 @@ Nhà nước khuyến khích người sử dụng lao động thực hiện tu�
 a) Người lao động làm việc trong ca từ 06 giờ trở lên;
 
 b) Thời gian chuyển tiếp giữa hai ca làm việc liền kề không quá 45 phút.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
-;
-Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.109. Nghỉ trong giờ làm việc; Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc)
 
 ### Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc
 
@@ -4229,23 +3303,13 @@ b) Thời gian chuyển tiếp giữa hai ca làm việc liền kề không quá
 3. Người sử dụng lao động quyết định thời điểm nghỉ trong giờ làm việc, nhưng không được bố trí thời gian nghỉ này vào thời điểm bắt đầu hoặc kết thúc ca làm việc.
 
 4. Ngoài trường hợp làm việc theo ca liên tục quy định tại khoản 3 Điều 63 Nghị định này, khuyến khích các bên thương lượng thời gian nghỉ giữa giờ tính vào giờ làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.106. Giờ làm việc ban đêm
-;
-Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
-;
-Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
-;
-Điều 20.2.NĐ.3.63. Ca làm việc và tổ chức làm việc theo ca
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.106. Giờ làm việc ban đêm; Điều 20.2.LQ.109. Nghỉ trong giờ làm việc; Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương; Điều 20.2.NĐ.3.63. Ca làm việc và tổ chức làm việc theo ca)
 
 ### Điều 20.2.LQ.106. Giờ làm việc ban đêm
 
 (Điều 106 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc)
 
 ### Điều 20.2.LQ.107. Làm thêm giờ
 
@@ -4275,15 +3339,7 @@ d) Trường hợp phải giải quyết công việc cấp bách, không thể 
 4. Khi tổ chức làm thêm giờ theo quy định tại khoản 3 Điều này, người sử dụng lao động phải thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.
 
 5. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm
-;
-Điều 20.2.NĐ.3.61. Các trường hợp được tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm; Điều 20.2.NĐ.3.61. Các trường hợp được tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm)
 
 ### Điều 20.2.NĐ.3.59. Sự đồng ý của người lao động khi làm thêm giờ
 
@@ -4297,11 +3353,7 @@ b) Địa điểm làm thêm;
 c) Công việc làm thêm.
 
 2. Trường hợp sự đồng ý của người lao động được ký thành văn bản riêng thì tham khảo Mẫu số 01/PLIV Phụ lục IV ban hành kèm theo Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt
-;
-Điều 20.2.TT.3.5. Làm thêm giờ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt; Điều 20.2.TT.3.5. Làm thêm giờ)
 
 ### Điều 20.2.NĐ.3.60. Giới hạn số giờ làm thêm
 
@@ -4315,13 +3367,7 @@ c) Công việc làm thêm.
 4. Tổng số giờ làm thêm không quá 12 giờ trong một ngày, khi làm thêm vào ngày nghỉ lễ, tết và ngày nghỉ hàng tuần.
 
 5. Thời giờ quy định tại các khoản 1 Điều 58 Nghị định này được giảm trừ khi tính tổng số giờ làm thêm trong tháng, trong năm để xác định việc tuân thủ quy định tại điểm b, điểm c khoản 2 Điều 107 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.32. Làm việc không trọn thời gian
-;
-Điều 20.2.LQ.107. Làm thêm giờ
-;
-Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.32. Làm việc không trọn thời gian; Điều 20.2.LQ.107. Làm thêm giờ; Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương)
 
 ### Điều 20.2.NĐ.3.61. Các trường hợp được tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm
 
@@ -4333,11 +3379,7 @@ Ngoài các trường hợp quy định tại các điểm a, điểm b, điểm
 2. Cung ứng dịch vụ công; dịch vụ khám bệnh, chữa bệnh; dịch vụ giáo dục, giáo dục nghề nghiệp.
 
 3. Công việc trực tiếp sản xuất, kinh doanh tại các doanh nghiệp thực hiện thời giờ làm việc bình thường không quá 44 giờ trong một tuần.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.107. Làm thêm giờ
-;
-Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.107. Làm thêm giờ; Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt)
 
 ### Điều 20.2.NĐ.3.62. Thông báo về việc tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm
 
@@ -4351,9 +3393,7 @@ b) Nơi đặt trụ sở chính, nếu trụ sở chính đóng trên địa b�
 2. Việc thông báo phải được thực hiện chậm nhất sau 15 ngày kể từ ngày thực hiện làm thêm từ trên 200 giờ đến 300 giờ trong một năm.
 
 3. Văn bản thông báo theo Mẫu số 02/PLIV Phụ lục IV ban hành kèm theo Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.3.5. Làm thêm giờ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.3.5. Làm thêm giờ)
 
 ### Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt
 
@@ -4363,23 +3403,11 @@ Người sử dụng lao động có quyền yêu cầu người lao động là
 1. Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật;
 
 2. Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa, khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh nguy hiểm và thảm họa, trừ trường hợp có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của người lao động theo quy định của pháp luật về an toàn, vệ sinh lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.107. Làm thêm giờ
-;
-Điều 20.2.NĐ.3.59. Sự đồng ý của người lao động khi làm thêm giờ
-;
-Điều 20.2.NĐ.3.61. Các trường hợp được tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm
-;
-Điều 20.2.TT.3.5. Làm thêm giờ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.107. Làm thêm giờ; Điều 20.2.NĐ.3.59. Sự đồng ý của người lao động khi làm thêm giờ; Điều 20.2.NĐ.3.61. Các trường hợp được tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm; Điều 20.2.TT.3.5. Làm thêm giờ)
 
 ## Mục 2: Thời giờ nghỉ ngơi
 
-(Mục này có nội dung liên quan đến
-
-### Điều 1.6.LQ.40. Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ và công nhân công an của Luật 37/2018/QH14 Công an nhân dân ban hành ngày 20/11/2018
-
-)
+(Mục này có nội dung liên quan đến: Điều 1.6.LQ.40. Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ và công nhân công an của Luật 37/2018/QH14 Công an nhân dân ban hành ngày 20/11/2018)
 
 ### Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
 
@@ -4389,25 +3417,13 @@ Người sử dụng lao động có quyền yêu cầu người lao động là
 Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.
 
 2. Ngoài thời gian nghỉ quy định tại khoản 1 Điều này, người sử dụng lao động bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
-;
-Điều 20.2.NĐ.3.63. Ca làm việc và tổ chức làm việc theo ca
-;
-Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.3.6. Nghỉ trong giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt; Điều 20.2.NĐ.3.63. Ca làm việc và tổ chức làm việc theo ca; Điều 20.2.NĐ.3.64. Nghỉ trong giờ làm việc; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.3.6. Nghỉ trong giờ làm việc)
 
 ### Điều 20.2.LQ.110. Nghỉ chuyển ca
 
 (Điều 110 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương)
 
 ### Điều 20.2.LQ.111. Nghỉ hằng tuần
 
@@ -4417,19 +3433,7 @@ Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ tr�
 2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày Chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động.
 
 3. Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1 Điều 112 của Bộ luật này thì người lao động được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp.
-(Điều này có nội dung liên quan đến
-Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.
-;
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-)
+(Điều này có nội dung liên quan đến: Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.; Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm)
 
 ### Điều 20.2.LQ.112. Nghỉ lễ, tết
 
@@ -4451,23 +3455,7 @@ e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
 2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.
 
 3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.
-;
-Điều 20.2.LQ.111. Nghỉ hằng tuần
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác
-;
-Điều 20.2.NĐ.3.109. Các trường hợp hoãn, ngừng đình công
-;
-Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-)
+(Điều này có nội dung liên quan đến: Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.; Điều 20.2.LQ.111. Nghỉ hằng tuần; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt; Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác; Điều 20.2.NĐ.3.109. Các trường hợp hoãn, ngừng đình công; Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm)
 
 ### Điều 20.2.LQ.113. Nghỉ hằng năm
 
@@ -4491,25 +3479,7 @@ c) 16 ngày làm việc đối với người làm nghề, công việc đặc b
 6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ, đường sắt, đường thủy mà số ngày đi đường cả đi và về trên 02 ngày thì từ ngày thứ 03 trở đi được tính thêm thời gian đi đường ngoài ngày nghỉ hằng năm và chỉ được tính cho 01 lần nghỉ trong năm.
 
 7. Chính phủ quy định chi tiết điều này.
-(Điều này có nội dung liên quan đến
-Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.
-;
-Điều 20.2.LQ.101. Tạm ứng tiền lương
-;
-Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác
-;
-Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-)
+(Điều này có nội dung liên quan đến: Điều 45.2.LQ.20. Tổ chức nghỉ ngơi và điều dưỡng.; Điều 20.2.LQ.101. Tạm ứng tiền lương; Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt; Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác; Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm)
 
 ### Điều 20.2.NĐ.3.65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động
 
@@ -4533,11 +3503,7 @@ c) 16 ngày làm việc đối với người làm nghề, công việc đặc b
 9. Thời gian phải ngừng việc, nghỉ việc không do lỗi của người lao động.
 
 10. Thời gian nghỉ vì bị tạm đình chỉ công việc nhưng sau đó được kết luận là không vi phạm hoặc không bị xử lý kỷ luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.61. Học nghề, tập nghề để làm việc cho người sử dụng lao động
-;
-Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.61. Học nghề, tập nghề để làm việc cho người sử dụng lao động; Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương)
 
 ### Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
 
@@ -4547,17 +3513,7 @@ c) 16 ngày làm việc đối với người làm nghề, công việc đặc b
 2. Trường hợp người lao động làm việc chưa đủ tháng, nếu tổng số ngày làm việc và ngày nghỉ có hưởng lương của người lao động (nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương theo Điều 112, Điều 113, Điều 114 và Điều 115 của Bộ luật Lao động) chiếm tỷ lệ từ 50% số ngày làm việc bình thường trong tháng theo thỏa thuận thì tháng đó được tính là 01 tháng làm việc để tính ngày nghỉ hằng năm.
 
 3. Toàn bộ thời gian người lao động làm việc tại các cơ quan, tổ chức, đơn vị thuộc khu vực nhà nước và doanh nghiệp nhà nước được tính là thời gian làm việc để tính ngày nghỉ hằng năm tăng thêm theo quy định tại Điều 114 của Bộ luật Lao động nếu người lao động tiếp tục làm việc tại các cơ quan, tổ chức, đơn vị thuộc khu vực nhà nước và doanh nghiệp nhà nước.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
-;
-Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc; Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm)
 
 ### Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác
 
@@ -4567,31 +3523,13 @@ c) 16 ngày làm việc đối với người làm nghề, công việc đặc b
 2. Tiền lương làm căn cứ trả cho người lao động những ngày nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương theo Điều 112, khoản 1 và khoản 2 Điều 113, Điều 114, khoản 1 Điều 115 của Bộ luật Lao động là tiền lương theo hợp đồng lao động tại thời điểm người lao động nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương.
 
 3. Tiền lương làm căn cứ trả cho người lao động những ngày chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm theo khoản 3 Điều 113 của Bộ luật Lao động là tiền lương theo hợp đồng lao động của tháng trước liền kề tháng người lao động thôi việc, bị mất việc làm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
-;
-Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc; Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương)
 
 ### Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
 
 (Điều 114 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác
-;
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt; Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác; Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm)
 
 ### Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
 
@@ -4607,39 +3545,17 @@ c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuô
 2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
 
 3. Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động
-;
-Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác
-;
-Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động; Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt; Điều 20.2.NĐ.3.67. Tiền tàu xe, tiền lương trong thời gian đi đường, tiền lương ngày nghỉ hằng năm và các ngày nghỉ có hưởng lương khác; Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương)
 
 ## Mục 3: Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
 
-(Mục này có nội dung liên quan đến
-
-### Điều 1.6.LQ.40. Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ và công nhân công an của Luật 37/2018/QH14 Công an nhân dân ban hành ngày 20/11/2018
-
-)
+(Mục này có nội dung liên quan đến: Điều 1.6.LQ.40. Chế độ nghỉ ngơi của sĩ quan, hạ sĩ quan, chiến sĩ và công nhân công an của Luật 37/2018/QH14 Công an nhân dân ban hành ngày 20/11/2018)
 
 ### Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
 
 (Điều 116 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Đối với các công việc có tính chất đặc biệt trong lĩnh vực vận tải đường bộ, đường sắt, đường thủy, đường hàng không; thăm dò, khai thác dầu khí trên biển; làm việc trên biển; trong lĩnh vực nghệ thuật; sử dụng kỹ thuật bức xạ và hạt nhân; ứng dụng kỹ thuật sóng cao tần; tin học, công nghệ tin học; nghiên cứu ứng dụng khoa học, công nghệ tiên tiến; thiết kế công nghiệp; công việc của thợ lặn; công việc trong hầm lò; công việc sản xuất có tính thời vụ, công việc gia công theo đơn đặt hàng; công việc phải thường trực 24/24 giờ; các công việc có tính chất đặc biệt khác do Chính phủ quy định thì các Bộ, ngành quản lý quy định cụ thể thời giờ làm việc, thời giờ nghỉ ngơi sau khi thống nhất với Bộ Lao động - Thương binh và Xã hội và phải tuân thủ quy định tại Điều 109 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.68. Một số công việc có tính chất đặc biệt về thời giờ làm việc, thời giờ nghỉ ngơi
-;
-Điều 28.7.TT.3.5. Đối tượng và thời gian làm việc để tính mua cổ phần với giá ưu đãi
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.109. Nghỉ trong giờ làm việc; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.68. Một số công việc có tính chất đặc biệt về thời giờ làm việc, thời giờ nghỉ ngơi; Điều 28.7.TT.3.5. Đối tượng và thời gian làm việc để tính mua cổ phần với giá ưu đãi)
 
 ### Điều 20.2.NĐ.3.68. Một số công việc có tính chất đặc biệt về thời giờ làm việc, thời giờ nghỉ ngơi
 
@@ -4657,9 +3573,7 @@ d) Vận hành, bảo dưỡng, sửa chữa hệ thống đường ống phân 
 2. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định cụ thể về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc sản xuất có tính thời vụ, công việc gia công theo đơn đặt hàng.
 
 3. Các bộ, ngành quản lý quy định cụ thể thời giờ làm việc, thời giờ nghỉ ngơi đối với các công việc có tính chất đặc biệt quy định tại Điều 116 của Bộ luật Lao động và khoản 1 Điều này sau khi thống nhất với Bộ Lao động - Thương binh và Xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt)
 
 ### Điều 20.2.TT.3.4. Thời giờ làm việc
 
@@ -4667,9 +3581,7 @@ d) Vận hành, bảo dưỡng, sửa chữa hệ thống đường ống phân 
 1. Ca làm việc của người lao động trong hầm lò không quá 9,5 giờ trong 01 ngày.
 
 2. Thời giờ làm việc của người lao động tại vị trí sản xuất trong hầm lò không quá 07 giờ trong 01 ngày và không quá 42 giờ trong 01 tuần.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.3.5. Làm thêm giờ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.3.5. Làm thêm giờ)
 
 ### Điều 20.2.TT.3.5. Làm thêm giờ
 
@@ -4678,44 +3590,22 @@ d) Vận hành, bảo dưỡng, sửa chữa hệ thống đường ống phân 
 
 2. Bảo đảm tổng số giờ làm việc của ca làm việc và số giờ làm thêm không quá 12 giờ trong 01 ngày; số giờ làm thêm không quá 300 giờ trong 01 năm.
 
-3. Việc tổ chức làm thêm giờ phải được sự đồng ý của người lao động và tuân thủ quy định tại Điều 59 và Điều 62 Nghị định số
-145/2020/NĐ-CP
-của Chính phủ.
+3. Việc tổ chức làm thêm giờ phải được sự đồng ý của người lao động và tuân thủ quy định tại Điều 59 và Điều 62 Nghị định số 145/2020/NĐ-CP của Chính phủ.
 
 4. Việc tổ chức làm thêm giờ trong trường hợp đặc biệt tuân thủ quy định tại Điều 108 Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt
-;
-Điều 20.2.NĐ.3.59. Sự đồng ý của người lao động khi làm thêm giờ
-;
-Điều 20.2.NĐ.3.62. Thông báo về việc tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm
-;
-Điều 20.2.TT.3.4. Thời giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.108. Làm thêm giờ trong trường hợp đặc biệt; Điều 20.2.NĐ.3.59. Sự đồng ý của người lao động khi làm thêm giờ; Điều 20.2.NĐ.3.62. Thông báo về việc tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm; Điều 20.2.TT.3.4. Thời giờ làm việc)
 
 ### Điều 20.2.TT.3.6. Nghỉ trong giờ làm việc
 
 (Điều 6 Thông tư số 04/2021/TT-BCT, có hiệu lực thi hành kể từ ngày 01/09/2021)
 Nghỉ trong giờ làm việc tuân thủ quy định tại Điều 109 Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.109. Nghỉ trong giờ làm việc)
 
 ### Điều 20.2.TT.3.7. Nghỉ chuyển ca; Nghỉ hằng tuần; Nghỉ lễ, tết; Nghỉ hàng năm; Nghỉ việc riêng, nghỉ không hưởng lương
 
 (Điều 7 Thông tư số 04/2021/TT-BCT, có hiệu lực thi hành kể từ ngày 01/09/2021)
 Tuân thủ theo quy định tại Điều 110, Điều 111, Điều 112, Điều 113, Điều 115 Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.110. Nghỉ chuyển ca
-;
-Điều 20.2.LQ.111. Nghỉ hằng tuần
-;
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.110. Nghỉ chuyển ca; Điều 20.2.LQ.111. Nghỉ hằng tuần; Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.115. Nghỉ việc riêng, nghỉ không hưởng lương)
 
 ### Điều 20.2.TT.3.8. Trách nhiệm của người sử dụng lao động
 
@@ -4742,23 +3632,7 @@ Trong đó:
 - TL: Số ngày nghỉ lễ trong năm là 11 ngày theo quy định tại Điều 112 Bộ luật Lao động.
 
 - tn: Số giờ làm việc bình thường trong một ngày là 8 giờ theo quy định tại Điều 105 Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.105. Thời giờ làm việc bình thường
-;
-Điều 20.2.LQ.111. Nghỉ hằng tuần
-;
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.LQ.113. Nghỉ hằng năm
-;
-Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
-;
-Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt
-;
-Điều 20.2.TT.4.4. Lập kế hoạch xác định số giờ làm việc tiêu chuẩn hằng ngày
-;
-Điều 20.2.TT.4.5. Nguyên tắc sử dụng quỹ thời giờ làm việc tiêu chuẩn
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.105. Thời giờ làm việc bình thường; Điều 20.2.LQ.111. Nghỉ hằng tuần; Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.LQ.113. Nghỉ hằng năm; Điều 20.2.LQ.114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc; Điều 20.2.NĐ.3.66. Cách tính ngày nghỉ hằng năm trong một số trường hợp đặc biệt; Điều 20.2.TT.4.4. Lập kế hoạch xác định số giờ làm việc tiêu chuẩn hằng ngày; Điều 20.2.TT.4.5. Nguyên tắc sử dụng quỹ thời giờ làm việc tiêu chuẩn)
 
 ### Điều 20.2.TT.4.4. Lập kế hoạch xác định số giờ làm việc tiêu chuẩn hằng ngày
 
@@ -4772,11 +3646,7 @@ Hằng năm, căn cứ vào quỹ thời giờ làm việc tiêu chuẩn trong n
 3. Ngày làm việc có số giờ làm việc tiêu chuẩn từ 4 giờ đến dưới 8 giờ
 
 4. Cho nghỉ trọn ngày.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-;
-Điều 20.2.TT.4.5. Nguyên tắc sử dụng quỹ thời giờ làm việc tiêu chuẩn
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm; Điều 20.2.TT.4.5. Nguyên tắc sử dụng quỹ thời giờ làm việc tiêu chuẩn)
 
 ### Điều 20.2.TT.4.5. Nguyên tắc sử dụng quỹ thời giờ làm việc tiêu chuẩn
 
@@ -4790,11 +3660,7 @@ Hằng năm, căn cứ vào quỹ thời giờ làm việc tiêu chuẩn trong n
 4. Số giờ làm việc tiêu chuẩn hằng ngày nhiều hơn 8 giờ đã được xác định trong kế hoạch tại khoản 2 Điều 4 Thông tư này, thì số giờ chênh lệch đó không tính là thời giờ làm thêm.
 
 5. Số giờ làm việc thực tế hằng ngày vượt quá số giờ làm việc tiêu chuẩn đã được lập kế hoạch theo hướng dẫn tại Điều 4 Thông tư này, thì số giờ đó được tính là giờ làm thêm, đồng thời người sử dụng lao động phải trả tiền lương làm thêm giờ và thực hiện các chế độ liên quan đến làm thêm giờ cho người lao động theo đúng quy định của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm
-;
-Điều 20.2.TT.4.4. Lập kế hoạch xác định số giờ làm việc tiêu chuẩn hằng ngày
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.4.3. Quỹ thời giờ làm việc tiêu chuẩn trong năm; Điều 20.2.TT.4.4. Lập kế hoạch xác định số giờ làm việc tiêu chuẩn hằng ngày)
 
 ### Điều 20.2.TT.4.6. Giới hạn giờ làm việc tiêu chuẩn hằng ngày và giờ làm thêm
 
@@ -4810,18 +3676,14 @@ b) Tổng số giờ làm thêm trong một tháng không quá 40 giờ.
 c) Người sử dụng lao động quyết định lựa chọn áp dụng quy định tại điểm a hoặc quy định tại điểm b khoản này, ghi vào kế hoạch thời giờ làm việc, thời giờ nghỉ ngơi trong năm quy định tại khoản 2, Điều 8 Thông tư này.
 
 3. Tổng số giờ làm thêm trong một năm đối với mỗi người lao động không quá 300 giờ.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.4.8. Trách nhiệm của người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.4.8. Trách nhiệm của người sử dụng lao động)
 
 ### Điều 20.2.TT.4.7. Thời giờ nghỉ ngơi
 
 (Điều 7 Thông tư số 18/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022)
 1. Hằng tuần, người lao động được nghỉ ít nhất một ngày (24 giờ liên tục). Trong những tháng thời vụ hoặc phải gấp rút gia công hàng xuất khẩu theo đơn đặt hàng, nếu không thực hiện được nghỉ hằng tuần thì phải bảo đảm hằng tháng có ít nhất 04 ngày nghỉ cho người lao động.
 
-2. Việc nghỉ trong giờ làm việc, nghỉ chuyển ca đối với từng người lao động thực hiện theo quy định của Bộ luật Lao động và Nghị định số
-145/2020/NĐ-CP
-.
+2. Việc nghỉ trong giờ làm việc, nghỉ chuyển ca đối với từng người lao động thực hiện theo quy định của Bộ luật Lao động và Nghị định số 145/2020/NĐ-CP.
 
 3. Người sử dụng lao động phải bố trí để người lao động được nghỉ ngày nghỉ lễ, tết, nghỉ hằng năm và các ngày nghỉ có hưởng lương khác; việc rút ngắn giờ làm việc và đảm bảo thời giờ nghỉ ngơi của lao động nữ, lao động chưa thành niên, lao động là người cao tuổi; quyết định việc nghỉ không hưởng lương đúng theo quy định của Bộ luật Lao động.
 
@@ -4841,9 +3703,7 @@ c) Trả lương cho người lao động theo hợp đồng lao động và cá
 d) Báo cáo định kỳ hằng năm về Sở Lao động - Thương binh và Xã hội địa phương về việc thực hiện Thông tư này trong báo cáo về công tác an toàn, vệ sinh lao động.
 Phu luc 1.doc
 Phu luc 2.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.4.6. Giới hạn giờ làm việc tiêu chuẩn hằng ngày và giờ làm thêm
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.4.6. Giới hạn giờ làm việc tiêu chuẩn hằng ngày và giờ làm thêm)
 
 ### Điều 20.2.TT.4.9. Trách nhiệm của Sở Lao động - Thương binh và Xã hội
 
@@ -5057,17 +3917,7 @@ i) Người có thẩm quyền xử lý kỷ luật lao động.
 4. Nội quy lao động phải được thông báo đến người lao động và những nội dung chính phải được niêm yết ở những nơi cần thiết tại nơi làm việc.
 
 5. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-;
-Điều 20.2.NĐ.3.69. Nội quy lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc; Điều 20.2.NĐ.3.69. Nội quy lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.NĐ.3.69. Nội quy lao động
 
@@ -5099,17 +3949,7 @@ i) Người có thẩm quyền xử lý kỷ luật lao động: người có th
 3. Trước khi ban hành nội quy lao động hoặc sửa đổi, bổ sung nội quy lao động, người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở. Việc tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở thực hiện theo quy định tại khoản 1 Điều 41 Nghị định này.
 
 4. Nội quy lao động sau khi ban hành phải được gửi đến từng tổ chức đại diện người lao động tại cơ sở (nếu có) và thông báo đến toàn bộ người lao động, đồng thời niêm yết nội dung chính ở những nơi cần thiết tại nơi làm việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động
-;
-Điều 20.2.LQ.118. Nội quy lao động
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-;
-Điều 20.2.NĐ.3.85. Quy định của người sử dụng lao động về phòng, chống quấy rối tình dục tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động; Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động; Điều 20.2.LQ.118. Nội quy lao động; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc; Điều 20.2.NĐ.3.85. Quy định của người sử dụng lao động về phòng, chống quấy rối tình dục tại nơi làm việc)
 
 ### Điều 20.2.LQ.119. Đăng ký nội quy lao động
 
@@ -5123,9 +3963,7 @@ i) Người có thẩm quyền xử lý kỷ luật lao động: người có th
 4. Người sử dụng lao động có các chi nhánh, đơn vị, cơ sở sản xuất, kinh doanh đặt ở nhiều địa bàn khác nhau thì gửi nội quy lao động đã được đăng ký đến cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi đặt chi nhánh, đơn vị, cơ sở sản xuất, kinh doanh.
 
 5. Căn cứ điều kiện cụ thể, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh có thể ủy quyền cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện thực hiện việc đăng ký nội quy lao động theo quy định tại Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.121. Hiệu lực của nội quy lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.121. Hiệu lực của nội quy lao động)
 
 ### Điều 20.2.LQ.120. Hồ sơ đăng ký nội quy lao động
 
@@ -5146,9 +3984,7 @@ Hồ sơ đăng ký nội quy lao động bao gồm:
 Nội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan nhà nước có thẩm quyền quy định tại Điều 119 của Bộ luật này nhận được đầy đủ hồ sơ đăng ký nội quy lao động.
 
 Trường hợp người sử dụng lao động sử dụng dưới 10 người lao động ban hành nội quy lao động bằng văn bản thì hiệu lực do người sử dụng lao động quyết định trong nội quy lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.119. Đăng ký nội quy lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.119. Đăng ký nội quy lao động)
 
 ### Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
 
@@ -5180,21 +4016,7 @@ d) Người lao động nữ mang thai; người lao động nghỉ thai sản, 
 5. Không xử lý kỷ luật lao động đối với người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.
 
 6. Chính phủ quy định trình tự, thủ tục xử lý kỷ luật lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.123. Thời hiệu xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.70. Trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.NĐ.3.71. Trình tự, thủ tục xử lý bồi thường thiệt hại
-;
-Điều 20.2.NĐ.3.72. Thời hiệu xử lý bồi thường thiệt hại
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.123. Thời hiệu xử lý kỷ luật lao động; Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.70. Trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.NĐ.3.71. Trình tự, thủ tục xử lý bồi thường thiệt hại; Điều 20.2.NĐ.3.72. Thời hiệu xử lý bồi thường thiệt hại; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.NĐ.3.70. Trình tự, thủ tục xử lý kỷ luật lao động
 
@@ -5214,11 +4036,7 @@ c) Người sử dụng lao động tiến hành họp xử lý kỷ luật lao 
 3. Nội dung cuộc họp xử lý kỷ luật lao động phải được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp quy định tại điểm b, điểm c khoản 1 Điều 122 của Bộ luật Lao động, trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký (nếu có) vào nội dung biên bản.
 
 4. Trong thời hiệu xử lý kỷ luật lao động quy định tại khoản 1, khoản 2 Điều 123 của Bộ luật Lao động, người có thẩm quyền xử lý kỷ luật lao động ban hành quyết định xử lý kỷ luật lao động và gửi đến các thành phần phải tham dự quy định tại điểm b, điểm c khoản 1 Điều 122 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.123. Thời hiệu xử lý kỷ luật lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.123. Thời hiệu xử lý kỷ luật lao động)
 
 ### Điều 20.2.LQ.123. Thời hiệu xử lý kỷ luật lao động
 
@@ -5228,11 +4046,7 @@ c) Người sử dụng lao động tiến hành họp xử lý kỷ luật lao 
 2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian nêu trên.
 
 3. Người sử dụng lao động phải ban hành quyết định xử lý kỷ luật lao động trong thời hạn quy định tại khoản 1 và khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.NĐ.3.70. Trình tự, thủ tục xử lý kỷ luật lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.NĐ.3.70. Trình tự, thủ tục xử lý kỷ luật lao động)
 
 ### Điều 20.2.LQ.124. Hình thức xử lý kỷ luật lao động
 
@@ -5244,9 +4058,7 @@ c) Người sử dụng lao động tiến hành họp xử lý kỷ luật lao 
 3. Cách chức.
 
 4. Sa thải.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải
 
@@ -5262,15 +4074,7 @@ Hình thức xử lý kỷ luật sa thải được người sử dụng lao đ
 4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.
 
 Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.126. Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.126. Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.126. Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động
 
@@ -5278,9 +4082,7 @@ Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, 
 1. Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau 06 tháng hoặc bị xử lý kỷ luật cách chức sau 03 năm kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật.
 
 2. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành được một nửa thời hạn nếu sửa chữa tiến bộ thì có thể được người sử dụng lao động xét giảm thời hạn.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải)
 
 ### Điều 20.2.LQ.127. Các hành vi bị nghiêm cấm khi xử lý kỷ luật lao động
 
@@ -5303,13 +4105,7 @@ Hết thời hạn tạm đình chỉ công việc, người sử dụng lao đ�
 3. Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng.
 
 4. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc)
 
 ## Mục 2: Trách nhiệm vật chất
 
@@ -5321,11 +4117,7 @@ Hết thời hạn tạm đình chỉ công việc, người sử dụng lao đ�
 Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định tại khoản 3 Điều 102 của Bộ luật này.
 
 2. Người lao động làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặc tài sản khác do người sử dụng lao động giao hoặc tiêu hao vật tư quá định mức cho phép thì phải bồi thường thiệt hại một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động; trường hợp có hợp đồng trách nhiệm thì phải bồi thường theo hợp đồng trách nhiệm; trường hợp do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép thì không phải bồi thường.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.102. Khấu trừ tiền lương
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.102. Khấu trừ tiền lương; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại
 
@@ -5333,15 +4125,7 @@ Trường hợp người lao động gây thiệt hại không nghiêm trọng d
 1. Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động.
 
 2. Chính phủ quy định trình tự, thủ tục, thời hiệu xử lý việc bồi thường thiệt hại.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.71. Trình tự, thủ tục xử lý bồi thường thiệt hại
-;
-Điều 20.2.NĐ.3.72. Thời hiệu xử lý bồi thường thiệt hại
-;
-Điều 20.2.TT.2.4. Bảo vệ bí mật kinh doanh, bí mật công nghệ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.71. Trình tự, thủ tục xử lý bồi thường thiệt hại; Điều 20.2.NĐ.3.72. Thời hiệu xử lý bồi thường thiệt hại; Điều 20.2.TT.2.4. Bảo vệ bí mật kinh doanh, bí mật công nghệ)
 
 ### Điều 20.2.NĐ.3.71. Trình tự, thủ tục xử lý bồi thường thiệt hại
 
@@ -5363,11 +4147,7 @@ c) Người sử dụng lao động tiến hành họp xử lý bồi thường 
 4. Quyết định xử lý bồi thường thiệt hại phải được ban hành trong thời hiệu xử lý bồi thường thiệt hại. Quyết định xử lý bồi thường thiệt hại phải nêu rõ mức thiệt hại; nguyên nhân thiệt hại; mức bồi thường thiệt hại; thời hạn, hình thức bồi thường thiệt hại và được gửi đến các thành phần phải tham dự họp quy định tại điểm a khoản 2 Điều này.
 
 5. Các trường hợp bồi thường thiệt hại khác thực hiện theo quy định của Bộ luật Dân sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại)
 
 ### Điều 20.2.NĐ.3.72. Thời hiệu xử lý bồi thường thiệt hại
 
@@ -5379,11 +4159,7 @@ Thời hiệu xử lý bồi thường thiệt hại tại khoản 2 Điều 130
 2. Không xử lý bồi thường thiệt hại đối với người lao động đang trong thời gian quy định tại khoản 4 Điều 122 của Bộ luật Lao động.
 
 3. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật Lao động, nếu hết thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu xử lý bồi thường thiệt hại nhưng không quá 60 ngày kể từ ngày hết thời gian nêu trên.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.130. Xử lý bồi thường thiệt hại)
 
 ### Điều 20.2.LQ.131. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất
 
@@ -5391,9 +4167,7 @@ Thời hiệu xử lý bồi thường thiệt hại tại khoản 2 Điều 130
 Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thỏa đáng có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động theo trình tự do pháp luật quy định.
 
 Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.73. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất
 
@@ -5401,9 +4175,7 @@ Chính phủ quy định chi tiết Điều này.
 Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thỏa đáng thì có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của Chính phủ về giải quyết khiếu nại trong lĩnh vực lao động hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định tại Mục 2 Chương XIV của Bộ luật Lao động.
 
 Trường hợp người sử dụng lao động quyết định xử lý kỷ luật lao động theo hình thức sa thải trái quy định của pháp luật thì ngoài nghĩa vụ, trách nhiệm theo quy định của Chính phủ về giải quyết khiếu nại trong lĩnh vực lao động hoặc giải quyết tranh chấp lao động cá nhân theo trình tự quy định tại Mục 2 Chương XIV của Bộ luật Lao động thì người sử dụng lao động có nghĩa vụ thực hiện quy định tại Điều 41 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Mục 2 THẨM QUYỀN VÀ TRÌNH TỰ GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG CÁ NHÂN
-)
+(Điều này có nội dung liên quan đến: Mục 2 THẨM QUYỀN VÀ TRÌNH TỰ GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG CÁ NHÂN)
 
 # Chương IX: An toàn, vệ sinh lao động
 
@@ -5428,11 +4200,7 @@ Người sử dụng lao động, người lao động và cơ quan, tổ chức
 
 # Chương X: Những quy định riêng đối với lao động nữ và bảo đảm bình đẳng giới
 
-(Chương này có nội dung liên quan đến
-
-### Điều 45.2.LQ.45. Sử dụng lao động nữ. của Luật 21-LCT/HDNN8 Bảo vệ sức khoẻ nhân dân ban hành ngày 30/06/1989
-
-)
+(Chương này có nội dung liên quan đến: Điều 45.2.LQ.45. Sử dụng lao động nữ. của Luật 21-LCT/HDNN8 Bảo vệ sức khoẻ nhân dân ban hành ngày 30/06/1989)
 
 ### Điều 20.2.LQ.135. Chính sách của Nhà nước
 
@@ -5448,9 +4216,7 @@ Người sử dụng lao động, người lao động và cơ quan, tổ chức
 5. Nhà nước có kế hoạch, biện pháp tổ chức nhà trẻ, lớp mẫu giáo ở nơi có nhiều lao động. Mở rộng nhiều loại hình đào tạo thuận lợi cho lao động nữ có thêm nghề dự phòng và phù hợp với đặc điểm về cơ thể, sinh lý và chức năng làm mẹ của phụ nữ.
 
 6. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.74. Người sử dụng lao động có sử dụng nhiều lao động nữ
 
@@ -5487,9 +4253,7 @@ Nhà trẻ, lớp mẫu giáo là cơ sở giáo dục mầm non theo quy địn
 2. Trường mẫu giáo, lớp mẫu giáo độc lập nhận trẻ em từ 03 tuổi đến 06 tuổi.
 
 3. Trường mầm non, lớp mầm non độc lập là cơ sở giáo dục kết hợp nhà trẻ và mẫu giáo, nhận trẻ em từ 03 tháng tuổi đến 06 tuổi.
-(Điều này có nội dung liên quan đến
-Điều 13.1.LQ.26. Cơ sở giáo dục mầm non
-)
+(Điều này có nội dung liên quan đến: Điều 13.1.LQ.26. Cơ sở giáo dục mầm non)
 
 ### Điều 20.2.NĐ.3.78. Quyền làm việc bình đẳng của người lao động, thực hiện các biện pháp bảo đảm bình đẳng giới
 
@@ -5507,9 +4271,7 @@ b) Nhà nước bảo đảm quyền bình đẳng của lao động nữ, lao �
 a) Ưu tiên tuyển dụng, sử dụng phụ nữ vào làm việc khi người đó đủ điều kiện, tiêu chuẩn làm công việc phù hợp với cả nam và nữ; ưu tiên giao kết hợp đồng lao động mới đối với lao động nữ trong trường hợp hợp đồng lao động hết hạn;
 
 b) Thực hiện các chế độ, chính sách đối với lao động nữ tốt hơn so với quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.41. Tổ chức đối thoại khi có vụ việc)
 
 ### Điều 20.2.NĐ.3.79. Tăng cường phúc lợi và cải thiện điều kiện làm việc
 
@@ -5521,9 +4283,7 @@ b) Thực hiện các chế độ, chính sách đối với lao động nữ t�
 a) Lập kế hoạch, thực hiện các giải pháp để lao động nữ, lao động nam có việc làm thường xuyên, áp dụng chế độ làm việc theo thời gian biểu linh hoạt, làm việc không trọn thời gian, giao việc làm tại nhà, đào tạo nâng cao tay nghề; lao động nữ được đào tạo thêm nghề dự phòng phù hợp với đặc điểm cơ thể, sinh lý và chức năng làm mẹ của phụ nữ;
 
 b) Xây dựng cơ sở văn hóa, thể thao, y tế, nhà ở và các cơ sở vật chất khác phục vụ người lao động tại nơi có nhiều lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới)
 
 ### Điều 20.2.NĐ.3.80. Chăm sóc sức khỏe đối với lao động nữ
 
@@ -5551,11 +4311,7 @@ c) Trường hợp lao động nữ không có nhu cầu nghỉ và được ng�
 5. Khuyến khích người sử dụng lao động lắp đặt phòng vắt, trữ sữa mẹ phù hợp với điều kiện thực tế tại nơi làm việc, nhu cầu của lao động nữ và khả năng của người sử dụng lao động. Trường hợp người sử dụng lao động sử dụng từ 1.000 người lao động nữ trở lên thì phải lắp đặt phòng vắt, trữ sữa mẹ tại nơi làm việc.
 
 6. Khuyến khích người sử dụng lao động tạo điều kiện để lao động nữ nuôi con từ 12 tháng tuổi trở lên vắt, trữ sữa mẹ tại nơi làm việc. Thời gian nghỉ để vắt, trữ sữa mẹ do người lao động thỏa thuận với người sử dụng lao động.
-(Điều này có nội dung liên quan đến
-Điều 32. Thời gian hưởng chế độ khi khám thai
-;
-Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới
-)
+(Điều này có nội dung liên quan đến: Điều 32. Thời gian hưởng chế độ khi khám thai; Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới)
 
 ### Điều 20.2.NĐ.3.81. Tổ chức nhà trẻ, lớp mẫu giáo ở nơi có nhiều lao động
 
@@ -5579,27 +4335,13 @@ d) Chỉ đạo thực hiện nghiêm các cơ chế, chính sách về xã hộ
 4. Giáo viên mầm non làm việc tại nhà trẻ, lớp mẫu giáo dân lập, tư thục ở nơi có nhiều lao động được hưởng các chính sách áp dụng cho giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp quy định tại Điều 10 Nghị định số 105/2020/NĐ-CP ngày 08 tháng 9 năm 2020 của Chính phủ quy định chính sách phát triển giáo dục mầm non.
 
 5. Khuyến khích người sử dụng lao động tổ chức, xây dựng nhà trẻ, lớp mẫu giáo hoặc hỗ trợ một phần chi phí xây dựng nhà trẻ, lớp mẫu giáo.
-(Điều này có nội dung liên quan đến
-Điều 13.1.NĐ.16.5. Chính sách đối với cơ sở giáo dục mầm non độc lập dân lập, tư thục ở địa bàn có khu công nghiệp, nơi có nhiều lao động
-;
-Điều 13.1.NĐ.16.8. Chính sách trợ cấp đối với trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp
-;
-Điều 13.1.NĐ.16.10. Chính sách đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp
-;
-Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới
-)
+(Điều này có nội dung liên quan đến: Điều 13.1.NĐ.16.5. Chính sách đối với cơ sở giáo dục mầm non độc lập dân lập, tư thục ở địa bàn có khu công nghiệp, nơi có nhiều lao động; Điều 13.1.NĐ.16.8. Chính sách trợ cấp đối với trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp; Điều 13.1.NĐ.16.10. Chính sách đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp; Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới)
 
 ### Điều 20.2.NĐ.3.82. Giúp đỡ, hỗ trợ của người sử dụng lao động về chi phí gửi trẻ, mẫu giáo cho người lao động
 
 (Điều 82 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Căn cứ điều kiện cụ thể, người sử dụng lao động xây dựng phương án, kế hoạch giúp đỡ, hỗ trợ một phần chi phí gửi trẻ tại nhà trẻ, lớp mẫu giáo đối với người lao động có con trong độ tuổi gửi trẻ, mẫu giáo bằng tiền hoặc hiện vật. Người sử dụng lao động quyết định mức và thời gian hỗ trợ sau khi trao đổi, thảo luận với bên người lao động thông qua đối thoại tại nơi làm việc quy định tại Điều 63, Điều 64 của Bộ luật Lao động và Chương V Nghị định này.
-(Điều này có nội dung liên quan đến
-Chương V ĐỐI THOẠI TẠI NƠI LÀM VIỆC của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020
-;
-Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc
-)
+(Điều này có nội dung liên quan đến: Chương V ĐỐI THOẠI TẠI NƠI LÀM VIỆC của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020; Điều 20.2.LQ.63. Tổ chức đối thoại tại nơi làm việc; Điều 20.2.LQ.64. Nội dung đối thoại tại nơi làm việc)
 
 ### Điều 20.2.NĐ.3.83. Chính sách hỗ trợ người sử dụng lao động
 
@@ -5615,9 +4357,7 @@ Trường hợp đầu tư, tổ chức nhà trẻ, lớp mẫu giáo thì đư�
 a) Người sử dụng lao động sử dụng nhiều lao động nữ được giảm thuế theo quy định của pháp luật về thuế;
 
 b) Các khoản chi tăng thêm cho lao động nữ, bảo đảm bình đẳng giới và phòng, chống quấy rối tình dục tại nơi làm việc quy định tại Nghị định này được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo quy định của Bộ Tài chính.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.87. Tổ chức thực hiện chính sách đối với lao động nữ và bảo đảm bình đẳng giới)
 
 ### Điều 20.2.NĐ.3.84. Quấy rối tình dục tại nơi làm việc
 
@@ -5633,9 +4373,7 @@ b) Quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qu
 c) Quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.
 
 3. Nơi làm việc quy định tại khoản 9 Điều 3 của Bộ luật Lao động là bất cứ địa điểm nào mà người lao động thực tế làm việc theo thỏa thuận hoặc phân công của người sử dụng lao động, bao gồm cả những địa điểm hay không gian có liên quan đến công việc như các hoạt động xã hội, hội thảo, tập huấn, chuyến đi công tác chính thức, bữa ăn, hội thoại trên điện thoại, các hoạt động giao tiếp qua phương tiện điện tử, phương tiện đi lại do người sử dụng lao động bố trí từ nơi ở đến nơi làm việc và ngược lại, nơi ở do người sử dụng lao động cung cấp và địa điểm khác do người sử dụng lao động quy định.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.3. Giải thích từ ngữ
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.3. Giải thích từ ngữ)
 
 ### Điều 20.2.NĐ.3.85. Quy định của người sử dụng lao động về phòng, chống quấy rối tình dục tại nơi làm việc
 
@@ -5657,9 +4395,7 @@ d) Hình thức xử lý kỷ luật lao động đối với người thực hi
 a) Nhanh chóng, kịp thời;
 
 b) Bảo vệ bí mật, danh dự, uy tín, nhân phẩm, an toàn cho nạn nhân bị quấy rối tình dục, người khiếu nại, tố cáo và người bị khiếu nại, bị tố cáo.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.69. Nội quy lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.69. Nội quy lao động)
 
 ### Điều 20.2.NĐ.3.86. Trách nhiệm, nghĩa vụ phòng, chống quấy rối tình dục tại nơi làm việc
 
@@ -5714,15 +4450,7 @@ a) Tuyên truyền, phổ biến, kiểm tra, thanh tra việc thực hiện cá
 b) Rà soát, xác định nơi có nhiều lao động và tổ chức thực hiện quy định tại Điều 81 Nghị định này.
 
 6. Đề nghị Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong phạm vi nhiệm vụ, quyền hạn của mình giám sát việc thực hiện quy định tại Chương này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.79. Tăng cường phúc lợi và cải thiện điều kiện làm việc
-;
-Điều 20.2.NĐ.3.80. Chăm sóc sức khỏe đối với lao động nữ
-;
-Điều 20.2.NĐ.3.81. Tổ chức nhà trẻ, lớp mẫu giáo ở nơi có nhiều lao động
-;
-Điều 20.2.NĐ.3.83. Chính sách hỗ trợ người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.79. Tăng cường phúc lợi và cải thiện điều kiện làm việc; Điều 20.2.NĐ.3.80. Chăm sóc sức khỏe đối với lao động nữ; Điều 20.2.NĐ.3.81. Tổ chức nhà trẻ, lớp mẫu giáo ở nơi có nhiều lao động; Điều 20.2.NĐ.3.83. Chính sách hỗ trợ người sử dụng lao động)
 
 ### Điều 20.2.LQ.136. Trách nhiệm của người sử dụng lao động
 
@@ -5734,9 +4462,7 @@ b) Rà soát, xác định nơi có nhiều lao động và tổ chức thực h
 3. Bảo đảm có đủ buồng tắm và buồng vệ sinh phù hợp tại nơi làm việc.
 
 4. Giúp đỡ, hỗ trợ xây dựng nhà trẻ, lớp mẫu giáo hoặc một phần chi phí gửi trẻ, mẫu giáo cho người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.38. Số lượng, thành phần tham gia đối thoại)
 
 ### Điều 20.2.LQ.137. Bảo vệ thai sản
 
@@ -5754,9 +4480,7 @@ b) Đang nuôi con dưới 12 tháng tuổi, trừ trường hợp được ngư
 Trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi thì được ưu tiên giao kết hợp đồng lao động mới.
 
 4. Lao động nữ trong thời gian hành kinh được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc. Thời gian nghỉ vẫn được hưởng đủ tiền lương theo hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương)
 
 ### Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai
 
@@ -5766,13 +4490,7 @@ Trường hợp hợp đồng lao động hết hạn trong thời gian lao đ�
 Trường hợp đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động thì phải thông báo cho người sử dụng lao động kèm theo xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi.
 
 2. Trường hợp tạm hoãn thực hiện hợp đồng lao động, thời gian tạm hoãn do người lao động thỏa thuận với người sử dụng lao động nhưng tối thiểu phải bằng thời gian do cơ sở khám bệnh, chữa bệnh có thẩm quyền chỉ định tạm nghỉ. Trường hợp không có chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền về thời gian tạm nghỉ thì hai bên thỏa thuận về thời gian tạm hoãn thực hiện hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.30. Tạm hoãn thực hiện hợp đồng lao động
-;
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.30. Tạm hoãn thực hiện hợp đồng lao động; Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.139. Nghỉ thai sản
 
@@ -5788,17 +4506,13 @@ Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ
 4. Trước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, lao động nữ có thể trở lại làm việc khi đã nghỉ ít nhất được 04 tháng nhưng người lao động phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động. Trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản theo quy định của pháp luật về bảo hiểm xã hội.
 
 5. Lao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dưới 06 tháng tuổi, lao động nữ mang thai hộ và người lao động là người mẹ nhờ mang thai hộ được nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.140. Bảo đảm việc làm cho lao động nghỉ thai sản
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.140. Bảo đảm việc làm cho lao động nghỉ thai sản)
 
 ### Điều 20.2.LQ.140. Bảo đảm việc làm cho lao động nghỉ thai sản
 
 (Điều 140 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gian theo quy định tại các khoản 1, 3 và 5 Điều 139 của Bộ luật này mà không bị cắt giảm tiền lương và quyền, lợi ích so với trước khi nghỉ thai sản; trường hợp việc làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với mức lương không thấp hơn mức lương trước khi nghỉ thai sản.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.139. Nghỉ thai sản
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.139. Nghỉ thai sản)
 
 ### Điều 20.2.LQ.141. Trợ cấp trong thời gian chăm sóc con ốm đau, thai sản và thực hiện các biện pháp tránh thai
 
@@ -5811,9 +4525,7 @@ Thời gian nghỉ việc khi chăm sóc con dưới 07 tuổi ốm đau, khám 
 1. Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành danh mục nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con.
 
 2. Người sử dụng lao động phải cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ, yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động theo quy định khi sử dụng họ làm công việc thuộc danh mục quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.2.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.2.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.TT.2.10. Danh mục nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con
 
@@ -5855,22 +4567,14 @@ b) Tuân thủ các quy định pháp luật về an toàn, vệ sinh lao độn
 3. Người từ đủ 13 tuổi đến chưa đủ 15 tuổi chỉ được làm công việc nhẹ theo danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.
 
 4. Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3 Điều 145 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi
-;
-Điều 20.2.TT.1.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi; Điều 20.2.TT.1.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.TT.1.8. Danh mục công việc nhẹ người từ đủ 13 tuổi đến chưa đủ 15 tuổi được làm
 
 (Điều 8 Thông tư số 09/2020/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 15/03/2021)
 Ban hành kèm theo Thông tư này Phụ lục II - Danh mục công việc nhẹ người từ đủ 13 tuổi đến chưa đủ 15 tuổi được làm.
 Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc)
 
 ### Điều 20.2.LQ.144. Nguyên tắc sử dụng lao động chưa thành niên
 
@@ -5901,17 +4605,7 @@ d) Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù
 3. Người sử dụng lao động không được tuyển dụng và sử dụng người chưa đủ 13 tuổi làm việc, trừ các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.
 
 4. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.14. Hình thức hợp đồng lao động
-;
-Điều 20.2.LQ.143. Lao động chưa thành niên
-;
-Điều 20.2.TT.1.1. Phạm vi điều chỉnh
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.14. Hình thức hợp đồng lao động; Điều 20.2.LQ.143. Lao động chưa thành niên; Điều 20.2.TT.1.1. Phạm vi điều chỉnh; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc)
 
 ### Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
 
@@ -5933,23 +4627,7 @@ a) Là công việc có trong danh mục quy định tại Điều 8 của Thôn
 b) Nơi làm việc không thuộc các trường hợp quy định tại các điểm a, b, c, d khoản 2 Điều 147 của Bộ luật Lao động và khoản 2 Điều 9 của Thông tư này.
 
 6. Không được tuyển dụng và sử dụng người chưa đủ 13 tuổi làm việc, trừ các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của Sở Lao động - Thương binh và Xã hội theo quy định tại Điều 5 của Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.109. Nghỉ trong giờ làm việc
-;
-Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.LQ.146. Thời giờ làm việc của người chưa thành niên
-;
-Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi
-;
-Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc
-;
-Điều 20.2.TT.1.8. Danh mục công việc nhẹ người từ đủ 13 tuổi đến chưa đủ 15 tuổi được làm
-;
-Điều 20.2.TT.1.9. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.109. Nghỉ trong giờ làm việc; Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.LQ.146. Thời giờ làm việc của người chưa thành niên; Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi; Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc; Điều 20.2.TT.1.8. Danh mục công việc nhẹ người từ đủ 13 tuổi đến chưa đủ 15 tuổi được làm; Điều 20.2.TT.1.9. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên)
 
 ### Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
 
@@ -5969,17 +4647,7 @@ b) Chỗ ở đối với người chưa đủ 15 tuổi làm việc xa gia đì
 c) Việc bảo đảm điều kiện học tập.
 
 3. Hợp đồng lao động đối với người chưa đủ 13 tuổi chỉ có hiệu lực sau khi có văn bản đồng ý của Sở Lao động - Thương binh và Xã hội quy định tại Điều 5 của Thông tư này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc
-;
-Điều 20.2.TT.1.6. Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.18. Thẩm quyền giao kết hợp đồng lao động; Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc; Điều 20.2.TT.1.6. Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)
 
 ### Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc
 
@@ -5989,15 +4657,7 @@ Khi tuyển dụng, sử dụng người chưa đủ 13 tuổi làm việc theo 
 1. Sở Lao động - Thương binh và Xã hội nơi đặt trụ sở chính hoặc nơi có địa chỉ được ghi trong giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc giấy chứng nhận đăng ký đầu tư hoặc văn bản chấp thuận chủ trương đầu tư hoặc quyết định thành lập cơ quan, tổ chức hoặc hợp đồng hợp tác của tổ hợp tác, trong trường hợp người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã.
 
 2. Sở Lao động - Thương binh và Xã hội nơi đăng ký hộ khẩu thường trú hoặc tạm trú của hộ gia đình, cá nhân, trong trường hợp người sử dụng lao động là hộ gia đình hoặc cá nhân.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.7. Trình tự, thủ tục đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.145. Sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.7. Trình tự, thủ tục đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)
 
 ### Điều 20.2.TT.1.6. Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
 
@@ -6015,11 +4675,7 @@ Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm vi�
 5. Hợp đồng lao động hoặc dự thảo hợp đồng lao động giữa người sử dụng lao động với người chưa đủ 13 tuổi và người đại diện theo pháp luật của người đó. Trong trường hợp dự thảo hợp đồng lao động thì phải có Phiếu đồng ý của người đại diện theo pháp luật của người chưa đủ 13 tuổi làm việc theo Mẫu số 03 tại Phụ lục I ban hành kèm theo Thông tư này.
 
 6. Bản sao giấy khai sinh, giấy khám sức khỏe của người chưa đủ 13 tuổi. Thời khóa biểu hoặc chương trình học tập của cơ sở giáo dục nơi người chưa đủ 13 tuổi đang học tập nếu đang đi học.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.7. Trình tự, thủ tục đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.1.4. Giao kết hợp đồng lao động để sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.7. Trình tự, thủ tục đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)
 
 ### Điều 20.2.TT.1.7. Trình tự, thủ tục đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
 
@@ -6032,11 +4688,7 @@ Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm vi�
 
 Trường hợp không đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc, Sở Lao động - Thương binh và Xã hội phải có văn bản trả lời nêu rõ lý do, gửi người sử dụng lao động.
 Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc
-;
-Điều 20.2.TT.1.6. Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.1.5. Thẩm quyền đồng ý việc sử dụng người chưa đủ 13 tuổi làm việc; Điều 20.2.TT.1.6. Hồ sơ đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)
 
 ### Điều 20.2.LQ.146. Thời giờ làm việc của người chưa thành niên
 
@@ -6044,11 +4696,7 @@ Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
 1. Thời giờ làm việc của người chưa đủ 15 tuổi không được quá 04 giờ trong 01 ngày và 20 giờ trong 01 tuần; không được làm thêm giờ, làm việc vào ban đêm.
 
 2. Thời giờ làm việc của người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được quá 08 giờ trong 01 ngày và 40 giờ trong 01 tuần. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể được làm thêm giờ, làm việc vào ban đêm trong một số nghề, công việc theo danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.
-(Điều này có nội dung liên quan đến
-Điều 20.2.TT.1.1. Phạm vi điều chỉnh
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.TT.1.1. Phạm vi điều chỉnh; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc)
 
 ### Điều 20.2.TT.1.10. Danh mục nghề, công việc người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể được làm thêm giờ, làm việc vào ban đêm
 
@@ -6090,15 +4738,7 @@ d) Sòng bạc, quán bar, vũ trường, phòng hát karaoke, khách sạn, nh�
 đ) Nơi làm việc khác gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên.
 
 3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định danh mục tại điểm h khoản 1 và điểm đ khoản 2 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.143. Lao động chưa thành niên
-;
-Điều 20.2.TT.1.1. Phạm vi điều chỉnh
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-;
-Điều 20.2.TT.1.9. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.143. Lao động chưa thành niên; Điều 20.2.TT.1.1. Phạm vi điều chỉnh; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc; Điều 20.2.TT.1.9. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên)
 
 ### Điều 20.2.TT.1.9. Danh mục công việc, nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên
 
@@ -6107,11 +4747,7 @@ d) Sòng bạc, quán bar, vũ trường, phòng hát karaoke, khách sạn, nh�
 
 2. Ban hành kèm theo Thông tư này Phụ lục IV - Danh mục nơi làm việc gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên theo quy định tại điểm đ khoản 2 Điều 147 của Bộ luật Lao động.
 Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi
-;
-Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.147. Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi; Điều 20.2.TT.1.3. Điều kiện sử dụng người chưa đủ 15 tuổi làm việc)
 
 ## Mục 2: Người lao động cao tuổi
 
@@ -6123,9 +4759,7 @@ Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
 2. Người lao động cao tuổi có quyền thỏa thuận với người sử dụng lao động về việc rút ngắn thời giờ làm việc hằng ngày hoặc áp dụng chế độ làm việc không trọn thời gian.
 
 3. Nhà nước khuyến khích sử dụng người lao động cao tuổi làm việc phù hợp với sức khỏe để bảo đảm quyền lao động và sử dụng hiệu quả nguồn nhân lực.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu)
 
 ### Điều 20.2.LQ.149. Sử dụng người lao động cao tuổi
 
@@ -6137,13 +4771,7 @@ Phu luc ban hành kem theo TT so 09_2020_TT-BLDTBXH.doc
 3. Không được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi, trừ trường hợp bảo đảm các điều kiện làm việc an toàn.
 
 4. Người sử dụng lao động có trách nhiệm quan tâm chăm sóc sức khỏe của người lao động cao tuổi tại nơi làm việc.
-(Điều này có nội dung liên quan đến
-Mục 1 CHẾ ĐỘ HƯU TRÍ - Chương IV
-;
-Mục 4 CHẾ ĐỘ HƯU TRÍ - Chương III
-;
-Điều 20.2.LQ.20. Loại hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Mục 1 CHẾ ĐỘ HƯU TRÍ - Chương IV; Mục 4 CHẾ ĐỘ HƯU TRÍ - Chương III; Điều 20.2.LQ.20. Loại hợp đồng lao động)
 
 ## Mục 3: Người lao động việt nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại việt nam, lao động là người nước ngoài làm việc tại việt nam
 
@@ -6157,21 +4785,11 @@ Người lao động Việt Nam đi làm việc ở nước ngoài phải tuân 
 2. Công dân Việt Nam làm việc cho các tổ chức nước ngoài tại Việt Nam, trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao hoặc làm việc cho cá nhân là công dân nước ngoài tại Việt Nam phải tuân theo pháp luật Việt Nam và được pháp luật bảo vệ.
 
 3. Chính phủ quy định chi tiết việc tuyển dụng, quản lý lao động Việt Nam làm việc cho các tổ chức, cá nhân nước ngoài tại Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.4.22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
 
-(
-
-### Điều 22
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 22 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài (sau đây gọi là tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam) bao gồm:
 
 a) Tổ chức được Bộ Ngoại giao phân cấp, ủy quyền, giao nhiệm vụ, đặt hàng hoặc đấu thầu;
@@ -6189,23 +4807,11 @@ b) Cá nhân nước ngoài đang làm việc cho tổ chức nước ngoài quy
 a) Tổ chức nước ngoài quy định tại điểm d khoản 3 Điều 2 Nghị định này;
 
 b) Cá nhân nước ngoài đang làm việc cho tổ chức nước ngoài quy định tại điểm đ khoản 3 Điều 2 Nghị định này, người nước ngoài được cơ quan có thẩm quyền của Việt Nam cho phép cư trú tại Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.4.26. Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.2. Đối tượng áp dụng; Điều 20.2.NĐ.4.26. Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam)
 
 ### Điều 20.2.NĐ.4.23. Hồ Sơ đăng ký dự tuyển của người lao động Việt Nam
 
-(
-
-### Điều 23
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 23 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Phiếu đăng ký dự tuyển lao động theo Mẫu số 01/PLII Phụ lục II ban hành kèm theo Nghị định này.
 
 2. Bản sao có chứng thực của một trong các giấy tờ sau: giấy khai sinh hoặc chứng minh nhân dân hoặc căn cước công dân.
@@ -6214,9 +4820,7 @@ Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18
 
 4. Bản sao có chứng thực văn bằng, chứng chỉ về trình độ chuyên môn kỹ thuật, nghiệp vụ, ngoại ngữ liên quan đến công việc mà người lao động đăng ký dự tuyển. Nếu của nước ngoài thì phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hỏa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước ngoài liên quan đều là thành viên hoặc theo nguyên tắc có đi có lại hoặc theo quy định của pháp luật; dịch ra tiếng Việt và công chứng hoặc chứng thực theo quy định của pháp luật Việt Nam.
 Phu luc II.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.24. Trình tự, thủ tục tuyển dụng người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.24. Trình tự, thủ tục tuyển dụng người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài)
 
 ### Điều 20.2.NĐ.4.24. Trình tự, thủ tục tuyển dụng người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
 
@@ -6228,9 +4832,7 @@ Phu luc II.docx
 Trong thời hạn 15 ngày làm việc kể từ ngày nhận được văn bản đề nghị của tổ chức, cá nhân nước ngoài thì tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam có trách nhiệm tuyển dụng, quản lý người lao động Việt Nam theo đề nghị của tổ chức, cá nhân nước ngoài. Hết thời hạn nêu trên mà tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam không tuyển, giới thiệu được người lao động Việt Nam theo đề nghị của tổ chức, cá nhân nước ngoài thì có văn bản trả lời và nêu rõ lý do.
 
 3. Trong thời hạn 07 ngày làm việc, kể từ ngày ký kết hợp đồng lao động với người lao động Việt Nam thì tổ chức, cá nhân nước ngoài phải thông báo bằng văn bản kèm bản sao có chứng thực hợp đồng lao động đã ký kết với người lao động Việt Nam và các giấy tờ quy định tại khoản 2, 4 Điều 23 Nghị định này cho tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam. Trường hợp hợp đồng lao động đã ký kết bằng tiếng nước ngoài thì phải kèm theo bản dịch tiếng Việt.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.23. Hồ Sơ đăng ký dự tuyển của người lao động Việt Nam
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.23. Hồ Sơ đăng ký dự tuyển của người lao động Việt Nam)
 
 ### Điều 20.2.NĐ.4.25. Trách nhiệm của người lao động Việt Nam khi làm việc cho tổ chức, cá nhân nước ngoài
 
@@ -6254,23 +4856,11 @@ a) Tổ chức, cá nhân nước ngoài quy định tại điểm a, b, c và d
 
 b) Tổ chức, cá nhân nước ngoài quy định tại điểm đ khoản 3 Điều 2 Nghị định này gửi báo cáo về tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam theo quy định tại điểm b khoản 1 Điều 22 Nghị định này.
 Phu luc II.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.4.22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.2. Đối tượng áp dụng; Điều 20.2.NĐ.4.22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài)
 
 ### Điều 20.2.NĐ.4.27. Trách nhiệm của tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam
 
-(
-
-### Điều 27
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 27 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Tiếp nhận hồ sơ đăng ký dự tuyển của người lao động Việt Nam và văn bản đề nghị tuyển người lao động Việt Nam của tổ chức, cá nhân nước ngoài.
 
 2. Tổ chức tuyển dụng, giới thiệu và quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài.
@@ -6310,13 +4900,7 @@ d) Có giấy phép lao động do cơ quan nhà nước có thẩm quyền củ
 2. Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.
 
 3. Người lao động nước ngoài làm việc tại Việt Nam phải tuân theo pháp luật lao động Việt Nam và được pháp luật Việt Nam bảo vệ, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.20. Loại hợp đồng lao động
-;
-Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
-;
-Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.20. Loại hợp đồng lao động; Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động; Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện)
 
 ### Điều 20.2.LQ.152. Điều kiện tuyển dụng, sử dụng người lao động nước ngoài làm việc tại Việt Nam
 
@@ -6326,21 +4910,11 @@ d) Có giấy phép lao động do cơ quan nhà nước có thẩm quyền củ
 2. Doanh nghiệp, cơ quan, tổ chức, cá nhân trước khi tuyển dụng người lao động nước ngoài vào làm việc tại Việt Nam phải giải trình nhu cầu sử dụng lao động và được sự chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền.
 
 3. Nhà thầu trước khi tuyển và sử dụng lao động nước ngoài làm việc tại Việt Nam phải kê khai cụ thể các vị trí công việc, trình độ chuyên môn, kỹ thuật, kinh nghiệm làm việc, thời gian làm việc cần sử dụng lao động nước ngoài để thực hiện gói thầu và được sự chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền.
-(Điều này có nội dung liên quan đến
-Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện
-)
+(Điều này có nội dung liên quan đến: Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện)
 
 ### Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài
 
-(
-
-### Điều 4
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 4 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Xác định nhu cầu sử dụng người lao động nước ngoài
 
 a) Trước ít nhất 15 ngày kể từ ngày dự kiến sử dụng người lao động nước ngoài, người sử dụng lao động (trừ nhà thầu) có trách nhiệm xác định nhu cầu sử dụng người lao động nước ngoài đối với từng vị trí công việc mà người lao động Việt Nam chưa đáp ứng được và báo cáo giải trình với Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc theo Mẫu số 01/PLI Phụ lục I ban hành kèm theo Nghị định này.
@@ -6354,27 +4928,11 @@ c) Kể từ ngày 01 tháng 01 năm 2024, việc thông báo tuyển dụng ng�
 2. Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội có văn bản chấp thuận hoặc không chấp thuận về việc sử dụng người lao động nước ngoài đối với từng vị trí công việc theo Mẫu số 03/PLI Phụ lục I ban hành kèm theo Nghị định này trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo cáo giải trình hoặc báo cáo giải trình thay đổi nhu cầu sử dụng người lao động nước ngoài.
 Phu luc I.docx
 Phu luc_ban hanh kem theo NĐ so 70_2023_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.10. Thời hạn của giấy phép lao động
-;
-Điều 20.2.NĐ.4.16. Điều kiện được gia hạn giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.10. Thời hạn của giấy phép lao động; Điều 20.2.NĐ.4.16. Điều kiện được gia hạn giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.5. Sử dụng người lao động nước ngoài của nhà thầu
 
-(
-
-### Điều 5
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 5 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Trước khi tuyển người lao động nước ngoài, nhà thầu có trách nhiệm kê khai số lượng, trình độ, năng lực chuyên môn, kinh nghiệm của người lao động nước ngoài cần tuyển để thực hiện gói thầu tại Việt Nam và đề nghị tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài với Sở Lao động - Thương binh và Xã hội nơi nhà thầu thực hiện gói thầu theo Mẫu số 04/PLI Phụ lục I ban hành kèm theo Nghị định này.
 
 Trường hợp nhà thầu có nhu cầu điều chỉnh, bổ sung số lao động đã kê khai thì chủ đầu tư phải xác nhận phương án điều chỉnh, bổ sung nhu cầu lao động cần sử dụng của nhà thầu theo Mẫu số 05/PLI Phụ lục I ban hành kèm theo Nghị định này.
@@ -6387,21 +4945,11 @@ Thời gian chốt số liệu báo cáo 6 tháng đầu năm được tính t�
 
 4. Hằng năm hoặc đột xuất, Sở Lao động - Thương binh và Xã hội chủ trì, phối hợp với cơ quan công an tỉnh, thành phố; Bộ Chỉ huy Bộ đội Biên phòng cấp tỉnh hoặc cơ quan, đơn vị liên quan của Bộ Quốc phòng tại khu vực biên giới, cửa khẩu, hải đảo, vùng chiến lược, trọng điểm, địa bàn xung yếu về quốc phòng và các cơ quan có liên quan kiểm tra tình hình thực hiện các quy định của pháp luật đối với người lao động nước ngoài làm việc tại các gói thầu do nhà thầu trúng thầu trên địa bàn thực hiện, báo cáo về kết quả kiểm tra cho Ủy ban nhân dân cấp tỉnh, Bộ Lao động - Thương binh và Xã hội, Bộ Công an và Bộ Quốc phòng.
 Phu luc I.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.16. Điều kiện được gia hạn giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.16. Điều kiện được gia hạn giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.6. Báo cáo sử dụng người lao động nước ngoài
 
-(
-
-### Điều 6
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 6 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Trước ngày 05 tháng 7 và ngày 05 tháng 01 của năm sau, người sử dụng lao động nước ngoài báo cáo 6 tháng đầu năm và hằng năm về tình hình sử dụng người lao động nước ngoài theo Mẫu số 07/PLI Phụ lục I ban hành kèm theo Nghị định này. Thời gian chốt số liệu báo cáo 6 tháng đầu năm được tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 6 của kỳ báo cáo, thời gian chốt số liệu báo hằng năm tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
 
 2. Trước ngày 15 tháng 7 và ngày 15 tháng 01 của năm sau hoặc đột xuất theo yêu cầu, Sở Lao động - Thương binh và Xã hội có trách nhiệm báo cáo Bộ Lao động - Thương binh và Xã hội về tình hình người lao động nước ngoài làm việc trên địa bàn theo Mẫu số 08/PLI Phụ lục I ban hành kèm theo Nghị định này. Thời gian chốt số liệu báo cáo 6 tháng đầu năm và hằng năm thực hiện theo quy định của Chính phủ về chế độ báo cáo của cơ quan hành chính nhà nước.
@@ -6418,9 +4966,7 @@ Phu luc_ban hanh kem theo NĐ so 70_2023_ND-CP.doc
 2. Người lao động nước ngoài làm việc tại Việt Nam không có giấy phép lao động sẽ bị buộc xuất cảnh hoặc trục xuất theo quy định của pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
 
 3. Người sử dụng lao động sử dụng người lao động nước ngoài làm việc cho mình mà không có giấy phép lao động thì bị xử lý theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện
-)
+(Điều này có nội dung liên quan đến: Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện)
 
 ### Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
 
@@ -6442,31 +4988,11 @@ Phu luc_ban hanh kem theo NĐ so 70_2023_ND-CP.doc
 8. Người nước ngoài kết hôn với người Việt Nam và sinh sống trên lãnh thổ Việt Nam.
 
 9. Trường hợp khác theo quy định của Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.151. Điều kiện người lao động nước ngoài làm việc tại Việt Nam
-;
-Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài
-;
-Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.8. Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-;
-Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.151. Điều kiện người lao động nước ngoài làm việc tại Việt Nam; Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài; Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.8. Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động; Điều 34.4.TT.5.10. Phạm vi hoạt động, quyền và nghĩa vụ của văn phòng đại diện và nhân viên tại văn phòng đại diện)
 
 ### Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
 
-(
-
-### Điều 7
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 7 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 Ngoài các trường hợp quy định tại các khoản 3, 4, 5, 6, 7 và 8 Điều 154 của Bộ luật Lao động, người lao động nước ngoài không thuộc diện cấp giấy phép lao động:
 
 1. Là chủ sở hữu hoặc thành viên góp vốn của công ty trách nhiệm hữu hạn có giá trị góp vốn từ 3 tỷ đồng trở lên.
@@ -6500,29 +5026,11 @@ Ngoài các trường hợp quy định tại các khoản 3, 4, 5, 6, 7 và 8 �
 a) Giảng dạy, nghiên cứu;
 
 b) Làm nhà quản lý, giám đốc điều hành, hiệu trưởng, phó hiệu trưởng cơ sở giáo dục do cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức liên chính phủ đề nghị thành lập tại Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.4.3. Giải thích từ ngữ
-;
-Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài
-;
-Điều 20.2.NĐ.4.8. Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.2. Đối tượng áp dụng; Điều 20.2.NĐ.4.3. Giải thích từ ngữ; Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài; Điều 20.2.NĐ.4.8. Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.8. Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động
 
-(
-
-### Điều 8
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 8 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội có thẩm quyền xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động.
 
 2. Người sử dụng lao động đề nghị Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động trước ít nhất 10 ngày, kể từ ngày người lao động nước ngoài bắt đầu làm việc.
@@ -6547,11 +5055,7 @@ e) Các giấy tờ quy định tại điểm b, c và d khoản này là 01 b�
 
 4. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị xác nhận không thuộc diện cấp giấy phép lao động, Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội có văn bản xác nhận không thuộc diện cấp giấy phép lao động theo Mẫu số 10/PLI Phụ lục I ban hành kèm theo Nghị định này. Trường hợp không xác nhận thì có văn bản trả lời và nêu rõ lý do.
 Phu luc I.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
-;
-Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.154. Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động; Điều 20.2.NĐ.4.7. Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động)
 
 ### Điều 20.2.LQ.155. Thời hạn của giấy phép lao động
 
@@ -6576,31 +5080,17 @@ Thời hạn của giấy phép lao động tối đa là 02 năm, trường h�
 7. Doanh nghiệp, tổ chức, đối tác phía Việt Nam hoặc tổ chức nước ngoài tại Việt Nam sử dụng lao động là người nước ngoài chấm dứt hoạt động.
 
 8. Giấy phép lao động bị thu hồi.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.NĐ.4.20. Các trường hợp bị thu hồi giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.NĐ.4.20. Các trường hợp bị thu hồi giấy phép lao động)
 
 ### Điều 20.2.LQ.157. Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động
 
 (Điều 157 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Chính phủ quy định điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc tại Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động
 
-(
-
-### Điều 9
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 9 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Văn bản đề nghị cấp giấy phép lao động của người sử dụng lao động theo Mẫu số 11/PLI Phụ lục I ban hành kèm theo Nghị định này. Trường hợp người lao động nước ngoài làm việc cho một người sử dụng lao động tại nhiều địa điểm thì trong văn bản đề nghị cấp giấy phép lao động phải liệt kê đầy đủ các địa điểm làm việc.
 
 2. Giấy chứng nhận sức khỏe hoặc giấy khám sức khỏe do cơ quan, tổ chức y tế có thẩm quyền của nước ngoài hoặc của Việt Nam cấp có giá trị trong thời hạn 12 tháng, kể từ ngày ký kết luận sức khỏe đến ngày nộp hồ sơ hoặc giấy chứng nhận có đủ sức khỏe theo quy định của Bộ trưởng Bộ Y tế.
@@ -6613,7 +5103,7 @@ Phiếu lý lịch tư pháp hoặc văn bản xác nhận người lao động 
 
 a) Giấy tờ chứng minh là nhà quản lý, giám đốc điều hành theo quy định tại khoản 4, 5 Điều 3 Nghị định này bao gồm 3 loại giấy tờ sau:
 
-### Điều lệ công ty hoặc quy chế hoạt động của cơ quan, tổ chức, doanh nghiệp;
+Điều lệ công ty hoặc quy chế hoạt động của cơ quan, tổ chức, doanh nghiệp;
 
 
 Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận thành lập hoặc quyết định thành lập hoặc giấy tờ khác có giá trị pháp lý tương đương;
@@ -6671,13 +5161,7 @@ c) Đối với người lao động nước ngoài là chuyên gia, lao động
 Các giấy tờ quy định tại các khoản 2, 3, 4, 6 và 8 Điều này là 01 bản gốc hoặc bản sao có chứng thực, nếu của nước ngoài thì phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước ngoài liên quan đều là thành viên hoặc theo nguyên tắc có đi có lại hoặc theo quy định của pháp luật; dịch ra tiếng Việt và công chứng hoặc chứng thực theo quy định của pháp luật Việt Nam.
 Phu luc I.docx
 Phu luc_ban hanh kem theo NĐ so 70_2023_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-;
-Điều 20.2.NĐ.4.3. Giải thích từ ngữ
-;
-Điều 20.2.NĐ.4.17. Hồ sơ đề nghị gia hạn giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.2. Đối tượng áp dụng; Điều 20.2.NĐ.4.3. Giải thích từ ngữ; Điều 20.2.NĐ.4.17. Hồ sơ đề nghị gia hạn giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.10. Thời hạn của giấy phép lao động
 
@@ -6701,23 +5185,11 @@ Thời hạn của giấy phép lao động được cấp theo thời hạn c�
 8. Thời hạn trong văn bản chứng minh người lao động nước ngoài được tham gia vào hoạt động của một doanh nghiệp nước ngoài đã thành lập hiện diện thương mại tại Việt Nam.
 
 9. Thời hạn trong văn bản chấp thuận sử dụng người lao động nước ngoài trừ trường hợp không phải thực hiện báo cáo giải trình nhu cầu sử dụng người lao động nước ngoài theo quy định tại điểm b khoản 1 Điều 4 Nghị định này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài
-;
-Điều 20.2.NĐ.4.19. Thời hạn của giấy phép lao động được gia hạn
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài; Điều 20.2.NĐ.4.19. Thời hạn của giấy phép lao động được gia hạn)
 
 ### Điều 20.2.NĐ.4.11. Trình tự cấp giấy phép lao động
 
-(
-
-### Điều 11
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 11 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Trước ít nhất 15 ngày, kể từ ngày người lao động nước ngoài dự kiến bắt đầu làm việc tại Việt Nam, người nộp hồ sơ đề nghị cấp giấy phép lao động gửi Bộ Lao đông - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc được quy định như sau:
 
 a) Người sử dụng lao động đối với trường hợp người lao động nước ngoài làm việc theo hình thức quy định tại điểm a, b, e, g, i và k khoản 1 Điều 2 Nghị định này;
@@ -6737,41 +5209,21 @@ Trường hợp giấy phép lao động là bản điện tử thì phải phù
 Người sử dụng lao động phải gửi hợp đồng lao động đã ký kết theo yêu cầu tới cơ quan có thẩm quyền đã cấp giấy phép lao động đó. Hợp đồng lao động là bản gốc hoặc bản sao có chứng thực.
 Phu luc I.docx
 Phu luc_ban hanh kem theo NĐ so 70_2023_ND-CP.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.2. Đối tượng áp dụng)
 
 ### Điều 20.2.NĐ.4.12. Các trường hợp cấp lại giấy phép lao động
 
-(
-
-### Điều 12
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 12 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Giấy phép lao động còn thời hạn bị mất.
 
 2. Giấy phép lao động còn thời hạn bị hỏng.
 
 3. Thay đổi một trong các nội dung sau: họ và tên, quốc tịch, số hộ chiếu, địa điểm làm việc, đổi tên doanh nghiệp mà không thay đổi mã số doanh nghiệp ghi trong giấy phép lao động còn thời hạn.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.13. Hồ sơ đề nghị cấp lại giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.13. Hồ sơ đề nghị cấp lại giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.13. Hồ sơ đề nghị cấp lại giấy phép lao động
 
-(
-
-### Điều 13
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 13 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Văn bản đề nghị cấp lại giấy phép lao động của người sử dụng lao động theo Mẫu số 11/PLI Phụ lục I ban hành kèm theo Nghị định này.
 
 2. 02 ảnh màu (kích thước 4 cm X 6 cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu), ảnh chụp không quá 06 tháng tính đến ngày nộp hồ sơ.
@@ -6784,9 +5236,7 @@ b) Trường hợp thay đổi nội dung ghi trên giấy phép lao động th�
 
 5. Giấy tờ quy định tại khoản 3 Điều này là bản gốc hoặc bản sao có chứng thực trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này, nếu của nước ngoài thì phải hợp pháp hóa lãnh sự và phải dịch ra tiếng Việt và công chứng hoặc chứng thực trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước ngoài liên quan đều là thành viên hoặc theo nguyên tắc có đi có lại hoặc theo quy định của pháp luật.
 Phu luc I.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.12. Các trường hợp cấp lại giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.12. Các trường hợp cấp lại giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.14. Trình tự cấp lại giấy phép lao động
 
@@ -6806,23 +5256,11 @@ Thời hạn của giấy phép lao động được cấp lại bằng thời h
 2. Được cơ quan có thẩm quyền chấp thuận nhu cầu sử dụng người lao động nước ngoài quy định tại Điều 4 hoặc Điều 5 Nghị định này.
 
 3. Giấy tờ chứng minh người lao động nước ngoài tiếp tục làm việc cho người sử dụng lao động theo nội dung giấy phép lao động đã được cấp.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài
-;
-Điều 20.2.NĐ.4.5. Sử dụng người lao động nước ngoài của nhà thầu
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.4. Sử dụng người lao động nước ngoài; Điều 20.2.NĐ.4.5. Sử dụng người lao động nước ngoài của nhà thầu)
 
 ### Điều 20.2.NĐ.4.17. Hồ sơ đề nghị gia hạn giấy phép lao động
 
-(
-
-### Điều 17
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 17 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được sửa đổi, có nội dung được bổ sung bởi Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Văn bản đề nghị gia hạn giấy phép lao động của người sử dụng lao động theo Mẫu số 11/PLI Phụ lục I ban hành kèm theo Nghị định này.
 
 2. 02 ảnh màu (kích thước 4 cm X 6 cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu), ảnh chụp không quá 06 tháng tính đến ngày nộp hồ sơ.
@@ -6839,9 +5277,7 @@ Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18
 
 8. Giấy tờ quy định tại các khoản 3, 4, 6 và 7 Điều này là 01 bản gốc hoặc bản sao có chứng thực, nếu của nước ngoài thì phải hợp pháp hóa lãnh sự và phải dịch ra tiếng Việt và công chứng hoặc chứng thực trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước ngoài liên quan đều là thành viên hoặc theo nguyên tắc có đi có lại hoặc theo quy định của pháp luật.
 Phu luc I.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.9. Hồ sơ đề nghị cấp giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.18. Trình tự gia hạn giấy phép lao động
 
@@ -6853,17 +5289,13 @@ Phu luc I.docx
 3. Đối với người lao động nước ngoài theo quy định tại điểm a khoản 1 Điều 2 Nghị định này, sau khi người lao động nước ngoài được gia hạn giấy phép lao động thì người sử dụng lao động và người lao động nước ngoài phải ký kết hợp đồng lao động bằng văn bản theo quy định của pháp luật lao động Việt Nam trước ngày dự kiến tiếp tục làm việc cho người sử dụng lao động.
 
 Người sử dụng lao động phải gửi hợp đồng lao động đã ký kết theo yêu cầu tới cơ quan có thẩm quyền đã gia hạn giấy phép lao động đó. Hợp đồng lao động là bản gốc hoặc bản sao có chứng thực.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.2. Đối tượng áp dụng
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.2. Đối tượng áp dụng)
 
 ### Điều 20.2.NĐ.4.19. Thời hạn của giấy phép lao động được gia hạn
 
 (Điều 19 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021)
 Thời hạn của giấy phép lao động được gia hạn theo thời hạn của một trong các trường hợp quy định tại Điều 10 Nghị định này nhưng chỉ được gia hạn một lần với thời hạn tối đa là 02 năm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.10. Thời hạn của giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.10. Thời hạn của giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.20. Các trường hợp bị thu hồi giấy phép lao động
 
@@ -6873,11 +5305,7 @@ Thời hạn của giấy phép lao động được gia hạn theo thời hạn
 2. Người sử dụng lao động hoặc người lao động nước ngoài không thực hiện đúng quy định tại Nghị định này.
 
 3. Người lao động nước ngoài trong quá trình làm việc ở Việt Nam không thực hiện đúng pháp luật Việt Nam làm ảnh hưởng tới an ninh, trật tự, an toàn xã hội.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.156. Các trường hợp giấy phép lao động hết hiệu lực
-;
-Điều 20.2.NĐ.4.21. Trình tự thu hồi giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.156. Các trường hợp giấy phép lao động hết hiệu lực; Điều 20.2.NĐ.4.21. Trình tự thu hồi giấy phép lao động)
 
 ### Điều 20.2.NĐ.4.21. Trình tự thu hồi giấy phép lao động
 
@@ -6888,9 +5316,7 @@ Thời hạn của giấy phép lao động được gia hạn theo thời hạn
 
 3. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được giấy phép lao động đã thu hồi, Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội có văn bản xác nhận đã thu hồi giấy phép lao động gửi người sử dụng lao động.
 Phu luc I.docx
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.4.20. Các trường hợp bị thu hồi giấy phép lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.4.20. Các trường hợp bị thu hồi giấy phép lao động)
 
 ## Mục 4: Lao động là người khuyết tật
 
@@ -6923,21 +5349,13 @@ Nhà nước bảo trợ quyền lao động, tự tạo việc làm của ngư�
 Các công việc trong gia đình bao gồm công việc nội trợ, quản gia, chăm sóc trẻ em, chăm sóc người bệnh, chăm sóc người già, lái xe, làm vườn và các công việc khác cho hộ gia đình nhưng không liên quan đến hoạt động thương mại.
 
 2. Chính phủ quy định về lao động là người giúp việc gia đình.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.88. Lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.88. Lao động là người giúp việc gia đình)
 
 ### Điều 20.2.NĐ.3.88. Lao động là người giúp việc gia đình
 
 (Điều 88 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Lao động là người giúp việc gia đình là người lao động theo quy định tại khoản 1 Điều 3 của Bộ luật Lao động có giao kết hợp đồng lao động bằng văn bản để làm những công việc theo quy định tại khoản 1 Điều 161 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.3. Giải thích từ ngữ
-;
-Điều 20.2.LQ.161. Lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.3. Giải thích từ ngữ; Điều 20.2.LQ.161. Lao động là người giúp việc gia đình)
 
 ### Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
 
@@ -6991,57 +5409,7 @@ c) Hình thức xử lý kỷ luật sa thải được người sử dụng lao
 d) Khi phát hiện người lao động có hành vi vi phạm kỷ luật lao động thì người sử dụng lao động xem xét, xử lý kỷ luật lao động theo hình thức quy định tại điểm b khoản này đối với người lao động. Trường hợp người lao động là người từ đủ 15 tuổi đến dưới 18 tuổi thì người sử dụng lao động phải thông báo việc xử lý kỷ luật lao động đến người đại diện theo pháp luật của người lao động;
 
 đ) Việc xử lý kỷ luật lao động đối với người lao động phải bảo đảm các nguyên tắc, trình tự, thủ tục quy định tại điểm a, điểm c khoản 1, khoản 2, khoản 3, khoản 4 và khoản 5 Điều 122 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp
-;
-Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động
-;
-Chương VII THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI
-;
-Điều 20.2.LQ.14. Hình thức hợp đồng lao động
-;
-Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động
-;
-Điều 20.2.LQ.21. Nội dung hợp đồng lao động
-;
-Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động
-;
-Điều 20.2.LQ.31. Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động
-;
-Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động
-;
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
-;
-Điều 20.2.LQ.46. Trợ cấp thôi việc
-;
-Điều 20.2.LQ.90. Tiền lương
-;
-Điều 20.2.LQ.97. Kỳ hạn trả lương
-;
-Điều 20.2.LQ.111. Nghỉ hằng tuần
-;
-Điều 20.2.LQ.118. Nội quy lao động
-;
-Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.124. Hình thức xử lý kỷ luật lao động
-;
-Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải
-;
-Điều 20.2.LQ.129. Bồi thường thiệt hại
-;
-Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai
-;
-Điều 20.2.LQ.162. Hợp đồng lao động đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-)
+(Điều này có nội dung liên quan đến: Điều 20.5.LQ.38. Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp; Điều 20.5.LQ.39. Trách nhiệm của người sử dụng lao động về bồi thường, trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động; Chương VII THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI; Điều 20.2.LQ.14. Hình thức hợp đồng lao động; Điều 20.2.LQ.16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động; Điều 20.2.LQ.21. Nội dung hợp đồng lao động; Điều 20.2.LQ.29. Chuyển người lao động làm công việc khác so với hợp đồng lao động; Điều 20.2.LQ.31. Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động; Điều 20.2.LQ.34. Các trường hợp chấm dứt hợp đồng lao động; Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.LQ.41. Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật; Điều 20.2.LQ.46. Trợ cấp thôi việc; Điều 20.2.LQ.90. Tiền lương; Điều 20.2.LQ.97. Kỳ hạn trả lương; Điều 20.2.LQ.111. Nghỉ hằng tuần; Điều 20.2.LQ.118. Nội quy lao động; Điều 20.2.LQ.122. Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động; Điều 20.2.LQ.124. Hình thức xử lý kỷ luật lao động; Điều 20.2.LQ.125. Áp dụng hình thức xử lý kỷ luật sa thải; Điều 20.2.LQ.129. Bồi thường thiệt hại; Điều 20.2.LQ.138. Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai; Điều 20.2.LQ.162. Hợp đồng lao động đối với lao động là người giúp việc gia đình; Điều 20.2.LQ.169. Tuổi nghỉ hưu)
 
 ### Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động
 
@@ -7049,13 +5417,7 @@ Chương VII THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI
 1. Thực hiện các nghĩa vụ theo quy định tại các Điều 163, 164 và 165 của Bộ luật Lao động.
 
 2. Người sử dụng lao động phải thông báo cho Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi là Ủy ban nhân dân cấp xã) việc sử dụng lao động, chấm dứt sử dụng lao động tương ứng theo Mẫu số 02/PLV, Mẫu số 03/PLV Phụ lục V ban hành kèm theo Nghị định này trong thời hạn 10 ngày kể từ ngày ký hợp đồng lao động hoặc chấm dứt hợp đồng lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.163. Nghĩa vụ của người sử dụng lao động khi sử dụng lao động là người giúp việc gia đình
-;
-Điều 20.2.LQ.164. Nghĩa vụ của lao động là người giúp việc gia đình
-;
-Điều 20.2.LQ.165. Các hành vi bị nghiêm cấm đối với người sử dụng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.163. Nghĩa vụ của người sử dụng lao động khi sử dụng lao động là người giúp việc gia đình; Điều 20.2.LQ.164. Nghĩa vụ của lao động là người giúp việc gia đình; Điều 20.2.LQ.165. Các hành vi bị nghiêm cấm đối với người sử dụng lao động)
 
 ### Điều 20.2.NĐ.3.91. Trách nhiệm quản lý lao động là người giúp việc gia đình
 
@@ -7080,11 +5442,7 @@ c) Tiếp nhận thông báo về việc sử dụng, chấm dứt sử dụng l
 2. Thời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng lao động bất kỳ khi nào nhưng phải báo trước ít nhất 15 ngày.
 
 3. Hai bên thỏa thuận trong hợp đồng lao động về hình thức trả lương, kỳ hạn trả lương, thời giờ làm việc hằng ngày, chỗ ở.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.14. Hình thức hợp đồng lao động
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.14. Hình thức hợp đồng lao động; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình)
 
 ### Điều 20.2.LQ.163. Nghĩa vụ của người sử dụng lao động khi sử dụng lao động là người giúp việc gia đình
 
@@ -7100,9 +5458,7 @@ c) Tiếp nhận thông báo về việc sử dụng, chấm dứt sử dụng l
 5. Tạo cơ hội cho người giúp việc gia đình được tham gia học văn hóa, giáo dục nghề nghiệp.
 
 6. Trả tiền tàu xe đi đường khi người giúp việc gia đình thôi việc về nơi cư trú, trừ trường hợp người giúp việc gia đình chấm dứt hợp đồng lao động trước thời hạn.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động)
 
 ### Điều 20.2.LQ.164. Nghĩa vụ của lao động là người giúp việc gia đình
 
@@ -7114,9 +5470,7 @@ c) Tiếp nhận thông báo về việc sử dụng, chấm dứt sử dụng l
 3. Thông báo kịp thời với người sử dụng lao động về khả năng, nguy cơ gây tai nạn, đe dọa an toàn, sức khỏe, tính mạng, tài sản của gia đình người sử dụng lao động và bản thân.
 
 4. Tố cáo với cơ quan có thẩm quyền nếu người sử dụng lao động có hành vi ngược đãi, quấy rối tình dục, cưỡng bức lao động hoặc có hành vi khác vi phạm pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động)
 
 ### Điều 20.2.LQ.165. Các hành vi bị nghiêm cấm đối với người sử dụng lao động
 
@@ -7126,9 +5480,7 @@ c) Tiếp nhận thông báo về việc sử dụng, chấm dứt sử dụng l
 2. Giao việc cho người giúp việc gia đình không theo hợp đồng lao động.
 
 3. Giữ giấy tờ tùy thân của người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.90. Nghĩa vụ của người sử dụng lao động, người lao động)
 
 ## Mục 6: Một số lao động khác
 
@@ -7169,39 +5521,7 @@ Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều
 4. Người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt có thể nghỉ hưu ở tuổi cao hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này tại thời điểm nghỉ hưu, trừ trường hợp pháp luật có quy định khác.
 
 5. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
-;
-Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
-;
-Điều 20.2.LQ.148. Người lao động cao tuổi
-;
-Điều 6.5.PL.25. Chế độ ưu đãi đối với thân nhân của thương binh, người hưởng chính sách như thương binh
-;
-Điều 6.5.PL.28. Chế độ ưu đãi đối với thân nhân của bệnh binh
-;
-Điều 6.5.PL.31. Chế độ ưu đãi đối với thân nhân của người hoạt động kháng chiến bị nhiễm chất độc hóa học
-;
-Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ
-;
-Điều 20.2.NĐ.2.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường
-;
-Điều 20.2.NĐ.2.5. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
-;
-Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
-;
-Điều 20.2.NĐ.2.7. Quy định chuyển tiếp
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-;
-Điều 1. Phạm vi điều chỉnh của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động; Điều 20.2.LQ.36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động; Điều 20.2.LQ.148. Người lao động cao tuổi; Điều 6.5.PL.25. Chế độ ưu đãi đối với thân nhân của thương binh, người hưởng chính sách như thương binh; Điều 6.5.PL.28. Chế độ ưu đãi đối với thân nhân của bệnh binh; Điều 6.5.PL.31. Chế độ ưu đãi đối với thân nhân của người hoạt động kháng chiến bị nhiễm chất độc hóa học; Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 20.2.NĐ.2.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường; Điều 20.2.NĐ.2.5. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường; Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường; Điều 20.2.NĐ.2.7. Quy định chuyển tiếp; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.89. Một số quy định riêng đối với lao động là người giúp việc gia đình; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002; Điều 1. Phạm vi điều chỉnh của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021)
 
 ### Điều 20.2.NĐ.2.3. Thời điểm nghỉ hưu và thời điểm hưởng chế độ hưu trí
 
@@ -7244,13 +5564,7 @@ Từ năm 2035 trở đi | 60 tuổi
 
 Việc đối chiếu tháng, năm sinh của người lao động tương ứng với tuổi nghỉ hưu quy định tại khoản này theo Phụ lục I ban hành kèm theo Nghị định này.
 Phu luc I.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
-;
-Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.2.6. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường; Điều 20.2.NĐ.6.3. Chính sách đối với người lao động dôi dư được tuyển dụng lần cuối cùng trước ngày 21 tháng 4 năm 1998 hoặc trước ngày 26 tháng 4 năm 2002)
 
 ### Điều 20.2.NĐ.2.5. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
 
@@ -7291,13 +5605,7 @@ Từ năm 2035 trở đi | 55 tuổi
 
 Việc đối chiếu tháng, năm sinh của người lao động tương ứng với tuổi nghỉ hưu quy định tại khoản này theo Phụ lục II ban hành kèm theo Nghị định này.
 Phu luc II.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ
-;
-Điều 1. Phạm vi điều chỉnh của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 1. Phạm vi điều chỉnh của Thông tư 19/2021/TT-BLĐTBXH Ban hành Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn làm cơ sở xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường. ban hành ngày 15/12/2021)
 
 ### Điều 20.2.TT.5.3. Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn để làm căn cứ xác định các trường hợp có thể nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường
 
@@ -7314,13 +5622,7 @@ Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao đ�
 1. Người lao động có thể nghỉ hưu ở tuổi cao hơn khi thỏa thuận với người sử dụng lao động tiếp tục làm việc sau tuổi nghỉ hưu quy định tại Điều 4 của Nghị định này.
 
 2. Việc chấm dứt hợp đồng lao động và giải quyết chế độ bảo hiểm xã hội đối với người lao động quy định tại khoản 1 Điều này thực hiện theo quy định tại Mục 3 Chương III của Bộ luật Lao động và quy định của pháp luật về bảo hiểm xã hội.
-(Điều này có nội dung liên quan đến
-Mục 3 CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường
-)
+(Điều này có nội dung liên quan đến: Mục 3 CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG; Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.NĐ.2.4. Tuổi nghỉ hưu trong điều kiện lao động bình thường)
 
 # Chương XIII: Tổ chức đại diện người lao động tại cơ sở
 
@@ -7332,13 +5634,7 @@ Mục 3 CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG
 2. Người lao động trong doanh nghiệp có quyền thành lập, gia nhập và tham gia hoạt động của tổ chức của người lao động tại doanh nghiệp theo quy định tại các điều 172, 173 và 174 của Bộ luật này.
 
 3. Các tổ chức đại diện người lao động quy định tại khoản 1 và khoản 2 Điều này bình đẳng về quyền và nghĩa vụ trong việc đại diện bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.172. Thành lập, gia nhập tổ chức của người lao động tại doanh nghiệp
-;
-Điều 20.2.LQ.173. Ban lãnh đạo và thành viên tổ chức của người lao động tại doanh nghiệp
-;
-Điều 20.2.LQ.174. Điều lệ tổ chức của người lao động tại doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.172. Thành lập, gia nhập tổ chức của người lao động tại doanh nghiệp; Điều 20.2.LQ.173. Ban lãnh đạo và thành viên tổ chức của người lao động tại doanh nghiệp; Điều 20.2.LQ.174. Điều lệ tổ chức của người lao động tại doanh nghiệp)
 
 ### Điều 20.2.LQ.171. Công đoàn cơ sở thuộc hệ thống tổ chức Công đoàn Việt Nam
 
@@ -7359,11 +5655,7 @@ Tổ chức của người lao động tại doanh nghiệp tổ chức và ho�
 3. Trường hợp tổ chức của người lao động tại doanh nghiệp gia nhập Công đoàn Việt Nam thì thực hiện theo quy định của Luật Công đoàn.
 
 4. Chính phủ quy định về hồ sơ, trình tự, thủ tục đăng ký; thẩm quyền, thủ tục cấp đăng ký, thu hồi đăng ký; quản lý nhà nước đối với vấn đề tài chính, tài sản của tổ chức của người lao động tại doanh nghiệp; chia, tách, hợp nhất, sáp nhập, giải thể, quyền liên kết của tổ chức của người lao động tại doanh nghiệp.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở
-;
-Điều 20.2.LQ.174. Điều lệ tổ chức của người lao động tại doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở; Điều 20.2.LQ.174. Điều lệ tổ chức của người lao động tại doanh nghiệp)
 
 ### Điều 20.2.LQ.173. Ban lãnh đạo và thành viên tổ chức của người lao động tại doanh nghiệp
 
@@ -7371,9 +5663,7 @@ Tổ chức của người lao động tại doanh nghiệp tổ chức và ho�
 1. Tại thời điểm đăng ký, tổ chức của người lao động tại doanh nghiệp phải có số lượng tối thiểu thành viên là người lao động làm việc tại doanh nghiệp theo quy định của Chính phủ.
 
 2. Ban lãnh đạo do thành viên của tổ chức của người lao động tại doanh nghiệp bầu. Thành viên ban lãnh đạo là người lao động Việt Nam đang làm việc tại doanh nghiệp; không đang trong thời gian bị truy cứu trách nhiệm hình sự, chấp hành hình phạt hoặc chưa được xóa án tích do phạm các tội xâm phạm an ninh quốc gia, các tội xâm phạm quyền tự do của con người, quyền tự do, dân chủ của công dân, các tội xâm phạm sở hữu theo quy định của Bộ luật Hình sự.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở)
 
 ### Điều 20.2.LQ.174. Điều lệ tổ chức của người lao động tại doanh nghiệp
 
@@ -7403,11 +5693,7 @@ Việc thu, chi tài chính của tổ chức của người lao động tại d
 h) Kiến nghị và giải quyết kiến nghị của thành viên trong nội bộ tổ chức.
 
 2. Chính phủ quy định chi tiết Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở
-;
-Điều 20.2.LQ.172. Thành lập, gia nhập tổ chức của người lao động tại doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.170. Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở; Điều 20.2.LQ.172. Thành lập, gia nhập tổ chức của người lao động tại doanh nghiệp)
 
 ### Điều 20.2.LQ.175. Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động của tổ chức đại diện người lao động tại cơ sở
 
@@ -7440,15 +5726,7 @@ d) Được hưởng các bảo đảm khác trong quan hệ lao động và tro
 2. Chính phủ quy định thời gian tối thiểu mà người sử dụng lao động dành cho toàn bộ thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở để thực hiện nhiệm vụ của tổ chức đại diện trên cơ sở số lượng thành viên của tổ chức.
 
 3. Tổ chức đại diện người lao động tại cơ sở và người sử dụng lao động thỏa thuận về thời gian tăng thêm so với thời gian tối thiểu quy định tại khoản 2 Điều này và cách thức sử dụng thời gian làm việc của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở phù hợp với điều kiện thực tế.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp
-;
-Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm
-;
-Điều 20.2.NĐ.3.37. Trách nhiệm tổ chức đối thoại tại nơi làm việc
-;
-Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.70. Quy trình thương lượng tập thể tại doanh nghiệp; Điều 20.2.NĐ.3.8. Trợ cấp thôi việc, trợ cấp mất việc làm; Điều 20.2.NĐ.3.37. Trách nhiệm tổ chức đối thoại tại nơi làm việc; Điều 20.2.NĐ.3.58. Thời giờ được tính vào thời giờ làm việc được hưởng lương)
 
 ### Điều 20.2.LQ.177. Nghĩa vụ của người sử dụng lao động đối với tổ chức đại diện người lao động tại cơ sở
 
@@ -7462,9 +5740,7 @@ d) Được hưởng các bảo đảm khác trong quan hệ lao động và tro
 4. Phải gia hạn hợp đồng lao động đã giao kết đến hết nhiệm kỳ cho người lao động là thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở đang trong nhiệm kỳ mà hết hạn hợp đồng lao động.
 
 5. Các nghĩa vụ khác theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.20. Loại hợp đồng lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.20. Loại hợp đồng lao động)
 
 ### Điều 20.2.LQ.178. Quyền và nghĩa vụ của tổ chức đại diện người lao động tại cơ sở trong quan hệ lao động
 
@@ -7511,13 +5787,7 @@ c) Khi người sử dụng lao động có hành vi phân biệt đối xử đ
 a) Tranh chấp lao động phát sinh trong quá trình thương lượng tập thể;
 
 b) Khi một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động)
 
 ### Điều 20.2.LQ.180. Nguyên tắc giải quyết tranh chấp lao động
 
@@ -7542,9 +5812,7 @@ b) Khi một bên từ chối thương lượng hoặc không tiến hành thư�
 3. Khi có yêu cầu, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân là đầu mối tiếp nhận yêu cầu giải quyết tranh chấp lao động và có trách nhiệm phân loại, hướng dẫn, hỗ trợ, giúp đỡ các bên trong giải quyết tranh chấp lao động.
 
 Trong thời hạn 05 ngày làm việc, cơ quan tiếp nhận yêu cầu giải quyết tranh chấp lao động có trách nhiệm chuyển yêu cầu đến hòa giải viên lao động đối với trường hợp bắt buộc phải qua thủ tục hòa giải lao động, chuyển đến Hội đồng trọng tài trong trường hợp yêu cầu Hội đồng trọng tài giải quyết hoặc hướng dẫn gửi đến Tòa án để giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động)
 
 ### Điều 20.2.LQ.182. Quyền và nghĩa vụ của hai bên trong giải quyết tranh chấp lao động
 
@@ -7567,9 +5835,7 @@ b) Chấp hành thỏa thuận đã đạt được, quyết định của Ban t
 
 (Điều 183 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động, trong phạm vi nhiệm vụ, quyền hạn của mình, có quyền yêu cầu các bên tranh chấp, cơ quan, tổ chức, cá nhân có liên quan cung cấp tài liệu, chứng cứ, trưng cầu giám định, mời người làm chứng và người có liên quan.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động)
 
 ### Điều 20.2.LQ.184. Hòa giải viên lao động
 
@@ -7577,9 +5843,7 @@ Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp 
 1. Hòa giải viên lao động là người do Chủ tịch Ủy ban nhân dân cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động, tranh chấp về hợp đồng đào tạo nghề; hỗ trợ phát triển quan hệ lao động.
 
 2. Chính phủ quy định tiêu chuẩn, trình tự, thủ tục bổ nhiệm, chế độ, điều kiện hoạt động và việc quản lý hòa giải viên lao động; thẩm quyền, trình tự, thủ tục cử hòa giải viên lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.92. Tiêu chuẩn hòa giải viên lao động
 
@@ -7589,9 +5853,7 @@ Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp 
 2. Có trình độ đại học trở lên và có ít nhất 03 năm làm việc trong lĩnh vực có liên quan đến quan hệ lao động.
 
 3. Không thuộc diện đang bị truy cứu trách nhiệm hình sự hoặc đã chấp hành xong bản án nhưng chưa được xóa án tích.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.94. Miễn nhiệm hòa giải viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.94. Miễn nhiệm hòa giải viên lao động)
 
 ### Điều 20.2.NĐ.3.93. Trình tự và thủ tục bổ nhiệm hòa giải viên lao động
 
@@ -7648,9 +5910,7 @@ a) Đối với trường hợp quy định tại điểm a khoản 1 Điều n�
 b) Đối với các trường hợp quy định tại các điểm b, c, d, và đ khoản 1 Điều này, Sở Lao động - Thương binh và Xã hội căn cứ báo cáo của Phòng Lao động - Thương binh và Xã hội và kết quả rà soát, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, miễn nhiệm hòa giải viên lao động;
 
 c) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị của Sở Lao động - Thương binh và Xã hội, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định miễn nhiệm hòa giải viên lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.92. Tiêu chuẩn hòa giải viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.92. Tiêu chuẩn hòa giải viên lao động)
 
 ### Điều 20.2.NĐ.3.95. Thẩm quyền, trình tự, thủ tục cử hòa giải viên lao động
 
@@ -7668,9 +5928,7 @@ b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được yêu 
 Trường hợp tiếp nhận đơn từ hòa giải viên lao động theo quy định tại điểm a khoản này thì trong thời hạn 12 giờ kể từ khi tiếp nhận đơn, theo phân cấp quản lý, Sở Lao động - Thương binh và Xã hội hoặc Phòng Lao động - Thương binh và Xã hội ra văn bản cử hòa giải viên lao động theo quy định.
 
 3. Tùy theo tính chất phức tạp của vụ việc, Sở Lao động - Thương binh và Xã hội hoặc Phòng Lao động - Thương binh và Xã hội có thể cử một hoặc một số hòa giải viên lao động cùng tham gia giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.96. Chế độ, điều kiện hoạt động của hòa giải viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.96. Chế độ, điều kiện hoạt động của hòa giải viên lao động)
 
 ### Điều 20.2.NĐ.3.96. Chế độ, điều kiện hoạt động của hòa giải viên lao động
 
@@ -7694,9 +5952,7 @@ e) Được hưởng các chế độ khác theo quy định của pháp luật.
 2. Cơ quan cử hòa giải viên lao động quy định tại Điều 95 Nghị định này có trách nhiệm bố trí địa điểm, phương tiện làm việc, tài liệu, văn phòng phẩm và các điều kiện cần thiết khác để hòa giải viên lao động làm việc.
 
 3. Kinh phí chi trả các chế độ, điều kiện hoạt động quy định tại khoản 1, khoản 2 Điều này do ngân sách nhà nước bảo đảm. Việc lập dự toán, quản lý và quyết toán kinh phí thực hiện theo quy định của pháp luật về ngân sách nhà nước.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.95. Thẩm quyền, trình tự, thủ tục cử hòa giải viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.95. Thẩm quyền, trình tự, thủ tục cử hòa giải viên lao động)
 
 ### Điều 20.2.NĐ.3.97. Quản lý hòa giải viên lao động
 
@@ -7779,21 +6035,7 @@ c) Trường hợp các bên tranh chấp cùng lựa chọn một trọng tài 
 5. Ban trọng tài lao động làm việc theo nguyên tắc tập thể và quyết định theo đa số, trừ trường hợp quy định tại điểm c khoản 4 Điều này.
 
 6. Chính phủ quy định chi tiết về tiêu chuẩn, điều kiện, trình tự, thủ tục bổ nhiệm, miễn nhiệm, chế độ và điều kiện hoạt động của trọng tài viên lao động, Hội đồng trọng tài lao động; tổ chức và hoạt động của Hội đồng trọng tài lao động; việc thành lập và hoạt động của Ban trọng tài lao động quy định tại Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-;
-Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động
-;
-Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động
-;
-Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh; Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động; Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động; Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động)
 
 ### Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động
 
@@ -7807,13 +6049,7 @@ c) Trường hợp các bên tranh chấp cùng lựa chọn một trọng tài 
 4. Được Sở Lao động - Thương binh và Xã hội hoặc Liên đoàn Lao động cấp tỉnh hoặc tổ chức đại diện người sử dụng lao động trên địa bàn tỉnh đề cử làm trọng tài viên lao động theo quy định tại khoản 2 Điều 185 của Bộ luật Lao động.
 
 5. Không phải là thẩm phán, kiểm sát viên, điều tra viên, chấp hành viên, công chức thuộc Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan điều tra, cơ quan thi hành án.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động
-;
-Điều 20.2.NĐ.3.100. Miễn nhiệm trọng tài viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động; Điều 20.2.NĐ.3.100. Miễn nhiệm trọng tài viên lao động)
 
 ### Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động
 
@@ -7841,13 +6077,7 @@ d) Giấy chứng nhận sức khỏe do cơ quan y tế có thẩm quyền cấ
 Thời gian bổ nhiệm của trọng tài viên lao động theo nhiệm kỳ của Hội đồng trọng tài lao động. Trong nhiệm kỳ của Hội đồng trọng tài lao động, nếu có sự bổ sung, thay thế đối với trọng tài viên lao động bị miễn nhiệm theo quy định tại Điều 100 Nghị định này thì thời gian bổ nhiệm đối với trọng tài viên lao động được bổ sung, thay thế được tính theo thời gian còn lại của nhiệm kỳ Hội đồng trọng tài lao động.
 
 Khi kết thúc thời gian bổ nhiệm, trọng tài viên lao động đủ tiêu chuẩn, điều kiện quy định tại Điều 98 Nghị định này và được các cơ quan quy định tại các điểm a, b, c khoản 2 Điều 185 của Bộ luật Lao động tiếp tục đề cử thì được xem xét bổ nhiệm lại làm trọng tài viên lao động theo trình tự, thủ tục quy định tại Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động
-;
-Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động; Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động)
 
 ### Điều 20.2.NĐ.3.100. Miễn nhiệm trọng tài viên lao động
 
@@ -7871,9 +6101,7 @@ a) Đối với trường hợp quy định tại điểm a khoản 1 Điều n�
 b) Đối với các trường hợp quy định tại điểm b, c, d, và đ khoản 1 Điều này, Sở Lao động - Thương binh và Xã hội căn cứ văn bản báo cáo của Chủ tịch Hội đồng trọng tài lao động để rà soát, trao đổi với cơ quan đề cử và đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định miễn nhiệm trọng tài viên lao động;
 
 c) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị của Sở Lao động - Thương binh và Xã hội, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định miễn nhiệm trọng tài viên lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.98. Tiêu chuẩn, điều kiện trọng tài viên lao động)
 
 ### Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
 
@@ -7929,17 +6157,7 @@ e) Thực hiện các công việc khác theo phân công của Chủ tịch H�
 a) Tham gia và thực hiện nhiệm vụ của Ban trọng tài lao động theo quy định tại Điều 102 Nghị định này;
 
 b) Thực hiện các nhiệm vụ khác theo quy chế hoạt động của Hội đồng trọng tài lao động và phân công của Chủ tịch Hội đồng trọng tài lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động
-;
-Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.99. Bổ nhiệm trọng tài viên lao động; Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động)
 
 ### Điều 20.2.NĐ.3.102. Thành lập và hoạt động của Ban trọng tài lao động
 
@@ -7973,15 +6191,7 @@ b) Khi nhận được văn bản triệu tập, các bên tranh chấp phải p
 c) Tại cuộc họp giải quyết tranh chấp lao động phải có mặt đại diện các bên tranh chấp hoặc người được ủy quyền theo quy định. Trường hợp một trong các bên vắng mặt, kể cả trường hợp có đề nghị thay đổi thời gian họp nhưng không được chấp thuận thì Ban trọng tài lao động vẫn tiến hành phiên họp;
 
 d) Trong phiên họp, Ban trọng tài lao động phải nêu rõ nội dung các bên đề nghị giải quyết, nghe các bên trình bày cụ thể về nội dung vụ việc và ghi thành biên bản, có chữ ký của từng trọng tài viên lao động và các bên tranh chấp tham gia phiên họp.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.179. Tranh chấp lao động
-;
-Điều 20.2.LQ.183. Quyền của cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động
-;
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.179. Tranh chấp lao động; Điều 20.2.LQ.183. Quyền của cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động; Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động)
 
 ### Điều 20.2.NĐ.3.103. Chế độ, điều kiện hoạt động của trọng tài viên lao động, Hội đồng trọng tài lao động
 
@@ -8050,11 +6260,7 @@ Khi tranh chấp lao động đang được cơ quan, tổ chức, cá nhân có
 
 ## Mục 2: Thẩm quyền và trình tự giải quyết tranh chấp lao động cá nhân
 
-(Mục này có nội dung liên quan đến
-
-### Điều 20.2.NĐ.3.73. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020
-
-)
+(Mục này có nội dung liên quan đến: Điều 20.2.NĐ.3.73. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất của Nghị định 145/2020/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động ban hành ngày 14/12/2020)
 
 ### Điều 20.2.LQ.187. Thẩm quyền giải quyết tranh chấp lao động cá nhân
 
@@ -8066,9 +6272,7 @@ Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp 
 2. Hội đồng trọng tài lao động;
 
 3. Tòa án nhân dân.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
 
@@ -8108,25 +6312,7 @@ Trường hợp phương án hòa giải không được chấp nhận hoặc c�
 a) Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 189 của Bộ luật này;
 
 b) Yêu cầu Tòa án giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.181. Trách nhiệm của cơ quan, tổ chức trong giải quyết tranh chấp lao động
-;
-Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
-;
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-;
-Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.181. Trách nhiệm của cơ quan, tổ chức trong giải quyết tranh chấp lao động; Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động; Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công; Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công; Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
 
@@ -8140,15 +6326,7 @@ b) Yêu cầu Tòa án giải quyết.
 4. Trường hợp hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động không được thành lập hoặc hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài lao động không ra quyết định giải quyết tranh chấp thì các bên có quyền yêu cầu Tòa án giải quyết.
 
 5. Trường hợp một trong các bên không thi hành quyết định giải quyết tranh chấp của Ban trọng tài lao động thì các bên có quyền yêu cầu Tòa án giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
 
@@ -8160,9 +6338,7 @@ b) Yêu cầu Tòa án giải quyết.
 3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
 
 4. Trường hợp người yêu cầu chứng minh được vì sự kiện bất khả kháng, trở ngại khách quan hoặc lý do khác theo quy định của pháp luật mà không thể yêu cầu đúng thời hạn quy định tại Điều này thì thời gian có sự kiện bất khả kháng, trở ngại khách quan hoặc lý do đó không tính vào thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ## Mục 3: Thẩm quyền và trình tự giải quyết tranh chấp lao động tập thể về quyền
 
@@ -8178,9 +6354,7 @@ b) Hội đồng trọng tài lao động;
 c) Tòa án nhân dân.
 
 2. Tranh chấp lao động tập thể về quyền phải được giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động trước khi yêu cầu Hội đồng trọng tài lao động hoặc Tòa án giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
 
@@ -8194,15 +6368,7 @@ c) Tòa án nhân dân.
 a) Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 193 của Bộ luật này;
 
 b) Yêu cầu Tòa án giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.179. Tranh chấp lao động
-;
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.179. Tranh chấp lao động; Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
 
@@ -8220,19 +6386,7 @@ b) Yêu cầu Tòa án giải quyết.
 5. Khi hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động không được thành lập hoặc hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài lao động không ra quyết định giải quyết tranh chấp thì các bên có quyền yêu cầu Tòa án giải quyết.
 
 6. Trường hợp một trong các bên không thi hành quyết định giải quyết tranh chấp của Ban trọng tài lao động thì các bên có quyền yêu cầu Tòa án giải quyết.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.179. Tranh chấp lao động
-;
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
-;
-Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.179. Tranh chấp lao động; Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền; Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
 
@@ -8242,9 +6396,7 @@ b) Yêu cầu Tòa án giải quyết.
 2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động tập thể về quyền là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
 
 3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.106. Giải quyết tranh chấp lao động cá nhân, tranh chấp lao động tập thể về quyền tại nơi sử dụng lao động không được đình công)
 
 ## Mục 4: Thẩm quyền và trình tự giải quyết tranh chấp lao động tập thể về lợi ích
 
@@ -8271,19 +6423,7 @@ b) Hội đồng trọng tài lao động.
 a) Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 197 của Bộ luật này;
 
 b) Tổ chức đại diện người lao động có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.200. Trình tự đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
-;
-Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.LQ.200. Trình tự đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công; Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công)
 
 ### Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
 
@@ -8297,23 +6437,7 @@ b) Tổ chức đại diện người lao động có quyền tiến hành thủ
 4. Khi các bên lựa chọn giải quyết tranh chấp thông qua Hội đồng trọng tài lao động theo quy định tại Điều này thì tổ chức đại diện người lao động không được tiến hành đình công trong thời gian Hội đồng trọng tài lao động đang tiến hành giải quyết tranh chấp.
 
 Khi hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động không được thành lập hoặc hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài không ra quyết định giải quyết tranh chấp hoặc người sử dụng lao động là bên tranh chấp không thực hiện quyết định giải quyết tranh chấp của Ban trọng tài lao động thì tổ chức đại diện người lao động là bên tranh chấp có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.185. Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.200. Trình tự đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
-;
-Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động
-;
-Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.185. Hội đồng trọng tài lao động; Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.200. Trình tự đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công; Điều 20.2.NĐ.3.101. Thành lập Hội đồng trọng tài lao động; Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công)
 
 ## Mục 5: Đình công
 
@@ -8321,11 +6445,7 @@ Khi hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng 
 
 (Điều 198 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động và do tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể tổ chức và lãnh đạo.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.203. Quyền của các bên trước và trong quá trình đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.203. Quyền của các bên trước và trong quá trình đình công)
 
 ### Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
 
@@ -8335,17 +6455,7 @@ Tổ chức đại diện người lao động là bên tranh chấp lao động
 1. Hòa giải không thành hoặc hết thời hạn hòa giải quy định tại khoản 2 Điều 188 của Bộ luật này mà hòa giải viên lao động không tiến hành hòa giải;
 
 2. Ban trọng tài lao động không được thành lập hoặc thành lập nhưng không ra quyết định giải quyết tranh chấp hoặc người sử dụng lao động là bên tranh chấp không thực hiện quyết định giải quyết tranh chấp của Ban trọng tài lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.200. Trình tự đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
-;
-Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.200. Trình tự đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công; Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp)
 
 ### Điều 20.2.LQ.200. Trình tự đình công
 
@@ -8355,17 +6465,7 @@ Tổ chức đại diện người lao động là bên tranh chấp lao động
 2. Ra quyết định đình công và thông báo đình công theo quy định tại Điều 202 của Bộ luật này.
 
 3. Tiến hành đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục)
 
 ### Điều 20.2.LQ.201. Lấy ý kiến về đình công
 
@@ -8381,21 +6481,7 @@ b) Phương án của tổ chức đại diện người lao động về nội 
 3. Việc lấy ý kiến được thực hiện trực tiếp bằng hình thức lấy phiếu hoặc chữ ký hoặc hình thức khác.
 
 4. Thời gian, địa điểm và cách thức tiến hành lấy ý kiến về đình công do tổ chức đại diện người lao động quyết định và phải thông báo cho người sử dụng lao động biết trước ít nhất 01 ngày. Việc lấy ý kiến không được làm ảnh hưởng đến hoạt động sản xuất, kinh doanh bình thường của người sử dụng lao động. Người sử dụng lao động không được gây khó khăn, cản trở hoặc can thiệp vào quá trình tổ chức đại diện người lao động tiến hành lấy ý kiến về đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.198. Đình công
-;
-Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
-;
-Điều 20.2.LQ.200. Trình tự đình công
-;
-Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
-;
-Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.LQ.198. Đình công; Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công; Điều 20.2.LQ.200. Trình tự đình công; Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công; Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục)
 
 ### Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
 
@@ -8417,17 +6503,7 @@ d) Yêu cầu của người lao động;
 3. Ít nhất là 05 ngày làm việc trước ngày bắt đầu đình công, tổ chức đại diện người lao động tổ chức và lãnh đạo đình công phải gửi văn bản về việc quyết định đình công cho người sử dụng lao động, Ủy ban nhân dân cấp huyện và cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.
 
 4. Đến thời điểm bắt đầu đình công, nếu người sử dụng lao động vẫn không chấp nhận giải quyết yêu cầu của người lao động thì tổ chức đại diện người lao động tổ chức và lãnh đạo đình công.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động; Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.211. Xử lý cuộc đình công không đúng trình tự, thủ tục)
 
 ### Điều 20.2.LQ.203. Quyền của các bên trước và trong quá trình đình công
 
@@ -8447,9 +6523,7 @@ a) Chấp nhận toàn bộ hoặc một phần yêu cầu và thông báo bằn
 b) Đóng cửa tạm thời nơi làm việc trong thời gian đình công do không đủ điều kiện để duy trì hoạt động bình thường hoặc để bảo vệ tài sản;
 
 c) Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.198. Đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.198. Đình công)
 
 ### Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp
 
@@ -8465,13 +6539,7 @@ c) Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp.
 5. Tiến hành đình công trong trường hợp không được đình công quy định tại Điều 209 của Bộ luật này.
 
 6. Khi đã có quyết định hoãn hoặc ngừng đình công của cơ quan có thẩm quyền theo quy định tại Điều 210 của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công
-;
-Điều 20.2.LQ.209. Nơi sử dụng lao động không được đình công
-;
-Điều 20.2.LQ.210. Quyết định hoãn, ngừng đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.199. Trường hợp người lao động có quyền đình công; Điều 20.2.LQ.209. Nơi sử dụng lao động không được đình công; Điều 20.2.LQ.210. Quyết định hoãn, ngừng đình công)
 
 ### Điều 20.2.LQ.205. Thông báo quyết định đóng cửa tạm thời nơi làm việc
 
@@ -8497,9 +6565,7 @@ c) Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp.
 1. Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công thì được trả lương ngừng việc theo quy định tại khoản 2 Điều 99 của Bộ luật này và các quyền lợi khác theo quy định của pháp luật về lao động.
 
 2. Người lao động tham gia đình công không được trả lương và các quyền lợi khác theo quy định của pháp luật, trừ trường hợp các bên có thỏa thuận khác.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.99. Tiền lương ngừng việc
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.99. Tiền lương ngừng việc)
 
 ### Điều 20.2.LQ.208. Các hành vi bị nghiêm cấm trước, trong và sau khi đình công
 
@@ -8522,11 +6588,7 @@ c) Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp.
 1. Không được đình công ở nơi sử dụng lao động mà việc đình công có thể đe dọa đến quốc phòng, an ninh, trật tự công cộng, sức khỏe của con người.
 
 2. Chính phủ quy định danh mục nơi sử dụng lao động không được đình công và việc giải quyết tranh chấp lao động tại nơi sử dụng lao động không được đình công quy định tại khoản 1 Điều này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.105. Danh mục nơi sử dụng lao động không được đình công
 
@@ -8539,23 +6601,7 @@ Ban hành Danh mục nơi sử dụng lao động không được đình công g
 1. Tranh chấp lao động cá nhân được giải quyết theo quy định tại các Điều 187, 188, 189 và 190 của Bộ luật Lao động.
 
 2. Tranh chấp lao động tập thể về quyền được giải quyết theo quy định tại các Điều 191, 192, 193 và 194 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.187. Thẩm quyền giải quyết tranh chấp lao động cá nhân
-;
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
-;
-Điều 20.2.LQ.191. Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền
-;
-Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
-;
-Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
-;
-Điều 20.2.LQ.194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.187. Thẩm quyền giải quyết tranh chấp lao động cá nhân; Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động; Điều 20.2.LQ.190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân; Điều 20.2.LQ.191. Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền; Điều 20.2.LQ.192. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền; Điều 20.2.LQ.193. Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động; Điều 20.2.LQ.194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền)
 
 ### Điều 20.2.NĐ.3.107. Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công
 
@@ -8585,21 +6631,13 @@ b) Trong thời hạn 10 ngày làm việc kể từ ngày được Chủ tịch
 c) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được phương án giải quyết tranh chấp lao động do Sở Lao động - Thương binh và Xã hội đề xuất, Chủ tịch Ủy ban nhân dân cấp tỉnh chủ trì cuộc họp mời các bên tranh chấp, đại diện Liên đoàn Lao động cấp tỉnh và các cơ quan, tổ chức có liên quan cho ý kiến về phương án giải quyết tranh chấp và ra quyết định giải quyết tranh chấp lao động.
 
 Quyết định giải quyết tranh chấp lao động của Chủ tịch Ủy ban nhân dân cấp tỉnh là quyết định cuối cùng mà các bên tranh chấp phải chấp hành.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
-;
-Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
-;
-Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động; Điều 20.2.LQ.196. Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích; Điều 20.2.LQ.197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động)
 
 ### Điều 20.2.NĐ.3.108. Giải quyết tranh chấp liên quan đến quyền thương lượng tập thể tại nơi sử dụng lao động không được đình công
 
 (Điều 108 Nghị định số 145/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 01/02/2021)
 Tranh chấp giữa các bên liên quan đến quyền thương lượng tập thể tại nơi sử dụng lao động không được đình công được thực hiện theo quy định của Chính phủ về giải quyết tranh chấp giữa các bên liên quan đến quyền thương lượng tập thể theo quy định tại khoản 4 Điều 68 của Bộ luật Lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.68. Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp)
 
 ### Điều 20.2.LQ.210. Quyết định hoãn, ngừng đình công
 
@@ -8607,11 +6645,7 @@ Tranh chấp giữa các bên liên quan đến quyền thương lượng tập 
 1. Khi xét thấy cuộc đình công có nguy cơ gây thiệt hại nghiêm trọng cho nền kinh tế quốc dân, lợi ích công cộng, đe dọa đến quốc phòng, an ninh, trật tự công cộng, sức khỏe của con người thì Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoãn hoặc ngừng đình công.
 
 2. Chính phủ quy định chi tiết việc hoãn, ngừng đình công và giải quyết quyền lợi của người lao động.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp
-;
-Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.204. Trường hợp đình công bất hợp pháp; Điều 20.2.NĐ.3.1. Phạm vi điều chỉnh)
 
 ### Điều 20.2.NĐ.3.109. Các trường hợp hoãn, ngừng đình công
 
@@ -8633,11 +6667,7 @@ a) Đình công diễn ra trên địa bàn xuất hiện thiên tai, hỏa ho�
 b) Đình công diễn ra đến ngày thứ ba tại các đơn vị cung cấp điện, nước, vệ sinh công cộng làm ảnh hưởng tới môi trường, điều kiện sinh hoạt và sức khỏe của nhân dân tại thành phố thuộc tỉnh;
 
 c) Đình công diễn ra có các hành vi bạo động, gây rối làm ảnh hưởng đến tài sản, tính mạng của nhà đầu tư, gây thiệt hại nghiêm trọng cho nền kinh tế quốc dân, lợi ích công cộng, đe dọa đến quốc phòng, an ninh, trật tự công cộng, sức khỏe của con người.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.112. Nghỉ lễ, tết
-;
-Điều 20.2.NĐ.3.110. Trình tự, thủ tục thực hiện hoãn đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.112. Nghỉ lễ, tết; Điều 20.2.NĐ.3.110. Trình tự, thủ tục thực hiện hoãn đình công)
 
 ### Điều 20.2.NĐ.3.110. Trình tự, thủ tục thực hiện hoãn đình công
 
@@ -8649,9 +6679,7 @@ Văn bản đề nghị hoãn đình công gửi Chủ tịch Ủy ban nhân dâ
 2. Trong thời hạn 24 giờ kể từ khi nhận được báo cáo của Giám đốc Sở Lao động - Thương binh và Xã hội, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ra quyết định hoãn đình công. Trong thời hạn 12 giờ kể từ khi ra quyết định, Chủ tịch Ủy ban nhân dân cấp tỉnh phải thông báo cho Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Liên đoàn Lao động cấp tỉnh, Chủ tịch Hội đồng trọng tài lao động, tổ chức đại diện người lao động tại cơ sở có quyền tổ chức và lãnh đạo đình công, người sử dụng lao động nơi dự kiến diễn ra đình công. Quyết định hoãn đình công của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực kể từ ngày ký.
 
 3. Căn cứ quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh, tổ chức đại diện người lao động tại cơ sở có quyền tổ chức và lãnh đạo đình công, người lao động, người sử dụng lao động và các cá nhân, tổ chức liên quan phải thực hiện ngay việc hoãn đình công theo quy định.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.3.109. Các trường hợp hoãn, ngừng đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.3.109. Các trường hợp hoãn, ngừng đình công)
 
 ### Điều 20.2.NĐ.3.111. Trình tự, thủ tục thực hiện ngừng đình công
 
@@ -8690,13 +6718,7 @@ Trong thời hạn 12 giờ kể từ khi nhận được thông báo về cuộ
 Trường hợp phát hiện có hành vi vi phạm pháp luật thì lập biên bản, tiến hành xử lý hoặc kiến nghị cơ quan có thẩm quyền xử lý cá nhân, tổ chức đã thực hiện hành vi vi phạm pháp luật theo quy định của pháp luật.
 
 Đối với các nội dung tranh chấp lao động thì tùy từng loại tranh chấp, hướng dẫn, hỗ trợ các bên tiến hành các thủ tục giải quyết tranh chấp lao động theo quy định của Bộ luật này.
-(Điều này có nội dung liên quan đến
-Điều 20.2.LQ.200. Trình tự đình công
-;
-Điều 20.2.LQ.201. Lấy ý kiến về đình công
-;
-Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.LQ.200. Trình tự đình công; Điều 20.2.LQ.201. Lấy ý kiến về đình công; Điều 20.2.LQ.202. Quyết định đình công và thông báo thời điểm bắt đầu đình công)
 
 # Chương XV: Quản lý nhà nước về lao động
 
@@ -8766,9 +6788,7 @@ a) Chỉ đạo, hướng dẫn tổ chức đại diện người lao động t
 b) Phối hợp với Bộ Lao động - Thương binh và Xã hội, cơ quan đại diện chủ sở hữu kiểm tra, giám sát việc thực hiện chính sách đối với người lao động dôi dư của doanh nghiệp thực hiện sắp xếp lại theo quy định tại Nghị định này.
 Mau so 13 kem theo NĐ 97.2022.doc
 Mau so 14 kem theo NĐ 97.2022.doc
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.6.13. Áp dụng quy định của Nghị định đối với các đối tượng khác
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.13. Áp dụng quy định của Nghị định đối với các đối tượng khác)
 
 ### Điều 20.2.TT.1.11. Trách nhiệm của Sở Lao động - Thương binh và Xã hội
 
@@ -8837,9 +6857,7 @@ Khi thanh tra đột xuất theo quyết định của người có thẩm quy�
 Trong trường hợp cuộc đình công là bất hợp pháp mà gây thiệt hại cho người sử dụng lao động thì tổ chức đại diện người lao động tổ chức và lãnh đạo đình công phải bồi thường thiệt hại theo quy định của pháp luật.
 
 3. Người lợi dụng đình công gây mất trật tự, an toàn công cộng, làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động; người có hành vi cản trở thực hiện quyền đình công, kích động, lôi kéo, ép buộc người lao động đình công; người có hành vi trù dập, trả thù người tham gia đình công, người lãnh đạo cuộc đình công thì tùy theo mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
-(Điều này có nội dung liên quan đến
-Chương II HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI HÀNH VI VI PHẠM TRONG LĨNH VỰC LAO ĐỘNG của Nghị định 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 17/01/2022
-)
+(Điều này có nội dung liên quan đến: Chương II HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI HÀNH VI VI PHẠM TRONG LĨNH VỰC LAO ĐỘNG của Nghị định 12/2022/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng ban hành ngày 17/01/2022)
 
 # Chương XVII: Điều khoản thi hành
 
@@ -8847,13 +6865,7 @@ Chương II HÀNH VI VI PHẠM, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC
 
 (Điều 218 Bộ luật số 45/2019/QH14, có hiệu lực thi hành kể từ ngày 01/01/2021)
 Người sử dụng lao động sử dụng dưới 10 người lao động thực hiện quy định của Bộ luật này nhưng được miễn, giảm một số thủ tục theo quy định của Chính phủ.
-(Điều này có nội dung liên quan đến
-Điều 54. Điều kiện hưởng lương hưu
-;
-Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động
-;
-Điều 73. Điều kiện hưởng lương hưu
-)
+(Điều này có nội dung liên quan đến: Điều 54. Điều kiện hưởng lương hưu; Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động; Điều 73. Điều kiện hưởng lương hưu)
 
 ### Điều 20.2.LQ.219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
 
@@ -8939,9 +6951,7 @@ e) Giữa người lao động thuê lại với người sử dụng lao độn
 1c. Tranh chấp lao động tập thể về quyền mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết.”;
 
 b) Bãi bỏ khoản 2 Điều 32.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.2.7. Quy định chuyển tiếp
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.2.7. Quy định chuyển tiếp)
 
 ### Điều 20.2.LQ.220. Hiệu lực thi hành
 
@@ -8977,21 +6987,7 @@ Người lao động trong điều kiện lao động bình thường thì lấy
 
 Người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021 thì lấy mốc tuổi theo điểm b khoản 2 Điều 54 của Luật Bảo hiểm xã hội được sửa đổi, bổ sung tại điểm a khoản 1 Điều 219 của Bộ luật Lao động và Điều 5 của Nghị định này.
 Phu luc III.doc
-(Điều này có nội dung liên quan đến
-Điều 2. Đối tượng áp dụng
-;
-Điều 54. Điều kiện hưởng lương hưu
-;
-Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động
-;
-Điều 56. Mức lương hưu hằng tháng
-;
-Điều 73. Điều kiện hưởng lương hưu
-;
-Điều 20.2.LQ.169. Tuổi nghỉ hưu
-;
-Điều 20.2.LQ.219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
-)
+(Điều này có nội dung liên quan đến: Điều 2. Đối tượng áp dụng; Điều 54. Điều kiện hưởng lương hưu; Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động; Điều 56. Mức lương hưu hằng tháng; Điều 73. Điều kiện hưởng lương hưu; Điều 20.2.LQ.169. Tuổi nghỉ hưu; Điều 20.2.LQ.219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động)
 
 ### Điều 20.2.NĐ.2.8. Hiệu lực thi hành
 
@@ -9005,21 +7001,7 @@ a) Điều 6; khoản 3 Điều 7 và khoản 2 Điều 11 của Nghị định 
 b) Điểm a khoản 2 Điều 5 của Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện.
 
 c) Các điểm a, b khoản 1 Điều 8; khoản 3 Điều 9 và khoản 2 Điều 12 của Nghị định số 33/2016/NĐ-CP ngày 10 tháng 5 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân.
-(Điều này có nội dung liên quan đến
-Điều 6. Điều kiện hưởng lương hưu
-;
-Điều 7. Mức lương hưu hằng tháng
-;
-Điều 11. Chế độ hưu trí đối với người trước đó có thời gian đóng bảo hiểm xã hội tự nguyện của Nghị định 115/2015/NĐ-CP Quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc ban hành ngày 11/11/2015
-;
-Điều 8. Đối tượng và điều kiện hưởng lương hưu hằng tháng
-;
-Điều 9. Mức lương hưu hằng tháng
-;
-Điều 12. Chế độ hưu trí đối với người lao động đóng bảo hiểm xã hội bắt buộc trước đó có thời gian đóng bảo hiểm xã hội tự nguyện của Nghị định 33/2016/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân ban hành ngày 10/05/2016
-;
-Điều 5. Chế độ hưu trí đối với người trước đó có thời gian đóng bảo hiểm xã hội bắt buộc
-)
+(Điều này có nội dung liên quan đến: Điều 6. Điều kiện hưởng lương hưu; Điều 7. Mức lương hưu hằng tháng; Điều 11. Chế độ hưu trí đối với người trước đó có thời gian đóng bảo hiểm xã hội tự nguyện của Nghị định 115/2015/NĐ-CP Quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc ban hành ngày 11/11/2015; Điều 8. Đối tượng và điều kiện hưởng lương hưu hằng tháng; Điều 9. Mức lương hưu hằng tháng; Điều 12. Chế độ hưu trí đối với người lao động đóng bảo hiểm xã hội bắt buộc trước đó có thời gian đóng bảo hiểm xã hội tự nguyện của Nghị định 33/2016/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân ban hành ngày 10/05/2016; Điều 5. Chế độ hưu trí đối với người trước đó có thời gian đóng bảo hiểm xã hội bắt buộc)
 
 ### Điều 20.2.NĐ.2.9. Trách nhiệm hướng dẫn thi hành
 
@@ -9083,19 +7065,7 @@ b) Trường hợp hợp đồng lao động đối với người lao động n
 
 ### Điều 20.2.NĐ.4.30. Trách nhiệm thi hành
 
-(
-
-### Điều 30
-
-Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được bổ sung, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi
-
-### Điều 72
-
-Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022;
-
-### Điều 1
-
-Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
+(Điều 30 Nghị định số 152/2020/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/02/2021, có nội dung được bổ sung, có nội dung được sửa đổi, có nội dung bị bãi bỏ bởi Điều 72 Nghị định số 35/2022/NĐ-CP có hiệu lực thi hành kể từ ngày 15/07/2022; Điều 1 Nghị định số 70/2023/NĐ-CP có hiệu lực thi hành kể từ ngày 18/09/2023)
 1. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội:
 
 a) Thực hiện chấp thuận nhu cầu sử dụng người lao động nước ngoài; xác nhận không thuộc diện cấp giấy phép lao động; cấp, cấp lại, gia hạn và thu hồi giấy phép lao động đối với người lao động nước ngoài thuộc một trong các trường hợp sau:
@@ -9174,16 +7144,11 @@ c) Nhận báo cáo về việc kết quả đào tạo, bồi dưỡng nâng ca
 
 d) Nhận thông báo tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm của doanh nghiệp.
 
-7. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức
-,
+7. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức,
 cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 Phu luc I.docx
 Phu luc II.docx
-(Điều này có nội dung liên quan đến
-Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ
-;
-Điều 14. Quy trình thực hiện của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022
-)
+(Điều này có nội dung liên quan đến: Điều 44.3.NĐ.4. Nhiệm vụ, quyền hạn của tổ chức pháp chế ở cơ quan thuộc Chính phủ; Điều 14. Quy trình thực hiện của Thông tư 01/2022/TT-BLĐTBXH Hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động ban hành ngày 25/01/2022)
 
 ### Điều 20.2.NĐ.4.31. Điều khoản thi hành
 
@@ -9197,11 +7162,7 @@ Phu luc II.docx
 ### Điều 20.2.NĐ.6.12. Điều khoản chuyển tiếp
 
 (Điều 12 Nghị định số 97/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
-Đối với doanh nghiệp thực hiện sắp xếp lại đã được cơ quan có thẩm quyền phê duyệt phương án sử dụng lao động theo Nghị định số
-63/2015/NĐ-CP
-ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu trước ngày Nghị định này có hiệu lực thì tiếp tục thực hiện giải quyết chế độ đối với người lao động dôi dư theo phương án sử dụng lao động đã được phê duyệt; kinh phí thực hiện chính sách đối với người lao động dôi dư từ Quỹ Hỗ trợ sắp xếp và phát triển doanh nghiệp được thay thế bằng ngân sách nhà nước quy định tại Nghị định số
-148/2021/NĐ-CP
-.
+Đối với doanh nghiệp thực hiện sắp xếp lại đã được cơ quan có thẩm quyền phê duyệt phương án sử dụng lao động theo Nghị định số 63/2015/NĐ-CP ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu trước ngày Nghị định này có hiệu lực thì tiếp tục thực hiện giải quyết chế độ đối với người lao động dôi dư theo phương án sử dụng lao động đã được phê duyệt; kinh phí thực hiện chính sách đối với người lao động dôi dư từ Quỹ Hỗ trợ sắp xếp và phát triển doanh nghiệp được thay thế bằng ngân sách nhà nước quy định tại Nghị định số 148/2021/NĐ-CP.
 
 ### Điều 20.2.NĐ.6.13. Áp dụng quy định của Nghị định đối với các đối tượng khác
 
@@ -9210,29 +7171,19 @@ ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối v
 
 2. Đối với công ty trách nhiệm hữu hạn một thành viên nông nghiệp, lâm nghiệp do Nhà nước nắm giữ 100% vốn điều lệ thực hiện sắp xếp lại theo hình thức duy trì, củng cố và phát triển được cơ quan có thẩm quyền phê duyệt thì thực hiện giải quyết chính sách đối với người lao động dôi dư theo quy định tại Nghị định này.
 
-3. Đối với các đơn vị sự nghiệp công lập thực hiện cổ phần hóa theo quyết định của cơ quan có thẩm quyền được áp dụng các quy định tại Nghị định này để thực hiện chính sách đối với người lao động làm việc theo hợp đồng lao động không bố trí được việc làm trong công ty cổ phần theo phương án sử dụng lao động. Nguồn kinh phí thực hiện chính sách đối với người lao động làm việc theo hợp đồng lao động không bố trí được việc làm trong công ty cổ phần được lấy từ tiền bán cổ phần lần đầu khi thực hiện cổ phần hóa đơn vị sự nghiệp công lập; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số
-148/2021/NĐ-CP
-.
+3. Đối với các đơn vị sự nghiệp công lập thực hiện cổ phần hóa theo quyết định của cơ quan có thẩm quyền được áp dụng các quy định tại Nghị định này để thực hiện chính sách đối với người lao động làm việc theo hợp đồng lao động không bố trí được việc làm trong công ty cổ phần theo phương án sử dụng lao động. Nguồn kinh phí thực hiện chính sách đối với người lao động làm việc theo hợp đồng lao động không bố trí được việc làm trong công ty cổ phần được lấy từ tiền bán cổ phần lần đầu khi thực hiện cổ phần hóa đơn vị sự nghiệp công lập; trường hợp không đủ thì được bổ sung từ ngân sách nhà nước theo quy định tại Nghị định số 148/2021/NĐ-CP.
 
 4. Đối với công ty trách nhiệm hữu hạn một thành viên do công ty mẹ của tập đoàn kinh tế nhà nước, công ty mẹ của tổng công ty nhà nước, công ty mẹ trong nhóm công ty mẹ - công ty con quy định tại Điều 1 Nghị định này nắm giữ 100% vốn điều lệ (doanh nghiệp cấp II), khi thực hiện sắp xếp lại theo phương án được cơ quan có thẩm quyền phê duyệt được áp dụng quy định tại Nghị định này để thực hiện chính sách đối với người lao động dôi dư, người đại diện phần vốn của doanh nghiệp. Nguồn kinh phí thực hiện chính sách đối với người lao động dôi dư, người đại diện phần vốn của doanh nghiệp từ tiền bán cổ phần lần đầu; bán doanh nghiệp đối với doanh nghiệp thực hiện cổ phần hóa, bán toàn bộ doanh nghiệp hoặc từ nguồn thu hợp pháp khác theo quy định của pháp luật đối với doanh nghiệp thực hiện chuyển thành công ty trách nhiệm hữu hạn hai thành viên trở lên, chuyển thành đơn vị sự nghiệp, sáp nhập, hợp nhất, chia, tách, giải thể, phá sản. Trường hợp không đủ thì công ty mẹ của tập đoàn kinh tế nhà nước, công ty mẹ của tổng công ty nhà nước, công ty mẹ trong nhóm công ty mẹ - công ty con có trách nhiệm chi bù đắp phần còn thiếu và được tính vào chi phí hoạt động tài chính của công ty mẹ.
 
 5. Đối với Ngân hàng Phát triển Việt Nam khi cơ cấu lại theo quyết định của Thủ tướng Chính phủ mà có người lao động được tuyển dụng vào làm việc tại Ngân hàng Phát triển Việt Nam trước ngày 31 tháng 7 năm 2019 thuộc đối tượng lao động dôi dư, lao động có nguyện vọng nghỉ hưu trước tuổi và Ngân hàng Phát triển Việt Nam đã tìm mọi biện pháp nhưng không bố trí được việc làm thì được hưởng chính sách quy định tại khoản 1, 2, 3 và 4 Điều 3 Nghị định này, trong đó những người trước đây đã có thời gian làm việc tại Tổng cục Đầu tư phát triển, Quỹ Hỗ trợ phát triển sau đó tiếp tục chuyển sang làm việc tại Ngân hàng Phát triển Việt Nam và thời gian này chưa tính hưởng chế độ trợ cấp thôi việc, trợ cấp mất việc làm theo quy định thì được cộng nối vào thời gian làm việc tại Ngân hàng Phát triển Việt Nam để tính chế độ trợ cấp mất việc làm và hỗ trợ theo quy định tại khoản 4 Điều 3 Nghị định này. Nguồn kinh phí thực hiện chính sách đối với người lao động quy định tại khoản này được hạch toán vào chi hoạt động bộ máy của Ngân hàng Phát triển Việt Nam.
-(Điều này có nội dung liên quan đến
-Điều 20.2.NĐ.6.11. Trách nhiệm của cơ quan, tổ chức
-)
+(Điều này có nội dung liên quan đến: Điều 20.2.NĐ.6.11. Trách nhiệm của cơ quan, tổ chức)
 
 ### Điều 20.2.NĐ.6.14. Hiệu lực và trách nhiệm thi hành
 
 (Điều 14 Nghị định số 97/2022/NĐ-CP, có hiệu lực thi hành kể từ ngày 15/01/2023)
 1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 01 năm 2023.
 
-2. Nghị định số
-63/2015/NĐ-CP
-ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu; Thông tư số
-44/2015/TT-BLĐTBXH
-ngày 22 tháng 10 năm 2015 của Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện một số điều của Nghị định số
-63/2015/NĐ-CP
-ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực.
+2. Nghị định số 63/2015/NĐ-CP ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu; Thông tư số 44/2015/TT-BLĐTBXH ngày 22 tháng 10 năm 2015 của Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện một số điều của Nghị định số 63/2015/NĐ-CP ngày 22 tháng 7 năm 2015 của Chính phủ quy định chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực.
 
 3. Khoản 3 Điều 40 Nghị định số 46/2021/NĐ-CP ngày 31 tháng 3 năm 2021 của Chính phủ về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực.
 
@@ -9824,9 +7775,7 @@ Trong quá trình thực hiện nếu có vướng mắc, đề nghị các cơ 
 (Điều 10 Thông tư số 18/2021/TT-BLĐTBXH, có hiệu lực thi hành kể từ ngày 01/02/2022)
 1. Thông tư này có hiệu lực kể từ ngày 01 tháng 02 năm 2022.
 
-2. Thông tư số
-54/2015/TT-BLĐTBXH
-ngày 16 tháng 12 năm 2015 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc sản xuất có tính thời vụ và công việc gia công hàng theo đơn đặt hàng hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
+2. Thông tư số 54/2015/TT-BLĐTBXH ngày 16 tháng 12 năm 2015 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc sản xuất có tính thời vụ và công việc gia công hàng theo đơn đặt hàng hết hiệu lực kể từ ngày Thông tư này có hiệu lực.
 
 3. Trong quá trình thực hiện nếu phát sinh vướng mắc, đề nghị phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu, giải quyết.
 

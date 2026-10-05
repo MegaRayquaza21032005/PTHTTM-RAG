@@ -11,6 +11,7 @@ from qdrant_client.models import (
     FieldCondition,
     Filter,
     MatchValue,
+    PayloadSchemaType,
     PointIdsList,
     PointStruct,
     VectorParams,
@@ -60,6 +61,8 @@ class VectorDBClient(ABC):
 
 class QdrantClient(VectorDBClient):
     """Async client quản lý collection vector trên Qdrant."""
+
+    DOCUMENT_ID_FIELD = "metadata.document_id"
 
     def __init__(
         self,
@@ -171,7 +174,7 @@ class QdrantClient(VectorDBClient):
                 scroll_filter=Filter(
                     must=[
                         FieldCondition(
-                            key="metadata.document_id",
+                            key=self.DOCUMENT_ID_FIELD,
                             match=MatchValue(value=document_id),
                         )
                     ]
@@ -218,6 +221,20 @@ class QdrantClient(VectorDBClient):
                     "Đã tạo Qdrant collection | name=%s | dimension=%d",
                     self.collection_name,
                     self.dimension,
+                )
+
+            collection_info = await self.client.get_collection(self.collection_name)
+            payload_schema = collection_info.payload_schema or {}
+            if self.DOCUMENT_ID_FIELD not in payload_schema:
+                await self.client.create_payload_index(
+                    collection_name=self.collection_name,
+                    field_name=self.DOCUMENT_ID_FIELD,
+                    field_schema=PayloadSchemaType.KEYWORD,
+                    wait=True,
+                )
+                logger.info(
+                    "Đã tạo payload index Qdrant | field=%s | type=keyword",
+                    self.DOCUMENT_ID_FIELD,
                 )
 
             self._collection_ready = True
