@@ -1,0 +1,17 @@
+pydantic
+pydantic-settings
+fastapi
+uvicorn[standard]
+
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+langchain-qdrant
+
+sentence-transformers
+qdrant-client
+rank-bm25
+cohere
