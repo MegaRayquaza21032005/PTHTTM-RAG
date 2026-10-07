@@ -1,0 +1,274 @@
+{
+  "entities": [
+    {
+      "name": "Bộ luật Lao động Việt Nam",
+      "type": "Văn bản pháp luật"
+    },
+    {
+      "name": "người lao động",
+      "type": "Đối tượng áp dụng"
+    },
+    {
+      "name": "người sử dụng lao động",
+      "type": "Đối tượng áp dụng"
+    },
+    {
+      "name": "hợp đồng lao động",
+      "type": "Khái niệm"
+    },
+    {
+      "name": "công việc",
+      "type": "Quy định"
+    },
+    {
+      "name": "tiền lương",
+      "type": "Quy định"
+    },
+    {
+      "name": "thời giờ làm việc",
+      "type": "Quy định"
+    },
+    {
+      "name": "thời giờ nghỉ ngơi",
+      "type": "Quy định"
+    },
+    {
+      "name": "quyền",
+      "type": "Quyền lợi"
+    },
+    {
+      "name": "nghĩa vụ",
+      "type": "Nghĩa vụ"
+    },
+    {
+      "name": "an toàn lao động",
+      "type": "Quy định"
+    },
+    {
+      "name": "vệ sinh lao động",
+      "type": "Quy định"
+    },
+    {
+      "name": "thời giờ làm việc bình thường",
+      "type": "Quy định"
+    },
+    {
+      "name": "làm thêm giờ",
+      "type": "Hành vi"
+    },
+    {
+      "name": "ngày làm việc bình thường",
+      "type": "Thời gian"
+    },
+    {
+      "name": "ngày nghỉ hằng tuần",
+      "type": "Thời gian"
+    },
+    {
+      "name": "ngày lễ, Tết",
+      "type": "Thời gian"
+    },
+    {
+      "name": "ngày nghỉ có hưởng lương",
+      "type": "Thời gian"
+    },
+    {
+      "name": "nghỉ hằng năm",
+      "type": "Quyền lợi"
+    },
+    {
+      "name": "bảo hiểm xã hội",
+      "type": "Quyền lợi"
+    },
+    {
+      "name": "bảo hiểm y tế",
+      "type": "Quyền lợi"
+    },
+    {
+      "name": "bảo hiểm thất nghiệp",
+      "type": "Quyền lợi"
+    },
+    {
+      "name": "nội quy lao động",
+      "type": "Quy định"
+    },
+    {
+      "name": "kỷ luật lao động",
+      "type": "Hành vi"
+    },
+    {
+      "name": "khiển trách",
+      "type": "Hành vi"
+    },
+    {
+      "name": "kéo dài thời hạn nâng lương",
+      "type": "Hành vi"
+    },
+    {
+      "name": "cách chức",
+      "type": "Hành vi"
+    },
+    {
+      "name": "sa thải",
+      "type": "Hành vi"
+    },
+    {
+      "name": "tranh chấp lao động",
+      "type": "Khái niệm"
+    },
+    {
+      "name": "hòa giải viên lao động",
+      "type": "Cá nhân"
+    },
+    {
+      "name": "Hội đồng trọng tài lao động",
+      "type": "Tổ chức"
+    },
+    {
+      "name": "Tòa án",
+      "type": "Cơ quan"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bộ luật Lao động Việt Nam",
+      "type": "quy định",
+      "target": "người lao động"
+    },
+    {
+      "source": "Bộ luật Lao động Việt Nam",
+      "type": "quy định",
+      "target": "người sử dụng lao động"
+    },
+    {
+      "source": "người lao động",
+      "type": "thiết lập",
+      "target": "hợp đồng lao động"
+    },
+    {
+      "source": "người sử dụng lao động",
+      "type": "thiết lập",
+      "target": "hợp đồng lao động"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "công việc"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "tiền lương"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "thời giờ làm việc"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "thời giờ nghỉ ngơi"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "quyền"
+    },
+    {
+      "source": "hợp đồng lao động",
+      "type": "quy định",
+      "target": "nghĩa vụ"
+    },
+    {
+      "source": "người sử dụng lao động",
+      "type": "có nghĩa vụ",
+      "target": "trả lương đầy đủ và đúng hạn"
+    },
+    {
+      "source": "người sử dụng lao động",
+      "type": "bảo đảm",
+      "target": "an toàn lao động"
+    },
+    {
+      "source": "người sử dụng lao động",
+      "type": "bảo đảm",
+      "target": "vệ sinh lao động"
+    },
+    {
+      "source": "thời giờ làm việc bình thường",
+      "type": "quy định",
+      "target": "8 giờ trong một ngày"
+    },
+    {
+      "source": "thời giờ làm việc bình thường",
+      "type": "quy định",
+      "target": "48 giờ trong một tuần"
+    },
+    {
+      "source": "người lao động",
+      "type": "có quyền",
+      "target": "nghỉ hằng năm"
+    },
+    {
+      "source": "người lao động",
+      "type": "có quyền",
+      "target": "bảo hiểm xã hội"
+    },
+    {
+      "source": "người lao động",
+      "type": "có quyền",
+      "target": "bảo hiểm y tế"
+    },
+    {
+      "source": "người lao động",
+      "type": "có quyền",
+      "target": "bảo hiểm thất nghiệp"
+    },
+    {
+      "source": "người lao động",
+      "type": "vi phạm",
+      "target": "nội quy lao động"
+    },
+    {
+      "source": "người sử dụng lao động",
+      "type": "áp dụng",
+      "target": "kỷ luật lao động"
+    },
+    {
+      "source": "kỷ luật lao động",
+      "type": "gồm",
+      "target": "khiển trách"
+    },
+    {
+      "source": "kỷ luật lao động",
+      "type": "gồm",
+      "target": "kéo dài thời hạn nâng lương"
+    },
+    {
+      "source": "kỷ luật lao động",
+      "type": "gồm",
+      "target": "cách chức"
+    },
+    {
+      "source": "kỷ luật lao động",
+      "type": "gồm",
+      "target": "sa thải"
+    },
+    {
+      "source": "tranh chấp lao động",
+      "type": "giải quyết bởi",
+      "target": "hòa giải viên lao động"
+    },
+    {
+      "source": "tranh chấp lao động",
+      "type": "giải quyết bởi",
+      "target": "Hội đồng trọng tài lao động"
+    },
+    {
+      "source": "tranh chấp lao động",
+      "type": "giải quyết bởi",
+      "target": "Tòa án"
+    }
+  ]
+}

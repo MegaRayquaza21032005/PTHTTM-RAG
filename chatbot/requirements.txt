@@ -10,8 +10,12 @@ langchain-google-genai
 langchain-huggingface
 langchain-text-splitters
 langchain-qdrant
+langchain-neo4j
+neo4j
 
 sentence-transformers
 qdrant-client
 rank-bm25
 cohere
+
+pyvis
