@@ -117,11 +117,20 @@ class PreRetriever:
     ) -> list[str]:
         try:
             queries = await self.strategies[strategy].transform(query)
-            logger.debug(
-                "Đã xử lý truy vấn bằng chiến lược %s: %d truy vấn",
+            logger.info(
+                "PRE-RETRIEVAL | enabled=true | strategy=%s | "
+                "original_query=%r | output_count=%d",
                 strategy,
+                query,
                 len(queries),
             )
+            for index, transformed_query in enumerate(queries, start=1):
+                logger.info(
+                    "PRE-RETRIEVAL OUTPUT [%02d] | strategy=%s | query=%r",
+                    index,
+                    strategy,
+                    transformed_query,
+                )
             return queries
         except Exception:
             logger.exception(
@@ -155,7 +164,7 @@ def get_pre_retriever(llm: BaseChatModel | None = None) -> PreRetriever:
 if __name__ == "__main__":
     import pprint
     import asyncio
-    
+
     async def main():
         pre_retriever = PreRetriever()
         rewrite_query = await pre_retriever.process(query="Luật lao động là gì?", strategy = "rewrite")
@@ -163,12 +172,11 @@ if __name__ == "__main__":
         query_decomposition = await pre_retriever.process(query="Luật lao động là gì?", strategy = "decomposition")
         print("========Viết lại truy vấn========\n")
         print(rewrite_query)
-        
+
         print("========Mở rộng truy vấn========\n")
         print(query_expansion)
-        
+
         print("========Phân rã truy vấn========\n")
         print(query_decomposition)
-        
+
     asyncio.run(main())
-        

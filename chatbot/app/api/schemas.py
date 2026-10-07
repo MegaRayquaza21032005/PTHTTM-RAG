@@ -72,6 +72,9 @@ class SourceResponse(Chunk):
         default=None,
         description="Diem lien quan sau retrieval hoac reranking.",
     )
+    score_type: Literal["rrf", "rerank"] = Field(
+        description="Loai diem: RRF retrieval hoac diem reranker tho.",
+    )
 
 
 class ChatResponse(APIModel):

@@ -15,7 +15,6 @@ from app.retrieval.pre_retrieval import StrategyName, get_pre_retriever
 from app.retrieval.reranker import BaseReranker, get_reranker
 from app.retrieval.retriever import Retriever, get_retriever
 
-
 logger = get_logger(__name__)
 
 
@@ -39,8 +38,8 @@ class ChatbotPipeline:
         self,
         question: str,
         *,
-        use_pre_retrieval: bool = False,
-        strategy: StrategyName = "rewrite",
+        use_pre_retrieval: bool = True,
+        strategy: StrategyName = "expansion",
         use_rerank: bool = True,
         retrieval_top_k: int | None = None,
         rerank_top_n: int | None = None,
@@ -56,10 +55,31 @@ class ChatbotPipeline:
 
             final_results: Sequence[SearchResult] = retrieved_results
             if use_rerank:
+                logger.info(
+                    "RERANK | enabled=true | provider=%s | query=%r | "
+                    "input_count=%d | requested_top_n=%s",
+                    self.reranker.__class__.__name__,
+                    question,
+                    len(retrieved_results),
+                    rerank_top_n if rerank_top_n is not None else "default",
+                )
+                self._log_ranked_results("RERANK BEFORE", retrieved_results)
                 final_results = await self.reranker.rerank(
                     question,
                     retrieved_results,
                     top_n=rerank_top_n,
+                )
+                self._log_ranked_results("RERANK AFTER", final_results)
+            else:
+                logger.info(
+                    "RERANK | enabled=false | query=%r | input_count=%d | "
+                    "retrieval_order_retained=true",
+                    question,
+                    len(retrieved_results),
+                )
+                self._log_ranked_results(
+                    "RERANK OUTPUT (disabled)",
+                    retrieved_results,
                 )
 
             answer = await self.generator.generate(question, final_results)
@@ -77,6 +97,50 @@ class ChatbotPipeline:
             raise
 
     @staticmethod
+    def _log_ranked_results(
+        stage: str,
+        results: Sequence[SearchResult],
+    ) -> None:
+        """Log thứ tự, điểm và nội dung rút gọn để so sánh reranking."""
+        if not results:
+            logger.info("%s | result_count=0", stage)
+            return
+
+        for position, result in enumerate(results, start=1):
+            metadata = result.metadata
+            preview = " ".join(result.content.split())
+            if len(preview) > 180:
+                preview = f"{preview[:177]}..."
+
+            if isinstance(result, RankedResult):
+                logger.info(
+                    "%s [%02d] | chunk_id=%s | title=%r | dieu=%r | "
+                    "retrieval_score=%.6f | rerank_score=%.6f | "
+                    "original_rank=%d | preview=%r",
+                    stage,
+                    position,
+                    result.chunk_id,
+                    metadata.title,
+                    metadata.dieu,
+                    result.score,
+                    result.rerank_score,
+                    result.original_rank,
+                    preview,
+                )
+            else:
+                logger.info(
+                    "%s [%02d] | chunk_id=%s | title=%r | dieu=%r | "
+                    "retrieval_score=%.6f | preview=%r",
+                    stage,
+                    position,
+                    result.chunk_id,
+                    metadata.title,
+                    metadata.dieu,
+                    result.score,
+                    preview,
+                )
+
+    @staticmethod
     def _build_sources(
         results: Sequence[SearchResult],
     ) -> list[SourceResponse]:
@@ -91,6 +155,7 @@ class ChatbotPipeline:
                     if isinstance(result, RankedResult)
                     else result.score
                 ),
+                score_type=("rerank" if isinstance(result, RankedResult) else "rrf"),
             )
             for result in results
         ]
@@ -117,11 +182,13 @@ def get_pipeline() -> ChatbotPipeline:
 
     return _pipeline
 
+
 if __name__ == "__main__":
     import asyncio
-    
+
     async def main():
         pipeline = ChatbotPipeline()
         response = await pipeline.ask("Luật Lao động là gì?")
         print(response.answer)
+
     asyncio.run(main())

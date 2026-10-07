@@ -67,6 +67,16 @@ class Retriever:
         strategy: StrategyName,
     ) -> list[str]:
         if not use_pre_retrieval:
+            logger.info(
+                "PRE-RETRIEVAL | enabled=false | strategy=%s (ignored) | "
+                "original_query=%r | output_count=1",
+                strategy,
+                query,
+            )
+            logger.info(
+                "PRE-RETRIEVAL OUTPUT [01] | strategy=disabled | query=%r",
+                query,
+            )
             return [query]
         if self.pre_retriever is None:
             raise RuntimeError("PreRetriever chưa được khởi tạo")
@@ -116,13 +126,13 @@ def get_retriever(
 
 if __name__ == "__main__":
     import asyncio
+
     async def main():
         retriever = Retriever()
-        results = await retriever.retrieve(query="Luật Lao động là gì?", 
+        results = await retriever.retrieve(query="Luật Lao động là gì?",
                                            use_pre_retrieval=False)
         for result in results:
             print(result)
             print("\n\n")
+
     asyncio.run(main())
-    
-    

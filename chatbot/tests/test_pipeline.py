@@ -54,6 +54,7 @@ class ChatbotPipelineTest(IsolatedAsyncioTestCase):
             question,
             use_pre_retrieval=True,
             strategy="rewrite",
+            use_rerank=True,
             retrieval_top_k=20,
             rerank_top_n=5,
         )
@@ -75,6 +76,7 @@ class ChatbotPipelineTest(IsolatedAsyncioTestCase):
         self.assertEqual(len(response.sources), 1)
         self.assertEqual(response.sources[0].chunk_id, "chunk-1")
         self.assertEqual(response.sources[0].score, 0.95)
+        self.assertEqual(response.sources[0].score_type, "rerank")
 
 
 if __name__ == "__main__":

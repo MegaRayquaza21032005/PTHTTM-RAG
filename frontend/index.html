@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Giao diện thử nghiệm hỏi đáp pháp luật cho Legal RAG Chatbot."
+    />
+    <title>Pháp Điển — Trợ lý pháp luật</title>
+    <link rel="stylesheet" href="./styles.css?v=score-v2" />
+  </head>
+  <body>
+    <div class="page-texture" aria-hidden="true"></div>
+
+    <main class="app-shell">
+      <aside class="brief-panel">
+        <a class="brand" href="/" aria-label="Pháp Điển — Trang chủ">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 44 44" role="img">
+              <path d="M22 6v31M11 12h22M8 15h28M13 15l-6 12h12l-6-12Zm18 0-6 12h12l-6-12ZM16 37h12" />
+            </svg>
+          </span>
+          <span>
+            <strong>PHÁP ĐIỂN</strong>
+            <small>LEGAL RAG ASSISTANT</small>
+          </span>
+        </a>
+
+        <div class="brief-copy">
+          <p class="eyebrow">TRA CỨU · ĐỐI CHIẾU · GIẢI THÍCH</p>
+          <h1>Hỏi luật,<br /><em>có căn cứ.</em></h1>
+          <p class="intro">
+            Đặt câu hỏi bằng ngôn ngữ tự nhiên. Hệ thống tìm kiếm tài liệu,
+            đối chiếu ngữ cảnh và trả lời kèm nguồn tham khảo.
+          </p>
+        </div>
+
+        <div class="principle-list" aria-label="Nguyên tắc sử dụng">
+          <div><span>01</span><p>Nêu rõ tình huống và chủ thể liên quan.</p></div>
+          <div><span>02</span><p>Kiểm tra nguồn được dẫn sau mỗi câu trả lời.</p></div>
+          <div><span>03</span><p>Không thay thế tư vấn pháp lý chuyên nghiệp.</p></div>
+        </div>
+
+        <p class="brief-note">BẢN THỬ NGHIỆM NỘI BỘ · 2026</p>
+      </aside>
+
+      <section class="chat-panel" aria-label="Trò chuyện với trợ lý pháp luật">
+        <header class="chat-header">
+          <div>
+            <p class="chat-kicker">PHIÊN HỎI ĐÁP</p>
+            <h2>Trợ lý pháp luật</h2>
+          </div>
+          <div class="header-actions">
+            <div id="connection-status" class="connection-status is-checking" role="status">
+              <span class="status-dot" aria-hidden="true"></span>
+              <span class="status-label">Đang kiểm tra</span>
+            </div>
+            <button id="clear-chat" class="icon-button" type="button" aria-label="Xóa cuộc trò chuyện" title="Xóa cuộc trò chuyện">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 7h16M9 7V4h6v3m-9 0 1 13h10l1-13M10 11v5m4-5v5" />
+              </svg>
+            </button>
+          </div>
+        </header>
+
+        <div id="messages" class="messages" role="log" aria-live="polite" aria-relevant="additions">
+          <article class="message assistant-message welcome-message">
+            <div class="message-badge" aria-hidden="true">PĐ</div>
+            <div class="message-content">
+              <p class="message-author">PHÁP ĐIỂN</p>
+              <p>Xin chào. Tôi có thể giúp bạn tra cứu quy định pháp luật từ kho tài liệu hiện có.</p>
+              <div class="suggestion-list" aria-label="Câu hỏi gợi ý">
+                <button class="suggestion" type="button">Người lao động được nghỉ phép năm bao nhiêu ngày?</button>
+                <button class="suggestion" type="button">Điều kiện đơn phương chấm dứt hợp đồng là gì?</button>
+                <button class="suggestion" type="button">Thời gian thử việc tối đa được quy định thế nào?</button>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <form id="question-form" class="composer">
+          <label class="sr-only" for="question-input">Nhập câu hỏi pháp luật</label>
+          <textarea
+            id="question-input"
+            name="question"
+            rows="1"
+            maxlength="4096"
+            placeholder="Nhập câu hỏi pháp luật của bạn…"
+            autocomplete="off"
+            required
+          ></textarea>
+          <div class="composer-footer">
+            <div class="input-hints">
+              <span>Enter để gửi</span>
+              <span aria-hidden="true">·</span>
+              <span>Shift + Enter để xuống dòng</span>
+              <span id="character-count" class="character-count">0 / 4096</span>
+            </div>
+            <button id="send-button" class="send-button" type="submit">
+              <span>Gửi câu hỏi</span>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="m5 12 14-7-4 14-3-6-7-1Zm7 1 7-8" />
+              </svg>
+            </button>
+          </div>
+        </form>
+
+        <footer class="chat-footer">
+          API: <code>http://localhost:8001/api</code>
+          <span aria-hidden="true">·</span>
+          Nội dung chỉ mang tính tham khảo
+          <span aria-hidden="true">·</span>
+          <span id="ui-version">UI score-v2</span>
+        </footer>
+      </section>
+    </main>
+
+    <template id="loading-template">
+      <article class="message assistant-message loading-message" aria-label="Đang soạn câu trả lời">
+        <div class="message-badge" aria-hidden="true">PĐ</div>
+        <div class="message-content">
+          <p class="message-author">ĐANG ĐỐI CHIẾU NGUỒN</p>
+          <div class="typing-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js?v=score-v2" defer></script>
+  </body>
+</html>

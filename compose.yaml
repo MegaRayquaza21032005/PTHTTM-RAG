@@ -1,0 +1,51 @@
+name: legal-rag
+
+services:
+  chatbot:
+    build:
+      context: ./chatbot
+    image: legal-chatbot:dev
+    container_name: legal-chatbot
+    init: true
+    env_file:
+      - ./chatbot/.env
+    environment:
+      WATCHFILES_FORCE_POLLING: "true"
+    command:
+      - python
+      - -m
+      - uvicorn
+      - app.main:app
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8001"
+      - --reload
+      - --reload-dir
+      - /app/app
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./chatbot/app:/app/app
+      - hf-cache:/app/.cache/huggingface
+
+  frontend:
+    build:
+      context: ./frontend
+    image: legal-chatbot-ui:dev
+    container_name: legal-chatbot-ui
+    init: true
+    command:
+      - python
+      - dev_server.py
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app:ro
+    depends_on:
+      chatbot:
+        condition: service_started
+
+volumes:
+  hf-cache:
+    name: hf-cache

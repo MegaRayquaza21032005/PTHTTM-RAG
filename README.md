@@ -9,7 +9,7 @@ Qdrant, BM25, BGE embedding/reranker và OpenAI hoặc Gemini để sinh câu tr
 - Một Qdrant collection có thể truy cập từ máy chạy ứng dụng
 - OpenAI API key cho pre-retrieval
 - OpenAI hoặc Gemini API key cho bước sinh câu trả lời
-- Docker nếu chạy theo cách 2
+- Docker Desktop nếu chạy theo cách khuyến nghị
 
 ## Cấu hình
 
@@ -45,7 +45,61 @@ RERANKER_PROVIDER=bge
 Nếu `LLM_PROVIDER=openai`, cần điền `OPENAI_API_KEY`. Nếu dùng Gemini,
 điền thêm `GEMINI_API_KEY`. Không commit file `.env` lên Git.
 
-## Cách 1: Chạy trực tiếp
+## Chạy toàn bộ bằng Docker Compose (khuyến nghị)
+
+Đảm bảo Docker Desktop đang chạy và file `chatbot/.env` đã được cấu hình. Từ
+thư mục gốc của repository, khởi động cả chatbot và frontend bằng một lệnh:
+
+```bash
+docker compose up
+```
+
+Ở lần đầu, Docker sẽ build image và tải model cần thiết. Khi cả hai service đã
+khởi động:
+
+- Frontend: http://localhost:5173
+- Swagger API: http://localhost:8001/docs
+- Health check: http://localhost:8001/api/health
+
+Nhấn `Ctrl+C` để dừng, sau đó xóa các container và network bằng:
+
+```bash
+docker compose down
+```
+
+Muốn chạy dưới nền:
+
+```bash
+docker compose up -d
+docker compose logs -f
+```
+
+### Hot reload khi phát triển
+
+- Khi sửa file Python trong `chatbot/app/`, Uvicorn tự phát hiện thay đổi và
+  khởi động lại backend. Pipeline/model sẽ được nạp lại nên có thể mất một lúc.
+- Khi sửa `frontend/index.html`, `frontend/styles.css` hoặc `frontend/app.js`,
+  dev server tự refresh trang đang mở trong trình duyệt.
+- Thay đổi source code thông thường không cần chạy lại `docker compose up`.
+- Khi sửa `requirements.txt`, `Dockerfile`, `compose.yaml` hoặc dependency, cần
+  build lại bằng:
+
+```bash
+docker compose up --build
+```
+
+- Khi sửa `chatbot/.env`, recreate service để biến môi trường mới được áp dụng:
+
+```bash
+docker compose up -d --force-recreate chatbot
+```
+
+Volume `hf-cache` giữ model Hugging Face giữa các lần chạy nên các lần khởi động
+sau nhanh hơn. Nếu volume này đã được tạo bởi lệnh `docker run` trước đây,
+Compose có thể cảnh báo rằng volume không do Compose tạo; cảnh báo này không ảnh
+hưởng tới việc chạy và cache cũ vẫn được tái sử dụng.
+
+## Chạy trực tiếp không dùng Docker
 
 Tạo virtual environment và cài dependency:
 
@@ -71,7 +125,7 @@ python -m uvicorn app.main:app --host 0.0.0.0 --port 8001
 
 API chạy tại `http://localhost:8001`.
 
-## Cách 2: Chạy bằng Docker
+## Chạy riêng backend bằng Docker
 
 Docker image sử dụng Qdrant Cloud đã được index từ trước và BM25 index có sẵn
 trong `chatbot/bm25/bm25_index`. Không cần index lại khi build hoặc khởi động

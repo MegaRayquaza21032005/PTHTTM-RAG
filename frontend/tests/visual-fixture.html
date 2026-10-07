@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frontend visual fixture</title>
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <main class="app-shell" style="grid-template-columns: 1fr; max-width: 980px">
+      <section class="chat-panel">
+        <header class="chat-header">
+          <div><p class="chat-kicker">KIỂM TRA HIỂN THỊ</p><h2>Unicode và nguồn tham khảo</h2></div>
+          <div id="connection-status" class="connection-status is-checking" role="status">
+            <span class="status-dot"></span><span class="status-label">Đang kiểm tra</span>
+          </div>
+          <button id="clear-chat" class="sr-only" type="button">Xóa</button>
+        </header>
+        <div id="messages" class="messages" role="log"></div>
+        <form id="question-form" class="composer">
+          <textarea id="question-input" maxlength="4096"></textarea>
+          <div class="composer-footer">
+            <span id="character-count">0 / 4096</span>
+            <button id="send-button" type="submit">Gửi</button>
+          </div>
+        </form>
+        <footer class="chat-footer">VISUAL REGRESSION FIXTURE</footer>
+      </section>
+    </main>
+    <template id="loading-template">
+      <article class="message assistant-message"><div class="message-badge">PĐ</div><div class="message-content">Đang tải</div></article>
+    </template>
+    <script>
+      const decomposed = (text) => text.normalize("NFD");
+      window.fetch = async (url) => ({
+        ok: true,
+        status: 200,
+        json: async () => url.endsWith("/health") ? { status: "ok" } : ({
+          answer: decomposed("Người sử dụng lao động phải đền bù cho người lao động một khoản tiền ít nhất bằng số tiền lãi của số tiền trả chậm. Nội dung tiếng Việt cần hiển thị liền mạch, rõ ràng và đúng dấu."),
+          sources: Array.from({ length: 5 }, (_, index) => ({
+            score: index === 0 ? 0.0164 : 0.92 - index * 0.08,
+            score_type: index === 0 ? "rrf" : "rerank",
+            chunk_index: index,
+            content: decomposed("Trích dẫn quy định pháp luật dùng để đối chiếu và kiểm chứng câu trả lời."),
+            metadata: {
+              title: decomposed("Đề mục 20 — Lao động"),
+              chuong: decomposed("Chương VI: Tiền lương"),
+              muc: decomposed("Mục 2: Thời giờ nghỉ ngơi"),
+              dieu: decomposed(`Điều ${97 + index}. Kỳ hạn trả lương và trách nhiệm của người sử dụng lao động`),
+            },
+          })),
+        }),
+      });
+    </script>
+    <script src="../app.js"></script>
+    <script>
+      document.querySelector("#question-input").value = "Kiểm tra hiển thị";
+      document.querySelector("#question-form").requestSubmit();
+      window.setTimeout(() => {
+        document.querySelector(".source-item")?.setAttribute("open", "");
+      }, 100);
+    </script>
+  </body>
+</html>
